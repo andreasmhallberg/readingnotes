@@ -1,0 +1,76 @@
+# Schulz, D.E., 1981. Diglossia and variation in formal spoken Arabic in Egypt, Ann Arbor: Unpublished Ph. D. thesis.
+{schulz_diglossia_1981}
+
+Ovärderlig statistik. Drpåslag på “levels”. Metodologiskt intressant. Kap 5 och 6 intressant. Allt annat beskrivning av CA och MSA.
+
+- C[airene]A och MSA “well-defined”. C[airene]E[educated]A inte. 4-6
+
+- Data: various radio broadcasts. 12
+
+- 49 pers. 1000 s. transcription. 14
+
+- Def på level – “consists of a constellation of linguistic features that occur together”. 17
+
+- Skiljer mellan att vexla mellan register så att segment oproblematiskt kan analyseras var och en för sig och att blanda och prata on “even keel”. Jfr. Holes. 18
+
+- “According to Badawi’s model, the speech in my sample should form a `level´ in which the same linguistic features are used by every speaker (those features of the third level); but to the contrary I have found that we get a very broad spectrum of speech, ranging form what is almost `pure´ colloquial, to what is almost `pure´ classical.” 19
+
+- Dialekt morfologi på klassisk stam men inte tvärt om. 87. 
+
+- Metod. Räknar case markers. Utesluter paus (hur?) och adverb. 103
+- "In the less formal styles [than recitaion] of MSA the glottal stop usually remains in with its vowel as /ʾal-/, and the proceeding word retains its grammatical ending." I mer informerll stil försvinner också ändelsen. 123
+
+- "Pausal forms (no ʾiʿraab) generally should be used at the end of sentences, and commonly occur at the ends of phrases and breath groups. Bearing these conventions in mind, in every place where I thought ʾiʿraab should have been used inj
+
+- Endast 3 fall icraab på dialektstammar varav en tveksam. 167
+
+- Studerar 6 features:
+	1.	Verb usager (dialekt/MSA stammar)
+	2.	Th, dh, ẓ, j, q
+	3.	Icraab
+	4.	Relpron (alladhi/illi)
+	5.	Complementizers
+	6.	Negationer
+	7.	-uh objekt
+
+- Siffror står ut med dialektform hos alla. 132
+
+- Ingen korrelation mellan användandet av oliak MSA fonem. Strategier. 132
+
+- Qaf särställning som nivåhöjare. 133
+
+Kasus:
+
+- N,G – ingen skillnad i kasusmarkering mellan def.-indef. A mycket vanligare kasus i indef. Detta eftersom måste vara medveten om det när skriver. 13
+
+- "The genitive marker /i/, and in CEA [i] (or [[uppocner e]]) is often used as a transitional vowel between words. It could be that the genitive figures are slightly inflated, since I may have counted some transitional vowels as genitive endings." 139
+
+- Ta marbuta tar casus mer sällan. 141
+
+- ”17 of 49 used no iʿraab on nouns”. ”11 of 49 used used iʿraab more than 5% of the time”. 137
+
+- subjunctive more often used than indicative. 137
+
+- SV i stort lika vanlig som VS. 148
+
+- ”discourse drift” nivå slappas efter hand, vanlig i längre monologer. Strider mot intryck. 156-59
+
+- Hierarchy of classical features. Dick inte predikerande. Ordning varierar mellan talare. 163
+	1.	Qaaf, haadha (adjectiv)
+	2.	MSA verbs, ʾan
+	3.	MSA negationer, inna, mabni, A indef.
+	4.	Anna, alladhi, jiim
+	5.	MSA suffix (3ms), haadha (pron)
+	6.	Icraab, th, VS
+	7.	ẓ
+	8.	classical numbers
+
+- Nivåer av formalitet I artikelbindning. 123
+
+- Starka argument mod Salib’s tes om substitution i ytstruktur. ”co-occurence restrictions should not occur”. 182
+
+- Stor variation som inte går att hänföra till ”topic, education, emphasis, interviewer, or education”. Anti-level. 183
+
+- Vana att tala formellt kan förklara variation. Att motbevisas. 185
+
+@AMB

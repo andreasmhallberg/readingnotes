@@ -1,0 +1,43 @@
+# Trudgill, P., 1975. Accent, dialect and the school. London: Arnold. 
+
+- Definitioner. 17.  Standard English är en dialekt. Varje dialekt kan realiseras med varje accent. Fuzzyness i begreppen. 18
+
+- `dialect’ = grammtiskt definierad variant
+
+- `accent’ = fonetiskt/fonologiskt definierad variant.
+
+- Parimiden om dialectal variation i Storbritannien. 21
+
+- "There is really, that is, no such thing as \7{the} English language." 23
+
+- "In fact there is a very widely held---although erroneous--- view that standard English is \7{the} English language. This inevitably leads to the belief that all other dialects are deviations from the norm, and, often, that these deviations represent `corruptions’ due to ignorance, carelessness, laziness or stupidity." 27
+
+- Uppfattning att dialekt saknar grammatik. Men menar då att det inte stämmer överens med grammatikböcker. 40 *Liksom i arabiska.*
+
+- 2 typer av misstag
+	1.	Klart del av standardvarianten men som det finns uppfattning om att det är fel (prepositoin i slutet av ord, It is me). Bygger ofta på latinet som normerande. 42-43 NORM-CODIFIERING
+	2.	Som inte finns i standardvarianten. Beror på enskildheter i given dialekt. Stigmatiserade. 44
+
+- Utbildningsproblem till följd av standard-dialeltvariation 63-64
+	1.	Accent:	reading and spelling difficulty, if the teacher is not familiar with the child’s accent.
+	2.	Accent:	alienation from school, if attempts are made to change the child’s accent.
+	3.	Dialect:	interference from the native dialect in standard English, if standard English is required or rewarded.
+	4.	Attitudes:	resentment, alienation and linguistic insecurity, if the child’s accen and dalect are belittled.
+	5.	Attitudes:	subconscious evaluation by the teacher of children with higher-status accents and dialects as academically more promising. 
+
+- Möjliga lösningar: 65-70
+	1.	elimination of non-standard - att träna bord dialekt. Alienerar studenter och är inte genomförbart. Rådande i arabvärlden.
+	2.	bi-dialectism - undervisa standard som ytterligare en (och inte den korrekta) dialekten. Förespråkas, också av av Maamouri och Ibrahim.
+	3.	appriciation of dialect differences - samhällelig förändring där dialekter får likvärdig status
+
+- Går igenom de fyra färdigheterna och hur man bör förhålla sig till dialektvarians. 73-81
+
+- "Many people now regard even a singe `spelling mistake’ as a incontrovertible evidence of abysmal ignorance" 81
+
+- Skriv/läsfärdighet genom att skriva på lokal dialekt. Konkret exempel i projekt. 83 Maamouri och Ibrahim.
+
+- Varnar för författare som anammat `verbal deprivation’: Peter Harriot, Andrew Wilkinson, J. Patrick Creber, F. D. Fowler. 95
+
+@standard language
+@English
+@language ideology

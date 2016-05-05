@@ -1,0 +1,26 @@
+# Parkinson, Dilworth, 1996. Variability in Standard Arabic Grammar Skills. In Understanding Arabic, 91-101. Ed. Elgibali, Alaa.
+{parkinson_variablity_1996}
+
+Data om färdigheter i nummer+sunstantiv.
+
+- “It appears, in the first place, that there is a set of relatively unrecognized norms for production of fuṣḥā in non-official settings (that is, in settings where the professional correctors will not see the text first) in which some of the standards of prescriptive fuṣḥā are relaxed. In oral contexts, this is most evident in…” 92
+	i.	reduction av kasusvokaler
+	ii.	dialektliknande fonoligi
+	iii.	dialectala affix såsom –bi
+	iv.	dialektalt uttalade siffror
+
+- Talare siktar ofta lägre än de är kapabla till, bl.a. för att inte tala för uppstyltat. Fall med föreläsare. 92
+
+- Ackusativ tamyiiz efter antal. HiAr=drygt hälften fel, men nästan i alla rätt i multiple choice. Medveten om regel men inte internaliserad. 94-95
+
+- Genuspolaritet i siffror-HiAr drygt hälften rätt. 96
+
+- -una efter tiotal – i stort sätt alla använder även då grammatiskt fel. Markarar fusha. 98.
+
+- Kasus undviker man. Vid andra komplexa fall, såsom vid siffror, strategier för att göra tal annorlunda än dialekt, om än inte grammatiskt korrekt. 99
+
+- När MSA blir integrerad del av kommunikatitvt system blir fusha element stilistiska och inte bara grammatiska markörer. 99-100
+
+- "They appear to be much more motivated to not be seen as producing Colloquial than they are to be seen as producing grammatically correct fuṣḥā.". 100
+
+

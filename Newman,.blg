@@ -1,0 +1,5 @@
+[1] Config.pm:320> INFO - This is Biber 1.9
+[1] Config.pm:323> INFO - Logfile is 'Newman,.blg'
+[123] biber-darwin:277> INFO - === Tor Maj  5, 2016, 13:27:15
+[198] Utils.pm:160> ERROR - Cannot find control file 'Newman,.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[199] Biber.pm:110> INFO - ERRORS: 1
