@@ -1,0 +1,44 @@
+# README
+
+**Note:**
+
+1. **These are not complete summaries, only my own notes.**
+2. **These notes are undergoing heavy editing. I am currently on the letter P.**
+3. **Headers with the complete refernce have yet to be properly formatted.** 
+
+
+## General description
+
+These my research related reading notes, summarizing references in Arabic Linguistics. I continuously add to and these notes as I read and re-read the material. I have placed them here primarily as a backup and to make them accessible for other researchers, although I am not sure how useful they could be.
+
+Most of the notes were written as part of the research for my dissertation dissertation, [*Case Endings in Spoken Standard Arabiv*](https://lup.lub.lu.se/search/publication/8524489), and so there is a heavy emphasis on Standard Arabic and diglossia.
+
+Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper of book.
+
+I started taking these notes with [nvAlt](http://brettterpstra.com/projects/nvalt/) and still use it for searches. (Nowadays I do all editing in Vim.) In nvAlt in `Preferences > Notes` one can choose which folder nvAlt reads notes from (i.e. this repo) and under `> Storage` choose to read and store notes as plain text files and heave it read markdown files. Then all these notes are accessible in nvAlt.
+
+## Note structure
+
+The notes are written as lists in markdown and Unicode. Each file contains notes from one reference. The file names have the following form:
+
+````
+<author last name>, <year>. <title>.mkd
+```
+
+for example
+
+> Ferguson, 1959. Diglossia.mkd
+
+Each file begins with the complete biographical reference as the header of the file, marked with `#`. No other header levels are used.
+
+Some notes are then followed by a some general information about the reference.
+
+The actual notes referencing the content of the article or book are in a list structure, often nested, and sometimes ordered. When the original wording is important (and also when I have been lazy) this is quoted. Longish quotes are block quotes (with markdown `>`) nested under list item with some very brief summary of a few words.
+
+Material in square brackets are my comments.
+
+Most at the end of most list items there is a number giving the page of the point or quote.
+
+At the end of each file one ore more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list. 
+
+For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo (which is messy, I know.)
