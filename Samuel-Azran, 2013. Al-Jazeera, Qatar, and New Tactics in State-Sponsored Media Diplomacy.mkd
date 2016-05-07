@@ -1,19 +1,21 @@
 # Samuel-Azran, T., 2013. Al-Jazeera, Qatar, and New Tactics in State-Sponsored Media Diplomacy. American Behavioral Scientist, s.0002764213487736.
 
+- Builds up trust during periods of non-conflict. Used by the state during conflict for propaganda. 1294
 
-- Bygger upp trovärdinghet under tider av icke-konflikt som används under konflikt av staten för propaganda. 1294
+- Respected:
+    - Generally regarded by scholars as the best independent news source in the Arab world (several references). 1295. 
+    - Trustworthy according to polls. 1297
 
-- Allmänt erkänd som bästa självständing media i arabvärlden. Flera referenser. 1295. I opinionsundersökningar trovärdig. 1297
+- Rapports om direct state control. Denied by officials.
 
-- Rapporter om direktstyrninga från staten. Förnekas från oficiellt håll.
+- Formally financed by lean from state. Extended indefinitely when could not turn profit. 1297
 
-- Formellt finanserat av staten med lån. Extended indefinitely när inte kunde betala tillbaks. 1297
+- Hugh Miles (2005:365): staff "do not stop to think for a second about the nationality of their station or its finance". 
 
-- Hugh Miles (2005): staff "do not stop to think for a second about the nationality of their station or its financer" s.365 
-
-- Kritiserar alla utom Qatar. 1298
+- Criticizes all but Qatar. 1298
 
 - **Kvantitativ undersökning visar på dramatiska förändringar i reapporting om Saudiarabien under och efter konflikt. Upphör t.ex. helt med att rapportera människorättsbrott efter konflikt**. 1303
+- Quantitative analysis shows clear change in rapports about Saudi Arabia during and after conflict. Seizes to rapport on human rights abuses after after when conflict ends. 1303
 
 
-@aljazeera
+@Aljazeera

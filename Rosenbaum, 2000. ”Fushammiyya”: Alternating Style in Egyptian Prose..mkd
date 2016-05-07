@@ -1,18 +1,19 @@
-# Rosenbaum, Gabriel M.  2000. ”Fushammiyya”: Alternating Style in Egyptian Prose. 
-Zeitschrift für arabische Linguistik 38: 68-87
+# Rosenbaum, Gabriel M.  2000. ”Fushammiyya”: Alternating Style in Egyptian Prose. Zeitschrift für arabische Linguistik 38: 68-87
 
-Stil i prosa som använder klara ammiyya element i prosa, utanför dialog.
+Style in prose writing where *fuṣḥā* and *ʿāmmiyyā* are mixed.
 
-- Alternering mellan separata koder. 82
+- Alternation between separate codes. 82
 
-- Aldrig under ordnivå.
-Lista sammanfattar slutsatser 82. Fushaamiyya:
-	a.	Skriven.
-	b.	Inga hyperkorrektioner.
-	c.	Intentionell.
-	d.	I narrativ text (inte bara i dialog som annars).
-	e.	Hela fraser av ammiyya.
-	f.	Abrupt alternering.
-	g.	Tillskriver likvärdig status till båda koder.
-	h.	Blir respektabel. Återfinns i respektala tryckta medier. 
+- Never below word level.
 
+- Concluding description of Fushaamiyya:
+    1. Written
+    1. No hypercorrection
+    1. International
+    1. In narrative text (not only in dialog)
+    1. Complete phrases in *ʿāmmiyya*
+    1. Abrupt alternation
+    1. Ascribes equal status to both codes
+    1. Becomes respectable. Found in respectable printed media. 
+
+@Arabic

@@ -1,26 +1,33 @@
 # Parkinson, Dilworth, 1994. Speaking Fusha in Cairo: the role of the ending vowels. In Arabic Sociolinguistics, 179-211. Ed. Suleiman, Yasir. Surrey: Curzon Press.
 
-Viktig metodologisk inspiration. Kvalitativ undersökning av individers kasusanvändning. 
-Undersöker fusha hos talare som inte kan förväntas behärska det. Varför intressant? Studie i grammatisk felaktighetet hos talare som inte behärskar språket.
+Detailed description of a few speakers use of vowel/case endigns. 
 
-- Vokal som råkar vara där ’elesion sites’ ignoraras om det inte är uppenbart (?) att de är menade som i’rab. 181
+[Why study the SA of speakers who never use it and make no claim of knowing it.]
 
-- Alla föredrar a perf3m.s. eftersom omöjligt att göra fel.183
+- Ambiguous case vowel in 'elision sites' is ignored unless it is obvious [?] that it is meant to be icraab. 181
 
-- Outbildade talare använder grammatiklösa sporadiska vokaler bara för att markera att de talar fusha. 185 Slänger in a:n här och där för att markera fusha. 190 ”’if you want to vowel something, use /a/’”. 192 
+- Strong preference with all to produce *a* in perf3m.s. Cannot be incorrect. 183
 
-- Möjligt memorerat frusen fras med i’rab. 187
+- Uneducated speakers use accoasional vowels withoyt relation to syntax in order to mark their speech as SA. 185 
+    - One speaker: "'if you want to vowel something, use /a/'". 192 
 
-- Ord med suffigerade pronomina oftare slutvokal. 191
+- Possible memorized frozen expression with icraab. 187
 
-- Markerar många fler obestämda substantiv (tanwin) än bestämda/1:a i idafa. 191, 200
+- Words with enclitic pronoun often case vowel. 191
 
-- Siffror ses inte som substantiv = ej kasus. 192
+- Indite more often marked than construct state in idafa. 191, 200
 
-- Längre analys av unikum som vokaliserar allt korrekt. ”utterly unique”, 207
+- Numbers not inflected as nouns. 192
 
-- ”It is clear that all speakers, when they decide to do \7{fuṣḥā}, whether for just a part of a sentence or for a whole exchange, use the ending vowels along with other \7{fuṣḥā} markers to indicate what they are doing. Most use them just occasionally, sprinkling them through their text at a certain rate to give the flavour of fuṣḥā without making it so difficult on themselves they would not be able to speak at all." 207
+- Longer analysis of speaker with prescriptively correct speech. ”utterly unique”, 207
 
-- Talare siktar medvetet lägre för att inte framstå som distanserade/pedantiska, ex. lärare, 209
+- Conclusion: 
+    - Icraab necessary marker of SA but difficult: 207
 
-@AMB
+    > It is clear that all speakers, when they decide to do *fuṣḥā*, whether for just a part of a sentence or for a whole exchange, use the ending vowels along with other *fuṣḥā* markers to indicate what they are doing. Most use them just occasionally, sprinkling them through their text at a certain rate to give the flavour of *fuṣḥā* without making it so difficult on themselves they would not be able to speak at all.
+
+    - Proficient speakers aim lower than formally correct speech so as not to seem distanced/pedantic. 209
+
+@Standard Arabic
+@icraab
+@spoken language

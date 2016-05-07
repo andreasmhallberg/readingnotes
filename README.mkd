@@ -11,7 +11,7 @@
 
 These my research related reading notes, summarizing references in Arabic Linguistics. I continuously add to and these notes as I read and re-read the material. I have placed them here primarily as a backup and to make them accessible for other researchers, although I am not sure how useful they could be.
 
-Most of the notes were written as part of the research for my dissertation dissertation, [*Case Endings in Spoken Standard Arabiv*](https://lup.lub.lu.se/search/publication/8524489), and so there is a heavy emphasis on Standard Arabic and diglossia.
+Most of the notes were written as part of the research for my dissertation, [*Case Endings in Spoken Standard Arabiv*](https://lup.lub.lu.se/search/publication/8524489), and so there is a heavy emphasis on Standard Arabic and diglossia.
 
 Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper of book.
 
@@ -39,6 +39,6 @@ Material in square brackets are my comments.
 
 Most at the end of most list items there is a number giving the page of the point or quote.
 
-At the end of each file one ore more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list. 
+At the end of each file one or more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list. 
 
 For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo (which is messy, I know.)

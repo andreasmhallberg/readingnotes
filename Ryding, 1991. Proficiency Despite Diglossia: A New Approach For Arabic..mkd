@@ -1,16 +1,20 @@
-# Ryding, Karin, 1991. Proficiency Despite Diglossia: A New Approach For Arabic.  The Modern Language Journal 75(2):212-18
+# Ryding, Karin, 1991. Proficiency Despite Diglossia: A New Approach For Arabic. The Modern Language Journal 75(2):212-18
 
-Motiverar och beskriver undervinsingen av Formal Spoken Arabic (FSA/ESA) på Foreign Service Institute (State Department).
+Describes teaching in Formal Spoken Arabic (FSA/ESA) at Foreign Service Institute (State Department).
 
-- Har haft ”great success” med denna metod. 213
+- Had "great success" with this method. 213
 
-- Undervisas parallellt med MSA. 213
+- Taught in parallel with MSA. 213
 
-- FSA stabil kärna omgiven  fuzzy område. 214 ”For pedagogical purposes, the fuzziness had to be ironed out, and arbitrary, context-based decisions had to be made about feature specification.” 214
-	1.	Fonologiskt följer fusha. 215
-	2.	Följer fusha internal vowels. 215
-	3.	Använder IV verb om det finns en IV masdar. 215
-	4.	”nonhuman agreement is essentially feminine singular” 216
-	5.	Inga kasusvokaler. 216 
-Kanske bäst beskriven som strategier att ESA-fiera MSA?
+- FSA stable core surrounded by fuzzyness. "For pedagogical purposes, the fuzziness had to be ironed out, and arbitrary, context-based decisions had to be made about feature specification.": 214
+    1. SA phonology. 215
+    2. SA internal vowels. 215
+    3. Use IV verb if there is a IV masdar. 215
+    4. "nonhuman agreement is essentially feminine singular" 216
+    5. No case endings . 216 
 
+- [Perhaps best described as a way of ESA-fying MSA?]
+
+@Arabic
+@pedagogy
+@ESA

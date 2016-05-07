@@ -1,24 +1,26 @@
 # Salib, Maurice Boulos, 1979. Spoken Literary Arabic: oral approximation of literary Arabic in Egyptian formal discourse. Phd. Dissertation. University of Calefornia
 
-ESA! S[poken] L[iterary] A[rabic]. Jämsteller det med Badsawis muthaqqafin. 86. Alltså något annan än talad MSA. Jämför det ändå mot Harrels Egyptian Radio Arabic. Verkar inte vara medveten om ESA. Verkar inte vara medveten om talad MSA som nivå.
+[Spoken Literary Arabic - equated with Badsawī's 'muṯaqqafīn'. 86. Yet compares it with Harrel's Egyptian Radio Arabic.]
 
-- Inte resusltat av talare som försöker tala LA men stil som vuxit fram genom sådana försök. 5
+- Not result of speakers trying to speak LA by, but developed through such attempts. 5
 
-- Vuxit fram genom modern massutbildning (fler förstår LA men mindre tid ägnas åt det i utbildningen) och broadcast media. 9-10
+- Arisen from the modern mass education broadcast media. 9-10
 
-- SLA inte för att underlätta interdialektal kommunikation. 14
+- SLA not use to facilitate interdialectal communication. 14
 
-- Functional endings marginal. 16
+- Functional endings are marginal. 16
 
-- Talar ESA således: deep-stucture till L[evel]1 till L2 till L2+.
+- Tansformation: L[evel]1 (dialect) -> L2 -> L2+.  
+    - L1 to L2 through lexical substitution.
+    - L2 to L2+ grammatical features specific to LA (icraab, verb in f.pl. etc.).  ”stylistic embellishment”.
+    - L2+ somewhat different for speakers of different dialects, e.g. Egyptian demonstratives.
 
-- L1 till L2 genom lexical substitution. L2 till L2+ genom införande av grammatiska element specifika för LA (icraab, verb i f.pl. etc.).  M.a.o L2+ det som faller utanför det paralella schemat mellan dialekt och LA. L2+ ”stylistic embellishment”. Post grammatical processor. L2+ något olika för olika dialekt bakgrunder, ex. egyptiska demonstrativpronomen efter sunbstantiv L2+.
+- Raising from dialect to SLA according to rules:
+    1. subtitution of content item
+    2. substitution of functional item
+    3. L2+
 
-- ”Mixing” höjande från dialekt till SLA enligt vissa regler:
-	1.	subtitution av content item
-	2.	substitution av functional item
-	3.	L2+
-
-- Lista på exklusiva LA ändelser. 56
-
-
+@Arabic
+@diglossia
+@Standard Arabic
+@spoken language

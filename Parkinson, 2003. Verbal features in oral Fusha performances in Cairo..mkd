@@ -1,22 +1,28 @@
 # Parkinson, Dilworth, 2003. Verbal features in oral Fusha performances in Cairo. International Journal of the Sociology of Language 163, 27-41
 
-- Beskrivning av trender: 1) multiplicative trend, nivåer och 2) code-switching.
+- Trends in diglossia research in Arabic
+    1. multiple levels
+    2. code-switching.
 
-- Starkt kritisk till ESA, ingen har hittat gemensamma grammatiska regler. ”ESA may not actually be anything”. 29
+- Strongly critical of ESA. No one has found grammatical rules. "ESA may not actually be anything". 29
 
-- Sympatisk till code-switching eftersom talare har tydliga intuitioner om vilka element som är fusha och dialekt. 29
+- Sympathetic to code-switching paradigm since speakers often have intuitions of what elements are standard and which are dialect. 29
 
-- Test två delar (+grammatiktest, se annan artikel), intervju och föreläsning.
+- Tests: interview and lecture.
 
-- Talare vokaliserade 30 % av verb, mindre än 20 % av nomen.
+- Speakers use vowels on 30% av verbs, less than 20% of nouns.
 
-- Crossover effect – talare med HiAr-utbilning mindre vokalisering än Hi.
 
-- ”The data show a clear educational effect” 43
+- educational effect 43
+    - Crossover effect – HiAr fewer vowels than Hi.
 
-- Alla höjer vokalisering i föreläsning = siktar lägre än kapabla. Tabell 32, 37
+- All raise vowelling in lecture = aim lower than capable in interview. Table 32, 37
 
-- Funktionellt identiska, vitt skilda statistiskt. 38. ”If the continuum is defined in terms of features and their variability instead of functionality, these performances are all over the board. 39
+- Functionally identical, statistically diverse. 38 
 
-- Slutsats: mitten definieras av ändarna, talarna lär sig olika former medvetna om deras värde (H/L). Ferguson hade rätt. Strukturalist.
+    > If the continuum is defined in terms of features and their variability instead of functionality, these performances are all over the board. 39
 
+- Conclusion: middle defined by ends - speakers learn different forms but are aware of their status as markers of H/L. Ferguson was right.
+
+@Standard Arabic
+@spoken language

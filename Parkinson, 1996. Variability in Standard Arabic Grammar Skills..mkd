@@ -1,26 +1,31 @@
 # Parkinson, Dilworth, 1996. Variability in Standard Arabic Grammar Skills. In Understanding Arabic, 91-101. Ed. Elgibali, Alaa.
-{parkinson_variablity_1996}
 
-Data om färdigheter i nummer+sunstantiv.
+Data on skills in number+noun.
 
-- “It appears, in the first place, that there is a set of relatively unrecognized norms for production of fuṣḥā in non-official settings (that is, in settings where the professional correctors will not see the text first) in which some of the standards of prescriptive fuṣḥā are relaxed. In oral contexts, this is most evident in…” 92
-	i.	reduction av kasusvokaler
-	ii.	dialektliknande fonoligi
-	iii.	dialectala affix såsom –bi
-	iv.	dialektalt uttalade siffror
+- Covert norms: 92
 
-- Talare siktar ofta lägre än de är kapabla till, bl.a. för att inte tala för uppstyltat. Fall med föreläsare. 92
+    > It appears, in the first place, that there is a set of relatively unrecognized norms for production of fuṣḥā in non-official settings (that is, in settings where the professional correctors will not see the text first) in which some of the standards of prescriptive fuṣḥā are relaxed. In oral contexts, this is most evident in  
 
-- Ackusativ tamyiiz efter antal. HiAr=drygt hälften fel, men nästan i alla rätt i multiple choice. Medveten om regel men inte internaliserad. 94-95
+	1. reduction of case vowels  
+	2. dialectal phonology  
+	3. dialectal affixes, e.g. *–bi*  
+	1. dialectal pronunciation of numbers  
 
-- Genuspolaritet i siffror-HiAr drygt hälften rätt. 96
+- Speakers aim lower than they are capable. 92
 
-- -una efter tiotal – i stort sätt alla använder även då grammatiskt fel. Markarar fusha. 98.
+- Results:
+    - Accusative *-an* in number complement: HiAr=more then half wrong, but almost all correct in multiple choice. Know the rule but not internalized. 94-95
+    - Gender polarity in numbers: HiAr slightly more than half correct. 96
+    - *-ūna* in tens: – used largely consistency even when grammatically incorrect. Marker of SA. 98.
 
-- Kasus undviker man. Vid andra komplexa fall, såsom vid siffror, strategier för att göra tal annorlunda än dialekt, om än inte grammatiskt korrekt. 99
+- Conclusions:
 
-- När MSA blir integrerad del av kommunikatitvt system blir fusha element stilistiska och inte bara grammatiska markörer. 99-100
+    - Case is avoided. In other more complex cases such as numbers, strategies to differentiate speech from dialect, even if not grammatically correct. 99
 
-- "They appear to be much more motivated to not be seen as producing Colloquial than they are to be seen as producing grammatically correct fuṣḥā.". 100
+    - In larger communicative system, fusha elements more stylistic, less grammatical markers. 99-100
 
+    - "They appear to be much more motivated to not be seen as producing Colloquial than they are to be seen as producing grammatically correct fuṣḥā.". 100
 
+@icraab
+@Standard Arabic
+@spoken language
