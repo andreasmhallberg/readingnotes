@@ -1,13 +1,17 @@
 # Schaub, M., 2000. English in the Arab Republic of Egypt. World Englishes, 19(2), ss.225–238.
 
-- språk kan ha 4 funktioner (urspr. Kachrau) 226
-	1. regulative function - lag
-	2. intrumental function - institutioner, administration
-	3. interersonal function
-	4. imaginative/innovative function - skönlitteratur
+- Languages may have four functions (orig. Kachrau) 226
+    1. regulative function - lag
+    2. Instrumental function - institutions, administration
+    3. interpersonal function
+    4. imaginative/innovative function - literature
 
-- en. Mycket viktig för arbetsmarknaden. `national hysteria' 228
+- English seen as very important for job market. "national hysteria" 228
 
-- skillnader mellan private language scholls och public shools. 229
+- Private language schools and public schools. 229
 
-- instruction in English in private school failiure. Low EFL skills after several hundred hours. 230
+- Instruction in English in private school as a failure. Low EFL skills after several hundred hours. 230
+
+@Arabic
+@English
+@education

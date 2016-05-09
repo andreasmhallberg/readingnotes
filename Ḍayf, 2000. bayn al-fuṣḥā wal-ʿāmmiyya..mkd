@@ -1,5 +1,11 @@
 # Ḍayf, Š., 2000. bayn al-fuṣḥā wal-ʿāmmiyya.  majallat majmaʿ al-luġa al-ʿarabiyya bil-qāhira, I(89), ss.35–49.
 
-- Konflikt: arabiska som språk har besegrat andra språk. 47
+- [Discourse of conflict:] Arabic has defeated other languages. 47
 
-- Dialekten är språklig korruption: العامية في جمهور ألفاظها فصحى محرفة، والعامية ـ لذلك ـ في حاجة إلى أن تعنى المجامع اللغوية في البلاد العربية بدراسة ما داخل ألفاظها من تحريفات وردها إلى أصولها الفصيحة 49
+- The dialects are linguistic corruption: 49
+
+    > العامية في جمهور ألفاظها فصحى محرفة، والعامية ـ لذلك ـ في حاجة إلى أن تعنى المجامع اللغوية في البلاد العربية بدراسة ما داخل ألفاظها من تحريفات وردها إلى أصولها الفصيحة
+
+@Arabic
+@diglossia
+@language ideology

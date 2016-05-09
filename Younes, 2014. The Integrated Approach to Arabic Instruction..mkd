@@ -1,5 +1,10 @@
 # Younes, M.A., 2015. The Integrated Approach to Arabic Instruction, New York: Routledge.
 
-- ``Conversing in \7{Fuṣḥā} is using incorrect \7{i'rāb} (system of case and mood assignment( is grammatically unacceptable. In MSA, simple questions like `What is your name'' or `How many children do you have?' must respect the rules of case: `\7{Mā ismak?} and `\7{Kam walad `indak?}' are incorrect.'' 49
+- Must use case endings when speaking MSA [!]: 49
+
+    > Conversing in *Fuṣḥā* is using incorrect *i'rāb* (system of case and mood assignment) is grammatically unacceptable. In MSA, simple questions like 'What is your name or 'How many children do you have?' must respect the rules of case: '*Mā ismak?* and '*Kam walad 'indak?*' are incorrect."
 
 @icraab
+@diglossia
+@Arabic
+@pedagogy

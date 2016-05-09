@@ -1,15 +1,16 @@
 # Wagner, D.A. & Lotfi, A., 1983. Learning to read by ‘rote’.  International Journal of the Sociology of Language, 1983(42), ss.111–121.
 
-Jämflr koranskolor i Yemen och Senegal med generaliseringar. 
+Compares Quran schools in Yemen and Senegal. Generalize to Muslim education at large. 
 
-- "Descriptions of tranditional Quranic schooling vary remarkebly litte across hostorical time and across societies" 116
+- "Descriptions of traditional Quranic schooling vary remarkably lite across historical time and across societies" 116
 
-- "Comprehension of what is memorized is rarel part of the learning process in traditional schools, since accurate oral recitation with proper intonation rhythm (\7{tajwid}) is the central goal during the beginning years." 116
+- "Comprehension of what is memorized is rarely part of the learning process in traditional schools, since accurate oral recitation with proper intonation rhythm (*tajwid*) is the central goal during the beginning years." 116
 
-- "reding, \7{per se}, has not been the goal of Quranic instruction" 117
+- "reading, *per se*, has not been the goal of Quranic instruction" 117
 
 - "Not being designed for school use, the Quran itself is a difficult text to read and comprehend" 117
 
 - "increasing numbers of children are now attending the traditional Quranic school as a preschool, and then going on to a modernized Islamic school or government school." 118 
 
 @Arabic
+@education

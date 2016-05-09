@@ -1,16 +1,19 @@
 # Suleiman, Y., 2011. Ideology, grammar-making and the standardization of Arabic.  I B. Orfali, red In the Shadow of Arabic: The Centrality of Language to Arabic Culture. BRILL.
 
-- Mål: "explore the ideological content of standardization of grammar-making in the Arabic linguistic tradition during the first four centuries of Islam." 5
+- Ideology of early grammar writing. Aim of paper to 5
 
-- Många traditioner, tillskrivna profeten eller följeslagare, om vikten av att läsa Koranen med korrekt icrrab. Alltså: felaktiga läsningar förekom. 8, 25
+    > explore the ideological content of standardization of grammar-making in the Arabic linguistic tradition during the first four centuries of Islam.
 
-- Hadith i början data för grammatik. Blev det senare. 9
+- Plenty of traditions about importance of reading Quran with correct icraab, ergo erroneous plentyful. 8, 25
 
-- Tal är ett mänskligt beteende som andra och föremål för moraliska omdömen. 
+- *Ḥadīṯ* first not data grammar. Became so later. 9 [See Sadan 2015]
 
-- Historiskt och nu: Grammatiska regler är språkets essens och kan inte ifrågasättas utan att själva språket ifrågasätts. 13
+- Speech is a part of human behavior and as such subject to moral evaluation. 
 
-- az-Zubaydi, citeras i Chejne (1969:15) "he made \7{iʿrāb} an ornament of the toungue and a line of demarcation concerning the difference in meaning." 16
+- Grammatical rules are the essence of language and cannot be questioned without questioning language itself [naive-realist]. 13
 
 - Shu’ubiyya drev på spårkideologi om arabiska (och dess grammatik) som arabisk etniskt markör. 20
+- *Šuʿūbiyya* debate pushed language ideology toward Arabic as marker of ethnicity. 20
 
+@ALT
+@language ideology

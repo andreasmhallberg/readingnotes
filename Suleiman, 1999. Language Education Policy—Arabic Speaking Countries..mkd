@@ -1,18 +1,23 @@
 # Suleiman, Y., 1999. Language Education Policy—Arabic Speaking Countries.  I B. Spolsky & R. E. Asher, reds. Concise Encyclopedia of Educational Linguistics. Elsevier, ss 106–116.
 
-- "It is this attitude towards the written language, rather than linguistic behaviour per se, that justifies the description of speakers of the various Arabic colloquials as members of the same speech community" 107 Normteori!
+- Normtheory: 107
 
-- Genomgår av arabiskans roll i konstitutioner. (I Saufiarabien genom Koranen, i Somalia symboliskt.)108
+    > It is this attitude towards the written language, rather than linguistic behaviour per se, that justifies the description of speakers of the various Arabic colloquials as members of the same speech community
 
-- 3 modeller för arabisering i Maghreb: 110
-	1.	Year by year, startar i första året i grundskolan.
-	2.	Vissa ämnen.
-	3.	Hela skolor i taget.
+- Runthrough of Arabic in constitutions (e.g. in Saudi Arabia with Quran, in Somalia only symbolically.)108
+
+- Three models models for arabization in Maghreb: 110
+    1. Year by year reform, starting with first year in primary school.
+    2. Certain subjects.
+    3. School by school.
 
 - Korpusplanering initiativ från individer. Karakteriseras av: 111
-	1.	Inte implementerade.
-	2.	Bygger på impressionistiska iakttagelser.
-	3.	Ideologiskt drivna.
+- Corpus planning in the initiative of individuals. Characterized by: 111
+    1. not planned
+    2. builds on impressions
+    3. ideologically motivated
 
-- Reformförslag av grammatisk beskrivning inget genomslag. 112
+- Attempts at reforms of grammatical description no real effect. 112
 
+@Standard Arabic
+@language reform

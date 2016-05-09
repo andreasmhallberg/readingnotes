@@ -1,17 +1,25 @@
 # Wahba, K.M., 2006. First Language Teaching.  C. H. M. Versteegh, red. Encyclopedia of Arabic language and linguistics, 2, ss.104–13.
-{wahba_first_2006}
 
-- Inga starka försök att reformera arabisk pedagogik sedan sekelskiftet. 104
+- Since beginning of 20th century no major attempts to reform Arabic pedagogy. 104
 
-- `ideological standard’ - (CA) vs. `organic standard’ (MSA). "While the ideological standard embodies the aim of native Araibic speakers, the organic standard represents the actual practice of Arabic in its oral and written expression." 104
+- 'ideological standard' - (CA) vs. 'organic standard' (MSA): 104
 
-- "There are not many descriptive and educational studies that document the organic language in the same manner as is the case for the ideological one." 104
+    > While the ideological standard embodies the aim of native Araibic speakers, the organic standard represents the actual practice of Arabic in its oral and written expression.
 
-- "Because of the influence of religious beliefs and nationalistic motives, proficiency in the ideological standard is still reflected as an educational goal for native Arabic speakers in pramiry, prepartory, and secondary schools in the Arabi world." 105
+    > There are not many descriptive and educational studies that document the organic language in the same manner as is the case for the ideological one. 
 
-- ``The teacher's role is that of a knowledge giver. This concept is realized in the form of a lecture in which the focus is the language lesson itself, rather then the developemnet of a student's ability to use Arabic in class. The student's role os to listen, and memorize the lesson rather than to express, discuss and be creative in the language.'' 110
+    > Because of the influence of religious beliefs and nationalistic motives, proficiency in the ideological standard is still reflected as an educational goal for native Arabic speakers in primary, preparatory, and secondary schools in the Arabic world. 105
 
-- Inte tydliga färdighetsmål. "While religious education has clear specific goals with a defined standard, represented in the \7{Qurʾān}, the goals of educational systems that are not religiously affiliated lack this clearity." 111.
+- Traditional teaching methods: 110
 
-- Muntlig färdighet prioriteras lågt. 110, samt 111
+    > The teacher's role is that of a knowledge giver. This concept is realized in the form of a lecture in which the focus is the language lesson itself, rather then the development of a student's ability to use Arabic in class. The student's role is to listen, and memorize the lesson rather than to express, discuss and be creative in the language.
 
+- No clear learner aims: 111
+
+    > While religious education has clear specific goals with a defined standard, represented in the *Qurʾān*, the goals of educational systems that are not religiously affiliated lack this clearity.
+
+- Oral proficiency low priority. 110, 111
+
+@Arabic
+@diglossia
+@education

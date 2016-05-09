@@ -1,15 +1,6 @@
 # Van Mol, M., 2006. Evolution of MSA: the Case of Some Complementary Particles.  I D. B. Parkinson & S. Farwaneh, reds. International Journal of Corpus Linguistics. ss 135–147.
 
-Sammanfattar vad som senare publiceras i Van Mol (2003).
-Korpus av talad monolog MSA nyhetrsrapportering. Testar användning av in/idh, sawfa/sa- etc.
-
-- Ortografisk transkribering eftersom ord kan skrivas på samma sätt även om de uttalas olika. 139
-
-- Kodar dialektal interferens.
-
-- Taggar grammatiska kategorier för att möjliggöra både västerländsk och arabiska analys. 140
-
-- Vissa partiklar övertar funktioner på sätt som inte överenstämmer med klassiska eller västerländska grammatikor. 145
+Summarizes results form Van Mol (2003).
 
 @Arabic
 @MSA

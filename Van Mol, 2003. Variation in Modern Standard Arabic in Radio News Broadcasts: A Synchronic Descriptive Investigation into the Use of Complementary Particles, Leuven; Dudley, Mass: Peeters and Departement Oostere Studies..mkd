@@ -1,51 +1,47 @@
 # Van Mol, M., 2003. Variation in Modern Standard Arabic in Radio News Broadcasts: A Synchronic Descriptive Investigation into the Use of Complementary Particles, Leuven; Dudley, Mass: Peeters and Departement Oostere Studies. 
 
-Doglossia
+- Various opinions on difference between CA and MSA. 30-31
 
-- MSA som variety: skilda åsikter om skillnad mot CA. 30-31
+- List (limited) of differences between MSA and CA: 32
+    1. *ayy*
+    2. *yūjadu*
+    3. *modus energicus* gone
+    4. singular adjective for *ġayr ʿāqil*
 
-- Lista (begränsad) på omnämnda skillnader i MSA och CA: 32
-	1.	ayy
-	2.	yujadu
-	3.	modus energicus borta
-	4.	singular adjectiv till ghayr aqil
+- Review of suggested terms for MSA. 35
 
-- Genomgång av förslag på termer för MSA. 35
+- Definition of MSA: 39. 
 
-- Def av MSA. ”By modern Standard Arabic we understand the standard language, such as it continued to develop in formal conversation, and such as it has been described in modern Western grammars.” Liknar min men varför Western grammars? 39 
+    > By modern Standard Arabic we understand the standard language, such as it continued to develop in formal conversation, and such as it has been described in modern Western grammars.
 
-- Problematiserar diglossia: alla standardspråk är andraspråk. Inlärs i skolan. Alla sprk med standard är diglossia. 48
+- Critique of diglossia: all standard languages are second languages taught in school. 48
 
-- 11-sidig kritik av ESA: 59-70.
-	1.	Motstridiga definitioner. 59
-	2.	Otydlig gräns mellan ESA och dialekter. 61
-	3.	Otydliga avgränsningar för vad som undersöks (talare, situationer). 63
-	4.	Otydliga geografiska kategorier. 66
-	5.	Data visar på större variation än vad ”variety” tillåter. 67
+- 11 page critique of ESA: 59-70.
+    1. Contradictory definitions. 59
+    2. Unclear delimitation from dialects. 61
+    3. Unclear what is investigated (speakers, situations). 63
+    4. Unclear geographical categories. 66
+    5. Data shows greater variation than what is implied by "variety". 67
 
-- Positiv till Meiseles. Håller med Meiseles (1989) att grå gräns mellan ESA och OLA. 75
+- "Almost no investigations are available of 'spoken MSA'. Only Dieam (1973), Schulz (1981) and limited observation by Kay (1991) [*ism* pronounced with *qatʿ*]. 79
 
-- ”Almost no investigations are availible of `spoken MSA’, förutom Dieam (1973), Schulz (1981) och begränsad observation av Kay (1991) [om att ism uttallas med qat´]. 79 Kan lägga till Salib och Holes.
+- Code-switching not useful: 89
 
-- "We can only use the term code-switching when we can clearly distinguish two language varieties from each other. Consecuently, the problem of an itermediate language between higher and lower varieties remains." 89
+    > We can only use the term code-switching when we can clearly distinguish two language varieties from each other. Consequently, the problem of an intermediate language between higher and lower varieties remains.
 
-- Tecken på att MSA breder ut sig. 94
+- There are indications that MSA is spreading. 94
 
-Metod
+- Method:
+    - Dismisses generative grammar and introspection. 107
+    - "We based ourselves in the intonation in order to define the end of a sentence." 142
+    - Preposition/adverbial problem. 150, foot 33
+    - "almost all contemporary descriptions use both western and Arabic terms together, so that we might in a certain sense use the term `traditional mixed grammar". 152
 
-- Förkastar TGG och introspection. 107
+    - "For Arabic the tagging of words on a morphological basis is out of the question." 158
 
-- "We based ourselves in the intonation in order to define the end of a sentence." 142
+    - Vowel sign as coding. 163
 
-- Diskuterar preposition-adverbialproblemet. 150, fot 33
+- Patterns in MSA not corresponding to descriptions in Western and Arabic grammars. 300
 
-- ``almost all contemporary descriptions use both western and Arabic terms together, so that we might in a certain sense use the term `traditional mixed grammar''. 152
-
-- "For Arabic the tagging of words on a morphological basis is out of the question." 158
-
-- Använder vokaler som del av kodning. Gör han korpus obrukbar för mig. 163
-
-- Mönster i MSA som inte stämmer med varken arabiska eller västerländska grammatikor. 300
-
-@Arabic
+@Standrd Arabic
 @MSA

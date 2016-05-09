@@ -1,16 +1,11 @@
 # Zughoul, R.M., 1980. Diglossia in Arabic: investigating solutions.  Anthropological Linguistics, 22(5), ss.201–217.
-{zughoul_diglossia_1980}
 
-Diglossians historiska bakgrund. Rapport av panelsamtal om lösningar. Användbara citat.
+Rapport of panel discussion on solutions to Arabic diglossia.
 
-- Citerar Stetkecych (1970:1124) om MSA: ”The illusion of having to do with unadulturated Arabic is there.” 207
+- Political consideration: 
 
-- Citerar Stetkecytch’s orientalistiska utsagor om MSE som att det lämna ”Semitic thought-dynamics”
-
-- Tar upp i lista av möjliga lösningar ”MSA with major simplifications”, men nämns inte i genomgången. 210
-
-- `In conclusion, it must be stressed that paralingusitic factors - religious, national, and cultural - make the choice of solution for the diglossic situation in the Arab World quite limited. Any solution that does not take these factors into conciderations is doomed to fail." 212
-
-Annan litt.
+    > In conclusion, it must be stressed that paralinguistic factors - religious, national, and cultural - make the choice of solution for the diglossic situation in the Arab World quite limited. Any solution that does not take these factors into considerations is doomed to fail.
 
 @Arabic
+@diglossia
+@language reform
