@@ -1,9 +1,8 @@
 # README
 
-**Note:**
+**Important:**
 
-1. **These are not complete summaries, only my own notes.**
-2. **These notes are undergoing heavy editing. I am currently on the letter P.**
+1. **These are not complete summaries of the refenrence, only notes of what I found intersting.**
 3. **Headers with the complete refernce have yet to be properly formatted.** 
 
 
@@ -19,13 +18,13 @@ I started taking these notes with [nvAlt](http://brettterpstra.com/projects/nval
 
 ## Note structure
 
-The notes are written as lists in markdown and Unicode. Each file contains notes from one reference. The file names have the following form:
+The notes are written as lists in markdown and with UTF8 text encoding. They are as such conveniently rendered as HTML when vied on github.com. Each file contains notes from one reference. As such, some files are very short. The file names have the following form:
 
 ````
 <author last name>, <year>. <title>.mkd
 ```
 
-for example
+For example:
 
 > Ferguson, 1959. Diglossia.mkd
 
@@ -41,4 +40,4 @@ Most at the end of most list items there is a number giving the page of the poin
 
 At the end of each file one or more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list. 
 
-For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo (which is messy, I know.)
+For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo.
