@@ -24,7 +24,7 @@
     2. NA inflection on SA stem
     3. endingvowel: 3ms perf. - stem+V+encl.pron - 1sg perf.
 
-- SA highly rated in matched-guise test. 453
+- SA highly rated in Parkinson's (1991) matched-guise test. 453
 
 @Arabic
 @diglossia
