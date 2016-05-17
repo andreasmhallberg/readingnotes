@@ -28,11 +28,11 @@ For example:
 
 > Ferguson, 1959. Diglossia.mkd
 
-Each file begins with the complete biographical reference as the header of the file, marked with `#`. No other header levels are used.
+Each file begins with the complete biographical reference as header (marked with `#`). No other header levels are used.
 
 Some notes are then followed by a some general information about the reference.
 
-The actual notes referencing the content of the article or book are in a list structure, often nested, and sometimes ordered. When the original wording is important (and also when I have been lazy) this is quoted. Longish quotes are block quotes (with markdown `>`) nested under list item with some very brief summary of a few words.
+The actual notes referencing the content of the article or book are in a list structure, often nested, and sometimes ordered. When the original wording is important (and also when I have been lazy) this is quoted. Longish quotes are block quotes (with markdown `>`) nested under a list item with a very brief summary its content.
 
 Material in square brackets are my comments.
 
