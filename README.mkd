@@ -2,22 +2,24 @@
 
 **Important:**
 
-1. **These are not complete summaries of the reference, only notes on what I found interesting.**
-3. **Headers with the complete reference have yet to be properly formatted.** 
+1. **Only some of these notes are complete summaries of reference. Most only contain notes of what I found interesting in the particular reference or of things I might want to quote in the future.**
+3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and no italics.** 
 
 
 ## General description
 
-These are my research related reading notes, summarizing books and articles relating to Arabic Linguistics. I continuously add to and edit these notes as I read and re-read new sources. I have placed them here primarily as a backup and to make them accessible for other researchers, although I am not sure how useful they might be.
+These are my research related reading-notes on books and articles relating to Arabic Linguistics. I continuously add to and edit these notes as I read and re-read sources. I have placed them here primarily as a backup, and also to make them accessible for other researchers, although I am not sure how useful they might be.
 
-Most of the notes were written as part of the research for my dissertation, [*Case Endings in Spoken Standard Arabic*](https://lup.lub.lu.se/search/publication/8524489), and so there is a heavy emphasis on Standard Arabic and diglossia.
+Most of the notes were written as part of the research for my dissertation, [*Case Endings in Spoken Standard Arabic*](https://lup.lub.lu.se/search/publication/8524489), and so there is a heavy emphasis on Standard Arabic, diglossia, and speech.
 
-Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper of book.
+Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper or book.
 
-I started taking these notes with [nvAlt](http://brettterpstra.com/projects/nvalt/) and still use it for searches. (Nowadays I do all editing in Vim, however.) In nvAlt in `Preferences > Notes` one can choose which folder nvAlt reads notes from (i.e. this repo) and under `> Storage` choose to read and store notes as plain text files and heave it read markdown files. Then all these notes are accessible in nvAlt.
+I started taking these notes with [nvAlt](http://brettterpstra.com/projects/nvalt/) and still use it for searches, but now do all editing in Vim. (From within NvAlt you can open the note in your favorite editor with COMMAND+SHIFT+E.) In nvAlt in `Preferences > Notes` one can choose which folder nvAlt reads notes from (i.e. this repo) and under `> Storage` choose to read and store notes as plain text files and heave it read markdown files. Then all these notes are accessible in nvAlt.
 
 ## Structure
-The files are written as lists in markdown. Each file contains notes from one single reference. The file names have the following form:
+The files are in plain text markdown files. As such they can be easily converted to other formats, such as HTML (as on the GitHub page), .doc, .pdf, or whatever. 
+
+Each file contains notes from one single reference. File names have the following form:
 
 ````
 <author last name>, <year>. <title>.mkd
@@ -27,14 +29,12 @@ For example:
 
 > Ferguson, 1959. Diglossia.mkd
 
-Each file begins with the complete biographical reference as header (marked with `#`). No other header levels are used.
+Each file begins with the complete biographical reference as header (i.e. marked with initial `#`). No other header levels are used. Some notes are then followed by some general information or comments about the reference.
 
-Some notes are then followed by a some general information about the reference.
-
-The actual notes referencing the content of the article or book follow a list structure. At the end of each item there is a page reference. When the original wording is important (and also when I have been lazy) it is quoted. Longish quotes are block quotes (marked in markdown with `>`) nested under a list item with a very brief summary its content.
+The actual notes referencing the content of the article or book follow a list structure. At the end of each item there is a page reference. When the original wording is important (and also when I have been lazy) it is quoted. Longish quotes are in block quotes (marked in markdown with `>`) nested under a list item with a very brief summary of the quote. This summary is intended to make the content quickly skimmable.
 
 Material in square brackets are my comments.
 
-At the end of each file one or more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list of possible keywords.
+At the end of each file one or more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list of keywords.
 
-For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. This is my general bibtex database where I dump all references.
+For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. This is my general bibtex database where I dump all references without any particular order.
