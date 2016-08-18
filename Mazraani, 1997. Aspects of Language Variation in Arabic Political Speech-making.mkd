@@ -25,7 +25,7 @@
     5. *-it* for 1s past in Iraqi data.
     6. (196) "Prefix *bi-* is extremely widespread and routinely cooccurs even with markedly MSA elements."
 
-@code switching
+@code-switching
 @diglossia
 @Standard Arabic
 @spoken language

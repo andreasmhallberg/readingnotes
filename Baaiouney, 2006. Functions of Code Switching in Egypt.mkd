@@ -14,6 +14,6 @@
     - ECA aspect + MSA verb
 
 @diglossa
-@code switching
+@code-switching
 @ESA
 @Standard Arabic

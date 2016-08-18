@@ -31,5 +31,5 @@
 
 - SA and DA is distributed fictionally rather than contextually. 559
 
-@code switching
+@code-switching
 @diglossia

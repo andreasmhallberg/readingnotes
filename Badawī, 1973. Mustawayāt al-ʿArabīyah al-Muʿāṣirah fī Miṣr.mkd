@@ -66,4 +66,4 @@
 
 @diglossia
 @Standard Arabic
-@code switching
+@code-switching

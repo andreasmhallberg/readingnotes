@@ -12,6 +12,6 @@ Grammatical limitations for diglossic Arabic code-switching. Switch-point need t
 
 - E focal can be followed by switch accept after E negation. 61
 
-@code switching
+@code-switching
 @diglossia
 @Arabic
