@@ -6,8 +6,4 @@
 
 - When reading English, performance better if moving window bigger on the right, when reading Arabic, performance petter if moving window bigger on the left. 505
 
--
-
-@Arabic
-@reading
-@eye-tracking
+@Ω
