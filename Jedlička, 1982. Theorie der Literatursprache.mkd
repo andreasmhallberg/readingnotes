@@ -8,7 +8,6 @@
 
 - Definitions of language situations. 49
 
-- Många språk har metalingvistiska benämningar för standardspråk/litteraturspråk. 40-41
 - Many languages have a metalinguistic term for the standard language. 40-41
 
 - Norm vs. codification. 57-58. Differences:
@@ -21,9 +20,7 @@
 
 - Creative users of the standard language are carriers of the norm. (List of occupations.) Make-up and change in this group are reflected in the norm. 62
 
-- Orsaker till spänningar (och förändringar) inom standardspråket:
 - Reasons for tensions (and changes) in the standard language:
-    1. Flera varianter existerar bredvid varandra. 78
     1. Several varieties exist side by side. 78
     2. contact with other languages
     3. Written and spoken "Die Norm der gesprochene wird vorwiegend durch die nichtliteraturschpachlichen Existenzformen realisiert und representiert" 79

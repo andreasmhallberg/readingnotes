@@ -1,9 +1,10 @@
 @ALT (Arabic Linguistic Tradition)
+@Aljazeera
 @Arabic
+@Arabiv in Sweden
 @CMC (Computer Mediated Communication)
 @English 
 @SLA
-@Aljazeera
 @code-switching
 @corpus linguistics
 @diglossia
@@ -21,8 +22,8 @@
 @pedagogy
 @reading
 @spoken language
-@statistics
 @standard language
+@statistics
 @typography
 
 iʿrāb often spelled icraab
