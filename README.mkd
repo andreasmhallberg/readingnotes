@@ -21,7 +21,7 @@ The files are in plain text markdown files. As such they can be easily converted
 
 Each file contains notes from one single reference. File names have the following form:
 
-````
+```
 <author last name>, <year>. <title>.mkd
 ```
 
