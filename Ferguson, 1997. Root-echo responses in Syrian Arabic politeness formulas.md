@@ -35,4 +35,3 @@
 - "the notion of echoing the root is not normally conscious on the part of the speaker" 205
 
 @Arabic
-
