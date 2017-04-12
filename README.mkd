@@ -2,7 +2,7 @@
 
 **Important:**
 
-1. **Only some of these notes are complete summaries of reference. Most only contain notes of what I found interesting in the particular reference or of things I might want to quote in the future.**
+1. **Only some of these notes are complete summaries of reference. Most only contain notes of what I found interesting in the particular reference or of information that may be of interest to me in the future.**
 3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and no italics.** 
 
 
@@ -31,10 +31,10 @@ For example:
 
 Each file begins with the complete biographical reference as header (i.e. marked with initial `#`). No other header levels are used. Some notes are then followed by some general information or comments about the reference.
 
-The actual notes referencing the content of the article or book follow a list structure. At the end of each item there is a page reference. When the original wording is important (and also when I have been lazy) it is quoted. Longish quotes are in block quotes (marked in markdown with `>`) nested under a list item with a very brief summary of the quote. This summary is intended to make the content quickly skimmable.
+The actual notes referencing the content of the article or book follow a list structure. At the end of each item there is a page reference. When the original wording is important (and also when I have been lazy) it is quoted. Longish quotes are in block quotes (marked in markdown with `>`) nested (with indentation) under a list item with a very brief summary of the quote. This summary of the quote is intended to make the content quickly skimmable.
 
 Material in square brackets are my comments.
 
-At the end of each file one or more keywords are listed. Each keyword begins with `@`. See `keywords.mkd` for a list of keywords.
+At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See `keywords.mkd` for a list of keywords.
 
 For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. This is my general bibtex database where I dump all references without any particular order.
