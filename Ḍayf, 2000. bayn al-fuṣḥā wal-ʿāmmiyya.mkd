@@ -1,10 +1,44 @@
 # Ḍayf, Š., 2000. bayn al-fuṣḥā wal-ʿāmmiyya.  majallat majmaʿ al-luġa al-ʿarabiyya bil-qāhira, I(89), ss.35–49.
 
-- [Discourse of conflict:] Arabic has defeated other languages. 47
+[Traditional Arabic historicala account of the dominance of *fuṣḥā* in all conquered areas with a subsequent raise of dialects and later revival in modern era. Claims of superiority of *fuṣḥā* over dialects and other languages supported with pointing scintific advnances made with *fuṣḥā* as medium.]
 
-- The dialects are linguistic corruption: 49
+[Uses the term *fuṣḥā* specifically when talkin about its historical role.]
 
-    > العامية في جمهور ألفاظها فصحى محرفة، والعامية ـ لذلك ـ في حاجة إلى أن تعنى المجامع اللغوية في البلاد العربية بدراسة ما داخل ألفاظها من تحريفات وردها إلى أصولها الفصيحة
+- Dialect of Quraysh relieved special status due to the role of Mekka as religious and economic cnetre. Foundation of what is was to be called *fuṣḥā*.  36
+
+- *Fuṣḥā* [not dialects] came to be spoken in all conquered areas: 36
+
+    > فقد أصبحت شعوب كل تلك البلاج من الهند والصين إلى المحيط الأطلنطي شعوباً عربية نتطق بالفصحى ، وتعبر بها من ذات نفوسها ووجد أناتها أدباٌ ذات عقولهما علوماً وفلسفة
+
+    - People started to use *fuṣḥā* due to its expressive force: 37
+
+        > روعتها البيانية التي شغفوا لها 
+
+- Arabic has defeated all other languages that came in its way. 37
+
+- *Fuṣḥā* has had a strong influence on European science and culture due to its role in the middle ages. 37
+
+- The dialects arose due to the loss of *iʿcāb*, which the older languages did not have: 37-8
+
+    > وأخدت تعايش الفصحى في جميع الأقطار العربية عامياتٌ كان السبب في فكوينها فقدانها للإعراب الذي تتميز به الفصحى، إذ كان سكان الأقطار العربية لا يعرفونها في لغاتهم القديمة 
+
+- Long description of dialect literature in Egypt. 39-43
+
+- *Fuṣḥā* gained ground again in the 19th century with newspapers using a simplified *fuṣḥā*. 44
+
+- The English colonizers attacked *fuṣḥā* and tried to promote dialect. 44
+
+- Description of 20th century literature and how this was an advancement of *fuṣḥā*, mentioning the great Egyptian modern authors. 34--49
+
+
+    - Interspersed with attacks on dialects and its proponents using slogans of the honorable history of *fuṣḥā*. 
+
+
+- The dialects are linguistic corruption and should be eradicated: 49
+
+    > العامية في جمهور ألفاظها فصحى محرفة، والعامية ـ لذلك ـ في حاجة إلى أن تعنى المجامع اللغوية في البلاد العربية بدراسة ما داخل ألفاظها من تحريفات وردها إلى أصولها الفصيحة على نجو ما يصنع المحمع اللغوي القاهري. وبذلك تقترب العامية من الفصحى تدريجيا في حميع جيارنا العربية.
+
+- Final statement on the splendor of *fuṣḥā*, being the language of the Quran, rich history, etc. 39 
 
 @Arabic
 @diglossia

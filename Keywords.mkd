@@ -1,7 +1,7 @@
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
 @Arabic
-@Arabiv in Sweden
+@Arabic in Sweden
 @CMC (Computer Mediated Communication)
 @English 
 @SLA
