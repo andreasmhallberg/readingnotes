@@ -1,4 +1,4 @@
-# Gumperz, John J., and Susan Gal. 2001. “The Speech Community.” In Linguistic Anthropology: A Reader, edited by Alessandro Duranti, 66–73. Blackwell Anthologies in Social and Cultural Anthropology 1. Malden, Mass: Blackwell Publishers.
+# Gumperz, John J. 2001. “The Speech Community.” In Linguistic Anthropology: A Reader, edited by Alessandro Duranti and Susan Gal, 66–73. Blackwell Anthologies in Social and Cultural Anthropology 1. Malden, Mass: Blackwell Publishers.
 
 - Definition om speech community: 66
 
