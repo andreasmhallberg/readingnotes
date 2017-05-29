@@ -1,4 +1,4 @@
-# Ferguson, Charles A. 1997. “Root-Echo Responses in Syran Arabic Politeness Formulas.” In Structuralist Studies in Arabic Linguistics: Charles A. Ferguson’s Papers, 1954-1994, edited by R. Kirk Belnap and Niloofar Haeri, 198–205. Leiden, Netherlands: Brill.
+# Ferguson, Charles A. 1997. “Root-Echo Responses in Syrian Arabic Politeness Formulas.” In Structuralist Studies in Arabic Linguistics: Charles A. Ferguson’s Papers, 1954-1994, edited by R. Kirk Belnap and Niloofar Haeri, 198–205. Leiden, Netherlands: Brill.
 
 - Many formulas with one specific automatic response, seemingly without governing principle. 189
 
