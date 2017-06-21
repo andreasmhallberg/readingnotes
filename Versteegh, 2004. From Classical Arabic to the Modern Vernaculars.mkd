@@ -1,8 +1,8 @@
-# Versteegh, C.H.M., 2004. From Classical Arabic to the Modern Vernaculars. In G. Booij et al., eds. Morphology: An International Handbook on Inflection and Word-Formation. Berlin, New York: de Gruyter, pp. 1740–1754. Available at: http://repository.ubn.ru.nl/handle/2066/61238 [Accessed May 10, 2016].
+# Versteegh, C.H.M., 2004. From Classical Arabic to the Modern Vernaculars. In G. Booij et al., eds. Morphology: An International Handbook on Inflection and Word-Formation. Berlin, New York: de Gruyter, pp. 1740–1754.
 
 [Good overview of the historic and forms and forms of variation in Arabic vernaculars. Several useful tables comparing features.]
 
-- Majority view amongst Arabistst that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
+- Majority view amongst Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
 
 - Arabic view that there was only one language in Arab peninsula. Recorded variation (*luġāt*) only in lexicon and phonology. 1741
 
@@ -44,7 +44,7 @@
     - Genitive exponent
         - Long list of variants.
         - Differntiation between 
-            - *alienable* possession with exponoent: Eg. *il-laḥm ibāʿi* 'my piece of meat'
+            - *alienable* possession with exponoent: Eg. *il-laḥm tibāʿi* 'my piece of meat'
             - *inalienable* possesoin with idafa: *laḥmi* 'my flesh'
         - Sociolinguistic variation in use of idafa/exponent
         - Language islands only exponent except for frozen expressions

@@ -21,4 +21,5 @@ Publications of Zetterstéen's translation:
 
         > Där Zetterstéen, i sin strävan att översätta så ordagrant som möjligt, använder tre ord kan Bernström ha sju eller  era och därjämte fotnoter där han vill precisera innebörden.
 
-@Arabic in Sweden
+@Arabic
+@Sweden

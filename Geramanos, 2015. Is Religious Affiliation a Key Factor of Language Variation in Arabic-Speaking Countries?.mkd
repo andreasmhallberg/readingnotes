@@ -35,7 +35,10 @@ Thorough review of research on religious/sectarian language variation.
 
 - Conclusion: 96
     - "a diverse situation"
-    - "Religious affiliation alone is not and has not been a key factor of major linguistic differentiation in the MENA area, it is always linked with other social factors. Nevertheless, even tiny sociolinguistic variation (including salutations and terms of address) will often be enough to identify a speaker as Muslim, Jew or Christian in the same way that he will also be identified as urban or rural, as coming from such and such region, as belonging to popular or middle-class etc."
+    - Difficult to untangle religion from other social variables
+
+        > Religious affiliation alone is not and has not been a key factor of major linguistic differentiation in the MENA area, it is always linked with other social factors. Nevertheless, even tiny sociolinguistic variation (including salutations and terms of address) will often be enough to identify a speaker as Muslim, Jew or Christian in the same way that he will also be identified as urban or rural, as coming from such and such region, as belonging to popular or middle-class etc.
+        
     - "if some features are considered to be shibboleth of a given religious/sectarian community, they are almost always subject to variation"
 
 @Arabic

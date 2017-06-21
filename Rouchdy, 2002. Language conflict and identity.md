@@ -2,7 +2,7 @@
 
 - Study of Arabic speakers in Detroit "the largest concentration of Arabs outside of the Arab wordl." 133
 
-- Spreaders in two extremes: 135
+- Speakers in two extremes: 135
     - who speak speak only Arabic
         - piginized form of English used in business transactions
         - living in predominantly Arab areas
