@@ -1,4 +1,4 @@
- README
+# README
 
 **Important:**
 
@@ -16,13 +16,13 @@ Not all of these notes are complete summaries and they should not be read as suc
 
 For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. This is my general bibtex database where I dump all references without any particular order.
 
-## Structure
+## Structure and format
 
-The files are formatted in markdown (a plain text format similar to .txt). As such they can be easily converted via Pandoc or similar to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
+Each file contains notes from one single reference. They are formatted in markdown (a plain text format similar to .txt). As such they can be easily converted via Pandoc or similar to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
 
 ### File name
 
-Each file contains notes from one single reference. File names have the following form:
+File names have the following form:
 
 ```
 <author last name>, <year>. <title>.mkd
