@@ -26,7 +26,7 @@ Builds on Ferguson (1965)
     2. rhythmic parallelism, e.g. *shukran - ʿafwan* 
     3. flattering turn of phrase/escalation in politeness, e.g. *minawwar - bi-wugūdak* Quranic instruction:
 
-        > إذا حُييتم بتحية قحيوا بأحسن منها أو ردوها
+        > إذا حُييتم بتحية فحيوا بأحسن منها أو ردوها
 
 - Long discussion on magic and language.
 
