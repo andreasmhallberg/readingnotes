@@ -32,4 +32,6 @@ Builds on Ferguson (1965)
 
 - Cognate repetitions common in Quran. 172 
 
+@Arabic
 @Egyptian Arabic
+@politeness

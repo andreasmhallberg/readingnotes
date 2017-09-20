@@ -1,10 +1,10 @@
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
 @Arabic
-@Sweden
 @CMC (Computer Mediated Communication)
 @English 
 @SLA
+@Sweden
 @code-switching
 @corpus linguistics
 @diglossia
@@ -21,6 +21,7 @@
 @literacy
 @morphology
 @pedagogy
+@politeness
 @reading
 @spoken language
 @standard language
