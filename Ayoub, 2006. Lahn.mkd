@@ -21,5 +21,5 @@ Mostly concerned with classical literature.
 - Fear of making mistakes. 633
 
 @icraab
-@language ideology
-@Standard Arabic
+@language-ideology
+@Standard-Arabic
