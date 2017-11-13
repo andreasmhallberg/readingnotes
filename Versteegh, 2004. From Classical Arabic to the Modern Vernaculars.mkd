@@ -1,6 +1,6 @@
 # Versteegh, C.H.M., 2004. From Classical Arabic to the Modern Vernaculars. In G. Booij et al., eds. Morphology: An International Handbook on Inflection and Word-Formation. Berlin, New York: de Gruyter, pp. 1740–1754.
 
-[Good overview of the historic and forms and forms of variation in Arabic vernaculars. Several useful tables comparing features.]
+[Good overview of the history and forms of variation in Arabic vernaculars. Several useful tables comparing features.]
 
 - Majority view amongst Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
 
@@ -77,4 +77,3 @@
 
 @Arabic
 @dialectology
-
