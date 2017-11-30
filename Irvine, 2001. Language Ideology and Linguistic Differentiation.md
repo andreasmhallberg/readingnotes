@@ -3,7 +3,7 @@
 - 3 processes by which ideologies are constructed:  403-4
     - Iconinization - reading peoples or groups essences or moral or other characteristics from features few their language.  
     - Fractal recursivity - applying systems of linguistic differentiation to other speech community.
-    - Erasure - renders invisible or explains away facts that are difficult for the ideology to account for .
+    - Erasure - renders invisible or explains away facts that are difficult for the ideology to account for.
 
 - 3 case studies
    - Acquisition of clicks.
