@@ -22,4 +22,4 @@
 
 @ESA
 @Arabic
-@spoken language
+@spoken-language

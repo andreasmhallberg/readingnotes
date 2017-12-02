@@ -52,5 +52,5 @@
     > As the process of restitution of 'word-endings' occurs in OLA under very different conditions than that of the original CA norms of occurrence and use, it is highly important to reinterpret the facts independently of the usual prescriptive way. 
 
 @icraab
-@Standard Arabic
-@Spoken language
+@Arabic:Standard
+@Spoken-language

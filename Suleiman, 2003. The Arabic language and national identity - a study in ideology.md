@@ -45,4 +45,4 @@ Limitations:
 - al-Ḥusrī proposes middel, educated variant as new standard .143 Is not naiv realist. 114
 
 @Arabic
-@language ideology
+@language-ideology

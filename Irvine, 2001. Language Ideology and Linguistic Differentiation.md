@@ -23,4 +23,4 @@
 
     > Missing from Anderson's perspective, we suggest, is the insight that homogeneous language is as much imagined as is community.  
 
-@language ideology
+@language-ideology

@@ -9,5 +9,5 @@ Descibes aš-Šubāšī's and Ouzo's books on language reform and the debate the
 - Fergson's duality similar to folk linguistic conceptualization. 266-68
 
 @Arabic
-@language reform
+@language-reform
 

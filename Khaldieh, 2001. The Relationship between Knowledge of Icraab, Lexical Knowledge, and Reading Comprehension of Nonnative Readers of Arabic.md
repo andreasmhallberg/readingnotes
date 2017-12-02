@@ -10,4 +10,4 @@ Knowledge of icraab no significant effect on L2 reading comprehension.
 
 @icrab
 @pedagogy
-@Standard Arabic
+@Arabic:Standard

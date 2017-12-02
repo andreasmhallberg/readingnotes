@@ -10,4 +10,4 @@
 
     > yet it is a policy which is largely hidden from view because it most citizens accept is as logical, natural, fair, and efficient when, in fact, it is none of those things, since *no one* speaks the (mythical) standard variety, and *everyone* speaks some variant of one or another language variety.
 
-@language ideology
+@language-ideology

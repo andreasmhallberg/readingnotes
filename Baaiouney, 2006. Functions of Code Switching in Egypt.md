@@ -16,4 +16,4 @@
 @diglossa
 @code-switching
 @ESA
-@Standard Arabic
+@Arabic:Standard

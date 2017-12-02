@@ -16,4 +16,4 @@
 
 @ESA
 @Arabic
-@language attitudes
+@language-attitudes

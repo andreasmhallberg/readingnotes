@@ -35,4 +35,4 @@
 
 @diglossia
 @Arabic
-@language ideology
+@language-ideology

@@ -43,5 +43,5 @@
 
 - Patterns in MSA not corresponding to descriptions in Western and Arabic grammars. 300
 
-@Standrd Arabic
+@Arabic:Standard
 @MSA

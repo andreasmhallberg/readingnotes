@@ -56,4 +56,4 @@
     4. super-regional. 56
     5. extending domain. 56
 
-@standard language
+@standard-language

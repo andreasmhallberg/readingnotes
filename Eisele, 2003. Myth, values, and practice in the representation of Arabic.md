@@ -14,4 +14,4 @@
 - Schema view of language with al-ʿAqqād (1969), Mūsū (48-56), Saʿīd, ar-Ramlī (1990)
 
 @Arabic
-@language ideology
+@language-ideology

@@ -21,8 +21,8 @@
 
 - Correctors (*musiḥḥiḥūn*) consult grammars from the 1400th century. Ex. *Qaṭr an-nadā.* 67
 
-@Standard Arabic
+@Arabic:Standard
 @diglossia
-@language ideology
-@linguistic insecurity
+@language-ideology
+@linguistic-insecurity
 @icraab

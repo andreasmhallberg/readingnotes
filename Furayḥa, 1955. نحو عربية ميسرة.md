@@ -35,7 +35,7 @@
 
 @diglossia
 @pedagogy
-@language reform
+@language-reform
 @ESA
-@language ideology
+@language-ideology
 @Arabic

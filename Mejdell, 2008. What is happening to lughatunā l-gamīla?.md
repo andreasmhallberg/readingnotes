@@ -15,4 +15,4 @@ Collection of quotes that exemplify Arabic language ideology.
 - No role models in popular culture speaking SA. 121
 
 @Arabic
-@language ideology
+@language-ideology

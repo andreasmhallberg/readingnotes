@@ -2,4 +2,4 @@
 
 Examples of how Informal Written Arabic contains elements of spoken language and have simplified grammar
 
-@Standard Arabic
+@Arabic:Standard

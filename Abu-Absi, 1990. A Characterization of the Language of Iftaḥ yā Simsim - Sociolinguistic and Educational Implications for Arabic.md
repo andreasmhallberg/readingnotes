@@ -9,5 +9,5 @@
 - "Constant exposure to the language of instruction used naturally  and in meaningful situations outside the context of the school will certainly enhance language instruction." 43
 
 @education
-@Standard Arabic
+@Arabic:Standard
 @diglossia

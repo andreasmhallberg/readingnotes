@@ -2,11 +2,11 @@
 @Aljazeera
 @Arabic
 @CMC (Computer Mediated Communication)
-@English 
+@English
 @SLA
 @Sweden
 @code-switching
-@corpus linguistics
+@corpus-linguistics
 @diglossia
 @epenthesis
 @eye-tracking
@@ -14,19 +14,19 @@
 @fluency
 @formality
 @hamza
-@heritage speakers
+@heritage-speakers
 @icraab
 @Israel
-@language ideology
-@language ideology: primary source
-@linguistic insecurity
+@language-ideology
+@language-ideology:primary-source
+@linguistic-insecurity
 @literacy
 @morphology
 @pedagogy
 @politeness
 @reading
-@spoken language
-@standard language
+@spoken-language
+@standard-language
 @statistics
 @typography
 

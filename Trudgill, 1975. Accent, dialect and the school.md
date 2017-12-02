@@ -38,7 +38,7 @@
 
 - Warns against discourse of 'verbal deprivation': Peter Harriot, Andrew Wilkinson, J. Patrick Creber, F. D. Fowler. 95
 
-@standard language
+@standard-language
 @English
-@language ideology
+@language-ideology
 @pedagogy

@@ -8,5 +8,5 @@
 
     > part of some Egyptians' perception that they don't know Arabic well stems from their understanding of 'good' Arabic as representing archaic, difficult style or an attempt to impose aspects of archaic Arabic on modern usage.
 
-@linguistic insecurity
-@Standard Arabic
+@linguistic-insecurity
+@Arabic:Standard

@@ -22,5 +22,5 @@
 
 @Arabic
 @diglossia
-@Standard Arabic
-@spoken language
+@Arabic:Standard
+@spoken-language

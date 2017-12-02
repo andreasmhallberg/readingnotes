@@ -8,6 +8,6 @@
 
     > One main danger, therefore, is that spoken English continues to be judged by the codified standards of written English and that teaching pupils to speak standard English may, in fact, be to teach them to speak in formal written English.
 
-@standard language
+@standard-language
 @English
-@spoken language
+@spoken-language

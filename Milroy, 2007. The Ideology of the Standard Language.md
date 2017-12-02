@@ -21,5 +21,5 @@
 
 - Policing of standard language believed to be necessary for the survival of the language. 139 
 
-@standard language
-@language ideology
+@standard-language
+@language-ideology

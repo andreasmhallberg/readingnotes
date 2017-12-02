@@ -15,5 +15,5 @@
     > This is why linguistic research is vital. It requires establishing language centres, new dictionaries incorporating words common to both colloquial and classical Arabic, functional scientific dictionaries, the Arabisation of scientific terms, the gradual simplification and rationalisation of grammar leading to a median language that neither lapses into colloquial nor replaces that rigid old structures that are difficult to use.
 
 @pedagogy
-@Standard Arabic
-@language reform
+@Arabic:Standard
+@language-reform

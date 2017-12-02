@@ -20,4 +20,4 @@
 
     > A codification may be so rigid as to prevent the use of a language for other than formal purposes. Sanskrit had to yeald to Prakrit, And Latin to the Romance languages, when the gap between written and spoken languages became so large that only very few people were willing to make the effort of learning them.
 
-@standard language
+@standard-language

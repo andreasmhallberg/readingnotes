@@ -17,4 +17,4 @@
 - [Strange] Line of reasoning about how Arabs are integrated into Western thinking. 
 
 @icraab
-@language reform
+@language-reform

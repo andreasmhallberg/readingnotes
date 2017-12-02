@@ -15,4 +15,4 @@ Informal interviews with schoolchildren in Palestine.
 @literacy
 @pedagogy
 @diglossia
-@Standard Arabic
+@Arabic:Standard

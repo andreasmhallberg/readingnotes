@@ -28,6 +28,6 @@
 - Differences in exposure to SA (domains) affects what is seen as SA and what parts of it are mastered. 238
  
 @sociolinguistics
-@language attitudes
+@language-attitudes
 @diglossia
 @Arabic

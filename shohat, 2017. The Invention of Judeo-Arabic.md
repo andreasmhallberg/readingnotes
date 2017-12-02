@@ -42,5 +42,5 @@
 - Jewish-Baghdadi narrated as Jewish but could more appropriately be re-narrated as a regional variant (Muslawi) inserted into Bagdad through Jewish immigration. Fits linguistic and historical facts. In Mosul speakers of all confessions use these features . 175--7
 
 @arabic
-@language ideology
+@language-ideology
 @Israel

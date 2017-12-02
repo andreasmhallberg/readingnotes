@@ -17,6 +17,6 @@
     3. Classical poetry where fusha is used for highly profane subjects. Sex and drinking. 275
     4. According to Haeri, sacredness of fusha leads to 'certain denial of the contemporary self' and to lack of democracy. 277
 
-@Standard Arabic
+@Arabic:Standard
 @diglossia
-@language ideology
+@language-ideology

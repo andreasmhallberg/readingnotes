@@ -48,4 +48,4 @@
 
 - "middle’ solution, with partial vowelling but correct (Egyptian) phonology, a clear preference over other styles." 61
 
-@Standard Arabic
+@Arabic:Standard

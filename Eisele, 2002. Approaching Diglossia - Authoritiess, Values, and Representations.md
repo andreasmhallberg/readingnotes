@@ -31,5 +31,5 @@ Analysis of view on diglossia through Western/moder vs. Arabic/traditional disco
     2. "traditionalist and classical bias" 19 since he evaluates proficiency by classical norm. [But he is clear that this is only one form of benchmark. Talks of "mistakes" with clear quotation marks.]
     3. Regards dialect and SA as parts of the same system with fits with the traditionalist value of UNITY.
 
-@language ideology
+@language-ideology
 @Arabic

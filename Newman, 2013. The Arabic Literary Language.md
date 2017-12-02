@@ -23,4 +23,4 @@
 - "to date not a single academy makes its creations available online, wheras most fail to update their websites." 489
 
 @ALT
-@Standard Arabic
+@Arabic:Standard

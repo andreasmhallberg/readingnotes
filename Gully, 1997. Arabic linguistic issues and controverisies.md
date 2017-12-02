@@ -32,4 +32,4 @@
 > For the medieval scholar, the question of correct linguistic usage was fundamental for the interpretation of the religious texts. For linguists of the neo-classical [*Nahda*] period, however, theological considerations had been replaced by a widespread belief in the inextricable relation between a stable language and the identity, success and stability of the nation.
 
 @Arabic
-@language ideology
+@language-ideology

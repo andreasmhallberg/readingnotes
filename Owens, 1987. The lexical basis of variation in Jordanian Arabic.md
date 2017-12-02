@@ -16,5 +16,5 @@
 - SA head + SA or Col concordant
 	SA head + Col (SA*) concordant. 731
 
-@Standard Arabic
+@Arabic:Standard
 @ESA

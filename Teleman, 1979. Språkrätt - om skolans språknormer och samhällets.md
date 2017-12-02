@@ -28,5 +28,5 @@
 
 - "Inlärd irritation". Learners annoyance of rules taught in school: particularly inflection and spelling. 145 
 
-@language ideology
+@language-ideology
 @Swedish

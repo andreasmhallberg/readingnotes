@@ -16,4 +16,4 @@
 - Common view that some form of SA/CA will come to dominate as unifying Arabic language. 280
 
 @Arabic
-@language ideology
+@language-ideology

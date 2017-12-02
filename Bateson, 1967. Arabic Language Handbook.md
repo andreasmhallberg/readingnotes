@@ -22,7 +22,7 @@ Below only form chap. 3. "The Linguistic Practice of the Arabis"
 - Number grammar is fictional: 86
     > For all practical purposes, the number system [som beskrivs in grammatiken] does not exist in oral use of C1A – the short vowel patterns are a myth and the speaker uses simplified forms current in his own dialect for numbers above ten, even though he though he may be able to write the correct consonantal skeleton.
 
-@Standard Arabic
+@Arabic:Standard
 @reading
 @icraab
 

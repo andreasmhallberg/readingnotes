@@ -50,4 +50,12 @@ When lists and tables are quoted they are converted to markdown.
 
 ### Keywords
 
-At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See `keywords.mkd` for a list of keywords. These keywords are added by me and are not those of the original author.
+At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See `keywords.md` for a list of keywords. 
+
+Hypen are used in place of spaces.
+
+Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
+
+Keywords are added by me and are not those of the original author. 
+
+

@@ -16,5 +16,5 @@
 	- in speech uniformity is dysfunctional since its limits social expression.
     3. Standardization aims to stop language change. 27
 
-@standard language
-@language ideology
+@standard-language
+@language-ideology

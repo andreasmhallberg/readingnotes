@@ -1,8 +1,8 @@
-# Sharkawi, Muhammad al-. 2016. ‘The Ecology of Case in Modern Standard Arabic’. Folia Orientalia LIII: 223–59.
+# al-Sharkawi, Muhammad. 2016. "The Ecology of Case in Modern Standard Arabic." Folia Orientalia LIII: 223–59.
 
 Discusses the retention of case in Modern Standard Arabic despite it not having functional load. Traces it to its central position in grammar writing.
 
-- In Sibawayh ther is indication that the case marking is regarded as free variation (ref to Owens 1998).
+- In Sibawayh there is indication that the case marking is regarded as free variation (ref to Owens 1998).
 
 - "the case system is given a status in the theoretical grammatical works that is different from its use in real linguistic performance" 232
 
@@ -13,6 +13,6 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 
 - Examples of inconsistent and incorrect use of case markers in writing and speech. [Uses "recitation" as sysnonym to read speech.] 247-57 
 
-@Arabic
+@Arabic:Standard
 @ALT
 @icraab

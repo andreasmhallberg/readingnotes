@@ -4,6 +4,6 @@
 
 - "native Arab attitudes, which almost universally revere Arabic as the most difficult language in the world and therefore essentially unlearnable by mortals." 59
 
-@Standard Arabic
+@Arabic:Standard
 @pedagogy
-@language attitudes
+@language-attitudes

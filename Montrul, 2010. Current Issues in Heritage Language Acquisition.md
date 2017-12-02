@@ -53,5 +53,5 @@ More complex structures and vocabulary       Experience with literacy and formal
 
 - Key difference in context of acquisition. L2 learners learn by reading/writing and explanation and are often highly literate. Heritage learners often low literacy or illiterate. 12
 
-@heritage speakers
+@heritage-speakers
 

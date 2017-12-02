@@ -6,4 +6,4 @@
 
     > The syllables at the ends (SG:END) and beginnings (SG:BEGIN) of utterances have particular phonological science since they are adjacent to silence (EX:SILENCE). The ability to remember such syllables may be enhanced by the tendency for items at the banning of a series (and especially at the end) to be remembered better than items located in the middle.
 
-@spoken language
+@spoken-language

@@ -23,7 +23,7 @@
 
 - Lixace ordered by rood are difficult to use. Growing awareness about advantages of alphabetical ordering. 305
 
-@language reform
-@Standard Arabic
+@language-reform
+@Arabic:Standard
 @ESA
 @pedagogy

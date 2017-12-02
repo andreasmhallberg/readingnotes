@@ -14,5 +14,5 @@
 
 - Internal hierarchy of Egyptian Arabic: *balid*, *baladi baladi*, *baladiʾawi*, 812
 
-@language ideology
+@language-ideology
 @Arabic

@@ -30,4 +30,4 @@
 - Automatic morphological analyzers (Buckwalter and Xerox) limited. 39
 
 @CMC
-@corpus linguistics
+@corpus-linguistics

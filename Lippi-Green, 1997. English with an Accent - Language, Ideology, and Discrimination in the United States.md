@@ -4,6 +4,6 @@
 
 - "[Proponents of the standard ideology] do not address the source of their authority directly; that is taken for granted." 59 [Arabs, however, do have such explicit sources of authority.]
 
-@standard language
+@standard-language
 @English
-@language ideology
+@language-ideology

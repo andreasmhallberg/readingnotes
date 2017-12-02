@@ -15,5 +15,5 @@
 
 - Decision in parliament 1878 that schools should utilize local dialect for oral instruction. 200
 
-@language reform
-@standard language
+@language-reform
+@standard-language

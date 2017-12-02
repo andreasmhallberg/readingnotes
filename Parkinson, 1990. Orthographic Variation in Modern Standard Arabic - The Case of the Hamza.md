@@ -22,5 +22,5 @@
 
     > We are also missing the boat of we believe that nothing is linguistic interest is going on in Standard Arabic at all since it is an undefinable hybrid form. It is clearly an important an enormously interesting linguistic variety; it is deeply embedded into the social system, and has many of the marks of the 'real', vibrant,  'living', changing variable system that appears to mark all non-artificial languages.
 
-@Standard Arabic
-@language ideology
+@Arabic:Standard
+@language-ideology

@@ -33,3 +33,4 @@
 
 @code-switching
 @diglossia
+@Arabic

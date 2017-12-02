@@ -1,4 +1,4 @@
-# Bassiouney, R., 2010. Identity and Code-Choice in the Speech of Educated Women and Men in Egypt: eveidence from tak shows. I Arabic and the Media: Linguistic Analyses and Applications. BRILL, ss 97–121.
+# Bassiouney, R., 2010. Identity and Code-Choice in the Speech of Educated Women and Men in Egypt: evidence from talk shows. I Arabic and the Media: Linguistic Analyses and Applications. BRILL, ss 97–121.
 
 Main claim that women use MSA in formal situations.
 
@@ -12,5 +12,5 @@ Main claim that women use MSA in formal situations.
 
 - Argues [against whom?] that women can be assertive. 108 
 
-@code switching
+@code-switching
 @Arabic

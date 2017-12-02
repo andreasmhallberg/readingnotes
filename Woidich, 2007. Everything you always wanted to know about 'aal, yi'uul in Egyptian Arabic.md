@@ -18,6 +18,5 @@
     - *āl wi* 'he vomited'
     - *āl ġāy* 'he gave up'
 
-@Arabic
+@Arabic:Egyptian
 @dialectotlogy
-@Egyptian Arabic

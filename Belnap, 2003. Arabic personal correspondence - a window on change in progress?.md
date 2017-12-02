@@ -24,6 +24,6 @@ Survey of Arab student and analysis of personal correspondence (letters).
 
 - "one cannot begin to understand either end of the diglossia continuum and the troublesome ground between the poles that is Arabic without taking the whole into consideration." 23
 
-@Standard Arabic
+@Arabic:Standard
 @diglossia
 

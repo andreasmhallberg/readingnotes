@@ -16,4 +16,4 @@
 
 @pedagogy
 @diglossia
-@Standard Arabic
+@Arabic:Standard

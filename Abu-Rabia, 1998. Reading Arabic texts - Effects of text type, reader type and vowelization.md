@@ -20,4 +20,4 @@
 
 @reading
 @orthography
-@Standard Arabic
+@Arabic:Standard

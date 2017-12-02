@@ -12,4 +12,4 @@ Matched-guise test of SA, Egyptian Arabic, and Egyptian, British and American En
 - First study if its kind in Arabic. 53
 
 @Arabic
-@language attitudes
+@language-attitudes

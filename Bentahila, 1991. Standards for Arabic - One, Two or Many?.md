@@ -19,4 +19,4 @@ Discusses CA, MSA and ESA as candidates for standard.
 - Biggest drawback with the "present situation" is the load it puts on the educational system. 81
 
 @diglossia
-@Standard Arabic
+@Arabic:Standard

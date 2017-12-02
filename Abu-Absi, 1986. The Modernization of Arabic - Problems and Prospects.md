@@ -10,5 +10,5 @@ Describes suggestions on language reform; orthography, lexicon, grammar.
     - "Thus the orthography and the grammar of the written language are not likely to undergo any drastic changes" 345 
     - "For the foreseeable future, the only productive pursuits for modernization will be in the areas of vocabulary development, lexographical reform, and pedagogical improvements." 345.
 
-@language reform
-@Standard Arabic
+@language-reform
+@Arabic:Standard

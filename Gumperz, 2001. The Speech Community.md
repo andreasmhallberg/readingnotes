@@ -24,4 +24,4 @@
 
     > Uniformity at the superposed level in their case, however, is achieved at the expense of large gaps in internal communication channels. 
 
-@standard language
+@standard-language

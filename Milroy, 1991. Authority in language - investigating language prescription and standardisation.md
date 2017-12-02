@@ -44,5 +44,5 @@ Prescription on speech is misguided, since speech and writing have different str
 - "conviction that standards are declining and that they were at one time higher than they are now" 49 [Labov 'Golder Era']
 
 @English
-@language ideology
-@standard language
+@language-ideology
+@standard-language

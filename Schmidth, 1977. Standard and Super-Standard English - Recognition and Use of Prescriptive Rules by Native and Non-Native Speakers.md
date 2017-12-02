@@ -20,4 +20,4 @@
 - Peer-group pressure not to use super-standard forms.
 
 @English
-@standard language
+@standard-language

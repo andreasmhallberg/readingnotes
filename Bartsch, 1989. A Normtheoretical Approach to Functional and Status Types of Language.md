@@ -42,5 +42,5 @@ Description of "levels" in German.
 
 - CEL has its own norms since it can be spoken by those who have not learned H. 211
 
-@standard language
+@standard-language
 @German

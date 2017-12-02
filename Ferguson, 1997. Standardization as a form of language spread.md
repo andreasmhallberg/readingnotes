@@ -7,4 +7,4 @@ Standardization as natural process.
     2. variety shifting - varieties becomes specialized for identities or functions.
     3. classicalization - preference to use forms of historical prestigious norm.
 
-@standard language
+@standard-language

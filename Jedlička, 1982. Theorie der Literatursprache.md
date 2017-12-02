@@ -26,4 +26,4 @@
     3. Written and spoken "Die Norm der gesprochene wird vorwiegend durch die nichtliteraturschpachlichen Existenzformen realisiert und representiert" 79
     4. different functional styles
 
-@standard language
+@standard-language

@@ -28,4 +28,4 @@
 - More accurate in narrative than in elicitation due to avoidance stategies. 14
 
 @Arabic
-@heritage speakers
+@heritage-speakers

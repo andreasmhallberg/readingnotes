@@ -15,5 +15,4 @@
 - Appendix with long list of insults.
 
 @dialectology
-@Arabic
-@Egyptian Arabic
+@Arabic:Egyptian

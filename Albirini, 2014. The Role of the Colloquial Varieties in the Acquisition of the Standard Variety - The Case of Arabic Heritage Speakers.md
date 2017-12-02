@@ -42,4 +42,4 @@
 - Conclusion: convergence of proficiencies in higher levels means that heritage speakers have not had opportunity to advance. 460
 
 @Arabic
-@heratage speakers
+@heratage-speakers

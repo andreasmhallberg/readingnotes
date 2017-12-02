@@ -26,7 +26,4 @@
 - No diglossic mixing for HSs. "For heritage speakers, standard Arabic is a true L2." 299
    
 @Arabic
-@heritage speakers
-
-
-
+@heritage-speakers

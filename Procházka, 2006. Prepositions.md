@@ -12,5 +12,5 @@
 
 - Negative interference *ladā - ʿinda* for ownership. 701
 
-@Standard Arabic
+@Arabic:Standard
 @ALT

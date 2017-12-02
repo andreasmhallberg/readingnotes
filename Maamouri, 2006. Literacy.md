@@ -27,5 +27,5 @@
 @diglossia
 @reading
 @literacy
-@linguistic insecurity
+@linguistic-insecurity
 @orthography

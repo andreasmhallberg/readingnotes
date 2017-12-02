@@ -31,7 +31,7 @@ Analysis of grammar test with numbers.
 
     - "if we keep the educated speaker as our guide, we are erectly justified in making the kinds of simplifications the he himself makes." 203
 
-@Standard Arabic
-@spoken languge
+@Arabic:Standard
+@spoken-languge
 @icraab
 @pedagogy

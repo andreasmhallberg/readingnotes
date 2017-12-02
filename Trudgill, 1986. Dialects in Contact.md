@@ -7,4 +7,4 @@
 - "Lexical accommodation begins first [in long term accommodation]" .25
 
 @English
-@standard language
+@standard-language

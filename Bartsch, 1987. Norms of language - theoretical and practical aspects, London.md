@@ -10,5 +10,5 @@
 
     > These differences are caused not only by different private, social, regional, and cultural surroundings in which somebody is formed as a social being, but also by the fact that these norms are not in general explicitly formulated, but have to be learned from examples and models, which leave different generalizations and interpretations open. 
 
-@standard language
+@standard-language
 @German

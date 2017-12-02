@@ -15,4 +15,4 @@
 - Ara-ara code-switching different constraints than ara-french. 27
 
 @code-switching
-@Standard Arabic
+@Arabic:Standard

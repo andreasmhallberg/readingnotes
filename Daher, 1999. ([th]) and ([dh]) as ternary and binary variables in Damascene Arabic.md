@@ -7,4 +7,4 @@
 - "[s]/[z] is commonly accepted as a 'quasi-Standard' variant." 172
 
 @sociolinguistics
-@Standard Arabic
+@Arabic:Standard

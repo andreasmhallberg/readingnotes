@@ -17,6 +17,6 @@ Description of views on English through modern history. Thematic chapters. Lots 
 
 - English in perpetual crisis. "Imminent collapse" 239
 
-@standard language
-@language ideology
+@standard-language
+@language-ideology
 @English

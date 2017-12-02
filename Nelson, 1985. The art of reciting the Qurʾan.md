@@ -8,5 +8,5 @@
     3. *waqf ḥasan*: 'syntactic and semantic independence, yet it might be a complete phrase' 29
     4. *waqf qabīḥ*: 'total syntactic and semantic dependence' 29 
 
-@Standard Arabic
+@Arabic:Standard
 @reading

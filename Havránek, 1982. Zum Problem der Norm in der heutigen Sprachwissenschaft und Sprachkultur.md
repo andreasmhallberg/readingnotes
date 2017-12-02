@@ -14,4 +14,4 @@
 
 - Finding and describing the current norm is the proper mission of codification. Useful for pedagogy and the norm itself. 295
 
-@standard language
+@standard-language

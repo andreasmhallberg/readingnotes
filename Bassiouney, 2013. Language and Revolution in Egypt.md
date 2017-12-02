@@ -11,5 +11,5 @@
 
 - Example: critique of the language used by judge in the court case against Mubarak. 109
 
-@language ideology
-@Standard Arabic
+@language-ideology
+@Arabic:Standard

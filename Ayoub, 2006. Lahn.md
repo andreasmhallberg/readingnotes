@@ -22,4 +22,4 @@ Mostly concerned with classical literature.
 
 @icraab
 @language-ideology
-@Standard-Arabic
+@Arabic:Standard

@@ -14,5 +14,5 @@
 
 - Progress in establishing standard spoken English not until 19th century. 78
 
-@standard language
+@standard-language
 @English

@@ -18,5 +18,5 @@
 
 - Attempts at reforms of grammatical description no real effect. 112
 
-@Standard Arabic
-@language reform
+@Arabic:Standard
+@language-reform

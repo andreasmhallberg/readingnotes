@@ -1,4 +1,4 @@
-# Magidow, A., 2012. Explaining Inconsistent Case Marking in Spoken Formal Arabic.  Zeitschrift für arabische Linguistik, (55), ss.62–99.
+# Magidow, A., 2012. Explaining Inconsistent Case Marking in Spoken Formal Arabic. Zeitschrift für arabische Linguistik, (55), ss.62–99.
 
 Case endings in speech marking 'saliency' and 'individuation'.
 
@@ -10,6 +10,6 @@ Case endings in speech marking 'saliency' and 'individuation'.
 
 - *Mā ibhāmiyya* "may also be considered a type of specificity marker" [!] and is thus often marked for case. 78 WTF!
 
-@spoken language
-@standard arabic
+@spoken-language
+@Arabic:Standard
 @icraab

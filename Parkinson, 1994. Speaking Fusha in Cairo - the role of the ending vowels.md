@@ -28,6 +28,6 @@ Detailed description of a few speakers use of vowel/case endigns.
 
     - Proficient speakers aim lower than formally correct speech so as not to seem distanced/pedantic. 209
 
-@Standard Arabic
+@Arabic:Standard
 @icraab
-@spoken language
+@spoken-language

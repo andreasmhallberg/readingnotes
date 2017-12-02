@@ -16,6 +16,6 @@
 
 - Maghrebi speakers aligner themselves with Mashreq domination. 284
 
-@language attitudes
-@language ideology
+@language-attitudes
+@language-ideology
 @Arabic

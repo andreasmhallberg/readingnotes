@@ -4,4 +4,4 @@
 - Forms of attached pronouns. 589
 
 @dialectology
-@Arabic
+@Arabic:Syrian

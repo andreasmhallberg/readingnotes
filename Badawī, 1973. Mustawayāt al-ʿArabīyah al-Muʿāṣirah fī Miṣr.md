@@ -65,5 +65,5 @@
 - Levels are a range between "the ideal" and dialect. 134
 
 @diglossia
-@Standard Arabic
+@Arabic:Standard
 @code-switching

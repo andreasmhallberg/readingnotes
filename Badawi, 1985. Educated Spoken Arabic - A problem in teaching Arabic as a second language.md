@@ -15,4 +15,4 @@
 
 @diglossia
 @icraab
-@Standard Arabic
+@Arabic:Standard

@@ -16,4 +16,4 @@
 - Språkpolicy en nichad aktivitet, påverkar bara vissa delar av människors språk/identitet. 149
 - Language policy niched, only affects some parts of peoples language/identity. 149
 
-@language ideology
+@language-ideology

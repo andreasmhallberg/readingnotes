@@ -11,5 +11,5 @@
 - Det finns icke-standard ord, men icke exklusivt standard ord. 127
 - There are exclusively non-standard words, but no exclusively standard words. 127
 
-@standard language
+@standard-language
 @English

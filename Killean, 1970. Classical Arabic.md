@@ -9,5 +9,5 @@
     > Unfortunately, article on linguistic analysis of Classical Arabic are frequently nothing more than collations of earlier views of Arab authors with very little, if any original thinking. The studies are characterized by general disregard of Western works on similar subjects and a lack of bibliographical references.
 
 @ALT
-@Standard Arabic
+@Arabic:Standard
 @pedagogy

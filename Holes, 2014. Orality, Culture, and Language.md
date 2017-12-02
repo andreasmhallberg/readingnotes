@@ -17,5 +17,5 @@
 - Cinema, drama and television. 291 ff
 
 @Arabic
-@spoken language
+@spoken-language
 @diglossia

@@ -2,5 +2,5 @@
 
 - Examples on naturally occuring VOS. 5 different situation.
 
-@Standard Arabic
-@word order
+@Arabic:Standard
+@word-order

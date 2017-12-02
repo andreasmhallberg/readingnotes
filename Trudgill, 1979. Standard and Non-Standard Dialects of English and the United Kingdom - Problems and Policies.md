@@ -16,6 +16,6 @@
 
 - Accounts of angry responses and *ad hominem* attacks after Trudgill 1975. 
 
-@standard language
+@standard-language
 @pedagogy
 @English

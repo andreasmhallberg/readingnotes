@@ -12,4 +12,4 @@
 
 @Arabic
 @diglossia
-@language ideology: primary source
+@language-ideology:primary-source

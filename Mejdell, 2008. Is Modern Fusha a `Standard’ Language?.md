@@ -20,5 +20,5 @@
 - International trend of 'restandardization' in semi-formal speech with spread of audio-visual media. 49
 
 @Arabic
-@standard language
-@spoken language
+@standard-language
+@spoken-language

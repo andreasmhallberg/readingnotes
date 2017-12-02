@@ -71,6 +71,6 @@
 - Experience in formal speech may explain variation. 185
 
 @icraab
-@word order
-@Standard Arabic
-@spoken language
+@word-order
+@Arabic:Standard
+@spoken-language

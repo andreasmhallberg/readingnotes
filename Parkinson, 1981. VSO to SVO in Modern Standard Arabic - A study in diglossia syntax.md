@@ -8,5 +8,5 @@
 
     > Headlines, for some reason, almost entirely SVO [98%]. This is particularly striking since the first sentence of most news articles repeats the headlines exactly except changing it to VSO.
 
-@Standard Arabic
-@word order
+@Arabic:Standard
+@word-order

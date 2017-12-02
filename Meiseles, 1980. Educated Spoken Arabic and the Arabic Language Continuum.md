@@ -29,6 +29,6 @@
 	6.	*an* and *anna*, while asyndetic in ESA
 	7.	MSA phonetics, [q], [ḏ], etc.
 
-@Standard Arabic
+@Arabic:Standard
 @icraab
-@spoken language
+@spoken-language

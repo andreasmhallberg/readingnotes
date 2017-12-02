@@ -11,4 +11,4 @@
         - al-kitab xayr jalis 
 
 @Aljazeera
-@language ideology
+@language-ideology

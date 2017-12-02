@@ -4,5 +4,5 @@
 
 - Media established Mashreqi Arabic as the linguistic norm in entertainment. 2
 
-@language ideology
+@language-ideology
 @Arabic

@@ -9,4 +9,4 @@
     3. *tamma* for passives. 43
     4. Omission of *fa-* in resultant clause. 48
 
-@Standard Arabic
+@Arabic:Standard

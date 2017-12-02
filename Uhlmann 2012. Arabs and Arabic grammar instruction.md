@@ -39,5 +39,5 @@
 @pedagogy
 @icraab
 @ALT
-@linguistic insecurity
+@linguistic-insecurity
 @Israel

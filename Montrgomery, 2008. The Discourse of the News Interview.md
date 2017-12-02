@@ -16,4 +16,4 @@
 
 - "public figures in the sense that they hold institutional positions and by their official status are treated as  'having some locus' on the matter at hand." 262
 
-@spoken language
+@spoken-language

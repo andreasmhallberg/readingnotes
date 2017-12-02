@@ -16,4 +16,4 @@
 @reading
 @orthography
 @icraab
-@Standard Arabic
+@Arabic:Standard

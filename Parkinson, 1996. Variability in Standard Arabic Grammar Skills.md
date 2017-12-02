@@ -27,5 +27,5 @@ Data on skills in number+noun.
     - "They appear to be much more motivated to not be seen as producing Colloquial than they are to be seen as producing grammatically correct fuṣḥā.". 100
 
 @icraab
-@Standard Arabic
-@spoken language
+@Arabic:Standard
+@spoken-language

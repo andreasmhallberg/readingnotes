@@ -16,5 +16,5 @@
 
     > Erasure, the third semiotic process employed in language ideologies, involves not reproduction but reduction; sociolinguistic phenomena that clash with, fail to conform to, or otherwise threaten a given language ideology may be systematically ignored or denied, stricken from the ideological record.
 
-@standard language
+@standard-language
 @English

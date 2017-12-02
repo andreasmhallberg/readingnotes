@@ -22,6 +22,6 @@
 	4.	Borrowings no case. 44
 	5.	Numerals: 1-10 CA, >10 dialect. 49
 
-@Standard Arabic
-@spoken language
+@Arabic:Standard
+@spoken-language
 @icraab

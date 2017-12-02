@@ -31,5 +31,5 @@ Naive realism in linguistic sciences makes reform unfeasible.
     - Arabic grammatical tradition is "naïve-realist", 114. No differnce between the language in and of itself and the description of languge. Change in description therefore change in language itself. 115
 
 @ALT
-@language ideology
-@language reform
+@language-ideology
+@language-reform

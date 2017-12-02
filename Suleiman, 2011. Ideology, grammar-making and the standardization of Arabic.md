@@ -16,4 +16,4 @@
 - *Šuʿūbiyya* debate pushed language ideology toward Arabic as marker of ethnicity. 20
 
 @ALT
-@language ideology
+@language-ideology

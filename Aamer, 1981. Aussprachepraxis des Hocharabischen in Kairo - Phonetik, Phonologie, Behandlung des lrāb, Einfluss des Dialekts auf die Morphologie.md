@@ -21,5 +21,5 @@
 
 - "Wir stellen fast, daß die altarabische Grammatiker nur über die Bildungswise von Kontext- und Pausalformen sprechen, nicht jedoch darüber en welchen Stelluen sie auftreten können, d.h. an welchen Stellen eine Äußserung unterbrichen werden kann und an welchen Stellen nicht." 83
 
-@Standard Arabic
+@Arabic:Standard
 @pause
