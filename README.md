@@ -25,7 +25,7 @@ Each file contains notes from one single reference. They are formatted in markdo
 File names have the following form:
 
 ```
-<author last name>, <year>. <title>.mkd
+<author last name>, <year>. <title>.md
 ```
 
 For example:
@@ -33,6 +33,8 @@ For example:
 > Ferguson, 1959. Diglossia.mkd
 
 If there are several authors, the file name only contains the first author, without "et\ al.".  
+
+Subtitles are separated from main title with ` - ` rather than `: `. 
 
 ### Header
 
