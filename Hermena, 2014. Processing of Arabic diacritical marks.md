@@ -2,9 +2,6 @@
 
 Vowel signs ("diacritics") on passive verbs are processed when only the verb is vowelled, otherwise it is not
 
-@eye-tracking
-@arabic
-@reading
 
 - Fully vowelled text gives slower reading speeds (+ 75 ms gaze duration, Roman and Palvard 1987). 496
 
@@ -45,8 +42,6 @@ Vowel signs ("diacritics") on passive verbs are processed when only the verb is 
 
     > The small effect, likely due to visual crowding and the fact that there were no other differences between the two active conditions [no vowels and fully voweled] (similar total number of fixations and total sentence reading times), lends more support to the suggestion that readers do not engage automatically, or at any significant extent, in cognitive process to access the linguistic information provided by the diacritics in full diacritization mode. 
 
-
-
-
-
-
+@eye-tracking
+@arabic
+@reading
