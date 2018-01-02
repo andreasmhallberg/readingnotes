@@ -1,4 +1,4 @@
-# Roman, G. & Pavard, B., 1987. A Comparative Study: How We Read in Arabic and French. In J. K. O’Regan & A. Levy-Schoen, eds. Eye Movements from Physiology to Cognition. Amsterdam: Elsevier, pp. 431–440. Available at: http://www.sciencedirect.com/science/article/pii/B9780444701138500643 [Accessed November 25, 2015].
+# Roman, G. & Pavard, B., 1987. A Comparative Study: How We Read in Arabic and French. In J. K. O’Regan & A. Levy-Schoen, eds. Eye Movements from Physiology to Cognition. Amsterdam: Elsevier, pp. 431–440.
 
 - Arabic vs. French:
     - No difference in fixation duration. 433

@@ -7,7 +7,7 @@
 - Arabs are 'costodians', not 'owners' av SA [her CA]. 14
 
 - Religion dominates the world of SA: "in the 'tastes and contexts' of the 'socially changed life' of Classical Arabic, religion dominates." 17 
-    - Especially case endings gives associations to religion, especiall for the uneducated who only hear it in connection with the Quran. 109
+    - Especially case endings gives associations to religion, especial for the uneducated who only hear it in connection with the Quran. 109
 
 - "Indeed grammar as a whole for most people comes to mean the case endings." 40
 

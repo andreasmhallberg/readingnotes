@@ -14,4 +14,4 @@
 
 @Arabic
 @diglossia
-@pedagogy
+@tafl

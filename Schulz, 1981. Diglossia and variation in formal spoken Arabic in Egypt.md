@@ -74,3 +74,4 @@
 @word-order
 @Arabic:Standard
 @spoken-language
+@corpus-linguistics

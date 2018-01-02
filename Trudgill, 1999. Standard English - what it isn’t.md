@@ -2,13 +2,12 @@
 
 - Problems with common definitions of Standard English: register (lexicon)? style? accent?
 
-- "language varieties do not redly lend themselves to definition as such." 117
+- "language varieties do not readily lend themselves to definition as such." 117
 
 - Standard English is a dialect. 124
 
-    > There is really no continuum linking Standard English to other dialects because the codification that forms a crucila part of the standarisation process results in a situation where, in most casesa a feature is either standard or it is not.
+    > There is really no continuum linking Standard English to other dialects because the codification that forms a crucial part of the standardisation process results in a situation where, in most cases a feature is either standard or it is not.
 
-- Det finns icke-standard ord, men icke exklusivt standard ord. 127
 - There are exclusively non-standard words, but no exclusively standard words. 127
 
 @standard-language

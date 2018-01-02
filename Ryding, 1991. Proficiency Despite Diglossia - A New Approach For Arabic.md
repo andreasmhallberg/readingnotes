@@ -18,3 +18,4 @@ Describes teaching in Formal Spoken Arabic (FSA/ESA) at Foreign Service Institut
 @Arabic
 @pedagogy
 @ESA
+@tafl

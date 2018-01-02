@@ -67,3 +67,4 @@
 
 @Arabic:Standard
 @MSA
+@corpus-linguistics
