@@ -30,4 +30,10 @@
 @statistics
 @typography
 
+Use only of one field is predominant:
+@lexicon
+@syntax
+@phonology
+@morphology
+
 iʿrāb often spelled icraab

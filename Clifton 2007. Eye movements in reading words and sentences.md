@@ -4,7 +4,7 @@
     - first pass reading time - "the sum fixations in region from first entering the region until leaving the region"
     - go past or regression path duration - "the sum of all fixations in a region from first entering the region until moving to the right of the region."
     - regressions-out - "the probability of regressing out of region, generally limited to the first pass reading of that region"
-    - second pass reading time - "the sum of all fixations in a region following the initial first pass time, including zero times when a region sis not refixated"
+    - second pass reading time - "the sum of all fixations in a region following the initial first pass time, including zero times when a region is not refixated"
     - total reading time - "the sum of all fixations in a region, both forward and recessive movements"
     - first fixation duration - reported when region is small
 

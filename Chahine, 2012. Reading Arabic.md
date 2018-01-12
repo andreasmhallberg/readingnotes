@@ -1,4 +1,4 @@
-# Chahine, N., 2012. Reading Arabic: Legibility Studies for the Arabic Script, Leiden: Leiden University. Available at: https://openaccess.leidenuniv.nl/handle/1887/20022 [Åtkomstdatum november 12, 2015].
+# Chahine, N., 2012. Reading Arabic: Legibility Studies for the Arabic Script, Leiden: Leiden University.
 
 Eye-tracking testing legibility of simple and complex Arabic letter forms.
 
@@ -27,7 +27,7 @@ Eye-tracking testing legibility of simple and complex Arabic letter forms.
 
 - Fixations were manually checked.
 
-- *Results*:
+- Results:
     - Reading time: no effect. 203
     - Fixation time: shorter on simplified (ca. 10ms). [Small effect?] 205
     - Number of fixations: no effect. 206-7
