@@ -8,9 +8,9 @@
 - Case is complicated. "Given the linguistic complexity of Standard Arabic (especially the case the linguistic mood and case-marking system)" 232
 
 - Statistics on diglossic words wit Israeli-Arabic five year olds: 237
-    1. 40.6% of lexical types forms that are only phonetically different in dialect and SA.
-    2. 30.9% types uniquely dialectal.
-    3. 21.2% types overlapping.
+    1. 40.6% of lexical types forms that are predictibly phonetically different in dialect and SA (*dhahab/dahab 'gold*).
+    2. 30.9% types uniquely dialectal (*ḥāṭ/wadaʿa*).
+    3. 21.2% types overlapping/shared (*janūb, daftar*)
 
 @diglossia
 @Arabic

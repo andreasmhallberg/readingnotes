@@ -11,7 +11,6 @@
     - 14-15 letters to the right from fixation
     - 3-4 letters to the left from fixation
     - Opposite fore RTL.  
-    - Perceptual span mindre för jagpanska (6 tecken). 380 
     - Smaller for Japanese (6 letters). 380 "The size of the span varies as a function of orthography and is smaller for more densely packed writing systems." 381
 
 - Generally good spatial memory of where text has been misunderstood. 387

@@ -1,4 +1,4 @@
-# Buckwalter, T., 2007. Issues in Arabic Morphological Analysis. I A. Soudi, A. van den Bosch, & G. Neumann, reds Arabic Computational Morphology. Text, Speech and Language Technology. Springer Netherlands, ss 23–41. Available at: http://link.springer.com/chapter/10.1007/978-1-4020-6046-5_3 [Åtkomstdatum Februari 24, 2014].
+# Buckwalter, T., 2007. Issues in Arabic Morphological Analysis. I A. Soudi, A. van den Bosch, & G. Neumann, reds Arabic Computational Morphology. Text, Speech and Language Technology. Springer Netherlands, ss 23–41.
 
 - Regional variation in use of non-standard (Farsi) characters. More often used due to accessibility in Unicode. 26-27.
 
