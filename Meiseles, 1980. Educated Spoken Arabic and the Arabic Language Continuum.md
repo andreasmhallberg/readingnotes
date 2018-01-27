@@ -14,7 +14,7 @@
 
 - LA is read speech but unusual in improvised speech. "Actual speech in La takes mainly the form of OLA" 124
 
-- SsA defined by Ferguson's words as "an Arabs attempt to speak classical Arabic."  125.
+- SsA defined by Ferguson's words as "an Arab's attempt to speak classical Arabic."  125.
 
 - Functional definition of OLA: 125 
 

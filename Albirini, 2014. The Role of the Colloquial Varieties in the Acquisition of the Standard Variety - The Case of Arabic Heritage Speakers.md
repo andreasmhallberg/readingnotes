@@ -24,12 +24,12 @@
     
     - HE begin studies with advantage but looses it.
 
-    |         | number | overall mean accuracy | SD    |
-    | :-      | :-     | :-                    | :-    |
-    | EH      | 19     | 23.55                 | 19.44 |
-    | AH      | 16     | 78.13                 | 16.49 |
-    | L2      | 28     | 69.73                 | 17.89 |
-    | Control | 16     | 97.81                 | 4.27  |
+|         | number | overall mean accuracy | SD    |
+| :-      | :-     | :-                    | :-    |
+| EH      | 19     | 23.55                 | 19.44 |
+| AH      | 16     | 78.13                 | 16.49 |
+| L2      | 28     | 69.73                 | 17.89 |
+| Control | 16     | 97.81                 | 4.27  |
 
 - L2 no transfer errors. 475
 
