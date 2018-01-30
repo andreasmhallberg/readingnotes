@@ -1,5 +1,7 @@
 # Aamer, M., 1981. Aussprachepraxis des Hocharabischen in Kairo : Phonetik, Phonologie, Behandlung des lrāb, Einfluss des Dialekts auf die Morphologie.  Erlangen-Nürnberg.
 
+test
+
 - Raises the presetige of MSA: (?) 8-10
     1. Symbilizes the heritaga
     2. Arab nationalism
