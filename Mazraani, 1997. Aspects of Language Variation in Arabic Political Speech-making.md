@@ -4,7 +4,7 @@
  
 - Pause segments judged in scale of dialect-MSA on basis of recedes of MSA features. 39
 
-- "?i`rāb [...] is an optional MSA extramarker and does not need to occur to define the verb as MSA". 65
+- "?i\`rāb [...] is an optional MSA extramarker and does not need to occur to define the verb as MSA". 65
 
 - MSA is used for: 189
     1. "constructing an abstract argument"

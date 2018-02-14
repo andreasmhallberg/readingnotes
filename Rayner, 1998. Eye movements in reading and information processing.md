@@ -1,5 +1,7 @@
 # Rayner, K., 1998. Eye movements in reading and information processing.  Psychological Bulletin, 85(3), ss.618–660.
 
+[More updated review in Rayner 2009]
+
 - "When reading English, eye fixation lasts about 200--250 ms and the mean saccade size is 7-9 letter spaces." 375
 
 - Fixations:

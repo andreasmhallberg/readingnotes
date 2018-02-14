@@ -42,7 +42,6 @@
     1. with enclitic pronoun –*ak*/*-ik*
     2. Vowel in word boundaries, e.g. preceding article
 
-- Talare undviker ibland besvär genom att lägga till vilken vokal som helst men ändå höja sig från dialekt. 185 Jfr. Parkinson.
 - Speakers sometimes add any vowel regardless of case as a means of raising from the dialect. 185 [Cf. Parkinson 1994]
 
 - Schwa often used. 185

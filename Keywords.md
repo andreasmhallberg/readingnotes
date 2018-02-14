@@ -1,6 +1,9 @@
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
 @Arabic
+@Arabic:Egyptian
+@Arabic:Syrian
+@Arabic:Standard
 @CMC (Computer Mediated Communication)
 @English
 @SLA
@@ -31,6 +34,7 @@
 @typography
 
 Use only of one field is predominant:
+
 @lexicon
 @syntax
 @phonology

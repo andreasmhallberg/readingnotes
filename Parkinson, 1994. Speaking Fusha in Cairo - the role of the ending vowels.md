@@ -1,6 +1,6 @@
 # Parkinson, Dilworth, 1994. Speaking Fusha in Cairo: the role of the ending vowels. In Arabic Sociolinguistics, 179-211. Ed. Suleiman, Yasir. Surrey: Curzon Press.
 
-Detailed description of a few speakers use of vowel/case endigns. 
+Detailed description of a few speakers use of vowel/case endings. 
 
 [Why study the SA of speakers who never use it and make no claim of knowing it.]
 
@@ -8,14 +8,14 @@ Detailed description of a few speakers use of vowel/case endigns.
 
 - Strong preference with all to produce *a* in perf3m.s. Cannot be incorrect. 183
 
-- Uneducated speakers use accoasional vowels withoyt relation to syntax in order to mark their speech as SA. 185 
+- Uneducated speakers use occasional vowels without relation to syntax in order to mark their speech as SA. 185 
     - One speaker: "'if you want to vowel something, use /a/'". 192 
 
 - Possible memorized frozen expression with icraab. 187
 
 - Words with enclitic pronoun often case vowel. 191
 
-- Indite more often marked than construct state in idafa. 191, 200
+- Indite more often marked than construct state in iDaafa. 191, 200
 
 - Numbers not inflected as nouns. 192
 

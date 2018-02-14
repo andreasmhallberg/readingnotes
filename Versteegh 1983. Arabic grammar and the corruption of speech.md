@@ -18,7 +18,7 @@
 
     > almost all Arabic accounts of the origin of Arabic grammar concentrate on the wrong use of the declensional endings, as if there were no other types of mistakes against the rules of the Classical standard.
 
-    - This focus in icrrab because of its status as shibbolet. Correct us of icraab "requirement for intellectual carrier." 156
+    - This focus in icraab because of its status as shibbolet. Correct us of icraab "requirement for intellectual carrier." 156
 
 @ALT
 @icraab
