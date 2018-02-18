@@ -13,11 +13,11 @@ Experiment on parents explicit instruction to children to use politeness formula
 
 - No differences in promoting boys and girls. 164
 
-- Important for socialisation: 
+- Important for socialisation: 165-6
 
-    > These formulas mark the speaker as an appropriate member of pur society, and failure to perform them or some variation of them is the sign of an eccentric or bizzare person. 165
+    > These formulas mark the speaker as an appropriate member of our society, and failure to perform them or some variation of them is the sign of an eccentric or bizzare person.
 
-    > While a child might get by in the world without ever using the passive, or even a common lexical item like *ball*, the child who does not learn to say *hi, thanks,* and *goodbye* will become a despised member of society. 166
+    > While a child might get by in the world without ever using the passive, or even a common lexical item like *ball*, the child who does not learn to say *hi, thanks,* and *goodbye* will become a despised member of society.
 
 @politeness
 

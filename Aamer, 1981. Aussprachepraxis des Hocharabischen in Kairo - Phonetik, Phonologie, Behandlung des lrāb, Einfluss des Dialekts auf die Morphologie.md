@@ -19,7 +19,9 @@
 
 - In 2 speakers try to use correct icraab. In they cant they do not pronounce icraab. 73
 
-- "Wir stellen fast, daß die altarabische Grammatiker nur über die Bildungswise von Kontext- und Pausalformen sprechen, nicht jedoch darüber en welchen Stelluen sie auftreten können, d.h. an welchen Stellen eine Äußserung unterbrichen werden kann und an welchen Stellen nicht." 83
+- Traditional grammar does not specify where pausal forms are used: 83  
+
+  > Wir stellen fast, daß die altarabische Grammatiker nur über die Bildungswise von Kontext- und Pausalformen sprechen, nicht jedoch darüber en welchen Stelluen sie auftreten können, d.h. an welchen Stellen eine Äußserung unterbrichen werden kann und an welchen Stellen nicht. 
 
 @Arabic:Standard
 @pause
