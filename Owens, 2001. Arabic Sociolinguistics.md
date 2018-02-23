@@ -29,3 +29,4 @@
 @Arabic
 @diglossia
 @code-switching
+@review-article

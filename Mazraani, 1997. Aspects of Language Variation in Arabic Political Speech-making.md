@@ -10,7 +10,7 @@
     1. "constructing an abstract argument"
     2. "recalling historical events"
     3. "expanding new political ideas, and axioms"
-- Dialect is used "when the speaker for instnace explains and specifies": 189
+- Dialect is used "when the speaker for instance explains and specifies": 189
     1. "his political programme"
     2. "his conversations with various leaders"
     3. "his personal experience"

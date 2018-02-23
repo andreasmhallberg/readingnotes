@@ -10,7 +10,14 @@
 
 These are my research related reading-notes on books and articles relating to Arabic Linguistics. I continuously add to and edit these notes as I read and re-read things. I have placed them here primarily as a backup and to make them accessible on different devices. I also want to make these notes accessible to colleges and students, although I am not sure how useful they might be.
 
-Most of the notes were written as part of the research for my dissertation, [*Case Endings in Spoken Standard Arabic*](https://lup.lub.lu.se/search/publication/8524489) and there is a heavy emphasis on Standard Arabic, diglossia, and speech.
+Since these notes are related to my research there is i focus on:
+
+- Arabic linguistics (quite broadly)
+- diglossia
+- speech
+- language ideology
+- eye-tracking
+- reading
 
 Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper or book.
 
@@ -30,11 +37,11 @@ File names have the following form:
 
 For example:
 
-> Ferguson, 1959. Diglossia.mkd
+> Ferguson, 1959. Diglossia.md
 
-If there are several authors, the file name only contains the first author, without "et\ al.".  
+If there are several authors, the file name only contains the first author, without "et\ al.".
 
-Subtitles are separated from main title with ` - ` rather than `: `. 
+Subtitles are separated from main title with ` - ` rather than the more common.`: `. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
 
 ### Header
 
@@ -42,20 +49,22 @@ Each file begins with the complete biographical reference in Chicago author-date
 
 ### Contents
 
-The actual notes referencing the content of the article or book are organized as lists. At the end of each listed note there is a page reference. When the original wording is important (and also when I have been lazy) it is quoted rather then summarized. Longish quotes are in block quotes (marked in markdown with initial `>`) nested (with indentation) under a list item with a very brief summary of the quote. This summary of the quote is intended to make the content quickly skimmable.
+The actual notes referencing the content of the article or book are organized as nested lists. 
+
+Page reference are given at the end of lines. No page reference at the end of a line means that it is on the same page as previous. 
+
+When the original wording is important (and also when I have been lazy) it is quoted rather then summarized. Longish quotes are in block quotes (marked in markdown with initial `>`) nested (with indentation) under a list item with a very brief summary of the quote. This summary of the quote is intended to make the content quickly skimmable.
 
 Material in square brackets are my comments.
 
-When lists and tables are quoted they are converted to markdown. 
+Lists and tables are quoted in markdown format. 
 
 ### Keywords
 
 At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See `keywords.md` for a list of keywords. 
 
-Hypen are used in place of spaces.
+Hyphens are used in place of spaces in keywords.
 
 Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
 
 Keywords are added by me and are not those of the original author. 
-
-

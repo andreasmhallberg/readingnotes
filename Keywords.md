@@ -28,6 +28,7 @@
 @pedagogy
 @politeness
 @reading
+@review-article
 @spoken-language
 @standard-language
 @statistics
