@@ -8,7 +8,7 @@ Case endings in speech marking 'saliency' and 'individuation'.
     - [Circular reasoning. No independent way of testing saliency or individuation.] 
     - [Analysis fuzzy. Practically any word could be interpreted as having saliency or individuation. (Examples 8, 21)]
 
-- *Mā ibhāmiyya* "may also be considered a type of specificity marker" [!] and is thus often marked for case. 78 WTF!
+- *Mā ibhāmiyya* "may also be considered a type of specificity marker" [!] and is thus often marked for case. 78
 
 @spoken-language
 @Arabic:Standard
