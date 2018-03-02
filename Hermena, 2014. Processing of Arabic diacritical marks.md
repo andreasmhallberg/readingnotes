@@ -3,9 +3,9 @@
 Vowel signs ("diacritics") on passive verbs are processed when only the verb is vowelled, otherwise it is not
 
 
-- Fully vowelled text gives slower reading speeds (+ 75 ms gaze duration, Roman and Palvard 1987). 496
+- Fully vowelled text gives slower reading speeds (+75 ms gaze duration, Roman and Palvard 1987). 496
 
-- Disruption measurable in disambiguation region for garden path sentenses (Frazier & Rayner 1982, Liversedge et al. 2002, Murray & Liversedge 1994). 496 
+- Disruption measurable in disambiguation region for garden path sentenses (Frazier & Rayner 1982, Liversedge et al. 2002, Murray & Liversedge 1994). 496
 
 - Survey of printed text shows that show that active verbs are never vowelled, passive verbs are vowelled if not disambiguated by directly surraounding context. 596
 
@@ -14,7 +14,7 @@ Vowel signs ("diacritics") on passive verbs are processed when only the verb is 
 
 
 - Participants
-    - 25
+    - 25 participants
     - read text aloud to control proficiency. 499
 
 - Stimuli 499

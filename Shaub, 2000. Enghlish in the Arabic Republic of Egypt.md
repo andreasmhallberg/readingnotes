@@ -6,7 +6,7 @@
     3. interpersonal function
     4. imaginative/innovative function - literature
 
-- English seen as very important for job market. "national hysteria" 228
+- English seen as very important for job market, "national hysteria" 228
 
 - Private language schools and public schools. 229
 

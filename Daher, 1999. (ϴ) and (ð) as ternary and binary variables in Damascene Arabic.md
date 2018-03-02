@@ -8,3 +8,5 @@
 
 @sociolinguistics
 @Arabic:Standard
+@Arabic:Syrian
+

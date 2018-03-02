@@ -23,3 +23,4 @@ Publications of Zetterstéen's translation:
 
 @Arabic
 @Sweden
+@quran

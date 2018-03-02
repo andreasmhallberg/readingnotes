@@ -33,6 +33,7 @@
 @standard-language
 @statistics
 @typography
+@quran
 
 Use only of one field is predominant:
 

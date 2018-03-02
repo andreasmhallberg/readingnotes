@@ -5,11 +5,13 @@
     - Fractal recursivity - applying systems of linguistic differentiation to other speech community.
     - Erasure - renders invisible or explains away facts that are difficult for the ideology to account for.
 
+      > the process in which ideology, in simplyfiin gthe sociolinguistic field, renders some persons or activities (or sociolinguistic phenomena) invisible. Facts that are inconsistent with the ideological scheme either go unnoticed or get explained away.
+
 - 3 case studies
    - Acquisition of clicks.
    - Colonial linguistic description of Senegal
 
-       > The ways these languages were identified, delimited, and mapped, the ways their relationships were interpreted, and even the ways they were described in grammars and dictionaries were all heavily influenced by an ideology of racial an national essences. 409 
+     > The ways these languages were identified, delimited, and mapped, the ways their relationships were interpreted, and even the ways they were described in grammars and dictionaries were all heavily influenced by an ideology of racial an national essences. 409 
 
     - Language ideologies in Macedonia
 

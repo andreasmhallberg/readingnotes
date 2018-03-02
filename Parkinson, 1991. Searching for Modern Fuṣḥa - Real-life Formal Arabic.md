@@ -27,6 +27,10 @@
     3. icraab only on some verbs and before enclitic pronoun. [Same as 2?]
     4. No icraab.
 
+  > it is possible to orally perform a written modern fuṣḥa text (1) with full vowelling and fully correct use of pause form (including even such archaisms as changing the *-an* of *giddan* to *-a* before a pause, as is currently done by a single news reader on Egyptian television), (2) with only partial vowelling and some incorrect use of pause form (putting pause forms when there is no pause putting vowels before a pause), and note that there is a wide range of partial vowelling here, from most to only a little with clear hierarchy of contexts where vowels are more likely to be retained, (3) with *iʿraab* vowels only on some verbal forms and before pronouns suffixes and nowhere else, or (4) with no *iʿraab* vowels at all, but with otherwise correct syntax; in each of these cases, most Egyptians would still consider the performance an example of modern fuṣḥa (whatever they happen to call it).   
+
+  - Also with colloquial phonology.
+
 - Ideology of Arab and Islamic unity and heritage informs language teaching: 39 
 
     > Many overtly state that the purpose of teaching formal Arabic to children in school is not so much to make them literate members of a modern society but to keep them in touch with their classical literary and religious heritage. Thus the emphasis on memorizing long passages of classical Arabic poetry, and the consistent testing of obscure and archaic vocabulary in the national educational exams [in Egypt]. 
