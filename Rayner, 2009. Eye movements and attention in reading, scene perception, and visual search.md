@@ -19,7 +19,7 @@
 - Letter spaces appropriate length measure in reading as long as text is of normal size. 1460
 
 - Reading 1460
-  - average fixation about 200--250 m 
+  - average fixation about 200--250 ms
   - average saccade size is 7-9 letter spaces (English).
 
 - *regressions*: backtracking eye movements 

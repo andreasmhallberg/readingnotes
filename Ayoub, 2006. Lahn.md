@@ -8,7 +8,7 @@ Mostly concerned with classical literature.
 
 - Correct language given moral value. 632
 
-- "In these works one finds quite remarkable and uncommon qualifying terms for *laḥn*: *laḥn fāḥiš wa-xaṭaʾ šāʾin* 'a horrible mistake, a shameful mistake' [...] *wahm yašīn wa-xaṭaʾ mustabīn* 'a shameful mistake; an obvious mistake'[...] *mafāḍiḥu l-laḥn aš-šāniʿ* 'among the ugly mistakes and the disgraceful mistakes'" 632
+  > In these works one finds quite remarkable and uncommon qualifying terms for *laḥn*: *laḥn fāḥiš wa-xaṭaʾ šāʾin* 'a horrible mistake, a shameful mistake' [...] *wahm yašīn wa-xaṭaʾ mustabīn* 'a shameful mistake; an obvious mistake'[...] *mafāḍiḥu l-laḥn aš-šāniʿ* 'among the ugly mistakes and the disgraceful mistakes'
 
 - "what is at stake in the language [in the classical era] is social dignity and rank" 632
 
