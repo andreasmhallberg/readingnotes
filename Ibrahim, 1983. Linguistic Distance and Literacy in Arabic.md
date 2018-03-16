@@ -13,7 +13,6 @@ Discusses negative effects of diglossia on literacy. 507
 
 - Extremely rare to hear someone read without interference from spoken language. 512 
 
-- Politiker är antingen omedvetna om diglossians effekt på utbildning eller vågar inte tala om det. 513. Jfr Ibrahim 1989:48.
 - Policy makers are either unaware of the effects of diglossia on literacy or are afraid to talk about it. 513
 
 - Diglossia originates in strong ideology of unchanging language. 513

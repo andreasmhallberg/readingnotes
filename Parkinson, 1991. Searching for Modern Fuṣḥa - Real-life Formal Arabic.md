@@ -7,25 +7,25 @@
 - No consensus of Arabic term for MSA. Six examples of different terms 33
 
 - Two opinions:
-    1. "for many Egyptians, the term fuṣḥā is limited entirely  to the language of the classical period and to the modern language that mimics it." 34 *fuṣḥā* includes archaisms and classical style. 34
-    2. MSA (in news etc.) is good *fuṣḥā*.
+  1. "for many Egyptians, the term fuṣḥā is limited entirely  to the language of the classical period and to the modern language that mimics it." 34 *fuṣḥā* includes archaisms and classical style. 34
+  2. MSA (in news etc.) is good *fuṣḥā*.
 
 - Confusion whether *fuṣḥā* is style or variant.
 
 - Arab linguists give little legitimacy to common usage: 35
 
-    > Similarly, when [in conferances on language] a linguist points out a common usage in newspaper Arabic that is at odds with Classical Arabic, it is common for him/her to be informed that people are simply making a mistake, with the implication that no other explanation is needed, that modern Arabs don't have the "right" to develop their on formal language 
+  > Similarly, when [in conferances on language] a linguist points out a common usage in newspaper Arabic that is at odds with Classical Arabic, it is common for him/her to be informed that people are simply making a mistake, with the implication that no other explanation is needed, that modern Arabs don't have the "right" to develop their on formal language 
 
 - No differentiation between modern and classical Arabic. E.g. in lexica. 35-36
-    - Egyptian Academy "has published a dictionary recently with an absolutely confusing mixture of archaic, classical, and modern meanings under almost every entry." 36
+  - Egyptian Academy "has published a dictionary recently with an absolutely confusing mixture of archaic, classical, and modern meanings under almost every entry." 36
 
 - On levels: data is extremely confusing. Easy to find exceptions to all proposed definitions. Risks of circular reasoning if features define a level. 37. 
 
 - Four ways of reading SA aloud 38:
-    1. prescriptively correct
-    2. partly but correct icraab
-    3. icraab only on some verbs and before enclitic pronoun. [Same as 2?]
-    4. No icraab.
+  1. prescriptively correct
+  2. partly but correct icraab
+  3. icraab only on some verbs and before enclitic pronoun. [Same as 2?]
+  4. No icraab.
 
   > it is possible to orally perform a written modern fuṣḥa text (1) with full vowelling and fully correct use of pause form (including even such archaisms as changing the *-an* of *giddan* to *-a* before a pause, as is currently done by a single news reader on Egyptian television), (2) with only partial vowelling and some incorrect use of pause form (putting pause forms when there is no pause putting vowels before a pause), and note that there is a wide range of partial vowelling here, from most to only a little with clear hierarchy of contexts where vowels are more likely to be retained, (3) with *iʿraab* vowels only on some verbal forms and before pronouns suffixes and nowhere else, or (4) with no *iʿraab* vowels at all, but with otherwise correct syntax; in each of these cases, most Egyptians would still consider the performance an example of modern fuṣḥa (whatever they happen to call it).   
 
@@ -44,7 +44,7 @@
     2. Anti-narrow-*fuṣḥā*
     3. Expanded-*fuṣḥā*
 
-- Matched guise test: phonology more important than icraab for impressions of *fuṣḥā*ness. 57
+- Matched guise test: phonology more important than icraab for impressions of *fuṣḥā*-ness. 57
 
 - Broad spectrum of what is accepted as *fuṣḥā*. 58
 

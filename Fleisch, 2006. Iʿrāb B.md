@@ -5,3 +5,4 @@
 - Definition from Jurjanis Taʿrīfāt: *huwa ʾxtlāf āxir al-kalima bi-xtilāf al-ʿawāmil lafẓan aw tqdīran.* 1249
 
 @icraab
+@Arabic
