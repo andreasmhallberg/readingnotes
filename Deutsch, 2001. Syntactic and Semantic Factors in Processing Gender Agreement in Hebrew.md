@@ -1,6 +1,6 @@
 # Deutsch, Avital, and Shlomo Bentin. 2001. “Syntactic and Semantic Factors in Processing Gender Agreement in Hebrew: Evidence from ERPs and Eye Movements.” Journal of Memory and Language 45 (2):200–224.
 
-- Hypothesis: differentiate between anomaly in gender and sex. 203
+- Hypothesis: differentiate between syntactic anomaly in gender and sex. 203
 
     > violation of gender agreement for animate nouns involves, in addition to the grammatical violation, a semantic mismatch between the biological sex denoted by the subject and the in congruent predicate.  
 

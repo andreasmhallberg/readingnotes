@@ -20,7 +20,7 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
   - pragmatically anomalous sentences more regressions alter in sentence after anomalous verb. 
 
 - Discussion. 39
-  - Reaction to syntactic anomalies immediate bet disappear later in sentence.
+  - Reaction to syntactic anomalies immediate but disappear later in sentence.
   - Reaction to pragmatic anomalies not immediate but lingers and peaks at end of sentence, with regressions to anomalous verb.
 
 @eye-tracking

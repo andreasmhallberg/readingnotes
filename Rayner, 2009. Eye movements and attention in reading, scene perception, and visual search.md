@@ -34,7 +34,7 @@
 
 - Poor, beginning and dyslectic readers make longer fixations, shorter saccades and more regressions.
 
-- Denser orthographies (Chinese, Hebrew) yields similar fixation durations and regressions but shorter saccades. 1461
+- Denser orthographies yields similar fixation durations and regressions but shorter saccades (Chinese 2--3 characters, Hebrew 5.5 characters). 1461
 
 - Measurements of processing
   - Fixation duration good global measure but poor local measure of processing because of
