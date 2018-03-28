@@ -20,3 +20,4 @@
 - "if they use **ʾi’ʿraab‘**, then by definition they are not speaking ESA. 19 (underline in original)
 
 @ESA
+@Arabic

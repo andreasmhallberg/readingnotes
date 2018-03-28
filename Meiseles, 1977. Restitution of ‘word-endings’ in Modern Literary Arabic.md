@@ -8,7 +8,7 @@
 
 - "the rather complicated system of these CA endings." 175
 
-- Icraab is highly valued in the education system. 176. "condition sine qua non of CA"
+- Icraab is highly valued in the education system. "condition sine qua non of CA" 176
 
 - Word endings are proffered: 177 
     1. preceding *waṣla*
@@ -23,7 +23,7 @@
 
 - "Regenereation" of case system. Stylistic and not syntactic. 179
 
-- Srabs cannot use ucraab in fluent speech. 180
+- Arabs cannot use icraab in fluent speech. 180
 
 - Correct icraab first minutes of speech. Then more mixed ways of speaking. 180
 
