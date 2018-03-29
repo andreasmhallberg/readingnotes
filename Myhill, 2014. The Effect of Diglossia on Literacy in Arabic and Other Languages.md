@@ -11,9 +11,9 @@
 - 'External diglossia' (H in other country) vs. 'frozen diglossia' (H in the past). 211
 
 - Frozen diglossia associated with low literacy rates than in external diglossia. Possible causes: 212
-    1. Linguistic difference between H and L greater in frozen than in external diglossia. Problem of measurement. 
-    2. In external diglossia H can be heard in everyday usage.
-    3. Frozen diglossia burdened with archaic, artificial grammatical rules. H in external diglossia based on existing usage.
+  1. Linguistic difference between H and L greater in frozen than in external diglossia. Problem of measurement. 
+  2. In external diglossia H can be heard in everyday usage.
+  3. Frozen diglossia burdened with archaic, artificial grammatical rules. H in external diglossia based on existing usage.
 
 - Solution: adopt arabizi (3,7 etc) as written medium in primary education. Example of japan and korea. 217-219
 

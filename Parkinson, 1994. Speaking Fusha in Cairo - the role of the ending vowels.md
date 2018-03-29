@@ -22,11 +22,11 @@ Detailed description of a few speakers use of vowel/case endings.
 - Longer analysis of speaker with prescriptively correct speech. ”utterly unique”, 207
 
 - Conclusion: 
-    - Icraab necessary marker of SA but difficult: 207
+  - Icraab necessary marker of SA but difficult: 207
 
-    > It is clear that all speakers, when they decide to do *fuṣḥā*, whether for just a part of a sentence or for a whole exchange, use the ending vowels along with other *fuṣḥā* markers to indicate what they are doing. Most use them just occasionally, sprinkling them through their text at a certain rate to give the flavour of *fuṣḥā* without making it so difficult on themselves they would not be able to speak at all.
+  > It is clear that all speakers, when they decide to do *fuṣḥā*, whether for just a part of a sentence or for a whole exchange, use the ending vowels along with other *fuṣḥā* markers to indicate what they are doing. Most use them just occasionally, sprinkling them through their text at a certain rate to give the flavour of *fuṣḥā* without making it so difficult on themselves they would not be able to speak at all.
 
-    - Proficient speakers aim lower than formally correct speech so as not to seem distanced/pedantic. 209
+  - Proficient speakers aim lower than formally correct speech so as not to seem distanced/pedantic. 209
 
 @Arabic:Standard
 @icraab

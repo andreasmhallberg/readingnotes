@@ -2,7 +2,6 @@
 
 Discusses negative effects of diglossia on literacy. 507
 
-- Lära sig läsa på arabiska: nytt språk + grafisk representation. 508
 - Learning how to read in Arabic is both new language *and* graphical representation. 508
 
 - Diglossia is a continuum (El-Hassan 1977) for the highly educated, but for not highly educated it is a dichotomy [i.e. Ferguson's classical diglossia]. 509
