@@ -13,7 +13,7 @@
 - Tables of 100 articles on eye movements in sentence comprehension indicating type of study.
 
 - Syntactic anomalies:
-    - Few studies on the effects of syntactic anomalous sentences. 363 
+    - Few studies on the effects of syntactic anomalous sentences. 363
     - Of fours studies that have explicitly syntactic anomaly only two found effects on offending word.
     - Unclear how syntactic anomalies effects comprehension: 364
 
