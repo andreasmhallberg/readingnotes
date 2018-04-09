@@ -1,8 +1,9 @@
-# Braze, David, Donald Shankweiler, Weijia Ni, and Laura Conway Palumbo. “Readers’ Eye Movements Distinguish Anomalies of Form and Content.” Journal of Psycholinguistic Research 31, no. 1 (2002): 25–44. https://doi.org/10.1023/A:1014324220455.
+# Braze, David, Donald Shankweiler, Weijia Ni, and Laura Conway Palumbo. “Readers’ Eye Movements Distinguish Anomalies of Form and Content.” Journal of Psycholinguistic Research 31, no. 1 (2002): 25–44.
 
 Compares eye-movement patterns in syntactic and pragmatic anomalies. 
 
 - Stimulus
+  - control, syntactic anomaly, pragmatic anomaly (similar to Ni et al. 1998) 29
   - 36 target sentences, 72 fillers. 31 
   - 25% of filler contained anomalies "so that anomalous target items were not conspicuous." 31
 
@@ -17,7 +18,7 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
 
 - Results
   - "dramatically more regressions" (.37 vs. .10) from syntactically anomalous verb region than in control, but not in pragmatic anomalies. 34  
-  - pragmatically anomalous sentences more regressions alter in sentence after anomalous verb. 
+  - pragmatically anomalous sentences more regressions later in sentence after anomalous verb. 
 
 - Discussion. 39
   - Reaction to syntactic anomalies immediate but disappear later in sentence.
