@@ -25,3 +25,4 @@
 
 @eye-tracking
 @reading
+@syntax
