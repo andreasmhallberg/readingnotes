@@ -2,10 +2,12 @@
 @Aljazeera
 @Arabic
 @Arabic:Egyptian
-@Arabic:Syrian
 @Arabic:Standard
+@Arabic:Syrian
 @CMC (Computer Mediated Communication)
 @English
+@FLA (first language acquisition)
+@Israel
 @SLA
 @Sweden
 @code-switching
@@ -13,13 +15,11 @@
 @diglossia
 @epenthesis
 @eye-tracking
-@FLA (first language acquisition)
 @fluency
 @formality
 @hamza
 @heritage-speakers
 @icraab
-@Israel
 @language-ideology
 @language-ideology:primary-source
 @linguistic-insecurity
@@ -27,13 +27,13 @@
 @morphology
 @pedagogy
 @politeness
+@quran
 @reading
 @review-article
 @spoken-language
 @standard-language
 @statistics
 @typography
-@quran
 
 Use only of one field is predominant:
 

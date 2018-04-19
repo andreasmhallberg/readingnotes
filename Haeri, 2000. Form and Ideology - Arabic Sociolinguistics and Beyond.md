@@ -3,8 +3,8 @@
 Review of Arabic sociolinguistics.
 
 - Breakingpoints:
-    1. Fergusons diglossia
-    2. Womens use of non-standard. 67
+  1. Fergusons diglossia
+  2. Womens use of non-standard. 67
 
 - "The study of the spoken languages remains largely confined to foreign researchers." 65
 
@@ -15,8 +15,6 @@ Review of Arabic sociolinguistics.
 - Spread of mass education "lead to concerns about the 'difficulty' of the grammar and orthography of Classical Arabic." 71
 
 - Debate on language reforms (grammar or writing system). 71-72
-
-- (Förespråkare för avskaffande av kasus (Musa, Frayha rätt i efterhand!?)
 
 - Grandguillauma on MSA as without cultural foundation, "translated world". 73
 
