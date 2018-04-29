@@ -14,7 +14,7 @@
 - Readers react to garden-paths with either. 196-
   - *Chaos*: Long fixations and short forward saccades. Unable to reanalyze sentence.
 
-  > Occasionally, however, the parser will plow on through the sentence after incompatible information is received. 200
+    > Occasionally, however, the parser will plow on through the sentence after incompatible information is received. 200
 
   - *Disruption*: regression and reanalysis.
 
