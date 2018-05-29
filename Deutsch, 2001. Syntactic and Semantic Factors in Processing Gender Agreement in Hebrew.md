@@ -11,17 +11,17 @@
 - 2 by 2: gender/animacy. 204
 
 - Stimulus
-    - predicate always adjacent to subject. 207
-    - 104 sentences. Two blocks with pause between.
-    - different randomization order for each participant.
-    - 25% followed by comprehension question. 208
-    - each trial start with fixation point where sentence start will appear. Verifies calibration.
+  - predicate always adjacent to subject. 207
+  - 104 sentences. Two blocks with pause between.
+  - different randomization order for each participant.
+  - 25% followed by comprehension question. 208
+  - each trial start with fixation point where sentence start will appear. Verifies calibration.
 
 - results
-    - gaze duration and second pass duration longer for incongruent predicates. 209 
-        - form (morphological) markedness condition showed in first pass
-        - unmarked in second pass
-    - bigger difference in animate subjects.
+  - gaze duration and second pass duration longer for incongruent predicates. 209 
+    - form (morphological) markedness condition showed in first pass
+    - unmarked in second pass
+  - bigger difference in animate subjects.
 
 @eye-tracking
 @reading

@@ -7,7 +7,7 @@ Vowel signs ("diacritics") on passive verbs are processed when only the verb is 
 
 - Disruption measurable in disambiguation region for garden path sentenses (Frazier & Rayner 1982, Liversedge et al. 2002, Murray & Liversedge 1994). 496
 
-- Survey of printed text shows that show that active verbs are never vowelled, passive verbs are vowelled if not disambiguated by directly surraounding context. 596
+- Survey of printed text shows that show that active verbs are never vowelled, passive verbs are vowelled if not disambiguate by directly surrounding context. 596
 
 - Increased visual crowding results in slower identification of the word (first fixation) (Paterson & Jordan 2010, Slattery & Rayner 2013). 497
     - word spacing

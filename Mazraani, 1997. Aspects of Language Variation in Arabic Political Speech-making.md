@@ -20,7 +20,7 @@
 - When switching to MSA all speakers have in their speech: 195-6
     1. Past plural *-ū* (Libya, Egypt) or *-ūn* (Iraq). The ending "*-ūna* is apperantly felt to be too formal to be occuring in these speech contexts." 
     2. Deletion of short unstressed vowel.
-    3. "The relative pronoun ?illi is pervasive in all three sets of data, since the MSA chaises alla\uline{dh}ī, allatī, alla\uline{dh}īna are felt too formal."
+    3. "The relative pronoun ?illi is pervasive in all three sets of data, since the MSA chaises alladhī, allatī, alladhīna are felt too formal." (Fricative *dh* underlined in original.)
     4. In Libyan and Egyptian data *-it* for *tāʾ marbūṭa* "coocuring with MSA elements".
     5. *-it* for 1s past in Iraqi data.
     6. (196) "Prefix *bi-* is extremely widespread and routinely cooccurs even with markedly MSA elements."

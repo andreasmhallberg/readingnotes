@@ -11,7 +11,7 @@
 
 - If we study MSA imperial rather than on the bases of traditional grammar: 
 
-> we will come to recognize the observable fact that the cumbersome system of vowel-endings, to which we still insist on subjecting learners of MSA, is actually redundant. 21
+  > we will come to recognize the observable fact that the cumbersome system of vowel-endings, to which we still insist on subjecting learners of MSA, is actually redundant. 21
 
 @diglossia
 @icraab
