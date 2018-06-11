@@ -4,6 +4,7 @@
 @Arabic:Egyptian
 @Arabic:Standard
 @Arabic:Syrian
+@Arabic:Classical (i.e. premodern)
 @CMC (Computer Mediated Communication)
 @English
 @FLA (first language acquisition)
