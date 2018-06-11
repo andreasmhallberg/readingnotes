@@ -4,13 +4,12 @@
 
     > In diglossic terms, the *fuṣḥā* an the main foreign language constitute the high varieties, and the vernaculars, indiunous languages, and special-purpose languages constitute the low variety.
 
-- Description of language planning and history in NA, ME and Gulf.
+- Description of language planning and history in North Africa, Middle East and Gulf.
 
-- Lärare undviker att använda metoder för L2 inlärning för att inte framstå som att Arabiska L2. 701
-- Teacher avoid L2 teaching methods so as not to make SA appear to be L2. 701
+- Teacher avoid L2-teaching methods so as not to make SA appear to be L2. 701
 
 - Main problem is poor pedagogy relying on memorization. 
 
 @Arabic
 @diglossia
-@education
+@pedagogy

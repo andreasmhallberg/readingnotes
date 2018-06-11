@@ -2,7 +2,7 @@
 
 **Important:**
 
-1. **Only some of these notes are complete summaries of the respective reference. Most only contain notes on what I found interesting in the particular reference or of information that is of particular interest to me.**
+1. **Only some of these notes are complete summaries of the respective reference. Often they only contain notes on what I found interesting in the particular reference.**
 3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and no italics.** 
 
 
@@ -25,7 +25,7 @@ For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. 
 
 ## Structure and format
 
-Each file contains notes from one single reference. They are formatted in markdown (a plain text format similar to .txt). As such they can be easily converted via Pandoc or similar to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
+Each file contains notes from one single reference. They are formatted in markdown (a plain text format similar to .txt). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
 
 ### File name
 
@@ -41,7 +41,7 @@ For example:
 
 If there are several authors, the file name only contains the first author, without "et\ al.".
 
-Subtitles are separated from main title with ` - ` rather than the more common.`: `. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
+Subtitles are separated from main title with ` - ` rather than the more common.`: ` for compatibility reasons. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
 
 ### Header
 
@@ -51,20 +51,24 @@ Each file begins with the complete biographical reference in Chicago author-date
 
 The actual notes referencing the content of the article or book are organized as nested lists. 
 
-Page reference are given at the end of lines. No page reference at the end of a line means that it is on the same page as previous. 
+Page reference are given at the end of lines. No page reference at the end of a line means that it is on the same page as previous item. 
 
-When the original wording is important (and also when I have been lazy) it is quoted rather then summarized. Longish quotes are in block quotes (marked in markdown with initial `>`) nested (with indentation) under a list item with a very brief summary of the quote. This summary of the quote is intended to make the content quickly skimmable.
+When the original wording is important (and also when I have been lazy) it is quoted rather then summarized. Longish quotes are in block quotes (marked in markdown with initial `>`) nested (with indentation) under a list item which presents a very brief summary of the quote. This summary of the quote is intended to make the content quickly skimmable.
 
 Material in square brackets are my comments.
 
-Lists and tables are quoted in markdown format. 
+Lists and tables are sometimes quoted in markdown format. 
 
 ### Keywords
 
-At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See `keywords.md` for a list of keywords. 
+At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See the file `keywords.md` for a list of keywords. 
 
 Hyphens are used in place of spaces in keywords.
 
 Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
 
-Keywords are added by me and are not those of the original author. 
+Keywords are added by me and are not those of the original author. There are some inconsistencies in how they are applied.
+
+## Searching
+
+To search for a term in the notes, type in the search term at the top of [the repo page](https://github.com/andreasmhallberg/readingnotes) and choose "In this repository".
