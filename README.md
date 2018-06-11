@@ -25,7 +25,7 @@ For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. 
 
 ## Structure and format
 
-Each file contains notes from one single reference. They are formatted in markdown (a plain text format similar to .txt). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
+Each file contains notes from one single reference. They are formatted in [markdown](https://daringfireball.net/projects/markdown/syntax) (a plain text format similar to .txt). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
 
 ### File name
 
