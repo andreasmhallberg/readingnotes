@@ -18,7 +18,7 @@
 
     > While religious education has clear specific goals with a defined standard, represented in the *Qurʾān*, the goals of educational systems that are not religiously affiliated lack this clearity.
 
-- Oral proficiency low priority. 110, 111
+- Oral proficiency low priority. 110-111
 
 @Arabic
 @diglossia

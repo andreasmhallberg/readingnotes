@@ -5,14 +5,15 @@
 - "with Jurjânî (d. 1078) Arabic theory had reached its most sophisticated level". 15
 
 - Sources of linguistic data: 20
-    - By end of 9th century (with Mubarrad) native speakers (Beduins) were no linger legitimate source. 
-    - *Ḥadīṯ*, though listed as source by Suyūtī (19) "was never very helpful for purposes of linguistic analysis." Varied between different sources. Only general meaning.
+  - By end of 9th century (with Mubarrad) native speakers (Beduins) were no linger legitimate source. 
+  - *Ḥadīṯ*, though listed as source by Suyūtī (19) "was never very helpful for purposes of linguistic analysis." Varied between different sources. Only general meaning.
 
 - Fixed pattern of organization of grammars after Sarrāj: 28-29
 
-    > (a) word classifiaction always first, phonoligy always last,
-    > (b) nouns discussed before verbs, verbs before particles,
-    > (c) nominative befire accusative, accusative before genitive,
-    > (d) agend before objects, object before object of preposition and this before modifiers.
+  > (a) word classifiaction always first, phonoligy always last,
+  > (b) nouns discussed before verbs, verbs before particles,
+  > (c) nominative before accusative, accusative before genitive,
+  > (d) agent before objects, object before object of preposition and this before modifiers.
 
+@Arabic
 @ALT

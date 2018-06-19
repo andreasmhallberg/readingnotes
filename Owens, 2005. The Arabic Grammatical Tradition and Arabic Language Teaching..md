@@ -19,12 +19,12 @@ The tradition went from descriptivism in Sībawayh and al-Farrāʾ to prescripti
 - The development of grammar after the theoretical maturity in the 10th century shows "the power of entrenched professional and bureaucratic interests". Not "academic and pedagogical needs." 110
 
 - Deviant theoretical voices: 111
-    - *hāḏā l-rajul* not noun + adjective
-    - SV not containing *ḍamīr mustatir*
+  - *hāḏā l-rajul* not noun + adjective
+  - SV not containing *ḍamīr mustatir*
 
 - Two risks with limited data: 112
-    1. inhibition of alternative analysis.
-    2. grammatical rules are reified
+  1. inhibition of alternative analysis.
+  2. grammatical rules are reified
 
 - Variation in early Arabic larger than later tradition would imply. 112
 

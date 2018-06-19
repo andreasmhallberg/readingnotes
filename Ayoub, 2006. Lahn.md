@@ -4,7 +4,8 @@ Mostly concerned with classical literature.
 
 - Productive genre. 629
 
-- "The symbolic value of the syntactic endings is clearly seen in the forceful rejection of these errors." 629 Received symbolic value after the collapse of icraab system in dialects. 630
+- "The symbolic value of the syntactic endings is clearly seen in the forceful rejection of these errors." 629
+  - Received symbolic value after the collapse of icraab system in dialects. 630
 
 - Correct language given moral value. 632
 

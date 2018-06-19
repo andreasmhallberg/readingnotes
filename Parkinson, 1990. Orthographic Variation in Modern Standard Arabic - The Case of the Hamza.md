@@ -9,8 +9,8 @@
     2. Dialects are uniform while MSA has "rampant variation". Parkinson: Big variation in dialect. "If a language must be uniform to be well-defined, the no language is well-defined" 289.
 
 - Two paradigms:
-    1. SA is not a real language.
-    2. SA is defined by grammar books. Deviations are mistakes.
+  1. SA is not a real language.
+  2. SA is defined by grammar books. Deviations are mistakes.
 
 - "The author strongly believes that Standard Arabic is a full-fledged language" 292.
 

@@ -19,24 +19,24 @@ Eye-tracking testing legibility of simple and complex Arabic letter forms.
 - Technical limitations lead to typographic simplification. Now complex type technically available, but simplified forms have been accepted. 181
 
 - Eye-tracking participants: 189-190
-    - schools in Beirut
-    - no glasses
-    - two age groups: 13-14 and 16-17
+  - schools in Beirut
+  - no glasses
+  - two age groups: 13-14 and 16-17
 
 - Excludes beginning of texts. 193
 
 - Fixations were manually checked.
 
 - Results:
-    - Reading time: no effect. 203
-    - Fixation time: shorter on simplified (ca. 10ms). [Small effect?] 205
-    - Number of fixations: no effect. 206-7
-    - Regressions: fewer with vowels. Small effect but larger for younger group. 207-8
-    - Distance of forward saccade: shorter with vowels. 211
- 
+  - Reading time: no effect. 203
+  - Fixation time: shorter on simplified (ca. 10ms). [Small effect?] 205
+  - Number of fixations: no effect. 206-7
+  - Regressions: fewer with vowels. Small effect but larger for younger group. 207-8
+  - Distance of forward saccade: shorter with vowels. 211
+
 -  Conclusions: 
-    - simplified *nasx* is more legible. 206  Non-simplified style means increased fixation time of 4.7%. 221 [Weak support in data. Very small effect.]
-    - Vowelling gives fewer regressions but outweighed by visual complexity. 217 [How is this conclusion drawn?]
+  - simplified *nasx* is more legible. 206  Non-simplified style means increased fixation time of 4.7%. 221 [Weak support in data. Very small effect.]
+  - Vowelling gives fewer regressions but outweighed by visual complexity. 217 [How is this conclusion drawn?]
 
 @eye-tracking
 @reading

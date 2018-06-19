@@ -1,6 +1,6 @@
 # Uhlmann, Allon. Arabic Instruction in Israel: Lessons in Conflict, Cognition and Failure. BRILL, 2017.
 
-[Incorporates Uhlamm (2012).]
+[Incorporates Uhlamm (2012)]
 
 
 - Arab students difficulties with Arabic grammar at the university

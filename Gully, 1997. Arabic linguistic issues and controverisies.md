@@ -15,13 +15,13 @@
 - Prescriptive works, attempts to "purify" language similar to classical *laḥn* litterature. 79
 
 - two main debates: 82
-    1. status of Classical Arabic in relating to dialects.
-    2. Purification of literal and press-language
+  1. status of Classical Arabic in relating to dialects.
+  2. Purification of literal and press-language
 
 - Arguments defending Classical Arabic always the same (ref to Diem 1974): 87
-    1. rich heritage
-    2. carrier of Islam
-    3. unites the Arabs
+  1. rich heritage
+  2. carrier of Islam
+  3. unites the Arabs
 
 - Description of colonial representatives promoting dialect. 87-95
 
@@ -29,7 +29,7 @@
 
 - For modern purists nationalism more important than religion: 103-4
 
-> For the medieval scholar, the question of correct linguistic usage was fundamental for the interpretation of the religious texts. For linguists of the neo-classical [*Nahda*] period, however, theological considerations had been replaced by a widespread belief in the inextricable relation between a stable language and the identity, success and stability of the nation.
+  > For the medieval scholar, the question of correct linguistic usage was fundamental for the interpretation of the religious texts. For linguists of the neo-classical [*Nahda*] period, however, theological considerations had been replaced by a widespread belief in the inextricable relation between a stable language and the identity, success and stability of the nation.
 
 @Arabic
 @language-ideology
