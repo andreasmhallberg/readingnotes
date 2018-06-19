@@ -2,7 +2,8 @@
 
 The tradition went from descriptivism in Sībawayh and al-Farrāʾ to prescriptivism with the development of pedagogical grammars.
 
-- Sīband and al-Farrāʾ describes variation (e.g. *-tši/-ki* 3fs enclitic pronoun) and offers explanations to the alternative forms: "explicatory descriptivism". 104-105 From this follows prescriptivism. 109
+- Sīband and al-Farrāʾ describes variation (e.g. *-tši/-ki* 3fs enclitic pronoun) and offers explanations to the alternative forms: "explicatory descriptivism". 104-105
+  - From this follows prescriptivism. 109
 
 - 9th century - explicit move towards simplification of grammatical description. Variation in linguistic material is pushed aside. 106
 

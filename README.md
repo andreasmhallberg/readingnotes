@@ -21,7 +21,7 @@ Since these notes are related to my research there is i focus on:
 
 Not all of these notes are complete summaries and they should not be read as such. I typically only note things that are of interest to what I am doing, meaning that some notes only record a specific detail of a paper or book.
 
-For bibtex references, see the file `bibliotek.bib` in the `mylatexstuff` repo. This is my general bibtex database where I dump all references without any particular order.
+For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/mylatexstuff/blob/master/bibliotek.bib) in the [`mylatexstuff`](https://github.com/andreasmhallberg/mylatexstuff) repo. This is my general bibtex database where I dump all references without any particular order.
 
 ## Structure and format
 
@@ -41,7 +41,7 @@ For example:
 
 If there are several authors, the file name only contains the first author, without "et\ al.".
 
-Subtitles are separated from main title with ` - ` rather than the more common.`: ` for compatibility reasons. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
+Subtitles are separated from main title with ` - ` rather than the more common `: ` for compatibility reasons. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
 
 ### Header
 
@@ -61,7 +61,7 @@ Lists and tables are sometimes quoted in markdown format.
 
 ### Keywords
 
-At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See the file `keywords.md` for a list of keywords. 
+At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See the file [`keywords.md`](https://github.com/andreasmhallberg/readingnotes/blob/master/Keywords.md) for a list of keywords. 
 
 Hyphens are used in place of spaces in keywords.
 
