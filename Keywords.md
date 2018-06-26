@@ -1,10 +1,10 @@
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
 @Arabic
+@Arabic:Classical (i.e. premodern)
 @Arabic:Egyptian
 @Arabic:Standard
 @Arabic:Syrian
-@Arabic:Classical (i.e. premodern)
 @CMC (Computer Mediated Communication)
 @English
 @FLA (first language acquisition)
@@ -23,10 +23,13 @@
 @icraab
 @language-ideology
 @language-ideology:primary-source
+@lexicon
 @linguistic-insecurity
 @literacy
 @morphology
+@morphology
 @pedagogy
+@phonology
 @politeness
 @quran
 @reading
@@ -34,13 +37,7 @@
 @spoken-language
 @standard-language
 @statistics
-@typography
-
-Use only of one field is predominant:
-
-@lexicon
 @syntax
-@phonology
-@morphology
+@typography
 
 iʿrāb often spelled icraab

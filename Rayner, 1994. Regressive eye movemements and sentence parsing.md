@@ -1,6 +1,6 @@
 # Rayner, Keith, and Sara C. Sereno. “Regressive Eye Movements and Sentence Parsing: On the Use of Regression-Contingent Analyses.” Memory & Cognition 22, no. 3 (1994): 281–85.
 
-Argues against *regression-contingent analysis*, presented in Altmann et al. (1992), in which analysis is done separately for trails containing and not containing regressions, and the implicit assumption it is based on that garden pathing always results in regressions.
+Argues against *regression-contingent analysis*, presented in Altmann et al. (1990), in which analysis is done separately for trails containing and not containing regressions, and the implicit assumption it is based on that garden pathing always results in regressions.
 
 - Test the assumption that garden pathing always results in regression by re-examining data: 282
 
