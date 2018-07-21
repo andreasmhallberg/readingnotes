@@ -8,5 +8,6 @@
 
 - Icraab is seen as a defining feature of Arabic. 405
 
+@Arabic
 @ALT
 @icraab

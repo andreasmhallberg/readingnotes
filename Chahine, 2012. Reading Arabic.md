@@ -41,4 +41,5 @@ Eye-tracking testing legibility of simple and complex Arabic letter forms.
 @eye-tracking
 @reading
 @typography
+@orthography
 @Arabic

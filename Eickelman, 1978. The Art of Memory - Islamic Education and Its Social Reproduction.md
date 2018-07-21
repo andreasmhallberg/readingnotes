@@ -9,4 +9,4 @@
 
   > Explicit explanation was considered a science in itself to be acquired only through years in the advanced study of exegetical literature (*tafsīr*).
 
-@other
+@anthropology

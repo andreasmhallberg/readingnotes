@@ -20,7 +20,7 @@ Review of Arabic sociolinguistics.
 
 - Social reproduction of MSA? 74
 
-@language-reform
+@language-planning
 @Arabic
 @sociolinguistics
 @diglossia

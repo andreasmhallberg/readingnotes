@@ -6,6 +6,7 @@
   3. "Invoking positional identities" - "Formal occasions invoke positional and public, rather than personal, identities." Public identities are part of formal structures and are more likely to have names (titles). Private identities build on personal history and do not have names. 194
   4. "Emergence of a central situational focus" - common focus of conversation that encompasses everyone present. Participation must be relevant to focus. 195
 
-- These fore have patterns interdependence but do not always coincide. 203
+  - These fore have patterns interdependence but do not always coincide. 203
 
 @formality
+@anthropology

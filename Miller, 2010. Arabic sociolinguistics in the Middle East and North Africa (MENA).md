@@ -8,21 +8,22 @@ State of the art of Arabic Sociolinguistics. [Good course material?]
 
 - New literary expression: 248 
 
-    > We are witnessing a move towards freer written expression, which was not available before and which may have important repercussions on the relationship between writing  and language norms more generally. 
+  > We are witnessing a move towards freer written expression, which was not available before and which may have important repercussions on the relationship between writing  and language norms more generally. 
 
 - "It is evident that North Africa and the Middle East do not share the same dynamics." 249
 
 -  Dialects are taking over MSA: 249
 
-    > A common finding, after more than 30 years of research, is that Modern Standard Arabic is not threatening Arabic vernaculars but that, on the contrary, Arabic vernaculars are more and more used in official settings.
+  > A common finding, after more than 30 years of research, is that Modern Standard Arabic is not threatening Arabic vernaculars but that, on the contrary, Arabic vernaculars are more and more used in official settings.
 
 - Sociolinguistic differences between West and MENA: 149
-	1.	variation not by class but by ethnicity and diglossia.
-	2.	Arab world standard and prestige not the same "and therefore it is extremely difficult to predict linear direction of changes." 
+  1. variation not by class but by ethnicity and diglossia.
+  2. Arab world standard and prestige not the same "and therefore it is extremely difficult to predict linear direction of changes." 
 
 - In the Arab World focus on CA in academia. New development with Arab linguists doing PhD in West. 250
 
 - Questions of dialect/MSA very sensitive in the Arab world. 250
 
 @Arabic
+@review-article
 @sociolinguistics

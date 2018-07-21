@@ -7,3 +7,4 @@
 - Commercials targeting males in SA, housewives in dialect. 195
 
 @Arabic
+@textbook

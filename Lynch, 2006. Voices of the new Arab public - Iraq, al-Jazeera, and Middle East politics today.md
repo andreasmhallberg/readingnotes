@@ -6,4 +6,5 @@
 
 - "It was not new media alone that created a new public sphere---it was al-Jazeera's prioritization of politics and its remarkable success in initiation a regionwide public discourse that quickly reached an incredibly widespread and diverse audience." 41
 
-@aljazeera
+@Aljazeera
+@media

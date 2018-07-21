@@ -10,10 +10,10 @@
   3. *experiental interview* - "with ordinary people affected by, or caught up in, the news", 261. 
     - Distinct features:
       1. "little overlap in turns". i.e. little or no interruptions. 269
-      2. "answers are rarely treated as unsatisfactory" 270
+        2. "answers are rarely treated as unsatisfactory" 270
   5. *expert interview* - 
   6. *affiliated interview* - interview with reporter
 
 - "public figures in the sense that they hold institutional positions and by their official status are treated as  'having some locus' on the matter at hand." 262
 
-@other
+@media
