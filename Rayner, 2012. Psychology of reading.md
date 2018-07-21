@@ -30,11 +30,9 @@
     - Consonants more important than vowels for word identification. 71
     - The role of phonological computation:
       - Consensus that sound plays some role. No consensus in how big a role or how to conceptualize it. 72
-      - To routes for accessing phonological shape of word: 72
-        - *address phonology* - "looked up" in lexicon
-        - *assembled phonology* - contracted from stimulus (written word.)
-        - Majority view that  both routes are employed (duel route). Quickest one for a given word is used. Model. 79
-        - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
+      - Two routes for accessing phonological shape of word: *address phonology* ("looked up" in lexicon) and *assembled phonology* (contracted from written word) 72
+      - Majority view that  both routes are employed (duel route). Quickest one for a given word is used. Model. 79
+      - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
 
 - Eye movements in reading
   - Basic characteristics of eye movements in reading. 93-100
@@ -66,7 +64,7 @@
     - Adults aware reading skill of fourth grader 204
     - 25% of deaf adults are functionally literate
     - Read in language other than their mother-tongue (sign language) 205
-  - Phonological code (inner speech) facilitates reading through: 211
+  - Phonological coding facilitates reading through: 211
     - storing words in short term memory (which is better at handling audial than visual information)
     - Provides prosody information that helps to parse sentence.
 

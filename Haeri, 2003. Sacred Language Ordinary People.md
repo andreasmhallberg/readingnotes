@@ -24,5 +24,4 @@
 @Arabic:Standard
 @diglossia
 @language-ideology
-@linguistic-insecurity
 @icraab

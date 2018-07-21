@@ -37,5 +37,6 @@
   - avoidance digraphs.
   - Dialect/sociplinguistic variation reflected in spelling choice.
 
+@orthography
 @Arabic
 @CMC

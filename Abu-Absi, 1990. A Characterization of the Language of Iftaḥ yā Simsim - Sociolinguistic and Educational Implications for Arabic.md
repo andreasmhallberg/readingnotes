@@ -6,8 +6,7 @@
 
 - Rapports indicate that children watching the show have better MSA (Alosh 1984). 42
 
-- "Constant exposure to the language of instruction used naturally  and in meaningful situations outside the context of the school will certainly enhance language instruction." 43
+- "Constant exposure to the language of instruction used naturally and in meaningful situations outside the context of the school will certainly enhance language instruction." 43
 
-@education
 @Arabic:Standard
 @diglossia

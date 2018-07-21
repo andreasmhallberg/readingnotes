@@ -1,4 +1,4 @@
-# Wagner, D.A. & Lotfi, A., 1983. Learning to read by ‘rote’.  International Journal of the Sociology of Language, 1983(42), ss.111–121.
+# Wagner, D.A. & Lotfi, A., 1983. Learning to read by ‘rote’. International Journal of the Sociology of Language, 1983(42), ss.111–121.
 
 Compares Quran schools in Yemen and Senegal. Generalize to Muslim education at large. 
 
@@ -13,4 +13,5 @@ Compares Quran schools in Yemen and Senegal. Generalize to Muslim education at l
 - "increasing numbers of children are now attending the traditional Quranic school as a preschool, and then going on to a modernized Islamic school or government school." 118 
 
 @Arabic
-@education
+@language-instruction
+@FLA

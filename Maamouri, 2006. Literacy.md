@@ -6,7 +6,7 @@
 
 - Quotes conclusion in UNESCO rapport from 1990: 75
 
-    > there is a need for signi-ficant [sic] changes in the teaching of reading and for a thorough overhaul of of the parameters of and traditional practises usually applied to first literacy in formal and nonformal situa-tions [sic]
+  > there is a need for signi-ficant [sic] changes in the teaching of reading and for a thorough overhaul of of the parameters of and traditional practises usually applied to first literacy in formal and nonformal situa-tions [sic]
 
 - Diglossia major reason for difficulties in reading. 76
 
@@ -14,7 +14,7 @@
 
 - Linguistic insecurity: 76
 
-    > The experience of learners with *fuṣḥā* literacy is that of an abstract decontextualized lanugae-learning situation, which brings with it 'linguistic insecurity' and often results in learner distress at error or failure to recall correct structures and patterns.
+  > The experience of learners with *fuṣḥā* literacy is that of an abstract decontextualized lanugae-learning situation, which brings with it 'linguistic insecurity' and often results in learner distress at error or failure to recall correct structures and patterns.
 
 - Arabs cannot use their linguistic intuition, as speaker of other languages can. 76
 
@@ -24,8 +24,8 @@
 
 - Review of Arabic reading research. 78 
 
+@Arabic
+@FLA
 @diglossia
 @reading
-@literacy
-@linguistic-insecurity
 @orthography

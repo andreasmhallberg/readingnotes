@@ -1,6 +1,6 @@
 # Furayḥa, Anīs, 1955. Naḥw ʿarabiyya muyassara. Dār aṯ-ṯhaqāfa fī bayrūt.
 
-[Large parts of the book consist in presenting modern linguistic principles for an Arabic readership: language change is normal and inevitable, common usage should be normative, no language is better than other languages, etc. Argues, for instance, that the dialect does have syntax. Focus on icraab in discussion of the problems with SA.]  
+[Large parts of the book consist of presenting modern linguistic principles for an Arabic readership: language change is normal and inevitable, common usage should be normative, no language is better than other languages, etc. Argues, for instance, that the dialect does have syntax. Focus on icraab in discussion of the problems with SA.]  
 
 - When speaking SA one is forced to focus on linguistic form rather than content. 19
 
@@ -20,22 +20,22 @@
 
 - The idea that the dialect is linguistic corruption builds on the faulty assumption that *fuṣḥā* was once a spoken language. 172
 
-- Icraab is mere decoration:  173 
+- Icraab is mere decoration: 173
 
-    > الاعراب ليس لها قيمة بقائية بل هو زخرف لغوي
+  > الاعراب ليس لها قيمة بقائية بل هو زخرف لغوي
 
-- Suggests ESA as new written language. 181. [Equates ESA with *ʿāmmiyya*.] 193
+- Suggests ESA as new written language. 181
 
-- Proposes the use of the Latin alphabet. 189. 
+  - Equates ESA with *ʿāmmiyya*. 193
 
-- Three points to describe ESA 183:
-    1. no icraab
-    2. common norm
-    3. relies on *fuṣḥā*
+- Proposes the use of the Latin alphabet. 189 
+
+- Three points to describe ESA: 183
+  1. no icraab
+  2. common norm
+  3. relies on *fuṣḥā*
 
 @diglossia
-@pedagogy
-@language-reform
-@ESA
+@language-planning
 @language-ideology:primary-source
 @Arabic

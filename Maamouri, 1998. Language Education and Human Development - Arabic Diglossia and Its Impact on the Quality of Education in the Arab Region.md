@@ -2,11 +2,11 @@
 
 - Poor quality of Arabic education: 5
 
-    > The educational structures of the Arab countries are currently characterized by their growing inadequacy and deterioration, the questionable relevance of their curricula, and the unacceptably low quality of their output."
+  > The educational structures of the Arab countries are currently characterized by their growing inadequacy and deterioration, the questionable relevance of their curricula, and the unacceptably low quality of their output."
 
 - Lanuage planning consits of: 11
-    1. status planning - förända språkets relation till andra språk
-    2. corpus planning - förändra spåkets inre strukur, codification and elaboration.
+  1. status planning - förända språkets relation till andra språk
+  2. corpus planning - förändra spåkets inre strukur, codification and elaboration.
 
 - Status planning in Mashreq, corpus planning in Magreb. 23
 
@@ -22,21 +22,19 @@
 
 - Dialect is rejected: 38
 
-    > The common ideologically acceptable and politically correct attitude with regards to the place of the colloquials in Arabic diglossia is total non-accaptence of colloquial Arabic forms in most formal situations. 
+  > The common ideologically acceptable and politically correct attitude with regards to the place of the colloquials in Arabic diglossia is total non-accaptence of colloquial Arabic forms in most formal situations. 
 
 - Linguistic insecurity: 42
 
-    > The intermingling of *fushas* and colloquials in the Arab region and the lack of clear-cut linguistic marking barriers aggravate the insecurity of the young learners who seem confused by what constitutes *fusha* in the Arabic forms which surround them and what does not.
+  > The intermingling of *fushas* and colloquials in the Arab region and the lack of clear-cut linguistic marking barriers aggravate the insecurity of the young learners who seem confused by what constitutes *fusha* in the Arabic forms which surround them and what does not.
 
 - "The exercise of guessing the correct *iʿraab* has become a central activity in the classroom" 53
 
 - Recommendations: 
-    1. "[Pedagogy] needs to incorporate the norms and behaviours of the language community in the classroom in oder to increase immediate relevance of the learning process by connecting it to the learner’s personal experience, familiar topics and concrete real-world concerns." 61
-    2. Early colloquial Arabic reading. 63
-    3. total script visibility 65
+  1. "[Pedagogy] needs to incorporate the norms and behaviours of the language community in the classroom in oder to increase immediate relevance of the learning process by connecting it to the learner’s personal experience, familiar topics and concrete real-world concerns." 61
+  2. Early colloquial Arabic reading. 63
+  3. total script visibility 65
 
 @diglossia
 @Arabic
-@literacy
-@pedagogy
-@linguistic-insecurity
+@language-instruction:FLA

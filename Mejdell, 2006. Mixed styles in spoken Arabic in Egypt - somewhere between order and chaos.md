@@ -18,6 +18,5 @@
 
 - No fatigue effect on diglossic variables, discourse drift. 395
 
-@ESA
 @Arabic
-@spoken-language
+@diglossia

@@ -19,4 +19,4 @@
     - *āl ġāy* 'he gave up'
 
 @Arabic:Egyptian
-@dialectotlogy
+@pragmatics

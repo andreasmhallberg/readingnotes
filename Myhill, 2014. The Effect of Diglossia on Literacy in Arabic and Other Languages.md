@@ -15,8 +15,8 @@
   2. In external diglossia H can be heard in everyday usage.
   3. Frozen diglossia burdened with archaic, artificial grammatical rules. H in external diglossia based on existing usage.
 
-- Solution: adopt arabizi (3,7 etc) as written medium in primary education. Example of japan and korea. 217-219
+- Solution: adopt Arabizi (3,7 etc) as written medium in primary education. Example of Japan and Korea. 217-219
 
 @Arabic
 @diglossia
-@literacy
+@FLA

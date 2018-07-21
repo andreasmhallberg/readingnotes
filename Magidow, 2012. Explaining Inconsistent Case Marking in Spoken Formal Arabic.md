@@ -14,6 +14,5 @@ Case endings in speech marking 'saliency' and 'individuation'.
 
   > bism-i llāh ʾar-raḥmān ʾar-raḥīm al-ḥamdi lillāh wa-ṣalāt wa-salām ʿalā rasūl-i llāh wa-ʿalā ʾāl-i-hi wa-ṣaḥb-i-hi wa-man ʾittabaʿ hudā-h
 
-@spoken-language
 @Arabic:Standard
 @icraab

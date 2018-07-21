@@ -19,8 +19,4 @@ Experiment on parents explicit instruction to children to use politeness formula
 
     > While a child might get by in the world without ever using the passive, or even a common lexical item like *ball*, the child who does not learn to say *hi, thanks,* and *goodbye* will become a despised member of society.
 
-@politeness
-
-
-
-
+@pragmatics

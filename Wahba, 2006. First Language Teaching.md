@@ -20,7 +20,6 @@
 
 - Oral proficiency low priority. 110-111
 
-
 @Arabic
 @diglossia
-@pedagogy
+@language-instruction:FLA

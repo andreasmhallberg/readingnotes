@@ -32,38 +32,34 @@
 - There are indications that MSA is spreading. 94
 
 - Method:
-    - Dismisses generative grammar and introspection. 107
-    - "We based ourselves in the intonation in order to define the end of a sentence." 142
-    - Preposition/adverbial problem. 150, foot 33
-    - "almost all contemporary descriptions use both western and Arabic terms together, so that we might in a certain sense use the term 'traditional mixed grammar'". 152
-    - "For Arabic the tagging of words on a morphological basis is out of the question." 158
-    - Vowel sign as coding. 163
+  - Dismisses generative grammar and introspection. 107
+  - "We based ourselves in the intonation in order to define the end of a sentence." 142
+  - Preposition/adverbial problem. 150, foot 33
+  - "almost all contemporary descriptions use both western and Arabic terms together, so that we might in a certain sense use the term 'traditional mixed grammar'". 152
+  - "For Arabic the tagging of words on a morphological basis is out of the question." 158
+  - Vowel sign as coding. 163
 
-- Empirical invsetigations
-    - *wa-/fa-/ʾin*
-        - In MSA *wa-* often used for functions reserved for *fa-* according to Arabic grammars. 230
-    - *idha/law*
-        - Arabic grammars and all Western grammars specify that *law* is used for conditions that cannot be realized. 138
-        - Mentions in literature of these particles used for indirect questions in MSA. 240
-        - Table of occurrences of the particles in different functions. 242
-        - *in* in conditions overtaken by *iḏa*. 257
-        - *law* is used for impossible conditions or conditions regarded by speaker as impossible. 257
-    - *maa/lam*
-        - *maa* to negate past verb 20.5% [racalculated]. 264
-        - *maa* negates present only with *zaal*. 272
-    - *sawfa/sa*
-        - No distinction on meaning. 281
-        - *sawfa laa* does not occur in corpus. *lan* used instead.
-    - *aw/am*
-        - *am* is marginal. 290
-    - *hal/am*
-        - *am* reserved for negative questions. 295 
-
+- Empirical investigations
+  - *wa-/fa-/ʾin*
+    - In MSA *wa-* often used for functions reserved for *fa-* according to Arabic grammars. 230
+  - *idha/law*
+    - Arabic grammars and all Western grammars specify that *law* is used for conditions that cannot be realized. 138
+    - Mentions in literature of these particles used for indirect questions in MSA. 240
+    - Table of occurrences of the particles in different functions. 242
+    - *in* in conditions overtaken by *iḏa*. 257
+    - *law* is used for impossible conditions or conditions regarded by speaker as impossible. 257
+  - *maa/lam*
+    - *maa* to negate past verb 20.5% [racalculated]. 264
+    - *maa* negates present only with *zaal*. 272
+  - *sawfa/sa*
+    - No distinction on meaning. 281
+    - *sawfa laa* does not occur in corpus. *lan* used instead.
+  - *aw/am*
+    - *am* is marginal. 290
+  - *hal/am*
+    - *am* reserved for negative questions. 295 
 
 - Patterns in MSA not corresponding to descriptions in Western and Arabic grammars. 300
-
- 
-
 
 @Arabic:Standard
 @MSA

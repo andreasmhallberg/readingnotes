@@ -2,7 +2,7 @@
 
 - English/French as H in Arabic speaking countries: 695
 
-    > In diglossic terms, the *fuṣḥā* an the main foreign language constitute the high varieties, and the vernaculars, indiunous languages, and special-purpose languages constitute the low variety.
+  > In diglossic terms, the *fuṣḥā* and the main foreign language constitute the high varieties, and the vernaculars, indigenous languages, and special-purpose languages constitute the low variety.
 
 - Description of language planning and history in North Africa, Middle East and Gulf.
 
@@ -12,4 +12,4 @@
 
 @Arabic
 @diglossia
-@pedagogy
+@language-instruction:FLA

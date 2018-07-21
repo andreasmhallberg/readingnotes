@@ -28,4 +28,3 @@
 @code-switching
 @diglossia
 @Arabic:Standard
-@spoken-language

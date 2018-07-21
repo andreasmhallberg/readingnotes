@@ -25,5 +25,5 @@
   5. Numerals: 1-10 CA, >10 dialect. 49
 
 @Arabic:Standard
-@spoken-language
 @icraab
+@pause

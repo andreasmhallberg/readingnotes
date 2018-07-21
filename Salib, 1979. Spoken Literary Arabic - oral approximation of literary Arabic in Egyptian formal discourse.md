@@ -11,16 +11,15 @@
 - Functional endings are marginal. 16
 
 - Tansformation: L[evel]1 (dialect) -> L2 -> L2+.  
-    - L1 to L2 through lexical substitution.
-    - L2 to L2+ grammatical features specific to LA (icraab, verb in f.pl. etc.).  ”stylistic embellishment”.
-    - L2+ somewhat different for speakers of different dialects, e.g. Egyptian demonstratives.
+  - L1 to L2 through lexical substitution.
+  - L2 to L2+ grammatical features specific to LA (icraab, verb in f.pl. etc.).  ”stylistic embellishment”.
+  - L2+ somewhat different for speakers of different dialects, e.g. Egyptian demonstratives.
 
 - Raising from dialect to SLA according to rules:
-    1. subtitution of content item
-    2. substitution of functional item
-    3. L2+
+  1. subtitution of content item
+  2. substitution of functional item
+  3. L2+
 
 @Arabic
 @diglossia
 @Arabic:Standard
-@spoken-language

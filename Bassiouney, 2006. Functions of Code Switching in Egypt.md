@@ -9,11 +9,10 @@
 - [Gives major role to minimal differences, eg. ḥasalit vs. ḥaṣalat.] 30-2.  *as-suʾāl* is MSA. *is-suʾāl* is ECA. 37
 
 - Following are attested, but not other way around: 142
-    - ECA negative + MSA verb
-    - ECA dem + MSA noun
-    - ECA aspect + MSA verb
+  - ECA negative + MSA verb
+  - ECA dem + MSA noun
+  - ECA aspect + MSA verb
 
 @diglossa
 @code-switching
-@ESA
 @Arabic:Standard

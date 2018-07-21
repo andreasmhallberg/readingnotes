@@ -36,4 +36,4 @@
 
 - Long term effects on Swedish hard to predict.
 
-@Swedend
+@Swedish

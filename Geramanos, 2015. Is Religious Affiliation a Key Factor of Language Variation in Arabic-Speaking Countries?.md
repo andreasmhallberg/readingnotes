@@ -43,4 +43,3 @@ Thorough review of research on religious/sectarian language variation.
 
 @Arabic
 @sociolinguistics
-@dialectology

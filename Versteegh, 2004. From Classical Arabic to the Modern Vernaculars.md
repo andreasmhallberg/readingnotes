@@ -76,4 +76,3 @@
       - verb has only one form
 
 @Arabic
-@dialectology

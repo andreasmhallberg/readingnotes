@@ -7,6 +7,7 @@
 
 - Schema of style categories. 96. [Eiseles (2002) notes that this is suspiciously similar to levels which are criticized by Mitchell.]
 
-- Variationst: "In our ESA grammar, therefore, the answers given will doubtless not be definitive, but no linguistic theory or description yet has been." 105.
+- Variationist: "In our ESA grammar, therefore, the answers given will doubtless not be definitive, but no linguistic theory or description yet has been." 105.
 
-@ESA
+@Arabic
+@diglossia

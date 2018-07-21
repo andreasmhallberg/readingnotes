@@ -39,7 +39,6 @@ Grammar and proficiency test (reading, writing, speaking, listening) in MSA.
 
   > We must discover an appropriate language for talking about a form with such a range of manifestations, and with such a clash of overt and covert norms and expectations, so that we can characterize what people actually do on TV cultural programs, for example, in addition to simply pointing out its deficiencies in terms of the descriptive system.
 
+@diglossia
 @Arabic:Standard
-@linguistic-insecurity
 @icraab
-@spoken-language

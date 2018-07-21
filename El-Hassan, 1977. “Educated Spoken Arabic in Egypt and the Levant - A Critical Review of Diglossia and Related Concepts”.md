@@ -13,5 +13,4 @@
 - [Many of the examples are MSA with various degrees of case marking, 122, 123, 124. Why are these ESA and not caseless MSA?]
 
 @diglossia
-@ESA
 @Arabic

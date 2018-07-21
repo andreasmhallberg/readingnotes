@@ -36,7 +36,7 @@
 
 - Questions whether the two systems are even comparable, given differences in aims. 115
 
-@pedagogy
+@language-instruction:FLA
 @icraab
 @ALT
-@linguistic-insecurity
+@Arabic

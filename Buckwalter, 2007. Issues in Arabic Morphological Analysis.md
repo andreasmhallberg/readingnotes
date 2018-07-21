@@ -1,6 +1,6 @@
 # Buckwalter, T., 2007. Issues in Arabic Morphological Analysis. I A. Soudi, A. van den Bosch, & G. Neumann, reds Arabic Computational Morphology. Text, Speech and Language Technology. Springer Netherlands, ss 23–41.
 
-- Regional variation in use of non-standard (Farsi) characters. More often used due to accessibility in Unicode. 26-27.
+- Regional variation in use of non-standard (Farsi) characters. More often used due to accessibility in Unicode. 26-27
 
 - Characters ك (KAF) and ک (KEHE) both used. Similar surface forms in medial position. 27
 
@@ -17,17 +17,19 @@
 - Regional variation in orthographical conventions in dialectal words. 37
 
 - List of MSA words used with dialectal meaning and/or syntax.
-	1. خلاص
-	2. لازم
-	3. ممكن
-	4. ماشي
-	5. باين
-	6. يعني
-	7. مال
-	8. صار
-	9. راح
+  1. خلاص
+  2. لازم
+  3. ممكن
+  4. ماشي
+  5. باين
+  6. يعني
+  7. مال
+  8. صار
+  9. راح
 
 - Automatic morphological analyzers (Buckwalter and Xerox) limited. 39
 
+@Arabic
+@orthography
 @CMC
 @corpus-linguistics

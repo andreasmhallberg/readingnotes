@@ -12,8 +12,8 @@
 
 - Educational practices lead to linguistic insecurity: 78
 
-    > The imposition by the society of a usage which, by nature, is delimited in scope, and more reflective of historical fiction than contemporary linguistic reality can have inhibiting influence on the learner, making him feel insecure in the domains for the free expression in which this alien form is the one to use.
+  > The imposition by the society of a usage which, by nature, is delimited in scope, and more reflective of historical fiction than contemporary linguistic reality can have inhibiting influence on the learner, making him feel insecure in the domains for the free expression in which this alien form is the one to use.
 
-@pedagogy
+@language-instruction:FLA
 @diglossia
 @Arabic:Standard

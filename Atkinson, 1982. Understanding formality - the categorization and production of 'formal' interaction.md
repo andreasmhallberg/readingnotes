@@ -2,11 +2,15 @@
 
 'Formal' conversational procedures are solutions to practical problems in settings with multiple participants.
 
-- "a basic procedure used by analysts (whether lay or professional) in identifying actions as 'formal' involves a form of comparative analysis in which a taken for granted knowledge of the organization of conversational interaction serves as the main point of reference." 90
+- Normal conversation as the default: 90
+
+  > a basic procedure used by analysts (whether lay or professional) in identifying actions as 'formal' involves a form of comparative analysis in which a taken for granted knowledge of the organization of conversational interaction serves as the main point of reference.
 
 - "'formality' emerges as a gloss for a myriad of features that can be heard to be 'non-conversational'." 96
 
-- "multi-party gatherings in which a single sequence of interaction is oriented to by all co-present parties" 96 requires formal procedures to sustain attention, orderly turn taking an understanding-checking. Normal conversational ruler require close attention to all participants, which is not possible in multi-party gathering. 98
+- "multi-party gatherings in which a single sequence of interaction is oriented to by all co-present parties" 96
+
+  - requires formal procedures to sustain attention, orderly turn taking an understanding-checking. Normal conversational ruler require close attention to all participants, which is not possible in multi-party gathering. 98
 
 - Conversational checking of who knows who is unpractical in large multi-party gatherings. Formal presentation procedures are required. 106
 

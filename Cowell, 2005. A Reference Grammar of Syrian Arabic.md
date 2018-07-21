@@ -3,5 +3,5 @@
 - CCC consonant clusters. Epenthesis inserted CvC-C. 25
 - Forms of attached pronouns. 589
 
-@dialectology
+@prosody
 @Arabic:Syrian

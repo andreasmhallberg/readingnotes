@@ -14,5 +14,5 @@
 
 - Appendix with long list of insults.
 
-@dialectology
+@pragmatics
 @Arabic:Egyptian

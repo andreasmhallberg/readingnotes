@@ -6,20 +6,22 @@
 
 - Role of pause in perceptions of fluency: 538
 
-    > there seems to be a growing consensus in more recent research that fluency cannot be reduced to speed of delivery and that articulation rate has less impact on our perception of fluency than the length, the nature and the location of pauses in the utterance.
+  > there seems to be a growing consensus in more recent research that fluency cannot be reduced to speed of delivery and that articulation rate has less impact on our perception of fluency than the length, the nature and the location of pauses in the utterance.
 
 - Natural and unnatural pauses: 539
 
-    > Natural pauses, allowing breathing space, usually occur at some clause junctures or after groups of words forming a semantic unit. Pauses appearing in places other than these are judged as hesitation, revealing either lexical or morphological uncertainty.
+  > Natural pauses, allowing breathing space, usually occur at some clause junctures or after groups of words forming a semantic unit. Pauses appearing in places other than these are judged as hesitation, revealing either lexical or morphological uncertainty.
 
 - Significance of pauses on perceptions of fluency: 541
 
-    > 1. the frequency of pauses rather than the length,
-    > 2. the length of run (the number of syllables between pauses),
-    > 3. the place of pauses in an utterance,
-    > 4. the transfer (or not) of pausing pattern from L1 to L2
+  > 1. the frequency of pauses rather than the length,
+  > 2. the length of run (the number of syllables between pauses),
+  > 3. the place of pauses in an utterance,
+  > 4. the transfer (or not) of pausing pattern from L1 to L2
 
 
 - "What appears to enable learners to produce longer speech units is the increasing use of automated chunks or clusters of words combined with newly assembled strings of words." 542
 
 @spoken-language
+@prosody
+@pause

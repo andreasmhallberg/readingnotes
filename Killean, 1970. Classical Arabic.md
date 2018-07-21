@@ -6,8 +6,7 @@
 
 - Stagnation in Arab linguistics: 424
 
-    > Unfortunately, article on linguistic analysis of Classical Arabic are frequently nothing more than collations of earlier views of Arab authors with very little, if any original thinking. The studies are characterized by general disregard of Western works on similar subjects and a lack of bibliographical references.
+  > Unfortunately, articles on linguistic analysis of Classical Arabic are frequently nothing more than collations of earlier views of Arab authors with very little, if any original thinking. The studies are characterized by general disregard of Western works on similar subjects and a lack of bibliographical references.
 
 @ALT
-@Arabic:Standard
-@pedagogy
+@Arabic

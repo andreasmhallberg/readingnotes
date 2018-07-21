@@ -5,9 +5,9 @@
 - Analysis of Hungarian learners, native and non-native graders. Testing a number of suggested variables for predicting perceived fluency. 150
 
 - Best predictors: 157-8
-	1. Speech rate (syllables/min)
-	2. mean length of runs (between pauses)
-	3. phonation-time ratio (paus - articulation ratio)
-	4. pace (stressed syllables/min)
+  1. Speech rate (syllables/min)
+  2. mean length of runs (between pauses)
+  3. phonation-time ratio (paus - articulation ratio)
+  4. pace (stressed syllables/min)
 
 @spoken-language

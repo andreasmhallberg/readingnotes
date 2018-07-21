@@ -52,4 +52,3 @@
 
 @icraab
 @Arabic:Standard
-@Spoken-language

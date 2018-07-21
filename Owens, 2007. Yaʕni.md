@@ -11,4 +11,5 @@
 - Code-switches flagged with *yaʿni*. 104. Also dialect/SA switches. 110
 
 @Arabic
-@spoken-language
+@lexicon
+@pragmatics

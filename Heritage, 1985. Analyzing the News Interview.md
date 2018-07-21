@@ -3,10 +3,12 @@
 - News interview similar to court. 99
 
 - 3 characteristics of news interviews: 99
-    1. "roles are preestablished with institutional identities of the participant."
-    2. No 'receipt objects' (oh, yeah) confirming or evaluating speech of the interviewee.
-    3. "centrally produced for 'overhearers"'
+  1. "roles are preestablished with institutional identities of the participant."
+  2. No 'receipt objects' (oh, yeah) confirming or evaluating speech of the interviewee.
+  3. "centrally produced for 'overhearers"'
 
-- Definition: "The news interview is a functionally specialized form of social interaction produced for an overhearing audience and restricted by institutionalized conventions" 112
+- Definition of news interview: 112
 
-@spoken-language
+  > The news interview is a functionally specialized form of social interaction produced for an overhearing audience and restricted by institutionalized conventions
+
+@other

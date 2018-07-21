@@ -5,8 +5,9 @@
 - "no doubt" that some of colonial powers had hidden agenda in pushing for dialectal Arabic. Example: severing ties between Egypt and rest of the Arabic world by promising dialect. Thus very negative attitude to promotion of dialect. 8
 
 - Shift of transformation of Arabic teaching in West in two stages: 9
-    - replacement of CA with MSA
-    - introduction of dialect
+  - replacement of CA with MSA
+  - introduction of dialect
 
-@pedagogy
+@language-instruction:SLA
+@language-instruction:FLA
 @Arabic

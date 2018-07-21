@@ -3,7 +3,7 @@
 **Important:**
 
 1. **Only some of these notes are complete summaries of the respective reference. Often they only contain notes on what I found interesting in the particular reference.**
-3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and no italics.** 
+3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and lack italics for titles.** 
 
 
 ## General description
@@ -49,7 +49,7 @@ Each file begins with the complete biographical reference in Chicago author-date
 
 ### Contents
 
-The actual notes referencing the content of the article or book are organized as nested lists. 
+The actual notes referencing the content of the article or book are organized as nested lists. (More than 4 list levels make Pandoc protest and are best avoided.)
 
 Page reference are given at the end of lines. No page reference at the end of a line means that it is on the same page as previous item. 
 
@@ -57,7 +57,7 @@ When the original wording is important (and also when I have been lazy) it is qu
 
 Material in square brackets are my comments.
 
-Lists and tables are sometimes quoted in markdown format. 
+Lists and tables are sometimes quoted in markdown format.
 
 ### Keywords
 
@@ -71,4 +71,4 @@ Keywords are added by me and are not those of the original author. There are som
 
 ## Searching
 
-To search for a term in the notes, type in the search term at the top of [the repo page](https://github.com/andreasmhallberg/readingnotes) and choose "In this repository".
+To search for a term in the notes online on the GitHub page, type in the search term at the top of [the repo page](https://github.com/andreasmhallberg/readingnotes) and choose "In this repository".

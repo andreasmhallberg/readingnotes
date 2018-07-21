@@ -72,7 +72,7 @@
 
 - Experience in formal speech may explain variation. 185
 
+@phonology
 @icraab
 @word-order
 @Arabic:Standard
-@spoken-language
