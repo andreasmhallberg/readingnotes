@@ -10,3 +10,4 @@
 
 @standard-language
 @English
+@spoken-language

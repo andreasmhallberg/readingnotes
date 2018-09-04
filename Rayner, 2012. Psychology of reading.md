@@ -1,5 +1,7 @@
 # Rayner, Keith, Alexander Pollatsek, Jane Ashby, and Charles Clifton Jr. Psychology of Reading. 2nd ed. New York and London: Psychology Press, 2012.
 
+[Level one points are chapter headings.]
+
 - Reading is a highly complex skill an breakthroughs in research will only come in sub-components of the reading skill. 7
 
 - Anatomy of the eye. 9
@@ -67,6 +69,34 @@
   - Phonological coding facilitates reading through: 211
     - storing words in short term memory (which is better at handling audial than visual information)
     - Provides prosody information that helps to parse sentence.
+
+- Words and sentences (sentence comprehension)
+  - Useful measures: 221
+    - First pass reading time (multi-word analog of gaze duration)
+    - Go-passed time (regression past duration)
+    - Frequency of regression
+  - Problems with self-paced reading in studying comprehension
+    1. slower than normal reading
+    2. Unfamiliar procedure, extra time of button press that may be used for processing
+    3. No parafoveal preview
+    4. Prevents or cannot analyze regressions
+ - Serial/garden-path theory of processing. 222
+   - Sentences are processed incrementally, word by word, not at the end of a clause.
+     - Shown in that semantic anomalies that require processing of thematic roles are recognized early. 223
+     - Only one structure is built immediately. If false has to be reanalyzed
+   - Two governing principles:
+     - *Minimal Attachment*: "build the simplest structure", i.e. as few nodes as possible in syntactic tree.
+     - *Late Closure*: attach new word to current phrase or clause if possible.
+   - Makes clear predictions on eye-movements that has been shown to be correct. 225
+   - Readers account for transitivity of verb for parsing. 227
+ - Interactive, constraint-based theories. 229
+   - Assume the frequency of structure, of word in the structure, and that world knowledge guides parsing. 
+   - Impossible to falsify. 229
+
+   > The claim itself says little more than various things might matter in comprehending a sentence; it does not by itself make any clear predictions about which things actually matter, or how and when they have influence.
+
+  - Good-enough processing. 241
+    - Depending on reading goal (e.g. retrieval of specific information), readers may not parse carefully but let world-knowledge take overhand. 
 
 @reading
 @textbook

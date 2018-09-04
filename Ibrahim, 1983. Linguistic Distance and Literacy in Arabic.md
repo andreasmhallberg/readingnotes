@@ -18,6 +18,5 @@ Discusses negative effects of diglossia on literacy. 507
 
 - Conclusion: see SA as second language, research about differences, and develop pedagogy accordingly. 514
 
-@literacy
 @diglossia
 @Arabic

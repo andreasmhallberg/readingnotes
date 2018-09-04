@@ -7,4 +7,3 @@
 - Last turn of century - Socin (Brockelmann), Nöldecke and Reckendorf breaks with Arabic tradition. 228
 
 @Arabic:Standard
-@pedagogy

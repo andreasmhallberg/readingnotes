@@ -4,7 +4,7 @@ Argues against *regression-contingent analysis*, presented in Altmann et al. (19
 
 - Test the assumption that garden pathing always results in regression by re-examining data: 282
 
-  > If regressions are a necesary consequence of garden pathing, then ,when a regression-contingent analysis (in which trials with regressions are eliminated from the data set) is performed [...] the garden path effect should be eliminated or considerably wakened
+  > If regressions are a necessary consequence of garden pathing, then ,when a regression-contingent analysis (in which trials with regressions are eliminated from the data set) is performed [...] the garden path effect should be eliminated or considerably wakened
 
 - Results:
   - When trials containing regressions were filtered out there was an effect of garden pahging on first pass reading times.
