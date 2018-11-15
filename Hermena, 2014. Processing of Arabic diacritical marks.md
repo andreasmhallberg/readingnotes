@@ -1,7 +1,6 @@
 # Hermena, Ehab W., Denis Drieghe, Sam Hellmuth, and Simon P. Liversedge. 2015. “Processing of Arabic Diacritical Marks: Phonological–syntactic Disambiguation of Homographic Verbs and Visual Crowding Effects.” Journal of Experimental Psychology: Human Perception and Performance 41 (2):494–507.
 
-Vowel signs ("diacritics") on passive verbs are processed when only the verb is vowelled, otherwise it is not
-
+Vowel signs ("diacritics") on passive verbs are processed when only the verb is vowelled, otherwise it is not 
 
 - Fully vowelled text gives slower reading speeds (+75 ms gaze duration, Roman and Palvard 1987). 496
 

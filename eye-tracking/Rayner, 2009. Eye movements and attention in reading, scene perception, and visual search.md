@@ -101,8 +101,8 @@
     - semantic relation to prior words
     - word familiarity
   - Perception shorter than fixation, needs only 50-60 ms. 1473
-     - if word disappears 50-60 ms. after fixation reading proceeds normally.  
-     - if the word to the right also disappears reading is disrupted.
+    - if word disappears 50-60 ms. after fixation reading proceeds normally.  
+    - if the word to the right also disappears reading is disrupted.
   - Longer fixation for disambiguation words in garden-paths
   - Longer fixations at end of clause or sentence.
   - Longer "quite immediate" longer fixation on anomalous word.

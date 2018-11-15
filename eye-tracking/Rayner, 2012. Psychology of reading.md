@@ -15,7 +15,7 @@
 - Word perception
   - Summary of current knowledge: 50
     1. Skilled readers identify a word in about 250 ms.
-    2. Not only converting letters -> sound -> meaning, but sounds play a role. Converting to sound helps short term memory.
+    2. Not only converting letters -> sound -> meaning. But sounds do play a role. Converting to sound helps short term memory.
     3. Not processed serially letter by letter. Longer words processed as letter chunks.
     4. Larger similar in isolation and in text. A bit quicker in text.
   - Word identification tasks:
@@ -63,7 +63,7 @@
     - decreases with increased reading skill
   - Deaf readers lower reading skill
     - Have no access to phonology encoded in alphabet
-    - Adults aware reading skill of fourth grader 204
+    - Deaf adults average reading skill of fourth grader 204
     - 25% of deaf adults are functionally literate
     - Read in language other than their mother-tongue (sign language) 205
   - Phonological coding facilitates reading through: 211
@@ -76,7 +76,7 @@
     - Go-passed time (regression past duration)
     - Frequency of regression
   - Problems with self-paced reading in studying comprehension
-    1. slower than normal reading
+    1. Slower than normal reading
     2. Unfamiliar procedure, extra time of button press that may be used for processing
     3. No parafoveal preview
     4. Prevents or cannot analyze regressions
@@ -93,7 +93,7 @@
    - Assume the frequency of structure, of word in the structure, and that world knowledge guides parsing. 
    - Impossible to falsify. 229
 
-   > The claim itself says little more than various things might matter in comprehending a sentence; it does not by itself make any clear predictions about which things actually matter, or how and when they have influence.
+     > The claim itself says little more than various things might matter in comprehending a sentence; it does not by itself make any clear predictions about which things actually matter, or how and when they have influence.
 
   - Good-enough processing. 241
     - Depending on reading goal (e.g. retrieval of specific information), readers may not parse carefully but let world-knowledge take overhand. 

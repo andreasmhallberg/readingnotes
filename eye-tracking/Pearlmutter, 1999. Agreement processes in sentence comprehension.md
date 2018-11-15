@@ -24,8 +24,8 @@ Three experiments (self-paced reading, eye-tracking, production) on ungrammatica
   - Sensitivity to incorrect agreement appeared one word later. 435
 
 - Experiment 2: eye-tracking
-  - No effect on first pass reading times on verb, verb+1, verb and verb+1 (verb region) combined. 438
-  - Readers may react to anomalies by either regress or fixate longer. Filters out fixations that are followed by regression. Then finds significant effect. [Phishy, phish-phish]
+  - No effect of anomaly on first pass reading times on verb, verb+1, verb and verb+1 (verb region) combined. 438
+  - Readers may react to anomalies by either regress or fixate longer. Filters out fixations that are followed by regression. Then finds significant effect.
   - Effect on total reading time on verb region. 440
   - Probability of regression (first pass and total) significantly higher in verb region for agreement violation. (5 vs. 28%)
   - Regressions are to closest noun, not to offending noun, but only later finds its way there.

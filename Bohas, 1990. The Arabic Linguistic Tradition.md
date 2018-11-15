@@ -42,3 +42,4 @@
 - Diachronic explanations are explicitly rejected (in morphology). 78
 
 @ALT
+@Arabic

@@ -23,6 +23,14 @@ Not all of these notes are complete summaries and they should not be read as suc
 
 For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/mylatexstuff/blob/master/bibliotek.bib) in the [`mylatexstuff`](https://github.com/andreasmhallberg/mylatexstuff) repo. This is my general bibtex database where I dump all references without any particular order.
 
+## Directories
+
+**Under evaluation**
+
+The following directories are used to keep the root directory a bit less bloated. Notes of references that does not fit any of the descriptions below are placed in the root folder.
+
+- `eye-tracking`: included here are studies using or discussing eye-tracking techniques, but that do not deal specifically with Arabic.
+
 ## Structure and format
 
 Each file contains notes from one single reference. They are formatted in [markdown](https://daringfireball.net/projects/markdown/syntax) (a plain text format similar to .txt). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 

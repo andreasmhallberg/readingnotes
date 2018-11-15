@@ -12,12 +12,20 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
   - comprehension questions after 24 targets and 12 fillers.
 
 - Measurements
-  - first pass reading times ("summed fixation durations within a region, beginning with the first fixation inside the region and ending with, but not including, the first subsequent fixation outside the region." 31)
+  - first pass reading times 31
+    
+    > summed fixation durations within a region, beginning with the first fixation inside the region and ending with, but not including, the first subsequent fixation outside the region.
+
   - and number of regressions
   - regression landing sites (end of regression chain) 32
 
 - Results
-  - "dramatically more regressions" (.37 vs. .10) from syntactically anomalous verb region than in control, but not in pragmatic anomalies. 34  
+  - first pass reading on anomalous region 34
+    - longer for pragmatic anomaly
+    - same for syntactic anomaly
+  - rate of regression on anomalous region
+    - "dramatically more regressions" (.37 vs. .10) from syntactically anomalies
+    - no increase in pragmatic anomalies 
   - pragmatically anomalous sentences more regressions later in sentence after anomalous verb. 
 
 - Discussion. 39

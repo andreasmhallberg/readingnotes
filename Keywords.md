@@ -57,6 +57,7 @@
 @statistics
 @anthropology
 @media (i.e. "old media")
+@pedagogy
 
 # Notes
 iʿrāb often spelled icraab

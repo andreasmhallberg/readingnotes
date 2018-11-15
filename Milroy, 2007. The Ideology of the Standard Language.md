@@ -15,7 +15,7 @@
 
 - Education to teach people their own language: 163
 
-  > people find it reasonable to say that children go to school to 'learn English', when in fact inpre-school years they have already acquired the basis of spoken English grammar and phonology.
+  > people find it reasonable to say that children go to school to 'learn English', when in fact in pre-school years they have already acquired the basis of spoken English grammar and phonology.
 
 - Governing standard is not the elites but "those who depend for their livelihood to on communicating widely in society; for example, business people, lawyers, journalists." [Cf. Jedlicka 1982:62] 137-138
 

@@ -6,9 +6,10 @@
 
 - Processes associated with single word and its immediate context show in first pass measures (refs to Rayner). 204 
 
-- Effects of subject-predicate discongruence disappears when separated by five words. 204  
+- Effects of subject-predicate discongruence disappears when separated by five words. 204
 
 - 2 by 2: gender/animacy. 204
+
 
 - Stimulus
   - predicate always adjacent to subject. 207
@@ -16,6 +17,10 @@
   - different randomization order for each participant.
   - 25% followed by comprehension question. 208
   - each trial start with fixation point where sentence start will appear. Verifies calibration.
+
+- Data filtering 209
+  - Only fixations between 140 and 800 ms included.
+  - For all measures, observations larger than 2 SD for each participant excluded.
 
 - results
   - gaze duration and second pass duration longer for incongruent predicates. 209 
