@@ -8,7 +8,7 @@
     - vocabulary connected to home and common objects, childhood vocabulary. 6
         - large gaps, difficulty to retrieve or lacking infrequent words. 6
     - morphosyntax: for languages with overt, gender/number/case many errors compared to native speakers. 6
-        -  Arabic gender/number errors
+        - Arabic gender/number errors
         - Russian case system reduced to nom. and acc.
     - syntax: loss of agreement patterns leads to fixed word order and over use of pronouns in pro-drop languages. 8
     - Summary: 9

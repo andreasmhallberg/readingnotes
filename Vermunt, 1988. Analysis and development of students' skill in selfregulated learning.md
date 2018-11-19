@@ -37,20 +37,19 @@
 - Learning style: tendency to use certain set of regulating activities spontaneously. 654 
 
 - Detailed study instructions
-  - To much regulating of studies may be harmful if: 655-6
+  - To much regulating of studies may be harmful if: 655--6
 
     > when educations takes over or continuously activates processing or regulating activities that students already spontaneously employ, this may have a harmful effect on their learning results and on their skill in selfregulated learning.  
 
-  - Entwistle (1985): detailed study instructions may lead to better study results but be negative for student independence and forster surface approaches to learning. 656
+  - Entwistle (1985): detailed study instructions may lead to better study results but be negative for student independence and foster surface approaches to learning. 656
  
   - May have a positive *model/scaffolding functions*
     - Should then be waned off.
 
 - Results from questionnaire (151 complete responses of 700 send outs)
-  - Students with prior higher educating less prone to see learning as intake of presented knowledge, more regulating activities. 664 
+  - Students with prior higher educating less prone to see learning as intake of presented knowledge, more regulating activities. 664
   - Learning styles do not change rapidly without intervention. 679
   - Passing exams is related to few signs.
-
 
 - [catoegorize Arabic students (heritage, religious, etc.)]
 
