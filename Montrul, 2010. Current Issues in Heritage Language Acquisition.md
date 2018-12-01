@@ -4,27 +4,27 @@
 - heritage speakers' language show simplification similar to contanct language situations. 5
 
 - Heritage speakers' language
-    - phonology: good compared to L2 speakers of similar morpho-syntactic knowledge. 5
-    - vocabulary connected to home and common objects, childhood vocabulary. 6
-        - large gaps, difficulty to retrieve or lacking infrequent words. 6
-    - morphosyntax: for languages with overt, gender/number/case many errors compared to native speakers. 6
-        - Arabic gender/number errors
-        - Russian case system reduced to nom. and acc.
-    - syntax: loss of agreement patterns leads to fixed word order and over use of pronouns in pro-drop languages. 8
-    - Summary: 9
+  - phonology: good compared to L2 speakers of similar morpho-syntactic knowledge. 5
+  - vocabulary connected to home and common objects, childhood vocabulary. 6
+    - large gaps, difficulty to retrieve or lacking infrequent words. 6
+  - morphosyntax: for languages with overt, gender/number/case many errors compared to native speakers. 6
+    - Arabic gender/number errors
+    - Russian case system reduced to nom. and acc.
+  - syntax: loss of agreement patterns leads to fixed word order and over use of pronouns in pro-drop languages. 8
+  - Summary: 9
 
-        > under reduced input and output conditions, heritage speakers seem to develop some core aspects of their family language, but their grammatical systems show a marked tendency toward simplification and overregularization of complex patterns and restricted word order.
+    > under reduced input and output conditions, heritage speakers seem to develop some core aspects of their family language, but their grammatical systems show a marked tendency toward simplification and overregularization of complex patterns and restricted word order.
 
-- basic structural system acquired at age of 3-4, but, 10
+- basic structural system acquired at age of 3--4, but, 10
 
-    > a great deal of of vocabulary learning; and the acquisition of complex syntax, semantics, and pragmatics, as well as command of different spoken and written registers and pragmatic conventions take place during the school-age period.
+  > a great deal of of vocabulary learning; and the acquisition of complex syntax, semantics, and pragmatics, as well as command of different spoken and written registers and pragmatic conventions take place during the school-age period.
 
 - Complete acquisition of family language in heritage language situation depends amongst other things on: 10
-    - parental discourse strategies
-    - status of the languages in the community
-    - availability of speech community beyond the family
-    - attitudes toward the language
-    - access to education in the language
+  - parental discourse strategies
+  - status of the languages in the community
+  - availability of speech community beyond the family
+  - attitudes toward the language
+  - access to education in the language
 
 - Siblings tend to speak majority language with one another and with other heritage language children. 10
 
