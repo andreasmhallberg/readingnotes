@@ -1,4 +1,4 @@
-# alkali
+# Strukelj, A., & Niehorster, D. C. (2018). One page of text: Eye movements during regular and thorough reading, skimming, and spell checking. Journal of Eye Movement Research, 11(1).
 
 - Reading measures from reading one page of text with four different instructions: 4
   - Normal reading

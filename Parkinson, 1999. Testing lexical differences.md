@@ -19,3 +19,4 @@
 - [Much made of small differences in usage of *lākin/wa-lākin*. 197]
 
 @Arabic
+@corpus-lingusitics

@@ -6,7 +6,7 @@
 
 - Experiment
   - Egyptian and Palestinian participants plus mirrored control groups. 277
-  - Three tasks: forg story, Alladin, personal presentation
+  - Three tasks: frog story, Alladin, personal presentation
 
 - Results
   - Heritage speakers slower speech, less fluent. 280

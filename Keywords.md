@@ -50,7 +50,7 @@
 @typography
 
 # Linguistic methods
-@corpus-linguistics *
+@corpus-linguistics
 @eye-tracking
 
 # Other (not linguistics)
