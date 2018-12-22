@@ -10,7 +10,7 @@ Discusses negative effects of diglossia on literacy. 507
 
 - "spoken Arabic is considered to be unworthy of the label 'language' but rather a nameless verbal corruption." 512 The study of spoken Arabic is suspect. 513
 
-- Extremely rare to hear someone read without interference from spoken language. 512 
+- Extremely rare to hear someone read without interference from spoken language. 512
 
 - Policy makers are either unaware of the effects of diglossia on literacy or are afraid to talk about it. 513
 
