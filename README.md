@@ -30,13 +30,6 @@ For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreas
 
 To search for a term in the notes online on the GitHub-page, type in the search term at the top of [the repo page](https://github.com/andreasmhallberg/readingnotes) and choose "In this repository".
 
-## Directories (Under evaluation)
-
-The following directories are used to keep the root directory a bit less bloated. Notes of references that does not fit any of the descriptions below are placed in the root folder.
-
-- `eye-tracking`: included here are studies using or discussing eye-tracking techniques, but that do not deal specifically with Arabic.
-
-More will be added soon.
 
 ## Structure and format
 
