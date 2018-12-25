@@ -1,4 +1,4 @@
-# Abu-Absi, S., 1990. A Characterization of the Language of Iftaḥ yā Simsim: Sociolinguistic and Educational Implications for Arabic.  Language Problems and Language Planning, 14(1), ss.33–46.
+# Abu-Absi, S., 1990. A Characterization of the Language of Iftaḥ yā Simsim: Sociolinguistic and Educational Implications for Arabic. Language Problems and Language Planning, 14(1), ss.33–46.
 
 - Dialectal interjections (ah, eh, etc.) that do not exist in MSA(!). 39
 

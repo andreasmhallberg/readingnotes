@@ -1,4 +1,4 @@
-# Aamer, M., 1981. Aussprachepraxis des Hocharabischen in Kairo: Phonetik, Phonologie, Behandlung des lrāb, Einfluss des Dialekts auf die Morphologie.  Erlangen-Nürnberg.
+# Aamer, M., 1981. Aussprachepraxis des Hocharabischen in Kairo: Phonetik, Phonologie, Behandlung des lrāb, Einfluss des Dialekts auf die Morphologie. Erlangen-Nürnberg.
 
 - Raises the presetige of MSA: (?) 8-10
   1. Symbolizes the heritage

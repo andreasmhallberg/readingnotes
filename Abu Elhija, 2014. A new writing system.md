@@ -1,7 +1,7 @@
 # Abu Elhija, Dua’a. “A New Writing System? Developing Orthographies for Writing Arabic Dialects in Electronic Media.” Writing Systems Research 6, no. 2 (July 2014): 190–214.
 
 - Arabic writing system is inherently complex. Cites Ibrahim, Eviatar, etc. 192
-  - Dense morpholigy, absence of vowels, dots distinguish letters, variable letter forms, all gives "linguistic complexity, resulting in slowe processing, even in skilled readers." [Well...] 
+  - Dense morpholigy, absence of vowels, dots distinguish letters, variable letter forms, all gives "linguistic complexity, resulting in slow processing, even in skilled readers." [Well...] 
 
 - [Entire literary review on Electronic Amiyyas from one MA-thesis (Zoabi 2012)]:
   - proffered in Electronic Ammiyya: 193
@@ -27,7 +27,7 @@
 
 - Method
   - [No significance tests.]
-  - [A priori assumptions on speakers proounciations based on birthplace/residence in Facebook data. Assumes total homogeaneaty in geographic dialects.]
+  - [A priori assumptions on speakers prounciations based on birthplace/residence in Facebook data. Assumes total homogeaneaty in geographic dialects.]
 
 - Orthographically marked pharalyngization correlates with known dialectal/gender patterns. 201
 

@@ -1,9 +1,9 @@
 # Abu-Rabia, S., 2001. The role of vowels in reading Semitic scripts: Data from Arabic and Hebrew. Reading and Writing, 14(1-2), s.39–59.
 
 - Experiments:
-    - word naming in lists of voweled/unvoweled Arabic words.
-    - Reading accuracy in voweled/unvoweled text. Two scores per participant: counting/not-counting icraab mistakes. Mean score take. 48
-    - Reading comprehension in silent reading in voweled/unvoweled  texts.
+  - word naming in lists of voweled/unvoweled Arabic words.
+  - Reading accuracy in voweled/unvoweled text. Two scores per participant: counting/not-counting icraab mistakes. Mean score take. 48
+  - Reading comprehension in silent reading in voweled/unvoweled  texts.
 
 - [Contradictory statements about within/between participant methods. 47]
 

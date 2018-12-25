@@ -1,10 +1,10 @@
 # Abu-Rabia, S., 1998. Reading Arabic texts: Effects of text type, reader type and vowelization.  Reading and Writing, 10(2), ss.105–119.
 
 - [Reproduces myths about the difficulty of reading Arabic]: 
-    1. difficult because of binding rules. 106
-    2. homographs
-    3. difficult that some vowels are under the line
-    4. icraab carries contents
+  1. difficult because of binding rules. 106
+  2. homographs
+  3. difficult that some vowels are under the line
+  4. icraab carries contents
 
 - "/الله/ /'God'/ can be very confusing, even with vowels, for advanced readers." [!] 107
 
@@ -24,4 +24,4 @@
 
 @reading
 @orthography
-@Arabic:Standard
+@Arabic
