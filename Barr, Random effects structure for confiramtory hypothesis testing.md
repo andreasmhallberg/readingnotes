@@ -1,0 +1,23 @@
+# Barr, Dale J., Roger Levy, Christoph Scheepers, and Harry J. Tily. 2013. “Random Effects Structure for Confirmatory Hypothesis Testing: Keep It Maximal.” Journal of Memory and Language 68 (3): 255–78. https://doi.org/10.1016/j.jml.2012.11.001.
+
+- Don't use only random intercepts: 257
+
+  > For designs including within-subjects (or within-items) manipulations, random-intercepts only LMEMs can have catastrophically Type 1 error rates
+
+- Researchers must understand how effects are assumed to co-vary for conditions/items/participants. 258
+
+- Structures and correlations in the data that are not of theoretical interest are *random effects* to be compensated for in the model. 259
+
+- Maximalist effects structure is preferred, including: 260
+  - intercept for participant - some are generally slower
+  - intercept for items - some items give generally slower results
+  - slope for participants - some participants are generally more sensitive to the manipulation
+  - participant intercept and slope correlate - participants that read quicker (lower intercept) may be less attentive and thus be less sensitive to manipulation (lower slope).
+
+- lm syntax for maximal effect structure in typical experiment : `Y ~ X + (1 + X|Subject) +(1|Item)` 268
+
+- If model does not converge (cannot find best fit) remove: 161-
+  1. drop correlation: `Y ~ X + (1|Subject) +(0 + X|Subject) +(1|Item)` 
+  1. drop subject intercept but keep slope `Y ~ X +(0 + X|Subject) +(1|Item)`
+
+@statistics

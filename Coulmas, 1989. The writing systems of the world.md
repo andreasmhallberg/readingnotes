@@ -2,11 +2,11 @@
 
 - Functions of writing: 11-
   1. mnemonic
-  2. distancing (communcation across distance)
-  3. reifying (language not in ephemiral speech)
+  2. distancing (communication across distance)
+  3. reifying (language not in ephemeral speech)
   4. social control (laws, administration, etc.)
   5. interactional (coordinate action)
-  6. aesthetic (litteratur, calligraphy)
+  6. aesthetic (litterateur, calligraphy)
 
  - Evolution of writing systems,
    1. sign sigifies object
@@ -28,7 +28,7 @@
 
 - Qualities of writing systems 44
   - *economy:* few signs
-  - *simplicity:* relation between sign and sound/word/morpheme/syllable is straight forwar
+  - *simplicity:* relation between sign and sound/word/morpheme/syllable is straight forward
   - *Unequivocally:* meaning of written sign is unambiguously determined by its form
 
   Relative qualities, increase in one decreases other.
