@@ -23,6 +23,7 @@ Vowel signs ("diacritics") on passive verbs are processed when only the verb is 
   - sentences rated for naturalness
   - allowed to take breaks
   - comprehension questions followed 25% of sentences
+    - 84% correct, no difference across condition
   - conditions:
     - active verb no diacritics
     - active verb full diacritics

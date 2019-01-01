@@ -10,13 +10,14 @@
 
 - 2 by 2: gender/animacy. 204
 
-
 - Stimulus
   - predicate always adjacent to subject. 207
   - 104 sentences. Two blocks with pause between.
   - different randomization order for each participant.
-  - 25% followed by comprehension question. 208
+  - 25% followed by comprehension question. [No report on ansers.] 208
   - each trial start with fixation point where sentence start will appear. Verifies calibration.
+
+
 
 - Data filtering 209
   - Only fixations between 140 and 800 ms included.

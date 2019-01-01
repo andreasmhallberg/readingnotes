@@ -1,4 +1,5 @@
-# Pollatsek, A. m.fl., 1981. Asymmetries in the perceptual span for Israeli readers. Brain and Language, 14(1), ss174–180.
+# Pollatsek, Alexander, Shmuel Bolozky, Arnold D. Well, and Keith Rayner. 1981. “Asymmetries in the Perceptual Span for Israeli Readers.” Brain and Language 14 (1): 174–80. https://doi.org/10.1016/0093-934X(81)90073-0.
+ 
 
 - "the direction of reading (and not hemispheric specialization) primarily determines the symmetry of the perceptual span." 178
 

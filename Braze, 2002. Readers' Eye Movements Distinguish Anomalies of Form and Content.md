@@ -32,6 +32,8 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
   - Reaction to syntactic anomalies immediate but disappear later in sentence.
   - Reaction to pragmatic anomalies not immediate but lingers and peaks at end of sentence, with regressions to anomalous verb.
 
+- [No report on results from comprehension questions.] 
+
 @eye-tracking
 @reading
 @syntax

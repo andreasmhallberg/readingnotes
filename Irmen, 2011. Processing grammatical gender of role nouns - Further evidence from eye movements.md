@@ -15,6 +15,7 @@
     - 2x2x3 design
 - fixationns below 70 and above 600 ms excluded
 - 24 participants
+- [No data on answers to comprehension questions]
 - Measures (reported on on kinship, role noun, spillover regions) 
   - gaze duration
   - total reading time

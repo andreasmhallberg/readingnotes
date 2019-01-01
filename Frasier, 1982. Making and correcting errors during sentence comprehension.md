@@ -11,6 +11,8 @@
 
 - Eye-tracking experiment with garden paths. [Suspect in that commas are not used and would have disambiguated sentences.]
 
+- [No data on anwers to comprehension question.]
+
 - Readers react to garden-paths with either. 196
   - *Chaos*: Long fixations and short forward saccades. Unable to reanalyze sentence.
 
