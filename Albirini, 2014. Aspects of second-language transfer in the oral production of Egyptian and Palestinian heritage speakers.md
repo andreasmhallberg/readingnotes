@@ -31,3 +31,4 @@ Investigates transfer from English in number inflection, genitive constructions,
 
 @heritage-speakers
 @Arabic
+@syntax

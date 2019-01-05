@@ -6,11 +6,10 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 
 - "the case system is given a status in the theoretical grammatical works that is different from its use in real linguistic performance" 232
 
-
 - Modern Arabic grammars (specialized and pedagogical) follow the pattern of classical grammars 232-46
-   - focus on use of case. The purpose of grammar seems to be to explain use of case markers.
-   - grammars are organized by case, not by function. (e.g. *anna* next to absolute negation)
-   - Several summaries of grammatical works
+  - focus on use of case. The purpose of grammar seems to be to explain use of case markers.
+  - grammars are organized by case, not by function. (e.g. *anna* next to absolute negation)
+  - Several summaries of grammatical works
 
 - Different degrees of marking case with vowel signs, "not a trend" and primarily found in books in Arabic-related fields such as literature, grammar, or traditional rhetorical studies." 249
   - Example of grammar book where final vowels are marked on nouns and on verbs in the imperative but nowhere else.

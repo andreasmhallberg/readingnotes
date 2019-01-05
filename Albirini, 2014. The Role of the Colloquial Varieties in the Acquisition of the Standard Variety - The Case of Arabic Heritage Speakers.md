@@ -1,28 +1,28 @@
 # Albirini, A. 2014. “The Role of the Colloquial Varieties in the Acquisition of the Standard Variety: The Case of Arabic Heritage Speakers.” *Foreign Language Annals 47* (3): 447–63.
 
 - Aims: 452
-    - Do heritage speakers (HS) have an advantage over L2 learners even in areas with no overlap between MSA and colloquial Arabic.
-    - Do HSs retain a potential advantage in advanced levels
-    - negativ/positive transfer form colloquial to MSA
+  - Do heritage speakers (HS) have an advantage over L2 learners even in areas with no overlap between MSA and colloquial Arabic.
+  - Do HSs retain a potential advantage in advanced levels
+  - negativ/positive transfer form colloquial to MSA
 
 - Experiment: elicitation of negation in: 453
-    - verb present
-    - verb past
-    - verb future
-    - verb imperative
-    - verbless
+  - verb present
+  - verb past
+  - verb future
+  - verb imperative
+  - verbless
 
 - Participants: 452
-    - L2: n=28, third or forth year of collage-level Arabic
-    - HS: n=35. Two groups
-        - EH - first first semester of collage-level Arabic
-        - AH - second or third year
-     - L1 control group
-     - [No first year L2 participants. Inter alia assumed to have 0% accuracy in grammar test.]
+  - L2: n=28, third or forth year of collage-level Arabic
+  - HS: n=35. Two groups
+    - EH - first first semester of collage-level Arabic
+    - AH - second or third year
+   - L1 control group
+   - [No first year L2 participants. Inter alia assumed to have 0% accuracy in grammar test.]
 
 - Overall accuracy: 454
     
-    - HE begin studies with advantage but looses it.
+  - HE begin studies with advantage but looses it.
 
 |         | number | overall mean accuracy | SD    |
 | :-      | :-     | :-                    | :-    |

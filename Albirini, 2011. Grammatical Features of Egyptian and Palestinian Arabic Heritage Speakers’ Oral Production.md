@@ -27,3 +27,5 @@
  
 @Arabic
 @heritage-speakers
+@syntax
+@morphology

@@ -29,3 +29,4 @@
 
 @Arabic
 @heritage-speakers
+@syntax

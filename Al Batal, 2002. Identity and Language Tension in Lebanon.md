@@ -10,5 +10,6 @@ News reports on LBS (1999) develop new register: prepared texts are translated t
 
 - Phonological variation between reporters. 103.
 
+@diglossia
 @code-switching
 @Arabic
