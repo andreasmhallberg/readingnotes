@@ -33,9 +33,9 @@
 @formality * (under pragmatics?)
 @historical-linguistics
 @language-ideology
-@language-instruction
-@language-instruction:FLA (make FLA SLA separate. paired with language-instuction, not subdivision of it)
-@language-instruction:SLA
+@language-instruction (Typically combined with `@SLA` or `@FLA`)
+@SLA (first language acquisition) 
+@FLA (second language acquisition)
 @language-planning
 @lexicon
 @morphology

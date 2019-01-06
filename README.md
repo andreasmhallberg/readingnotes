@@ -74,3 +74,5 @@ At the end of each file one or more keywords are listed. Each keyword begins wit
 Hyphens are used in place of spaces in keywords. Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
 
 Keywords are added by me and are not those of the original author. There are some inconsistencies in how they are applied.
+
+Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keyewords.
