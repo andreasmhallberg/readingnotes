@@ -50,5 +50,6 @@
 
 @Arabic
 @ALT
-@language-instruction:FLA
-@language-instruction:SLA
+@language-instruction
+@FLA
+@SLA

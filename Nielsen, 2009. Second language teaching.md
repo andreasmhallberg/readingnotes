@@ -11,6 +11,7 @@
 
    > This third approach has, however, been introduced at a number of European universities on the pretext that it is communicative because it integrates oral proficiency.
 
-@language-instruction:SLA
+@language-instruction
+@SLA
 @diglossia
 @Arabic

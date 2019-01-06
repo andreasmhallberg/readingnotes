@@ -36,7 +36,8 @@
 
 - Questions whether the two systems are even comparable, given differences in aims. 115
 
-@language-instruction:FLA
+@language-instruction
+@FLA
 @icraab
 @ALT
 @Arabic

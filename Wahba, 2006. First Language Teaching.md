@@ -22,4 +22,5 @@
 
 @Arabic
 @diglossia
-@language-instruction:FLA
+@language-instruction
+@FLA

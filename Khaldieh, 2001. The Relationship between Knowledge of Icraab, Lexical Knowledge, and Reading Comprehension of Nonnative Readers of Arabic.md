@@ -15,5 +15,6 @@ Knowledge of icraab no significant effect on L2 reading comprehension.
 - Vocabulary more important for reading comprehension and should be prioritized in teaching. 426
 
 @icraab
-@language-instruction:SLA
+@language-instruction
+@SLA
 @Arabic:Standard

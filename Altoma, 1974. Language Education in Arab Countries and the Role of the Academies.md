@@ -2,7 +2,7 @@
 
 - MSA is not used consistently in teaching - students don't reach proficiency aims. 281
 
-- Teaching material centrally planned. 292. This hinders new pedagogical ideas from developing and established traditional teaching methods. 293  
+- Teaching material centrally planned. This hinders new pedagogical ideas from developing and established traditional teaching methods. 292-
 
 - Arab countries in different stages of Arabization. North Africa slow.
 
@@ -27,3 +27,4 @@
 @language-planning
 @Arabic:Standard
 @langugae-instruction
+@FLA

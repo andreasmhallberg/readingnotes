@@ -7,4 +7,5 @@
 @icraab
 @diglossia
 @Arabic
-@language-instruction:SLA
+@language-instruction
+@SLA

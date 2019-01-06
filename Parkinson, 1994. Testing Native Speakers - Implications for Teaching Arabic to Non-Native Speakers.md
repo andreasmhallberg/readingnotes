@@ -31,4 +31,5 @@ Analysis of grammar test with numerals.
 
 @Arabic:Standard
 @icraab
-@language-instruction:SLA
+@language-instruction
+@SLA

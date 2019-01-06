@@ -37,4 +37,5 @@
 
 @diglossia
 @Arabic
-@language-instruction:FLA
+@language-instruction
+@FLA

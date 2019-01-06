@@ -14,6 +14,7 @@
 
   > The imposition by the society of a usage which, by nature, is delimited in scope, and more reflective of historical fiction than contemporary linguistic reality can have inhibiting influence on the learner, making him feel insecure in the domains for the free expression in which this alien form is the one to use.
 
-@language-instruction:FLA
+@language-instruction
+@FLA
 @diglossia
 @Arabic:Standard

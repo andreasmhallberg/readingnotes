@@ -8,6 +8,7 @@
   - replacement of CA with MSA
   - introduction of dialect
 
-@language-instruction:SLA
-@language-instruction:FLA
+@language-instruction
+@SLA
+@FLA
 @Arabic

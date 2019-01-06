@@ -8,7 +8,7 @@
 
 - "deep cases" vs. "surface cases". Semantic relations called semantic roles, case roles, thematic roles (Lexical Functional grammar), theta roles (GB). 64
 
-- "specialized adnominal case is common". In Latin genitive. Gives subject, object "of the corresponding verb" in nominalization. Subjective genitive/objective genitive. 98, 99
+- "specialized adnominal case is common". In Latin genitive. Gives subject, object "of the corresponding verb" in nominalization. Subjective genitive/objective genitive. 98-9
 
 @syntax
 @textbook

@@ -11,4 +11,5 @@
 - Contradicts "assumptions held by many people in the Arab world that SA is the only variety used for education." 139
 
 @Arabic:Standard
-@language-instruction:FLA
+@language-instruction
+@FLA

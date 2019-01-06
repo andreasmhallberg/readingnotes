@@ -12,4 +12,5 @@
   > Attempts have been made to isolate and systematize grammatical features of MSA, noted as contrasting with, standing in opposition to, or deviating from parallel CA ones. However such attempts will not help the systematic teaching of MSA. Only when we have first carried out comprehensive statistical gathering of all grammatical features of MSA, whether they do or do not contrast with those of CA, and then produce a description of the structures of MSA on its own terms with no reference to that of CA---only the we can teach true MSA.
 
 @Arabic:Standard
-@language-instruction:SLA
+@language-instruction
+@SLA

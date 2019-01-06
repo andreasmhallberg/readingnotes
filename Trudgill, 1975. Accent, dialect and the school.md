@@ -41,4 +41,5 @@
 @standard-language
 @English
 @language-ideology
-@language-instruction:FLA
+@language-instruction
+@FLA
