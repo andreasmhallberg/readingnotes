@@ -53,7 +53,7 @@ Subtitles are separated from main title with ` - ` rather than the more common `
 
 ### Header
 
-Each file begins with the complete biographical reference in Chicago author-date format as header (i.e. marked with initial `#` in markdown). No other header levels are used. In some notes the header is followed by some general information or comments about the reference.
+Each file begins with the complete biographical reference in Chicago author-date format as header (i.e. marked with initial `#` in markdown). In some notes the header is followed by some general information or comments about the reference.
 
 ### Contents
 
@@ -67,6 +67,8 @@ Material in square brackets are my comments.
 
 Lists and tables are sometimes quoted in markdown format.
 
+Subheadings (`##` in markdown) is only used on long notes to improve readability, typically reflecting chapters in book-length sources.
+
 ### Keywords
 
 At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See the file [`keywords.md`](https://github.com/andreasmhallberg/readingnotes/blob/master/Keywords.md) for a list of keywords. 
@@ -75,4 +77,4 @@ Hyphens are used in place of spaces in keywords. Colon is used for sub-keywords.
 
 Keywords are added by me and are not those of the original author. There are some inconsistencies in how they are applied.
 
-Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keyewords.
+Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keywords.

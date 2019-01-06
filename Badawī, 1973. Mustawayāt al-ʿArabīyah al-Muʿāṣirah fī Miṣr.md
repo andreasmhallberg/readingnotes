@@ -5,11 +5,11 @@
 - Nafīsa argues that the dialect has no grammar. 55
 
 - Short description of levels with focus on phonetics: 89
-    1. Limited to *rijāl ad-dīn* and preplanned religious programs.
-    2. News readers, manuscript delivery scientific speech. Used for a wide range of subjects connected to modern culture.
-    3. Speech amongst intellectuals on abstract and cultivated topics. Panel and discussion programs. **No discussion between intellectuals outside this level.** "The only vehicle for education and discussion within it." 91
-    4. Everyday speech of non-illiterates.
-    5. Speech of the illiterate.
+  1. Limited to *rijāl ad-dīn* and preplanned religious programs.
+  2. News readers, manuscript delivery scientific speech. Used for a wide range of subjects connected to modern culture.
+  3. Speech amongst intellectuals on abstract and cultivated topics. Panel and discussion programs. **No discussion between intellectuals outside this level.** "The only vehicle for education and discussion within it." 91
+  4. Everyday speech of non-illiterates.
+  5. Speech of the illiterate.
 	
 - Speakers switch between levels in the same speech event. 93
 
@@ -18,9 +18,9 @@
 - Levels are like colors of the rainbow, with middle areas defined by mixtures of the two neighboring levels. 94
 
 - Border between CA and MSA is one of history: 95-96
-	1. Example of mixture: contemporary fiction, both modern and old language. 
-	2. فصحى التراث اللتي صورها لنا العلماء الأقدموم في كتب التراث 
-	2. هذا المستوى تاريخى ورثناه كما هو عن الأقدمين. 111
+  1. Example of mixture: contemporary fiction, both modern and old language. 
+  2. فصحى التراث اللتي صورها لنا العلماء الأقدموم في كتب التراث 
+  2. هذا المستوى تاريخى ورثناه كما هو عن الأقدمين. 111
 
 - Levels are a result of elements from three sources: fusḥā, ʿāmmiyya and foreign languages.
 
@@ -43,8 +43,8 @@
 - Degree of icraab usage varies between speakers in level 2. 143
 
 - Most speakers of level 2 drop icraab in: 143-144
-    1. proper names
-    2. numbers
+  1. proper names
+  2. numbers
 
 - Omission of case endings in modern SA has led to fixed word order. 145
 
@@ -65,5 +65,5 @@
 - Levels are a range between "the ideal" and dialect. 134
 
 @diglossia
-@Arabic:Standard
+@Arabic
 @code-switching

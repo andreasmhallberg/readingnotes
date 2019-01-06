@@ -2,19 +2,21 @@
 
 Survey of Arab student and analysis of personal correspondence (letters).
 
-- 2 types of mixing:  10
-    1. due to lack of knowledge/proficiency
-    2. codeswitching "for stylistic purposes"
+- Two types of mixing: 10
+  1. due to lack of knowledge/proficiency
+  2. codeswitching "for stylistic purposes"
 
 - Avoids forms such as *-uuna* and *-iina* since they may reveal lack of proficiency. 13
 
 - Respondents differ in what forms are considered too formal. Exemplified with internal passive. 13
 
-- Formality reached by different means: 14
+- Formality may be reached by different means: 14
 
-    > Arabs may use various means in attempting to achieve greater informality. The variation in our sample suggests this, that is, a reliance on multiple means to achieve desired effects of formality and informality.
+  > Arabs may use various means in attempting to achieve greater informality. The variation in our sample suggests this, that is, a reliance on multiple means to achieve desired effects of formality and informality.
 
-- "We see not only that various MSA features are hierarchically evaluated (some more formal, some less), but also that individuals differ in their ranking of some features." 16
+- Individuals make different interpretations of the formality level of features: 16
+
+  > We see not only that various MSA features are hierarchically evaluated (some more formal, some less), but also that individuals differ in their ranking of some features.
 
 - "Some interviewees reported that even though they know the rules they do not follow them because they do not want to be seen as putting on airs." 16
 
@@ -26,4 +28,3 @@ Survey of Arab student and analysis of personal correspondence (letters).
 
 @Arabic:Standard
 @diglossia
-

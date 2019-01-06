@@ -25,4 +25,5 @@
 - Parser operate only on the preferred analysis (garden path theory). 
 
 @eye-tracking
+@reading
 @syntax

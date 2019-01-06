@@ -16,7 +16,6 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 
 - Examples of inconsistent and incorrect use of case markers in writing and speech. [Uses "recitation" as synonym to read speech.] 247-57 
 
-@language-instruction
 @Arabic:Standard
 @ALT
 @icraab

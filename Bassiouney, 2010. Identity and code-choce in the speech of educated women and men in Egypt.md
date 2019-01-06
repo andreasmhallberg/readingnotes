@@ -2,7 +2,7 @@
 
 Main claim that women use MSA in formal situations.
 
-- Counts MSA and ESA linguistic features. "whether lexical, morphological, phonological or syntac." 100. [Vast claim. No mention of ambiguities and difficulties. SVO? Ambiguous case markers?]
+- Counts MSA and ESA linguistic features. "whether lexical, morphological, phonological or syntac." [Vast claim. No mention of ambiguities and difficulties. SVO? Ambiguous case markers?] 100
 
 - "something as subtle as the quality of a vowel can render a morpheme or word ECA in the counting process." 101 
 

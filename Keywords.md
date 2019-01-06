@@ -2,13 +2,15 @@
 
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
-@Israel
-@Egypt
-@heritage-speakers
 @icraab
 @language-ideology:primary-source
 @quran
 @standard-language
+
+# Country
+@Israel
+@Egypt
+@Morocco
 
 # Reference type
 
@@ -21,8 +23,10 @@
 @Arabic:Egyptian
 @Arabic:Standard
 @Arabic:Syrian
+@Arabic:Judeo
 @English
 @Swedish
+@German
 
 # Area of linguistics
 
@@ -32,7 +36,7 @@
 @eye-tracking
 @formality * (under pragmatics?)
 @historical-linguistics
-@language-ideology
+@language-ideology (includes language attitudes)
 @language-instruction (Typically combined with `@SLA` or `@FLA`)
 @SLA (first language acquisition) 
 @FLA (second language acquisition)
@@ -41,13 +45,15 @@
 @morphology
 @orthography
 @phonology
-@pragmatics
+@pragmatics (mostly politeness)
 @prosody
 @reading
-@sociolinguistics
+@sociolinguistics (variationist)
 @spoken-language (theoretic on the phenomenon of speech)
 @syntax
 @typography
+@pause
+@heritage-speakers
 
 # Linguistic methods
 @corpus-linguistics
@@ -57,7 +63,8 @@
 @statistics
 @anthropology
 @media (i.e. "old media")
-@pedagogy
+@pedagogy (not language)
+@islamology
 
 # Notes
 iʿrāb often spelled icraab

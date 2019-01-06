@@ -2,14 +2,13 @@
 
 Matched-guise test of SA, Egyptian Arabic, and Egyptian, British and American English.
 
-- Fushatalare anses mer intelligenta än de andra grupperna. 41
 - SA speakers seen as 
-    - more intelligent that other groups. 41
-    - more likable than other groups. 42 
-    - more religious. 43 
-    - having less leadership that those speaking Egyptian English. 44
+  - more intelligent that other groups. 41
+  - more likable than other groups. 42 
+  - more religious. 43 
+  - having less leadership that those speaking Egyptian English. 44
 
 - First study if its kind in Arabic. 53
 
 @Arabic
-@language-attitudes
+@language-ideology

@@ -3,8 +3,9 @@
 Standardization as natural process.
 
 - Standardization consist of 3 tendencies: 70
-    1. Koinezation - avoidance of local, stigmatized forms.
-    2. variety shifting - varieties becomes specialized for identities or functions.
-    3. classicalization - preference to use forms of historical prestigious norm.
+  1. *Koinezation:* avoidance of local, stigmatized forms.
+  2. *Variety shifting:* varieties becomes specialized for identities or functions.
+  3. *Classicalization:* preference to use forms of historical prestigious norm.
 
 @standard-language
+@historical-linguistics

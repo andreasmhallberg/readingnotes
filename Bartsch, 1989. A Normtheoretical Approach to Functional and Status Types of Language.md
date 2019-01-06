@@ -6,23 +6,23 @@ Description of "levels" in German.
 
 - There is no essential language X that delimits a set of varieties. 198
 
-- Umnganssprache, common everyday language (CEL): 199 
+- Umnganssprache, common everyday language (CEL): 199
 
-    > Varieties of the respective regional Umgangssprachemehich are to some degree neutralized with respect to local or even regional features and are thus directed towards the standard language, form a cluster of varieties, the common *Umgangssprache*, or the 'common everyday language', which serves as a means of communication in the whole domain of validity of a standard language and is superregionally accepted as spoken *Hochdeutsch*, which is is considered to be sufficiently conform to the standard to be accepted as a measure of correctness in schools and in other official situations.
+  > Varieties of the respective regional Umgangssprachemehich are to some degree neutralized with respect to local or even regional features and are thus directed towards the standard language, form a cluster of varieties, the common *Umgangssprache*, or the 'common everyday language', which serves as a means of communication in the whole domain of validity of a standard language and is superregionally accepted as spoken *Hochdeutsch*, which is is considered to be sufficiently conform to the standard to be accepted as a measure of correctness in schools and in other official situations.
 
 - Continues: 199
 
-    > The codified form of the standard language is, in fact, a distinguished variety among the varieties that count as Hochdeutch or standard varieties. It is the ultimate point of normative orientation that permeates all the standard(-conform and -oriented) varieties in a way the way that it provides the proffered solution in situations in which linguistic problems and conflict arise.
+  > The codified form of the standard language is, in fact, a distinguished variety among the varieties that count as Hochdeutch or standard varieties. It is the ultimate point of normative orientation that permeates all the standard(-conform and -oriented) varieties in a way the way that it provides the proffered solution in situations in which linguistic problems and conflict arise.
 
 - "the standard is available as a point of ultimate orientation" but is not necessarily codified. May be orally transmitted. 200
 
-- Defines language as a cluster of varieties adhering to the same norm: 200 
+- Defines language as a cluster of varieties adhering to the same norm: 200
 
-    > A language is a collection of varieties that are linguistically related by partial identities (i.~e. by 'family resemblance') and that can be found within the population domains of validity of norms of the respective standard language, whereby the relationship between the standard and the varieties is such that they are superceded by the standard, i.~e. that in a number of situations, especially in situations of schooling, the use of some linguistic forms from varieties is rejected under the prescriptive of the standard as a measure of correction.
+  > A language is a collection of varieties that are linguistically related by partial identities (i.~e. by 'family resemblance') and that can be found within the population domains of validity of norms of the respective standard language, whereby the relationship between the standard and the varieties is such that they are superceded by the standard, i.~e. that in a number of situations, especially in situations of schooling, the use of some linguistic forms from varieties is rejected under the prescriptive of the standard as a measure of correction.
 
 - Effects of this definition of language: 200
-    1. Arbitrary borders in dialectal continua. 200
-    2. Language is a structured set of varieties. "certain types of situations, and functions performed in them by the use of language, are related to the degrees of standardness." 201
+  1. Arbitrary borders in dialectal continua. 200
+  2. Language is a structured set of varieties. "certain types of situations, and functions performed in them by the use of language, are related to the degrees of standardness." 201
 
 - Fewer people use the standard than those that has it as norm. 201
 

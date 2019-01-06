@@ -3,9 +3,9 @@
 Description of views on English through modern history. Thematic chapters. Lots of quotes.
 
 - In common consciousness three types of English: 4
-    1. dialects: "'a distinct specific character'"
-    2. unnamed forms that lack such a character
-    3. *our* standard form of speech "that alone merits the name 'the English language'".
+  1. dialects: "'a distinct specific character'"
+  2. unnamed forms that lack such a character
+  3. *our* standard form of speech "that alone merits the name 'the English language'".
 
 - Quotes Batsleer (1985): "'Systematic training in the use of standard English' has proved one of the most effective ways in which the exploited classes, child and adult, have been induced to consent to the conditions of their own cultural subordination" 12
 

@@ -1,6 +1,6 @@
 # Haeri, N., 1997. The Reproduction of Symbolic Capital: Language, State, and Class in Egypt. Current anthropology, 38(5), ss.795–816.
 
-- Bordiou-like characterisation of Arabic in Egypt. [I largely the content of 2003.]
+- Bordiou-like characterisation of Arabic in Egypt.
 
 - *al-iʿrāb* "is the technical term for case endings." 797 fotnote 10 [!]
 
@@ -16,3 +16,4 @@
 
 @language-ideology
 @Arabic
+@Egypt

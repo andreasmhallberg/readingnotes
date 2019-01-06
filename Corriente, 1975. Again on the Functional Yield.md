@@ -2,7 +2,7 @@
 
 - Facts:
   1. "*Iʿrāb*-Arabic dialects must have existed side by side with *Iʿrāb*-less dialects." 155
-  2. Middle and Low Arabic wihtout exception *Iʿrāb*-less. 156
+  2. Middle and Low Arabic without exception *Iʿrāb*-less. 156
   3. In texts with Iʿrāb "inflection endings are dealt with in a very peculiar manner", dropped in pause, etc.
   4. Iʿrāb-less varieties or Iʿrāb-fluctuation is scandalous for traditional accounts.
   5. Account for facts by posing low functional yield in early Arabic.  
@@ -12,4 +12,5 @@
 - Functional yield of case in Classical Greek 61%. 162
 
 @Arabic
+@case
 @icraab

@@ -18,7 +18,6 @@
 
 - Response to *sabāḥ al-xēr* with flowers of various kinds (*full, ward, yāsmīn*) 144
 
-
 - Diachronic characteristics 
   - Weakening and erosion - non-referential, "important for presence or absence rather than for the exact meaning carried by their constituent parts" (like title and assertive particles). 147
   - Include archaic forms, "proverbs, riddles, and nursery rhymes" 148

@@ -11,4 +11,5 @@
 - "specialized adnominal case is common". In Latin genitive. Gives subject, object "of the corresponding verb" in nominalization. Subjective genitive/objective genitive. 98-9
 
 @syntax
+@morphology
 @textbook

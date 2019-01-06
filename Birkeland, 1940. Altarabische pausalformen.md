@@ -22,3 +22,4 @@
 
 @Arabic:Classical
 @ALT
+@pause

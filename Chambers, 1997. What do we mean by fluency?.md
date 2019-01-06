@@ -2,7 +2,9 @@
 
 - "'fluency in speech production is *automatic procedural skill*'". Quotes Schmidt 1992. 537
 
-- "Developing automatised mechanisms contributes to diminishing the processing load: as long as conscious efforts are required to produce accurate morphology, less space is available for other planning tasks and this is reflected in 'choppy' utterances." 537-8
+- Automatization: 537-8
+
+  > Developing automatised mechanisms contributes to diminishing the processing load: as long as conscious efforts are required to produce accurate morphology, less space is available for other planning tasks and this is reflected in 'choppy' utterances.
 
 - Role of pause in perceptions of fluency: 538
 

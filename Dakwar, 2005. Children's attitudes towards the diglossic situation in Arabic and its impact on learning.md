@@ -12,7 +12,8 @@ Informal interviews with school children in Palestine.
 
 - "their statements reveal that they perceive these two language varieties as two different systems." 83
 
+@literacy
 @language-instruction
 @FLA
 @diglossia
-@Arabic:Standard
+@Arabic

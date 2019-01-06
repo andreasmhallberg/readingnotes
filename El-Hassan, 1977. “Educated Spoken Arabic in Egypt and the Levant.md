@@ -6,9 +6,7 @@
 
 - Critique of Blanc (1960): conclusion (numbers, no icraab, etc.) not confirmed by Leeds data. [Leed data however very diverse. Difficult to see how conclusion can be drawn from examples.]
 
-- [Equates icraab with case endings. 120]
-
-- Description of Leeds-corpus. 120. [Only criteria seems to be that speakers be educated.]
+- Description of Leeds-corpus. [Only criteria seems to be that speakers be educated.] 120 
 
 - [Many of the examples are MSA with various degrees of case marking, 122, 123, 124. Why are these ESA and not caseless MSA?]
 

@@ -7,7 +7,7 @@
 - Arabs are 'costodians', not 'owners' av SA [her CA]. 14
 
 - Religion dominates the world of SA: "in the 'tastes and contexts' of the 'socially changed life' of Classical Arabic, religion dominates." 17 
-    - Especially case endings gives associations to religion, especial for the uneducated who only hear it in connection with the Quran. 109
+  - Especially case endings gives associations to religion, especial for the uneducated who only hear it in connection with the Quran. 109
 
 - "Indeed grammar as a whole for most people comes to mean the case endings." 40
 
@@ -17,11 +17,12 @@
 
 - Negative effects of diglossia on literacy: 43 
 
-    > To have to avoid using the language they have most master over [vernacular], whether for answering exam questions or writing composition, discourages most students from reading and writing beyond what is required in school.
+  > To have to avoid using the language they have most master over [vernacular], whether for answering exam questions or writing composition, discourages most students from reading and writing beyond what is required in school.
 
 - Correctors (*musiḥḥiḥūn*) consult grammars from the 1400th century. Ex. *Qaṭr an-nadā.* 67
 
-@Arabic:Standard
+@Arabic
 @diglossia
 @language-ideology
 @icraab
+@Egypt

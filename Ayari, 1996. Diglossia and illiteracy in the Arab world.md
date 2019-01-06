@@ -12,4 +12,4 @@
 
 @literacy
 @diglossia
-@Arabic:Standard
+@Arabic

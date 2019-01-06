@@ -2,7 +2,7 @@
 
 - Hypothesis: differentiate between syntactic anomaly in gender and sex. 203
 
-    > violation of gender agreement for animate nouns involves, in addition to the grammatical violation, a semantic mismatch between the biological sex denoted by the subject and the in congruent predicate.  
+  > violation of gender agreement for animate nouns involves, in addition to the grammatical violation, a semantic mismatch between the biological sex denoted by the subject and the in congruent predicate.  
 
 - Processes associated with single word and its immediate context show in first pass measures (refs to Rayner). 204 
 

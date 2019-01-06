@@ -3,7 +3,7 @@
 
 - Argues that level 2, MSA is not spoken, and that 3, ESA, is the spoken form of MSA: 20
 
-    > Level 2 and 3 level 3 share the same interests in society, i.e., modern life and culture. The fact that the one is spoken and the other is written does not put them in opposition is it does level 1 and level 5, rather it puts them in complementary distribution. Division of labour in relation to similar interests as well as being in close linguistic proximity within the scheme thus holds the together: whatever is written in level 2, which covers all aspects of modern society (science, art, technology, literature, etc.) is explained and discussed in level 3.” 19-20Och vidare: "Levels 2 and 3, therefore, will have to be regarded, contrary to the prevailing views amongst scholars and language teachers, as merely the two sides of one coin. 
+  > Level 2 and 3 level 3 share the same interests in society, i.e., modern life and culture. The fact that the one is spoken and the other is written does not put them in opposition is it does level 1 and level 5, rather it puts them in complementary distribution. Division of labour in relation to similar interests as well as being in close linguistic proximity within the scheme thus holds the together: whatever is written in level 2, which covers all aspects of modern society (science, art, technology, literature, etc.) is explained and discussed in level 3.” 19-20Och vidare: "Levels 2 and 3, therefore, will have to be regarded, contrary to the prevailing views amongst scholars and language teachers, as merely the two sides of one coin. 
 
 - Level 2 contains icraab. 20. 
 
@@ -15,4 +15,4 @@
 
 @diglossia
 @icraab
-@Arabic:Standard
+@Arabic
