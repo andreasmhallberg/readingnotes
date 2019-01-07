@@ -26,7 +26,6 @@
   - education
   - migration within the country
 
-
 - Characteristics of rinkebysvenska: 136
   - simplification in grammar, elaboration in lexicon 
   - reduced distinction in vowel quantity and quality

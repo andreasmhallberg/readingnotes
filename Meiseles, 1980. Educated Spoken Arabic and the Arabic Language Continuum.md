@@ -30,4 +30,5 @@
   7. MSA phonetics, [q], [ḏ], etc.
 
 @Arabic:Standard
+@diglossi
 @icraab

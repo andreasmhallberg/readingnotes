@@ -7,3 +7,4 @@
   4. aborted categories: "aborted or incomplete phrases or clauses [that are not corrected]"
 
 @spoken-language
+@syntax

@@ -10,4 +10,5 @@
   3. phonation-time ratio (paus - articulation ratio)
   4. pace (stressed syllables/min)
 
-@spoken-language
+@epenthesis
+@SLA

@@ -11,9 +11,9 @@
 - Icraab is highly valued in the education system. "condition sine qua non of CA" 176
 
 - Word endings are proffered: 177 
-    1. preceding *waṣla*
-    2. before enclitic pronoun
-    3. in construct state
+  1. preceding *waṣla*
+  2. before enclitic pronoun
+  3. in construct state
 
 - Dialects have one connecting rules (epenthesis). Two systems interacting in spoken SA. 177
 

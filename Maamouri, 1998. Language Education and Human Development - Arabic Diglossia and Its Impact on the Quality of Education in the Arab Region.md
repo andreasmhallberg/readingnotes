@@ -39,3 +39,4 @@
 @Arabic
 @language-instruction
 @FLA
+@literacy

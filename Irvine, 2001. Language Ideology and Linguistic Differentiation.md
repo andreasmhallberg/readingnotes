@@ -13,11 +13,11 @@
 
     > The ways these languages were identified, delimited, and mapped, the ways their relationships were interpreted, and even the ways they were described in grammars and dictionaries were all heavily influenced by an ideology of racial an national essences. 409
 
-  - Language ideologies in Macedonia
-    - Surrounding powers emphasising or de-emphasising linguistic traits or dialects to use linguistic similarities to substantiate territorial claims.
-    - Multilingualism seen as moral flaw by western European observers: 419
+- Language ideologies in Macedonia
+  - Surrounding powers emphasising or de-emphasising linguistic traits or dialects to use linguistic similarities to substantiate territorial claims.
+  - Multilingualism seen as moral flaw by western European observers: 419
 
-      > Multiple languages were assumed to indicate multiple loyalties and thus a temperamental flaw, a lack of trustworthiness.
+    > Multiple languages were assumed to indicate multiple loyalties and thus a temperamental flaw, a lack of trustworthiness.
 
 - Descriptions of role of language in modern nation states flawed: 425
 

@@ -7,3 +7,5 @@
 - Definition of depth of orthography defined as: "its relative remoteness from phonetic representation" 146 
 
 @orthography
+@reading:w
+@FLA

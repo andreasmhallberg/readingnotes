@@ -2,13 +2,14 @@
 
 Discusses negative effects of diglossia on literacy. 507
 
-- Learning how to read in Arabic is both new language *and* graphical representation. 508
+- Learning how to read in Arabic is to learn both a new language *and* a graphical representation. 508
 
 - Diglossia is a continuum (El-Hassan 1977) for the highly educated, but for not highly educated it is a dichotomy [i.e. Ferguson's classical diglossia]. 509
 
 - Icraab: "teaching/learning Arabic is often equated with teaching/learning grammar, which in turn is equated with teaching/learning the system of grammatical inflection." 512
 
-- "spoken Arabic is considered to be unworthy of the label 'language' but rather a nameless verbal corruption." 512 The study of spoken Arabic is suspect. 513
+- "spoken Arabic is considered to be unworthy of the label 'language' but rather a nameless verbal corruption." 512
+  - The study of spoken Arabic is suspect. 513
 
 - Extremely rare to hear someone read without interference from spoken language. 512
 
@@ -20,3 +21,4 @@ Discusses negative effects of diglossia on literacy. 507
 
 @diglossia
 @Arabic
+@literacy

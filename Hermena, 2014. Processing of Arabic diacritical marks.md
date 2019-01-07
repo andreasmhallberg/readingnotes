@@ -40,8 +40,10 @@ Vowel signs ("diacritics") on passive verbs are processed when only the verb is 
    - skilled readers have a default preference for interpreting verbs as active
    - do not process vowels in fully vowelled text. 505
 
-      > The small effect, likely due to visual crowding and the fact that there were no other differences between the two active conditions [no vowels and fully voweled] (similar total number of fixations and total sentence reading times), lends more support to the suggestion that readers do not engage automatically, or at any significant extent, in cognitive process to access the linguistic information provided by the diacritics in full diacritization mode. 
+     > The small effect, likely due to visual crowding and the fact that there were no other differences between the two active conditions [no vowels and fully voweled] (similar total number of fixations and total sentence reading times), lends more support to the suggestion that readers do not engage automatically, or at any significant extent, in cognitive process to access the linguistic information provided by the diacritics in full diacritization mode. 
 
 @eye-tracking
-@arabic
+@Arabic
 @reading
+@syntax
+@orthography

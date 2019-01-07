@@ -12,5 +12,7 @@
 
 - Differences in measures of correctness. *Qiyās* of *šāḏ* or not. 47
 
+@Arabic
 @ALT
 @icraab
+@language-ideology

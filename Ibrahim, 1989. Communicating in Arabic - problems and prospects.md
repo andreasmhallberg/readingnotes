@@ -3,8 +3,8 @@
 [Good summary of problems with diglossia in education and arabization.]
 
 - Education and literacy:
-  - Teaching material today only recognize classical grammar 41 (and its data 40)
-  - "The gap between the two varieties can only grow wider" 40 since the grammar cannot be changed.
+  - Teaching material today only recognize classical grammar and the data it builds on. 40-1
+  - "The gap between the two varieties can only grow wider" since the grammar cannot be changed. 40
   - "Standard written Arabic today is still the monopoly of a very small minority of educated Arabs." 40
   - "There does not exist yet any Arabic dictionary or grammar book derived from, or based on, an actual corpus of modern Arabic text." 42
   - "Since the rules of Arabic grammar are based on prescriptive rules instead of actual usage, they will remain hopeless and unattainable for the vast majority of Arabic learners." 42
@@ -16,7 +16,7 @@
     2. colloquolization
     3. leveleing. 
     
-  - "Taken together, these three processes will undoubtedly result in greater linguistic unification in the Arab countries." 43.
+  - "Taken together, these three processes will undoubtedly result in greater linguistic unification in the Arab countries." 43
 
 - Regionally different lexicon opposing trend. 45
 
@@ -41,3 +41,4 @@
 
 @Arabic
 @diglossia
+@language-planning

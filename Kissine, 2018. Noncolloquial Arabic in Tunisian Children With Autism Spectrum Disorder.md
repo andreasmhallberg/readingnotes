@@ -14,4 +14,5 @@
   - Use of MSA is productive. 
   - Likely acquired from non-interactive/non-social input: TV and video games. Preferred form of input for language with these children. 20 
 
-@Arabic
+@Arabic:Standard
+@FLA

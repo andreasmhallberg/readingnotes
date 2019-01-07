@@ -27,6 +27,7 @@
 @English
 @Swedish
 @German
+@Norwegian
 
 # Area of linguistics
 
@@ -65,6 +66,7 @@
 @media (i.e. "old media")
 @pedagogy (not language)
 @islamology
+@popular-culture
 
 # Notes
 iʿrāb often spelled icraab

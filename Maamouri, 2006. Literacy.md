@@ -27,5 +27,5 @@
 @Arabic
 @FLA
 @diglossia
-@reading
 @orthography
+@literacy

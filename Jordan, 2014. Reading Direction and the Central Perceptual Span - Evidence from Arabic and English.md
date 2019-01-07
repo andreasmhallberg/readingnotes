@@ -4,6 +4,7 @@
 
 - Arabic-English bilinguals
 
-- When reading English, performance better if moving window bigger on the right, when reading Arabic, performance petter if moving window bigger on the left. 505
+- When reading English, performance better if moving window bigger on the right, when reading Arabic, performance better if moving window bigger on the left. 505
 
-@Ω
+@eye-tracking
+@reading
