@@ -6,7 +6,7 @@
 
 - Standard English is a dialect. 124
 
-    > There is really no continuum linking Standard English to other dialects because the codification that forms a crucial part of the standardisation process results in a situation where, in most cases a feature is either standard or it is not.
+  > There is really no continuum linking Standard English to other dialects because the codification that forms a crucial part of the standardisation process results in a situation where, in most cases a feature is either standard or it is not.
 
 - There are exclusively non-standard words, but no exclusively standard words. 127
 

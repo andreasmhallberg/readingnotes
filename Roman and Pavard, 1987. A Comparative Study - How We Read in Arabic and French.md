@@ -11,4 +11,5 @@
 
 @reading
 @Arabic
+@orthography
 @eye-tracking

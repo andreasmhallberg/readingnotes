@@ -13,5 +13,7 @@
   - Almost complete disinterest in pronunciation. 261
 
 @language-instruction
+@SLA
+@FLA
 @ALT
 @Arabic

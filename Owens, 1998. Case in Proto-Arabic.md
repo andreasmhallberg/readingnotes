@@ -24,3 +24,4 @@ Owens, Jonathan. 1998. “Case and Proto-Arabic, Part II.” Bulletin of the Sch
 @Arabic
 @icraab
 @case
+@historical-linguistics

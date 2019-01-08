@@ -20,3 +20,4 @@
 @Arabic
 @diglossia
 @FLA
+@literacy

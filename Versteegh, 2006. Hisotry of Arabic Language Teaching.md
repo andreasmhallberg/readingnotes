@@ -8,6 +8,7 @@
   - replacement of CA with MSA
   - introduction of dialect
 
+@historical-linguistics
 @language-instruction
 @SLA
 @FLA

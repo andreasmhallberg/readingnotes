@@ -74,5 +74,7 @@
 
 @phonology
 @icraab
-@word-order
+@syntax
 @Arabic:Standard
+@speech
+@corpus-linguistics

@@ -20,7 +20,8 @@
 
 - Dialects are now routinely written: [20]
 
-    > AA represents extended written use of the UAE vernacular. This variety has previously been written down only in very brief texts, in specialized genres such as poetry, cartoons and linguistic studies. Now, however, under the combined pressure of technical and social change, it is being used routinely in written form, for everyday interjectional purposes.
+  > AA represents extended written use of the UAE vernacular. This variety has previously been written down only in very brief texts, in specialized genres such as poetry, cartoons and linguistic studies. Now, however, under the combined pressure of technical and social change, it is being used routinely in written form, for everyday interjectional purposes.
 
 @CMC
 @Arabic
+@writing

@@ -16,5 +16,6 @@ Describes teaching in Formal Spoken Arabic (FSA/ESA) at Foreign Service Institut
 - [Perhaps best described as a way of ESA-fying MSA?]
 
 @Arabic
+@diglossia
 @language-instruction
 @SLA

@@ -20,3 +20,5 @@
 
 @Arabic
 @diglossia
+@Egypt
+@speech

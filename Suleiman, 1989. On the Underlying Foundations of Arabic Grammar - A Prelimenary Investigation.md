@@ -6,6 +6,7 @@
 
 - Data uncomfortably fitted to theory: 183
 
-    > instrumentalism [as opposed to realism] arises whenever the Arabic grammarians try to extend the domain of their preconceived theoretical positions to data which can be accounted for by means of a descriptively more adequate solution. [.. Creating] a Procrustean ben intro which the data are forcibly fitted for the sake of minting theoretically-inspired neatness on description.
+  > instrumentalism [as opposed to realism] arises whenever the Arabic grammarians try to extend the domain of their preconceived theoretical positions to data which can be accounted for by means of a descriptively more adequate solution. [.. Creating] a Procrustean ben intro which the data are forcibly fitted for the sake of minting theoretically-inspired neatness on description.
 
+@Arabic
 @ALT

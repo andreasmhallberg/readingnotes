@@ -20,6 +20,6 @@
   2. substitution of functional item
   3. L2+
 
-@Arabic
-@diglossia
 @Arabic:Standard
+@speech
+

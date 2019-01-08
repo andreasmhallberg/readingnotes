@@ -1,9 +1,9 @@
 # Scherre, M., 2006. Speech Community.  Brown, red. Encyclopedia of Language & Linguistics, 11, ss.716–722.
 
 - Three definitions of speech community:
-    1. stucturalistically as sign system (Bloomfeld, Hocket, Lyons)
-    2. Sociologically as common communicative competence - not just grammar and words (Gumperz, Fishman, Hymes)
-    3. Labovian as shared system of valuing varieties.
+  1. stucturalistically as sign system (Bloomfeld, Hocket, Lyons)
+  2. Sociologically as common communicative competence - not just grammar and words (Gumperz, Fishman, Hymes)
+  3. Labovian as shared system of valuing varieties.
 
 - Linguistic insecurity from codified grammar: 719
 

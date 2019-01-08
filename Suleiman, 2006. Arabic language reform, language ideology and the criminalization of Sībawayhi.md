@@ -10,4 +10,3 @@ Descibes aš-Šubāšī's and Ouzo's books on language reform and the debate the
 
 @Arabic
 @language-ideology
-

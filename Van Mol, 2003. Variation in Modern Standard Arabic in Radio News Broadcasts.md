@@ -3,25 +3,25 @@
 - Various opinions on difference between CA and MSA. 30-31
 
 - List (limited) of differences between MSA and CA: 32
-    1. *ayy*
-    2. *yūjadu*
-    3. *modus energicus* gone
-    4. singular adjective for *ġayr ʿāqil*
+  1. *ayy*
+  2. *yūjadu*
+  3. *modus energicus* gone
+  4. singular adjective for *ġayr ʿāqil*
 
 - Review of suggested terms for MSA. 35
 
 - Definition of MSA: 39. 
 
-    > By modern Standard Arabic we understand the standard language, such as it continued to develop in formal conversation, and such as it has been described in modern Western grammars.
+  > By modern Standard Arabic we understand the standard language, such as it continued to develop in formal conversation, and such as it has been described in modern Western grammars.
 
 - Critique of diglossia: all standard languages are second languages taught in school. 48
 
 - 11 page critique of ESA: 59-70.
-    1. Contradictory definitions. 59
-    2. Unclear delimitation from dialects. 61
-    3. Unclear what is investigated (speakers, situations). 63
-    4. Unclear geographical categories. 66
-    5. Data shows greater variation than what is implied by "variety". 67
+  1. Contradictory definitions. 59
+  2. Unclear delimitation from dialects. 61
+  3. Unclear what is investigated (speakers, situations). 63
+  4. Unclear geographical categories. 66
+  5. Data shows greater variation than what is implied by "variety". 67
 
 - "Almost no investigations are available of 'spoken MSA'. Only Dieam (1973), Schulz (1981) and limited observation by Kay (1991) [*ism* pronounced with *qatʿ*]. 79
 
@@ -62,5 +62,6 @@
 - Patterns in MSA not corresponding to descriptions in Western and Arabic grammars. 300
 
 @Arabic:Standard
+@lexicon
 @MSA
 @corpus-linguistics

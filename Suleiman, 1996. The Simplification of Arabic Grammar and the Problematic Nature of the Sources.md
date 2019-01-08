@@ -12,13 +12,13 @@ Naive realism in linguistic sciences makes reform unfeasible.
 
 - Diachronic data, synchronic analysis:  110 
 
-    > the unusually long time-span which was adopted as a framework for the data collection, thus leading to the incorporation of diachrinically dynamic dimension in what is supposed to be a synchronic state. [The notion of correctness] is made to straddle the divide between a systemological view of grammar, where rigor and precision are regarded as highly prized properties, and a variation-oriented corpus where a degree of flexibility as not just tolerated but also methodologically sanctioned.
+  > the unusually long time-span which was adopted as a framework for the data collection, thus leading to the incorporation of diachrinically dynamic dimension in what is supposed to be a synchronic state. [The notion of correctness] is made to straddle the divide between a systemological view of grammar, where rigor and precision are regarded as highly prized properties, and a variation-oriented corpus where a degree of flexibility as not just tolerated but also methodologically sanctioned.
 
 - Quotes Milroy & Milroiys about arbitrarily choosing one form as correct. 112
 
 - Standard language ideology strengthened by Islam: 112
 
-    > It may even be argued that, because of the 'sacred' nature of the language and through its organic association with Islam's revealed text, the drive to achieve uniformity and remove, or at least arrest variability may be judged to be culturally more rooted in the Arabic context than what might be the case in other linguistic environments.
+  > It may even be argued that, because of the 'sacred' nature of the language and through its organic association with Islam's revealed text, the drive to achieve uniformity and remove, or at least arrest variability may be judged to be culturally more rooted in the Arabic context than what might be the case in other linguistic environments.
 
 - Quotes Furayḥa: language reform unfeasible – therefore pedagogical reform. 113
 
@@ -26,9 +26,9 @@ Naive realism in linguistic sciences makes reform unfeasible.
 
 - Naive-realis:
 
-    > It is hardly possible in the Arabic grammatical tradition to distinguish epistemologically  between the grammar of Arabic and Arabic in its pre-descriptive state.
+  > It is hardly possible in the Arabic grammatical tradition to distinguish epistemologically  between the grammar of Arabic and Arabic in its pre-descriptive state.
     
-    - Arabic grammatical tradition is "naïve-realist", 114. No differnce between the language in and of itself and the description of languge. Change in description therefore change in language itself. 115
+  - Arabic grammatical tradition is "naïve-realist", 114. No differnce between the language in and of itself and the description of languge. Change in description therefore change in language itself. 115
 
 @Arabic:Standard
 @ALT

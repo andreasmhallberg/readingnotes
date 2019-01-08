@@ -110,13 +110,5 @@
 - Eye-movement data "golden standard" studies of sentence processing. 1474
 
 @eye-tracking
-@rading
+@reading
 @review-article
-
-
-
-
-
-
-
-

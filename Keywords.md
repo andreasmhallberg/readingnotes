@@ -11,6 +11,8 @@
 @Israel
 @Egypt
 @Morocco
+@Sweden
+@Tunisia
 
 # Reference type
 
@@ -50,11 +52,14 @@
 @prosody
 @reading
 @sociolinguistics (variationist)
-@spoken-language (theoretic on the phenomenon of speech)
 @syntax
 @typography
 @pause
 @heritage-speakers
+
+# Modality
+@writing
+@speech
 
 # Linguistic methods
 @corpus-linguistics

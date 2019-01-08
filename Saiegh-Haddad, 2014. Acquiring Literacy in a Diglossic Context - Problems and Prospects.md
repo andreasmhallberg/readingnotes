@@ -12,5 +12,7 @@
   2. 30.9% types uniquely dialectal (*ḥāṭ/wadaʿa*).
   3. 21.2% types overlapping/shared (*janūb, daftar*)
 
+@SLA
+@literacy
 @diglossia
 @Arabic

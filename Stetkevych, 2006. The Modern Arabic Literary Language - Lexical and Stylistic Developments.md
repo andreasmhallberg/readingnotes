@@ -16,6 +16,6 @@
 
 - [Strange] Line of reasoning about how Arabs are integrated into Western thinking. 
 
-@Arabic
+@Arabic:Standard
 @icraab
-@language-reform
+@language-planning

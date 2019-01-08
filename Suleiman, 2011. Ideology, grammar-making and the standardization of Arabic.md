@@ -2,7 +2,7 @@
 
 - Ideology of early grammar writing. Aim of paper to 5
 
-    > explore the ideological content of standardization of grammar-making in the Arabic linguistic tradition during the first four centuries of Islam.
+  > explore the ideological content of standardization of grammar-making in the Arabic linguistic tradition during the first four centuries of Islam.
 
 - Plenty of traditions about importance of reading Quran with correct icraab, ergo erroneous plentyful. 8, 25
 
@@ -15,5 +15,7 @@
 - Shu’ubiyya drev på spårkideologi om arabiska (och dess grammatik) som arabisk etniskt markör. 20
 - *Šuʿūbiyya* debate pushed language ideology toward Arabic as marker of ethnicity. 20
 
+@Arabic
 @ALT
 @language-ideology
+@standiard-language

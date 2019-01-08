@@ -6,4 +6,6 @@
 
 - Certain forms of case endings become universal endings for that case. 426
 
-@icraab
+@case
+@syntax
+@SLA

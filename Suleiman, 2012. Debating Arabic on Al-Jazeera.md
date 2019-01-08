@@ -2,11 +2,11 @@
 
 - Lists "*all* interviews and debate programs that aired on the network [ALjazeera] between 1998 and 2010 that dealt *specifically* with the Arabic language." 192. 
 
-    - 8 programs:
-        - ah-sharia wa-l-hayat
-        - ma wara al-xabar
-        - alittijah al-miakis
-        - al-kitab xayr jalis 
+- 8 programs:
+  - ah-sharia wa-l-hayat
+  - ma wara al-xabar
+  - alittijah al-miakis
+  - al-kitab xayr jalis 
 
 @Arabic
 @language-ideology

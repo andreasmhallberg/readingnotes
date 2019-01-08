@@ -12,6 +12,8 @@ Compares Quran schools in Yemen and Senegal. Generalize to Muslim education at l
 
 - "increasing numbers of children are now attending the traditional Quranic school as a preschool, and then going on to a modernized Islamic school or government school." 118 
 
+@quran
 @Arabic
 @language-instruction
 @FLA
+@islamology

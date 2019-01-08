@@ -13,9 +13,9 @@ Prescription on speech is misguided, since speech and writing have different str
 - "Its [standadisation's] chief characteristics, according to our account, is intolerance of optional variability in language." 26
 
 - Assumptions in complaint tradition: 40
-    1. There is only one correct way of speaking/writing.
-    2. Deviations amount to illiterate, errors, "perversily deviant"
-    3. It is correct to discriminate against users of non-standard, "sign of stupidity, ignorance, perversity, moral degeneracy, etc."
+  1. There is only one correct way of speaking/writing.
+  2. Deviations amount to illiterate, errors, "perversily deviant"
+  3. It is correct to discriminate against users of non-standard, "sign of stupidity, ignorance, perversity, moral degeneracy, etc."
 
 - Theory about standardization can better than Bernstein (elaborate/restricted code) explain difficulties in school of unprivileged children. 49
 
@@ -27,7 +27,7 @@ Prescription on speech is misguided, since speech and writing have different str
 
 - Standarizing efforts are disruptive of language: 69
 
-    > the existence of alternative choices (e.g. in sentence construction) contributes to the choices for different social purposes, and the existence of alternatives is in such cases functional. The narrower forms of prescription may therefore be seen as 'diseases' or malfunctions of the ideology of standardisation, arising from ignorance of the nature of speech, which leads to uncritical applications of the principles of uniformity to inappropriate cases.
+  > the existence of alternative choices (e.g. in sentence construction) contributes to the choices for different social purposes, and the existence of alternatives is in such cases functional. The narrower forms of prescription may therefore be seen as 'diseases' or malfunctions of the ideology of standardisation, arising from ignorance of the nature of speech, which leads to uncritical applications of the principles of uniformity to inappropriate cases.
 
 - Writing is normative of language due to the focus on it in education. 64
 
@@ -35,11 +35,11 @@ Prescription on speech is misguided, since speech and writing have different str
 
 - The repressive nature of standard language ideology: 99
 
-    > A speaker who is made ashamed of his own language habits suffers a basic injury as a human being: to make anyone, especially a child, feel so ashamed is as indefensible as to make him feel ashamed of the colour of his skin. 99. (Quoted from Halliday et al. 1964:105)
+  > A speaker who is made ashamed of his own language habits suffers a basic injury as a human being: to make anyone, especially a child, feel so ashamed is as indefensible as to make him feel ashamed of the colour of his skin. 99. (Quoted from Halliday et al. 1964:105)
 
 - Education should regard standard as but one part of language proficiency: 121
 
-    > while it is clear that an important job of a public education system is to teach control of *formal* styles, in practice the task is is often not consistently defined this way. As we have noted, inadequacies in this part of the repertoire are often viewed as *general* linguistic inadequacies.
+  > while it is clear that an important job of a public education system is to teach control of *formal* styles, in practice the task is is often not consistently defined this way. As we have noted, inadequacies in this part of the repertoire are often viewed as *general* linguistic inadequacies.
 
 - "conviction that standards are declining and that they were at one time higher than they are now" 49 [Labov 'Golder Era']
 

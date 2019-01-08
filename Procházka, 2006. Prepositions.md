@@ -14,3 +14,4 @@
 
 @Arabic:Standard
 @ALT
+@syntax

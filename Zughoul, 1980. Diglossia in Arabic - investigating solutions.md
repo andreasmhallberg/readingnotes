@@ -8,4 +8,4 @@ Rapport of panel discussion on solutions to Arabic diglossia.
 
 @Arabic
 @diglossia
-@language-reform
+@language-planning

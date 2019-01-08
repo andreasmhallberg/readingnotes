@@ -27,7 +27,9 @@
 
 - Correct icraab first minutes of speech. Then more mixed ways of speaking. 180
 
-- Två möjliga sutuationer : A talaren känner att han vet ändelsen och uttaler den då. B: talaren vet inte vilken ändelse och uttalar inte. 180 Jfr. Badaw (1973)
+- Två möjliga sutuationer:
+  1. talaren känner att han vet ändelsen och uttaler den då. 
+  2. talaren vet inte vilken ändelse och uttalar inte. 180 Jfr. Badaw (1973)
 - Two possible situations: 
   1. speaker knows the ending and then he pronounces it. 
   2. speaker does not know the ending and then he does not pronounce it
@@ -52,3 +54,4 @@
 
 @icraab
 @Arabic:Standard
+@speech

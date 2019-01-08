@@ -31,5 +31,6 @@ The tradition went from descriptivism in Sībawayh and al-Farrāʾ to prescripti
 
 - Students should be aware that Arabic is partly the product of the grammatical tradition since it has formed Arabic. 115
 
+@Arabic
 @ALT
 @language-ideology

@@ -48,8 +48,10 @@
     - Arabic tradition explains existing texts. Provide examples and proceeds to deduce grammatical rules.
     - Orientalist tradition present rules to generate language. Provides rules and proceeds to give generated examples.
 
+@Israel
 @Arabic
 @ALT
 @language-instruction
 @FLA
 @SLA
+@language-ideology

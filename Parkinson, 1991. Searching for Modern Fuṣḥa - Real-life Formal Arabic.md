@@ -33,16 +33,16 @@
 
 - Ideology of Arab and Islamic unity and heritage informs language teaching: 39 
 
-    > Many overtly state that the purpose of teaching formal Arabic to children in school is not so much to make them literate members of a modern society but to keep them in touch with their classical literary and religious heritage. Thus the emphasis on memorizing long passages of classical Arabic poetry, and the consistent testing of obscure and archaic vocabulary in the national educational exams [in Egypt]. 
+  > Many overtly state that the purpose of teaching formal Arabic to children in school is not so much to make them literate members of a modern society but to keep them in touch with their classical literary and religious heritage. Thus the emphasis on memorizing long passages of classical Arabic poetry, and the consistent testing of obscure and archaic vocabulary in the national educational exams [in Egypt]. 
 
 - Native 'users,' not 'speakers'. 39.
 
 - As answer to direct question on *fuṣḥā*, answers do not reflect actual behavior. 52
 
 - Three normative views of *fuṣḥā* 53:
-    1. Pro-narrow-*fuṣḥā*
-    2. Anti-narrow-*fuṣḥā*
-    3. Expanded-*fuṣḥā*
+  1. Pro-narrow-*fuṣḥā*
+  2. Anti-narrow-*fuṣḥā*
+  3. Expanded-*fuṣḥā*
 
 - Matched guise test: phonology more important than icraab for impressions of *fuṣḥā*-ness. 57
 
@@ -53,3 +53,4 @@
 - "middle’ solution, with partial vowelling but correct (Egyptian) phonology, a clear preference over other styles." 61
 
 @Arabic:Standard
+@standard-language

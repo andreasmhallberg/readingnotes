@@ -8,11 +8,13 @@
 
 - No group speaks SA: 25
 
-    > there is no independent group of speakers of the prestige variety to dictate what the spoken norm should be. The speakers of SA are free, as it were, to establish what their spoken norms should be.
+  > there is no independent group of speakers of the prestige variety to dictate what the spoken norm should be. The speakers of SA are free, as it were, to establish what their spoken norms should be.
 
 - Quotes Sallam. Discourse drift in g/q. 26
 
 - Ara-ara code-switching different constraints than ara-french. 27
 
 @code-switching
-@Arabic:Standard
+@Arabic
+@speech
+

@@ -41,6 +41,7 @@
 
 @Arabic
 @diglossia
+@SLA
 @reading
 @orthography
 @icraab
