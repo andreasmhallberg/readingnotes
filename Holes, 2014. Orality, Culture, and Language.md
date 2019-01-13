@@ -18,4 +18,4 @@
 
 @Arabic
 @diglossia
-@pupular-culture
+@popular-culture

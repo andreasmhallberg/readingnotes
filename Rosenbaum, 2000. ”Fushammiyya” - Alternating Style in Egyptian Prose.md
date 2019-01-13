@@ -17,4 +17,4 @@ Style in prose writing where *fuṣḥā* and *ʿāmmiyyā* are mixed.
   1. Becomes respectable. Found in respectable printed media. 
 
 @Arabic
-@writign
+@writing

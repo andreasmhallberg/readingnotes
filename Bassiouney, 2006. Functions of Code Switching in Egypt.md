@@ -14,6 +14,6 @@
   - ECA dem + MSA noun
   - ECA aspect + MSA verb
 
-@diglossa
+@diglossia
 @code-switching
 @Arabic

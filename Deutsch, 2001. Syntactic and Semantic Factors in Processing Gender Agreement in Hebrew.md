@@ -18,16 +18,15 @@
   - each trial start with fixation point where sentence start will appear. Verifies calibration.
 
 
-
 - Data filtering 209
   - Only fixations between 140 and 800 ms included.
   - For all measures, observations larger than 2 SD for each participant excluded.
 
-- results
+- Results
   - gaze duration and second pass duration longer for incongruent predicates. 209 
     - form (morphological) markedness condition showed in first pass
     - unmarked in second pass
-  - bigger difference in animate subjects.
+  - No effect of conceptual gender on processing.
 
 @eye-tracking
 @reading

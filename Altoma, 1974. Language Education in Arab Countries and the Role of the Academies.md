@@ -26,5 +26,5 @@
 @language-ideology
 @language-planning
 @Arabic:Standard
-@langugae-instruction
+@language-instruction
 @FLA

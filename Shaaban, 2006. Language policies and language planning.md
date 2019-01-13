@@ -12,5 +12,5 @@
 
 @Arabic
 @diglossia
-@language-instruction
+@language-planning
 @FLA

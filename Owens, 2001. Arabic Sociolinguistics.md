@@ -31,4 +31,4 @@
 @sociolinguistics
 @code-switching
 @review-article
-@peech
+@speech

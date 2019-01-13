@@ -63,5 +63,4 @@
 
 @Arabic:Standard
 @lexicon
-@MSA
 @corpus-linguistics

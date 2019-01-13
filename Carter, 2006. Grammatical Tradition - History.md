@@ -27,4 +27,4 @@
   - *Muqaddima al-Ājurrumiyya,* Ibn al-Ājurrum (d. 1327)
 
 @ALT
-@arabic
+@Arabic

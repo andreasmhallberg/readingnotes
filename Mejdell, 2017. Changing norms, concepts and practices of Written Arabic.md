@@ -12,4 +12,4 @@
 
 @Arabic
 @language-ideology
-@languge-planning
+@language-planning

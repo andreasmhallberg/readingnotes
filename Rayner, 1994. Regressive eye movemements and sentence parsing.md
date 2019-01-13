@@ -7,7 +7,7 @@ Argues against *regression-contingent analysis*, presented in Altmann et al. (19
   > If regressions are a necessary consequence of garden pathing, then ,when a regression-contingent analysis (in which trials with regressions are eliminated from the data set) is performed [...] the garden path effect should be eliminated or considerably wakened
 
 - Results:
-  - When trials containing regressions were filtered out there was an effect of garden pahging on first pass reading times.
+  - When trials containing regressions were filtered out there was an effect of garden-pathing on first pass reading times.
 
 - "garden path effects can be demonstrated *both* by an increase in regressions and by longer reading times in the absence of regression." 284
 

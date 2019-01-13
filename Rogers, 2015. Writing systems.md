@@ -15,4 +15,4 @@
     - e.g. Chinese
 
 @reading
-@text-book
+@textbook

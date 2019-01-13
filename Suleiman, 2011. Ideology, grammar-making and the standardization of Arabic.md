@@ -18,4 +18,4 @@
 @Arabic
 @ALT
 @language-ideology
-@standiard-language
+@standard-language

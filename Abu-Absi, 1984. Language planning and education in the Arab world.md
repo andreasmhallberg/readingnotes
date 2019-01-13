@@ -7,5 +7,5 @@
   > Innovative ideas with respect to curriculum and methodology have been suggested by individuals and official bodies (Ismāʿil 1975), but new proposals do not go unchallenged by those who view them as threat to the classical language. 
 
 @diglossia
-@languge-planning
+@language-planning
 @Arabic

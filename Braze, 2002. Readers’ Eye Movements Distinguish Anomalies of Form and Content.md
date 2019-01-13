@@ -2,6 +2,8 @@
 
 Compares eye-movement patterns in syntactic and pragmatic anomalies. 
 
+# Method
+
 - Stimulus
   - control, syntactic anomaly, pragmatic anomaly (similar to Ni et al. 1998) 29
   - 36 target sentences, 72 fillers. 31 
@@ -19,16 +21,38 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
   - and number of regressions
   - regression landing sites (end of regression chain) 32
 
-- Results
-  - first pass reading on anomalous region 34
-    - longer for pragmatic anomaly
-    - same for syntactic anomaly
-  - rate of regression on anomalous region
-    - "dramatically more regressions" (.37 vs. .10) from syntactically anomalies
-    - no increase in pragmatic anomalies 
-  - pragmatically anomalous sentences more regressions later in sentence after anomalous verb. 
+- regions (AOIs)
+  1. subject
+  2. modal verb + adverb
+  3. critical verb plus next word
+  4. next two words
+  5. remainder of sentence (0--4 words)
 
-- Discussion. 39
+# Results
+
+- region 3 (target)
+  - First pass reading time
+    - pragmatic anomaly: longer
+    - syntactic anomaly: longer (+36ms)
+  - Regressions
+    - pragmatic anomaly: no effect
+    - syntactic anomaly: dramatic increase (control=.10, syntactic=.48) 
+  - Word-by-word analysis: regressions, but not reading times, are inflated directly on syntactically anomalous word. 
+
+- region 4 (2nd and 3d post target word)
+  - First pass reading time
+    - pragmatic anomaly: longer
+    - syntactic anomaly: no effect
+  - Regressions
+    - pragmatic anomaly: increase
+    - syntactic anomaly: increase (smaller control=.11, syntactic=.18)
+
+- region 5 (4th and 5th post target word)
+  - First pass reading time: no effects
+
+- End of sentence: sharp increase in regression for pragmatic anomly
+
+# Discussion. 39
   - Reaction to syntactic anomalies immediate but disappear later in sentence.
   - Reaction to pragmatic anomalies not immediate but lingers and peaks at end of sentence, with regressions to anomalous verb.
 

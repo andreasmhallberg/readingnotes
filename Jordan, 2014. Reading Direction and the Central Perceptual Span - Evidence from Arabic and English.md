@@ -7,4 +7,4 @@
 - When reading English, performance better if moving window bigger on the right, when reading Arabic, performance better if moving window bigger on the left. 505
 
 @eye-tracking
-@reading
+@reading

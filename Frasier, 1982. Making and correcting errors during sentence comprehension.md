@@ -1,5 +1,7 @@
 # Frazier, Lyn, and Keith Rayner. “Making and Correcting Errors during Sentence Comprehension: Eye Movements in the Analysis of Structurally Ambiguous Sentences.” Cognitive Psychology 14, no. 2 (1982): 178–210.
 
+- *parser*: "human sentence parsing mechanism". 178
+
 - Garden-path theory of sentence parsing: 180
   - *Late closure*: material is syntactically attached to preceding material.
   - *Minimal attachment*: Attach incoming material using as few nodes as possible (smallest possible syntactic tree)

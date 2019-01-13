@@ -1,11 +1,9 @@
 # Arabic specific
-
 @ALT (Arabic Linguistic Tradition)
 @Aljazeera
 @icraab
 @language-ideology:primary-source
 @quran
-@standard-language
 
 # Country
 @Israel
@@ -33,14 +31,15 @@
 
 # Area of linguistics
 
+@standard-language
 @CMC (Computer Mediated Communication)
 @code-switching
 @diglossia (theoretical discussion on diglossia)
 @eye-tracking
-@formality * (under pragmatics?)
+@formality (under pragmatics?)
 @historical-linguistics
 @language-ideology (includes language attitudes)
-@language-instruction (Typically combined with `@SLA` or `@FLA`)
+@language-instruction (Typically combined with `SLA` or `FLA`)
 @SLA (first language acquisition) 
 @FLA (second language acquisition)
 @language-planning

@@ -44,4 +44,4 @@ Argues against prevailing dual-acces theory (parallel visual and phonological ac
   - evidence of phonological representation, better recollection of rhyming words than non-rhyming and of words with similar signs in sign language. Have access to and prefers phonological representation of words.
 
 @reading
-@lexikon
+@lexicon
