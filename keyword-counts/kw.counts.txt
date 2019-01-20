@@ -1,5 +1,5 @@
-Arabic 201
-diglossia 64
+Arabic 202
+diglossia 65
 language-ideology 49
 reading 36
 icraab 35
@@ -18,10 +18,10 @@ orthography 12
 sociolinguistics 11
 pragmatics 9
 historical-linguistics 8
+review-article 8
 corpus-linguistics 7
 heritage-speakers 7
 literacy 7
-review-article 7
 Egypt 6
 prosody 6
 lexicon 5
@@ -31,6 +31,7 @@ case 4
 media 4
 morphology 4
 quran 4
+statistics 4
 Swedish 4
 typography 4
 writing 4
@@ -38,12 +39,12 @@ anthropology 3
 CMC 3
 German 3
 popular-culture 3
-statistics 3
 Aljazeera 2
 formality 2
 islamology 2
 Israel 2
+pedagogy 2
 phonology 2
 Morocco 1
-pedagogy 1
+TAFL 1
 Tunisia 1

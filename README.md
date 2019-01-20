@@ -3,7 +3,7 @@
 **Important:**
 
 1. **Only some of these notes are complete summaries of the respective reference. Often they only contain notes on what I found interesting in the particular reference.**
-3. **The headers with the complete bibliographical reference have yet to be properly formatted. Many still have Swedish formatting and lack italics for titles.** 
+3. **The headers with the complete bibliographical reference have yet to be properly formatted.**
 
 
 ## General description
@@ -23,7 +23,7 @@ Since these notes are related to my research there is a focus on:
 
 See also [Keywords](#keywords) below.
 
-For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/mylatexstuff/blob/master/bibliotek.bib) in the [`mylatexstuff`](https://github.com/andreasmhallberg/mylatexstuff) repo. This is my general bibtex database where I dump all references without any particular order. The format of the citation key here is 
+For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/dotfile/mylatexstuff/blob/master/bibliotek.bib) in the [`dotfiles` repo](https://github.com/andreasmhallberg/dotfiles). This is my general bibtex database where I dump all references without any particular order. The format of the citation key here is 
 `<first author>_<first word in title>_<year>`
 
 ## Searching
@@ -33,7 +33,7 @@ To search for a term in the notes online on the GitHub-page, type in the search 
 
 ## Structure and format
 
-Each file contains notes from one single reference. They are formatted in [markdown](https://daringfireball.net/projects/markdown/syntax) (a plain text format similar to .txt). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as HTML (which is how they are displayed on the GitHub page), .doc, .pdf, or whatever. 
+Each file contains notes from one single reference. They are formatted in [markdown](https://daringfireball.net/projects/markdown/syntax) (a light weighthuman readable markup language). As such they can be easily converted via [Pandoc](http://pandoc.org) or a similar tool to other formats, such as doc, pdf, HTML (which is how they are displayed on the GitHub page), or whatever. 
 
 ### File name
 
@@ -57,7 +57,7 @@ Each file begins with the complete biographical reference in Chicago author-date
 
 ### Contents
 
-The actual notes referencing the content of the article or book are organized as nested lists. (More than 4 list levels case Pandoc to protest and are avoided.)
+The actual notes referencing the content of the article or book are organized as nested lists. (More than 4 list levels cause Pandoc to protest and are avoided.)
 
 Page reference are given at the end of lines. No page reference at the end of a line means that it is on the same page as previous item.
 
@@ -67,7 +67,7 @@ Material in square brackets are my comments.
 
 Lists and tables are sometimes quoted in markdown format.
 
-Subheadings (`##` in markdown) is only used on long notes to improve readability, typically reflecting chapters in book-length sources.
+Subheadings (`##` in markdown) are occasionally used on long notes to improve readability, typically reflecting chapters in book-length sources.
 
 ### Keywords
 
@@ -79,4 +79,4 @@ Keywords are added by me and are not those of the original author. There are som
 
 Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keywords.
 
-The directory [`keyword-counts`](keyword-counts/) contains an R-script that produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt) which contains a count of all keywords in the reading notes. Useful for finding typos in keywords.
+The directory [`keyword-counts`](keyword-counts/) contains an R-script that produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt) which contains a list of all keywords in the reading notes. Useful for finding typos in keywords.
