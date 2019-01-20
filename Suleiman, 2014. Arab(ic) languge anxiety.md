@@ -6,7 +6,7 @@
 
 - Second International Conference on Arabic Language (2013). 62
   - organized by Internation Council for the Arabic Language
-  - plays on language anxiety. Conference title: *al-luġa al-ʿarabiyya f5 xaṭar: al-jamīʿ šurakāʾ fī ḥimāyatihā*
+  - plays on language anxiety. Conference title: *al-luġa al-ʿarabiyya fī xaṭar: al-jamīʿ šurakāʾ fī ḥimāyatihā*
   - Regional and international sponsorship suggest support for ideas
 
 - [Labov's Golden Age hypothesis]. 63

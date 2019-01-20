@@ -1,21 +1,21 @@
-# run in shell
+# Generate data
+## run in shell
 system("grep -E '^@\\S+' ~/jobb/readingnotes/* > kw.txt")
 system("sed 's/:@/\t/' kw.txt > kw2.txt")
 
-# Load data
+## Load data
 kw <- as.data.frame(read.table('kw2.txt', sep='\t', heade=F))
 
 
-# Variable names
+## Variable names
 names(kw) <- c('file','kw')
 
-# BUG
 kw$file <- gsub('/Users/xhalaa/jobb/readingnotes/','', kw$file)
 
-# Exclude hits from Keyword.md
+## Exclude hits from Keyword.md
 kw <- kw[kw$file!='Keywords.md',]
 
-# variable for sub-keywords
+## variable for sub-keywords
 kw$kw.sub <- kw$kw # copy keyword
 kw$kw.sub[!grepl(':\\S+',kw$kw.sub)] <- NA # remove items w/o subs
 kw$kw.sub <- gsub('^.+:','',kw$kw.sub) # remove main from kw.sub
@@ -24,7 +24,7 @@ kw$kw <- gsub(':.*$','',kw$kw) # remove sub from kw
 kw$kw <- as.factor(kw$kw)
 kw$kw.sub <- as.factor(kw$kw.sub)
 
-# make a variable with ref Author (year)
+## make a variable with ref Author (year)
 kw$ref <- gsub('^(.*), (\\d\\d\\d+).*$', '\\1 (\\2)', kw$file)
 
 counts <- sort(table(kw$kw), decreasing=T)
@@ -33,3 +33,5 @@ system("sed 's/\"//g' kw.counts1.txt > kw.counts.txt")
 system("rm kw.counts1.txt")
 system("rm kw.txt")
 system("rm kw2.txt")
+
+

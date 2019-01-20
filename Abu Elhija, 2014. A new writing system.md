@@ -35,7 +35,7 @@
 
 - Conlcusions: 209
   - avoidance digraphs.
-  - Dialect/sociplinguistic variation reflected in spelling choice.
+  - Dialect/sociolinguistic variation reflected in spelling choice.
 
 @orthography
 @Arabic

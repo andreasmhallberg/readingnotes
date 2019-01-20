@@ -2,7 +2,7 @@
 
 - First complete translation 1834 of the Quran by Fredrik Crusenstolpe, officer and diplomat, since academics wrote primarily in Latin. 10
 
-- Tanslation of Carl Johannes Tornberg on awkwar, Latin influenced Swedish. 11
+- Translation of Carl Johannes Tornberg on awkwar, Latin influenced Swedish. 11
 
 - Context of Zetterstéen's translation: view promoted by Nathan Söderblom that study of history of religion was to focus on early religion and its founders to find the essence of the religion. 13
 
