@@ -49,31 +49,85 @@ nodes$type <- as.factor(nodes$type)
 ## data framw with edges
 edges <- cbind(kw[,c('ref','kw')])
 
-library("igraph")
-## Make graph object
-net <- graph_from_data_frame(d=edges, vertices=nodes, directed=F) 
-str(net)
-# Media outlets are blue squares, audience nodes are orange circles:
+## with tikz
 
-V(net)$type
+nodes$id <- 1:nrow(nodes)
+
+ # make file with tikz commands for ref nodes
+refs.tikz <- nodes[nodes$type=='ref',]
+refs.tikz$nr <- paste0('\\ref{',1:nrow(refs.tikz))
+refs.tikz$node <- gsub('$','}',refs.tikz$node)
+refs.tikz <- refs.tikz[,c('nr','id','node')]
+
+write.table(refs.tikz, row.names=F, col.names=F, quote=F, sep='}{', file='nodes.ref.tikz')
+
+ # make file with tikz commands for kw nodes
+kws.tikz <- nodes[nodes$type=='kw',]
+kws.tikz$nr <- paste0('\\kw{',1:nrow(kws.tikz))
+kws.tikz$node <- gsub('$','}',kws.tikz$node)
+kws.tikz <- kws.tikz[,c('nr','node')]
+
+write.table(kws.tikz, row.names=F, col.names=F, quote=F, sep='}{', file='nodes.kw.tikz')
+
+ # files with number of refs and kws
+ write(paste0(
+              '\\def\\nrrefs{',nrow(refs.tikz),'}',
+              '\\def\\nrkws{',nrow(kws.tikz),'}'
+              ), file='refkwcounts.tikz')
+
+ # make file with tikz commands for edges
+ # add ids from aboce
+
+test <- merge(nodes, edges, by.x='node', by.y='ref')
+test$id.from <- test$id
+test$id <- NULL
+test <- merge(test, edges, by.x='kw', by.y='kw')
+
+edges.tikz <- edges
+merge(edges.tikz, refs.tikz)
+
+edges.tikz$ref <- gsub('^','\\\\putedge{',edges.tikz$ref)
+edges.tikz$kw <- gsub('$','}',edges.tikz$kw)
+write.table(edges.tikz, row.names=F, col.names=F, quote=F, sep='}{', file='edges.tikz')
+
+names(edges)
+
+help(write.table)
+
+## with igraph
+library("igraph")
+ ## Make graph object
+net <- graph_from_data_frame(d=edges, vertices=nodes, directed=F) 
+
+summary(net)
+
+str(V(net)$type)
 E(net)
 
-l <- cbind(c(
-             # x
-             rep(2,length(V(net)[type=='ref'])),
-             rep(1,length(V(net)[type!='ref']))
-             ),
-             # y
-           c(
-             1:length(V(net)[type=='ref']),
-             1:length(V(net)[type!='ref'])
-             )
+
+ # column layout Layout
+refcoords <- cbind(rep(2,nrow(nodes.ref)), 1:nrow(nodes.ref))
+kwcoords  <- cbind(rep(1,nrow(nodes.kw)),  1:nrow(nodes.kw))
+
+ # spread out kw on y axis
+ spreadfactor <- nrow(refcoords)/nrow(kwcoords)
+ kwcoords[,2] <- kwcoords[,2]*spreadfactor
+
+l <- rbind(refcoords,kwcoords)
+
+
+
+png("plot.png", width=10, height=30, units="in", res=300)
+plot(net
+     , vertex.size=5
+     , vertex.label.cex=.5
+     , vertex.label.degree=0.0
+     , vertex.label.dist=1
+     , layout=l
+     , edge.curved=F
+     , vertex.shape='none'
+     , edge.width=.4
 )
-names(l) <- c('x','y')
-l$y[l$x==2] <- l$y[l$x==2]+mean(l$y[l$x==1])
+dev.off()
 
-plot(net, vertex.size=2, layout=l, vertex.label.cex=.4, vertex.label.degree=0)
-help(igraph)
-?graph_from_data_frame
-vertex_attr(net)
-
+help(igraph.plotting)
