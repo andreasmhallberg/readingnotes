@@ -23,5 +23,6 @@
 
 
 @diglossia
-@TAFL
+@SLA
+@language-instruction
 @Arabic

@@ -5,7 +5,8 @@
 - Study conducted on Dutch Open University Students
   - Heterogeneous student population. 648
 
-- Synthesized previous research in student learning activities: *regulating activities* and *processing activities*. 649
+- Problem in previous typologies of learner activities/student types int that consempts overlap.
+  - Synthesized previous research in student learning activities: *regulating activities* and *processing activities*. 649
   - Processing activities Normally, teachers take over some of these activities.:
     - *relating*
     - *concretisizing*

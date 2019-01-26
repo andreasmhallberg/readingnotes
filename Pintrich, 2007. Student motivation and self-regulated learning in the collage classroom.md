@@ -1,6 +1,6 @@
 # Pintrich, Paul R., and Akane Zusho. 2007. “Student Motivation and Self-Regulated Learning in the College Classroom.” In The Scholarship of Teaching and Learning in Higher Education: An Evidence-Based Perspective, 731–810. Springer.
 
-- There is no direct path from personal characteristics and classroom contextual factors to learning outcomes. It is mediated through motivation and self-regulation. Pedagogy affects motoivatio/self-regulation which affects outcomes. 60
+- There is no direct path from personal characteristics and classroom contextual factors to learning outcomes. It is mediated through motivation and self-regulation. Pedagogy affects motoivation/self-regulation which affects outcomes. 60
 
 - Students need to be engaged cognitively, not only behaviorally (doing what is required without reflecting about content, etc.). 61
 
