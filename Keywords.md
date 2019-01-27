@@ -69,7 +69,7 @@
 @anthropology
 @media (i.e. "old media")
 @pedagogy (not language)
-@islamology
+@islam
 @popular-culture
 
 # Notes

@@ -14,6 +14,7 @@ edges.net %v% 'vertex.type' <- ifelse(grepl('\\(',network.vertex.names(edges.net
 # make vertex attributes with color by type
 edges.net %v% 'vertex.color' <- ifelse(grepl('\\(',network.vertex.names(edges.net)),'black','tomato')
 edges.net %v% 'vertex.labsize' <- ifelse(grepl('\\(',network.vertex.names(edges.net)),1,3)
+
 ggnet2(edges.net
        , size=1
        , label=T

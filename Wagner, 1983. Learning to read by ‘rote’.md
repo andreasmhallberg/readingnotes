@@ -16,4 +16,4 @@ Compares Quran schools in Yemen and Senegal. Generalize to Muslim education at l
 @Arabic
 @language-instruction
 @FLA
-@islamology
+@islam
