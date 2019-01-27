@@ -9,7 +9,6 @@
   4. *waqf qabīḥ*: 'total syntactic and semantic dependence'
 
 @Arabic:Standard
-@reading
 @quran
 @pause
 @islam

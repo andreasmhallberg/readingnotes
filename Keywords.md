@@ -24,6 +24,7 @@
 @Arabic:Standard
 @Arabic:Syrian
 @Arabic:Judeo
+@Arabic:Lebanese
 @English
 @Swedish
 @German

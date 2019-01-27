@@ -84,3 +84,4 @@ The directory [`keyword-counts`](keyword-counts/) contains scrips to count and v
 is an R-script that extracts keywords from the reading notes and produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt)
 with counts of all keywords in the reading notes. Useful for finding typos in keywords. The script [`viz.ggplot.r`](keyword-counts/viz.ggplot.r)
 sources `keywordcounts.r` draws a graph, [`kamadakawai.pdf`](keyword-counts/kamadakawai.pdf), that visualizes the network of keywords in the references.
+It also produces a second graph [`kamadakawai.ar.pdf`](keyword-counts/kamadakawai.ar.pdf), containing only notes relating to Arabic.

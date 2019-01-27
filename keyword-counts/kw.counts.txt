@@ -1,7 +1,7 @@
-Arabic 203
+Arabic 202
 diglossia 65
 language-ideology 49
-reading 36
+reading 35
 icraab 33
 standard-language 29
 eye-tracking 24

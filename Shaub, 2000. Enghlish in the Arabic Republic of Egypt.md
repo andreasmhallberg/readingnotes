@@ -12,6 +12,5 @@
 
 - Instruction in English in private school as a failure. Low EFL skills after several hundred hours. 230
 
-@Arabic
 @English
 @Egypt
