@@ -19,3 +19,4 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 @Arabic:Standard
 @ALT
 @icraab
+@case

@@ -18,5 +18,5 @@
 
 - Marked receipts (confirmation, 'oh') avoided by professionals in formal settings. Would possibly seem less professional if they did use them. 113
 
-@formality
+@news-media
 @anthropology

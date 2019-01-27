@@ -17,3 +17,4 @@
 
 @language-planning
 @standard-language
+@Norwgian

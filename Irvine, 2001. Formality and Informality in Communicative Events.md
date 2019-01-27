@@ -12,5 +12,4 @@
 
   - These fore have patterns interdependence but do not always coincide. 203
 
-@formality
 @anthropology

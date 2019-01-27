@@ -79,4 +79,8 @@ Keywords are added by me and are not those of the original author. There are som
 
 Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keywords.
 
-The directory [`keyword-counts`](keyword-counts/) contains an R-script that produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt) which contains a list of all keywords in the reading notes. Useful for finding typos in keywords.
+The directory [`keyword-counts`](keyword-counts/) contains scrips to count and visualize keywords in the reading notes.
+[`keywordcounts.r`](keyword-counts/keywordcounts.r)
+is an R-script that extracts keywords from the reading notes and produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt)
+with counts of all keywords in the reading notes. Useful for finding typos in keywords. The script [`viz.ggplot.r`](keyword-counts/viz.ggplot.r)
+sources `keywordcounts.r` draws a graph, [`kamadakawai.pdf`](keyword-counts/kamadakawai.pdf), that visualizes the network of keywords in the references.

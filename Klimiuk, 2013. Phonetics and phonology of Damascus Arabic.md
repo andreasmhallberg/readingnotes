@@ -5,4 +5,4 @@
 - CCC broken with epenthesis after first consonant (e.g. CeCC article). 89 
 
 @Arabic:Syrian
-@prosody
+@phonotactics

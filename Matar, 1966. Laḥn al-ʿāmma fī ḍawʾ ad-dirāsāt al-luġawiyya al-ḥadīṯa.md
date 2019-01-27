@@ -14,5 +14,6 @@
 
 @Arabic
 @ALT
+@case
 @icraab
 @language-ideology

@@ -36,7 +36,6 @@
 @code-switching
 @diglossia (theoretical discussion on diglossia)
 @eye-tracking
-@formality (under pragmatics?)
 @historical-linguistics
 @language-ideology (includes language attitudes)
 @language-instruction (Typically combined with `SLA` or `FLA`)
@@ -49,6 +48,7 @@
 @phonology
 @pragmatics (mostly politeness)
 @prosody
+@phonotactics
 @reading
 @sociolinguistics (variationist)
 @syntax
@@ -67,7 +67,7 @@
 # Other (not linguistics)
 @statistics
 @anthropology
-@media (i.e. "old media")
+@news-media
 @pedagogy (not language)
 @islam
 @popular-culture

@@ -1,6 +1,6 @@
 # Bateson, M.C., 1967. Arabic Language Handbook. Washington, D. C: Center for applied linguistics.
 
-Below only form chap. 3. "The Linguistic Practice of the Arabis"
+Below only form chap. 3. "The Linguistic Practice of the Arabs"
 
 - When SA became the written form it could no longer be spoken: 78
 

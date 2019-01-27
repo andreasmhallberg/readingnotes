@@ -24,6 +24,5 @@
 
 - Aljazeera offended and seen reprisals from "just about every Arab government" 211
 
-@Aljazeera
-@media
+@news-media
 @popular-culture
