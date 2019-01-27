@@ -24,7 +24,6 @@ corpus-linguistics 7
 heritage-speakers 7
 literacy 7
 Egypt 6
-prosody 6
 anthropology 5
 lexicon 5
 news-media 5
@@ -39,9 +38,12 @@ writing 4
 CMC 3
 German 3
 islam 3
+phonotactics 3
 popular-culture 3
+prosody 3
 Israel 2
 pedagogy 2
 phonology 2
 Morocco 1
+Norwgian 1
 Tunisia 1
