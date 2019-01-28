@@ -6,5 +6,6 @@
 
 - Case plays no disambiguation role in Modern Arabic, the grammatical tradition notwithstanding. 173
 
+@textbook
 @Arabic
 @icraab

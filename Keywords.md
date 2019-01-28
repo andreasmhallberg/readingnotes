@@ -1,7 +1,6 @@
 # Arabic specific
 @ALT (Arabic Linguistic Tradition)
-@Aljazeera
-@icraab
+@icraab (utility key for finding discussion in icraab. More appropriataley `syntax`, `case` or `mood`)
 @language-ideology:primary-source
 @quran
 
@@ -14,7 +13,7 @@
 
 # Reference type
 
-@review-article
+@review-article (article summarizing the field)
 @textbook
 
 # Language
@@ -32,7 +31,7 @@
 
 # Area of linguistics
 
-@standard-language
+@standard-language (theoretically on standard varieties and standardization)
 @CMC (Computer Mediated Communication)
 @code-switching
 @diglossia (theoretical discussion on diglossia)
