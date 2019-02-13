@@ -46,11 +46,11 @@
 @morphology
 @orthography
 @phonology
-@pragmatics (mostly politeness)
+@pragmatics
 @prosody
 @phonotactics
 @reading
-@sociolinguistics (variationist)
+@sociolinguistics
 @syntax
 @typography
 @pause

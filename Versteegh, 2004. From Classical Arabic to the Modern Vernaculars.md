@@ -1,8 +1,8 @@
-# Versteegh, C.H.M., 2004. From Classical Arabic to the Modern Vernaculars. In G. Booij et al., eds. Morphology: An International Handbook on Inflection and Word-Formation. Berlin, New York: de Gruyter, pp. 1740–1754.
+# Versteegh, C.H.M., 2004. From Classical Arabic to the Modern Vernaculars. In G. Booij et al., eds. Morphology: An International Handbook on Inflection and Word-Formation. Berlin, New York: de Gritter, pp. 1740–1754.
 
 [Good overview of the history and forms of variation in Arabic vernaculars. Several useful tables comparing features.]
 
-- Majority view amongst Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
+- Majority view among Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
 
 - Arabic view that there was only one language in Arab peninsula. Recorded variation (*luġāt*) only in lexicon and phonology. 1741
 
@@ -41,6 +41,7 @@
   - *mā ... š* for negative. Eg.: *ma-bi-tigib-hā-lhom-š* 'you are not bringing her to them’
 
 - Morphology of the noun 1748
+  - Loss of case morphologically marked case.
   - Genitive exponent
     - Long list of variants.
     - Differntiation between 

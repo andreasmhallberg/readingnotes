@@ -10,9 +10,9 @@ Analysis of grammar test with numerals.
 
 - *-ūn* important SA marker. 198
 
--  Individual fushas: 200
+- Individual fushas: 200
 
-    > many, particularly highly educated subjects, have developed one or more strategies to make their output different from colloquial, in essence, to make it look more like fuṣḥā (but by definition derivative of colloquial).
+  > many, particularly highly educated subjects, have developed one or more strategies to make their output different from colloquial, in essence, to make it look more like fuṣḥā (but by definition derivative of colloquial).
 
 - Pedagogical implications
   - Assumptions: 200
