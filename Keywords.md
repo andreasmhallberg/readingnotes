@@ -55,10 +55,10 @@
 @typography
 @pause
 @heritage-speakers
+@speech (specifics of spoken language production)
 
 # Modality
 @writing
-@speech
 
 # Linguistic methods
 @corpus-linguistics

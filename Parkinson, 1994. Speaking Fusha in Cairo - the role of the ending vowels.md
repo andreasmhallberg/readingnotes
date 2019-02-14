@@ -30,4 +30,3 @@ Detailed description of a few speakers use of vowel/case endings.
 
 @Arabic:Standard
 @icraab
-@speech

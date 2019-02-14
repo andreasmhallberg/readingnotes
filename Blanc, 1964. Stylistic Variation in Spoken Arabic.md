@@ -19,4 +19,3 @@
 
 @diglossia
 @Arabic
-@speech

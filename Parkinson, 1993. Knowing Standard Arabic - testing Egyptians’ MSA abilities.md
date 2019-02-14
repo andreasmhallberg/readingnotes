@@ -41,4 +41,3 @@ Grammar and proficiency test (reading, writing, speaking, listening) in MSA.
 
 @Arabic:Standard
 @icraab
-@speech

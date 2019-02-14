@@ -9,15 +9,15 @@ system("sed 's/:@/\t/' kw.txt > kw2.txt")
   system("sed -E 's/:[0-9]+:@/\t/' kw.ar.txt > kw2.ar.txt") # also remove linenu outputted by ack
 
 ## Load data
-kw <- as.data.frame(read.table('kw2.txt', sep='\t', heade=F))
+kw    <- as.data.frame(read.table('kw2.txt', sep='\t', heade=F))
 kw.ar <- as.data.frame(read.table('kw2.ar.txt', sep='\t', heade=F))
 
 
 ## Variable names
-names(kw) <- c('file','kw')
+names(kw)    <- c('file','kw')
 names(kw.ar) <- c('file','kw')
 
-kw$file <- gsub('../','', kw$file)
+kw$file    <- gsub('../','', kw$file)
 kw.ar$file <- gsub('../','', kw.ar$file)
 
 ## Exclude hits from Keyword.md
@@ -34,13 +34,14 @@ kw$kw <- as.factor(kw$kw)
 kw$kw.sub <- as.factor(kw$kw.sub)
 
 
-kw.ar$kw.sub <- kw.ar$kw # copy keyword
-kw.ar$kw.sub[!grepl(':\\S+',kw.ar$kw.sub)] <- NA # remove items w/o subs
-kw.ar$kw.sub <- gsub('^.+:','',kw.ar$kw.sub) # remove main from kw.sub
-kw.ar$kw <- gsub(':.*$','',kw.ar$kw) # remove sub from kw
-kw.ar$kw <- as.factor(kw.ar$kw)
-kw.ar$kw.sub <- as.factor(kw.ar$kw.sub)
+# kw.ar$kw.sub <- kw.ar$kw # copy keyword
+# kw.ar$kw.sub[!grepl(':\\S+',kw.ar$kw.sub)] <- NA # remove items w/o subs
+# kw.ar$kw.sub <- gsub('^.+:','',kw.ar$kw.sub) # remove main from kw.sub
+# kw.ar$kw <- gsub(':.*$','',kw.ar$kw) # remove sub from kw
+# kw.ar$kw <- as.factor(kw.ar$kw)
+# kw.ar$kw.sub <- as.factor(kw.ar$kw.sub)
 
+ kw.ar$kw <- gsub('^Arabic:(\\S+)','\\1',kw.ar$kw) # remove main from kw.sub
 
 ## make a variable with ref Author (year)
 kw$ref <- gsub('^(.*), (\\d\\d\\d+).*$', '\\1 (\\2)', kw$file)

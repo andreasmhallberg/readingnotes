@@ -22,4 +22,3 @@
 @diglossia
 @icraab
 @Arabic
-@speech

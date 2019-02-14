@@ -76,5 +76,4 @@
 @icraab
 @syntax
 @Arabic:Standard
-@speech
 @corpus-linguistics

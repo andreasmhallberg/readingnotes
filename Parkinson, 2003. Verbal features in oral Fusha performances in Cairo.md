@@ -24,4 +24,3 @@
 - Conclusion: middle defined by ends - speakers learn different forms but are aware of their status as markers of H/L. Ferguson was right.
 
 @Arabic:Standard
-@speech

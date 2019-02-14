@@ -15,7 +15,6 @@
 - *Subvocalization* (activation of articulately muscles in silent reading) is part of skilled silent reading. 196
   - Aids comprehension at least in difficult prose.
 
-
 @reading
 @phonology
 @review-article

@@ -32,4 +32,3 @@
 @Arabic:Standard
 @diglossia
 @icraab
-@speech

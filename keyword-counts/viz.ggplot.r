@@ -1,4 +1,3 @@
-
 source('keywordcounts.r')
 
 library(GGally)
@@ -32,8 +31,10 @@ ggsave('kamadakawai.pdf',width=420,heigh=594, unit='mm', limitsize=F)
 # Make one with only Arabic
 edges.ar <- edges.ar[edges.ar$kw!='icraab',]
 edges.ar <- edges.ar[edges.ar$kw!='Arabic',]
-edges.ar <- edges.ar[edges.ar$kw!='phonotactics',] # remove for aesthetic reasons
+edges.ar <- edges.ar[edges.ar$kw!='Standard',]
+# edges.ar <- edges.ar[edges.ar$kw!='phonotactics',] # remove for aesthetic reasons
 edges.ar <- edges.ar[edges.ar$kw!='textbook',] # remove for aesthetic reasons
+edges.ar <- edges.ar[edges.ar$kw!='language-ideology:primary-source',]
 
 edges.ar.net <- network(edges.ar)
 

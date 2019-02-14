@@ -21,4 +21,3 @@
 @Arabic
 @diglossia
 @Egypt
-@speech

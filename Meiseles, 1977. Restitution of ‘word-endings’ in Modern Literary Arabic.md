@@ -55,4 +55,3 @@
 @icraab
 @Arabic:Standard
 @case
-@speech

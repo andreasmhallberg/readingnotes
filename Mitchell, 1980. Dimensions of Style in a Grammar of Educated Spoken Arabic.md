@@ -11,4 +11,3 @@
 
 @Arabic
 @diglossia
-@speech

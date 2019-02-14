@@ -27,4 +27,3 @@
 @Arabic:Standard
 @icraab
 @pause
-@speech

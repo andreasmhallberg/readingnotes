@@ -26,4 +26,3 @@
 
 @Arabic
 @code-switching
-@speech
