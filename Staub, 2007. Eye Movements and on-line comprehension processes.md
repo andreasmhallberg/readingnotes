@@ -19,7 +19,7 @@
 
 - In reading syntax is parsed incrementally: 332
 
-  > It is clear from several decades of psycholingistic research that as a sentence is read, hte reader constructs an analysis of the sentnece's syntactc structure in a highly incremental manner, usually on word-by-word basis.
+  > It is clear from several decades of psycholinguistic research that as a sentence is read, the reader constructs an analysis of the sentence's syntactic structure in a highly incremental manner, usually on word-by-word basis.
 
   - Large body of work (70 studies listed in Clifton et el. 2007) have shown that syntactically ambiguous words do not receive longer reading times. Readers do not process several syntactic options in parallel, or if they do, it does not effect reading time.
 
