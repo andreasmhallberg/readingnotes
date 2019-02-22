@@ -5,7 +5,7 @@
   - Significantly longer gaze duration in Arabic. Ratio if difference same as difference ration in number of words, 1.5. 434
 
 - Voweled vs. unvoweled Arabic:
-  - Reduced reading speed, increased number of fixations and fixation durations in voweled. 435
+  - Reduced reading speed, increased number of fixations and fixation durations in voweled text. 435
 
 - Slower reading in Arabic than in French in correspondence to orthographic/morphological density. 
 

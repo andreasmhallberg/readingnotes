@@ -44,7 +44,7 @@
 # Word identification in reading (continuous text)
 - Gaze duration as measure of lexical access: 136
 
-  > we are not claiming that any single measure that one can extract from the eye movement data can be viewed as "the time to acces the lexicon" or the "time to access the meaing of a word [due to spillover effects. But] spillover effects are fairly monor and in amanu cases it isn't unreasonable to think of gaze duration as a pretty good approximation of initial word encoding time" 
+  > we are not claiming that any single measure that one can extract from the eye movement data can be viewed as "the time to access the lexicon" or the "time to access the meaning of a word [due to spillover effects. But] spillover effects are fairly minor and in many cases it isn't unreasonable to think of gaze duration as a pretty good approximation of initial word encoding time" 
 
 - Eye movement data shows central role of phonological coding in reading, e.g. with preview benefit of phonetically similar but orthographically different word in n+1. 137
 - Word is visually identified after 60 ms., rest is processing time. 145

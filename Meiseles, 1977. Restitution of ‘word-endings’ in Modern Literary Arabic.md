@@ -19,7 +19,7 @@
 
 - Pause forms thoroughly described but positions unclear. 177. Fot 21
 
-- Free use of endings in pause. 178 So widespread it cannot be considered a mistake, part of the new system. 179
+- Free use of endings in pause. So widespread it cannot be considered a mistake, part of the new system. 178-9
 
 - "Regenereation" of case system. Stylistic and not syntactic. 179
 

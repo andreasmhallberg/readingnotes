@@ -15,7 +15,6 @@
 
 - Eye movement measures in reading do not correlate with eye movement measures in scene perception.
 
-
 - Letter spaces appropriate length measure in reading as long as text is of normal size. 1460
 
 - Reading 1460
