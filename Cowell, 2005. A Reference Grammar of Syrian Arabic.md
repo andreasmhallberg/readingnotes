@@ -4,4 +4,5 @@
 - Forms of attached pronouns. 589
 
 @phonotactics
+@reference-grammar
 @Arabic:Syrian

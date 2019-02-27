@@ -23,7 +23,7 @@
     - *mabrūk*
     - *ʿīd mbārak*
     - *mbārak mā ʿamiltu*
-  - *alla yinʿam ʿalēk* used after:: 203
+  - *alla yinʿam ʿalēk* used after: 203
     - *naʿīman*
     - *naʿam*
   - Other echo responses: 203

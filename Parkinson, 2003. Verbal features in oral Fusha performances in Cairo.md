@@ -15,7 +15,7 @@
 - educational effect 43
   - Crossover effect – HiAr fewer vowels than Hi.
 
-- All raise vowelling in lecture = aim lower than capable in interview. Table 32, 37
+- All raise vowelling in lecture = aim lower than capable in interview. Table 32. 37
 
 - Functionally identical, statistically diverse. 38 
 

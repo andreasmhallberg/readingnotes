@@ -6,7 +6,6 @@
 
 - Principle in SA, example in dialect. 33
 
-
 - Formal and informal reading aloud
   - Text SPE3 delivered in parliament explaining socialism. In "purest *fuṣħaa*" with all case and mood endings "in what might be described as 'scriptural style'". 28 
   - Text SPE4 deliviered in case- and mood-less *fuṣḥā* [informal reading aloud] and explained and commented on in dialect "taking the role of a teacher or interpreter" 29.
