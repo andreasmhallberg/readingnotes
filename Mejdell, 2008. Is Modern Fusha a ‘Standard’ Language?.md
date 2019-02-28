@@ -4,11 +4,11 @@
 
 - Too much focus on diglossia 41
 
-  > As arabists with a non-Arabic background, we tend to study Arabic as a highly specific sociolinguistic case, stressing the 'diglossic' situation whenever we discuss models to account for observed linguistic behaviour.
+  > As arabists with a non-Arabic background, we tend to study Arabic as a highly specific sociolinguistic case, stressing the 'diglossic' situation whenever we discuss models to account for observed linguistic behavior.
 
 - Many standard languages have the language of the elite as "standardization base". Not all. Cf. Czeck Republic and Swizerland. No part of population speaks standard: 45-6
 
-  > The result is, that in these language communities, then, no section of the community has the standard as natural spoken variety (as 'mother toungue'). The standard variety as the 'norm of linguistic correctness' is considerably more divergent in grammatical structure from the vernacular varieties.
+  > The result is, that in these language communities, then, no section of the community has the standard as natural spoken variety (as 'mother tongue'). The standard variety as the 'norm of linguistic correctness' is considerably more divergent in grammatical structure from the vernacular varieties.
 
 - "the intellectuals of the cultural and linguistic renaissance restored and revived the codified variety of the past" 45
 
