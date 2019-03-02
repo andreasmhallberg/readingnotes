@@ -15,6 +15,8 @@
 
 @review-article (article summarizing the field)
 @textbook
+@dictionary
+@grammar
 
 # Language
 @Arabic
