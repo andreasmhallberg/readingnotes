@@ -106,7 +106,7 @@
   - Longer fixations at end of clause or sentence.
   - Longer "quite immediate" longer fixation on anomalous word.
 
-- Eye-movement data "golden standard" studies of sentence processing. 1474
+- Eye-movement data "gold standard" studies of sentence processing. 1474
 
 @eye-tracking
 @reading
