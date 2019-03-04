@@ -37,7 +37,6 @@
 @CMC (Computer Mediated Communication)
 @code-switching
 @diglossia (theoretical discussion on diglossia)
-@eye-tracking
 @historical-linguistics
 @language-ideology (includes language attitudes)
 @language-instruction (Typically combined with `SLA` or `FLA`)
@@ -46,7 +45,7 @@
 @language-planning
 @lexicon
 @morphology
-@orthography
+@orthography (spelling in a particular language)
 @phonology
 @pragmatics
 @prosody
@@ -57,8 +56,8 @@
 @typography
 @pause
 @heritage-speakers
-@speech (specifics of spoken language production)
-@writing-systems
+@speech * (specifics of spoken language production)
+@writing-systems (comparisons between writing systems)
 
 # Modality
 @writing
