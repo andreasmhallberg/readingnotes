@@ -2,6 +2,10 @@
 
 - *parser*: "human sentence parsing mechanism". 178
 
+- Example:
+
+  > Since Jay always jogs a mile seems like a short distance to him.
+
 - Garden-path theory of sentence parsing: 180
   - *Late closure*: material is syntactically attached to preceding material.
   - *Minimal attachment*: Attach incoming material using as few nodes as possible (smallest possible syntactic tree)
@@ -10,6 +14,7 @@
   - *Forward reanalysis*: Start from beginning of sentence
   - *Backward reanalysis*: Work backwoard
   - *Selective reanalysis*: Regress to relevant region. 
+
 
 - Eye-tracking experiment with garden paths. [Suspect in that commas are not used and would have disambiguated sentences.]
 

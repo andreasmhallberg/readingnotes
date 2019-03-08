@@ -20,5 +20,17 @@
 
 - International trend of 'restandardization' in semi-formal speech with spread of audio-visual media. 49
 
+- Modern Standard Arabic
+  - has typical features of standard language in terms of
+    - codification
+    - elaboration
+    - norm of correctness across dialect continuum
+  - not typical features in terms of
+    - polyfunctionality
+  - shares challanges of other standard languages
+    - competition with English
+    - competition with "new orality", competing set of norms for oral public performance, lack of concerns for the standard variety.
+ 
+
 @Arabic:Standard
 @standard-language

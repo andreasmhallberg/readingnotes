@@ -73,7 +73,7 @@ Subheadings (`##` in markdown) are occasionally used on long notes to improve re
 
 At the end of each file one or more keywords are listed. Each keyword begins with `@` and is on a new line. See the file [`keywords.md`](https://github.com/andreasmhallberg/readingnotes/blob/master/Keywords.md) for a list of keywords. 
 
-Hyphens are used in place of spaces in keywords. Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
+Hyphens are used for spaces in keywords (e.g. `@language-ideology`). Colon is used for sub-keywords. Primarily this is used for varieties of Arabic, e.g. `@Arabic:Egyptian`.
 
 Keywords are added by me and are not those of the original author. There are some inconsistencies in how they are applied.
 
