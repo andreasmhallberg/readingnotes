@@ -25,7 +25,7 @@ Prescription on speech is misguided, since speech and writing have different str
 
 - "The first type of complaint tradition [i.e. not the Orwell type] is to keep the standard ideology alive" 52
 
-- Standarizing efforts are disruptive of language: 69
+- Standardizing efforts are disruptive of language: 69
 
   > the existence of alternative choices (e.g. in sentence construction) contributes to the choices for different social purposes, and the existence of alternatives is in such cases functional. The narrower forms of prescription may therefore be seen as 'diseases' or malfunctions of the ideology of standardisation, arising from ignorance of the nature of speech, which leads to uncritical applications of the principles of uniformity to inappropriate cases.
 

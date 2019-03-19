@@ -4,7 +4,7 @@
 
 - Memorization of texts is the main goal. Understanding and individual search for the truth not the main aim. Body of knowledge is fixed. Reference to Eickelman (1978). 252-2
 
-  > As a result of the general reluctance to introduce new texts in the curriculum and the fact that most language teaching was text-based, it became had to change anything at all, either in the subjects taught, or in the didactics of language teaching.  
+  > As a result of the general reluctance to introduce new texts in the curriculum and the fact that most language teaching was text-based, it became hard to change anything at all, either in the subjects taught, or in the didactics of language teaching.  
 
 - Reform in Egypt around 1900 to replace traditional teaching material with modern textbooks, *Qawāʿid al-luġa l-ʿarabiyya*. 254
 

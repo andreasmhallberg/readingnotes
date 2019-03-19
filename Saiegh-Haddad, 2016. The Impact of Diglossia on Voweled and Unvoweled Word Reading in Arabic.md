@@ -35,7 +35,7 @@
 
 - Results and discussion:
   - Accuracy and fluency higher for SpA words in all conditions, all ages. 8
-  - Vowel texts is not shallow orthography: "the assambled phonological form of the words does no, in many cases, align with the SpA form that speakers harbor in their lexicons" 9
+  - Vowelled texts is not shallow orthography: "the assambled phonological form of the words does no, in many cases, align with the SpA form that speakers harbor in their lexicons" 9
   - Fluency higher in unvowelled text. Vocalization "summons undue phonological recording of diacritics" and hinders "morpho-orthographic mechanisms" used in reading normal, unvowelled text.
   - Reading proficiency develops earlier for SpA - reading instruction should start in SpA. 11 
 

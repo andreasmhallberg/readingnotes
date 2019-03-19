@@ -10,7 +10,7 @@
 
 - Results
   - Heritage speakers slower speech, less fluent. 280
-  - Egyptians overdo SVO. 280 Correct VS sentences to become SV. 281
+  - Egyptians overdo SVO. Correct VS sentences to become SV. 280-1
   - Egyptian speakers over-use of explicit pronoun. 283
   - HSs more incorrect agreement. 284
   - HSs more incorrect numerals. 288
