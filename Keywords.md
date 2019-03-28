@@ -1,6 +1,6 @@
 # Arabic specific
 @ALT (Arabic Linguistic Tradition)
-@icraab (utility key for finding discussions practical use icraab. More appropriataley `syntax`, `case` or `mood`)
+@icraab (utility key for finding discussions practical use icraab. More appropriataley `syntax`, `case` or mood)
 @language-ideology:primary-source
 @quran
 
@@ -13,10 +13,11 @@
 
 # Reference type
 
-@review-article (article summarizing the field)
+@review-article (article summarizing a field)
 @textbook
 @dictionary
 @grammar (reference grammar)
+@dissertation
 
 # Language
 @Arabic

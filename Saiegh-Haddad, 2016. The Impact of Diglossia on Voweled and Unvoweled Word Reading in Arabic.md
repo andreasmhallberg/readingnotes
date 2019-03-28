@@ -6,7 +6,7 @@
 
 - Morpho-syntactic diacritics are optional. Case is complicated. 3
 
-  > not required for word identification or for reading comprehension. This is apparent by the fact that all readars of Arabic are skilled in reading unvoweled Arabic, whereas only a small minority of them master the complex system of rules that are captured by the morpho-syntactic diacritics.
+  > not required for word identification or for reading comprehension. This is apparent by the fact that all readers of Arabic are skilled in reading unvoweled Arabic, whereas only a small minority of them master the complex system of rules that are captured by the morpho-syntactic diacritics.
 
 - Earlier research (Abu-Rabia) did not differentiate between the two types of voweling. Found that voweling increased accuracy but not comprehension. 3
   - Only morpho-syntactic vowels used here.

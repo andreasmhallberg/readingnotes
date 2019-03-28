@@ -5,9 +5,9 @@
 - Nafīsa argues that the dialect has no grammar. 55
 
 - Short description of levels with focus on phonetics: 89
-  1. Limited to *rijāl ad-dīn* and preplanned religious programs.
+  1. Limited to *rijāl ad-dīn* and pre-planned religious programs.
   2. News readers, manuscript delivery scientific speech. Used for a wide range of subjects connected to modern culture.
-  3. Speech amongst intellectuals on abstract and cultivated topics. Panel and discussion programs. **No discussion between intellectuals outside this level.** "The only vehicle for education and discussion within it." 91
+  3. Speech among intellectuals on abstract and cultivated topics. Panel and discussion programs. **No discussion between intellectuals outside this level.** "The only vehicle for education and discussion within it." 91
   4. Everyday speech of non-illiterates.
   5. Speech of the illiterate.
 	
@@ -22,9 +22,9 @@
   2. فصحى التراث اللتي صورها لنا العلماء الأقدموم في كتب التراث 
   2. هذا المستوى تاريخى ورثناه كما هو عن الأقدمين. 111
 
-- Levels are a result of elements from three sources: fusḥā, ʿāmmiyya and foreign languages.
+- Levels are a result of elements from three sources: *fusḥā*, *ʿāmmiyya* and foreign languages.
 
-- In level 3 fuṣḥā and ʿāmmiyya features are balanced. 106
+- In level 3 fuṣḥā and *ʿāmmiyya* features are balanced. 106
 
 - CA is an ideal form that is never completely realized. Shown in phonetic variation. 119
 
@@ -38,7 +38,7 @@
 
 - Numbers are pronounced dialectally in level 2. 135
 
-- Level 2 differs from level 1 in that icrrab is retained.  143
+- Level 2 differs from level 1 in that icraab is retained.  143
 
 - Degree of icraab usage varies between speakers in level 2. 143
 

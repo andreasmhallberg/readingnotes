@@ -13,6 +13,8 @@
 
 - Case endings are governed by "rather complex rules". [!] 40 
 
+- Children memorize parts of the Quran before having any understanding of grammatical case. 41
+
 - Active use of icraab is "feared and disliked". Strong negative feelings for icraab. 42
 
 - Negative effects of diglossia on literacy: 43 

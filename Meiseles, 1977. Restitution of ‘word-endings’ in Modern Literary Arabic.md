@@ -1,5 +1,7 @@
 # Meiseles, Gustav, 1977. Restitution of ‘word-endings’ in Modern Literary Arabic.  Israel Oriental Studies 7:173-95
 
+- Material from radio broadcasts from Cairo, Damascus, Amman, Jerusalem 1969--1974. 175
+
 - MLA (i.e. MSA) has become a medium of oral communication the last 15 years. 175
 
 - Icraab is grammatically superfluous. 174 "OLA, as in general MLA, has produced and produces analytical devices which enable it to dispense with the residential endings." 180
@@ -27,9 +29,6 @@
 
 - Correct icraab first minutes of speech. Then more mixed ways of speaking. 180
 
-- Två möjliga sutuationer:
-  1. talaren känner att han vet ändelsen och uttaler den då. 
-  2. talaren vet inte vilken ändelse och uttalar inte. 180 Jfr. Badaw (1973)
 - Two possible situations: 
   1. speaker knows the ending and then he pronounces it. 
   2. speaker does not know the ending and then he does not pronounce it

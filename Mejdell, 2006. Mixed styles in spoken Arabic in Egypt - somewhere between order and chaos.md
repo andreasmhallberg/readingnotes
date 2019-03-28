@@ -6,7 +6,7 @@
 
 - Case endings only studied in connection with enclitic pronouns:
   1. Fewer Gen marked in *iḍāfa* than after prep. 368
-  2. Acc in direct object marked directly after verb. 369.
+  2. Acc in direct object marked directly after verb. 369
 
 - Conclusion: speakers react differently on similar situation.
   - No stable ESA

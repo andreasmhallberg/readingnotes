@@ -1,6 +1,6 @@
 # Bateson, M.C., 1967. Arabic Language Handbook. Washington, D. C: Center for applied linguistics.
 
-Below only form chap. 3. "The Linguistic Practice of the Arabs"
+[Below only form chap. 3. "The Linguistic Practice of the Arabs"]
 
 - When SA became the written form it could no longer be spoken: 78
 
@@ -16,7 +16,7 @@ Below only form chap. 3. "The Linguistic Practice of the Arabs"
 
 - No awareness of case in reading: 81-2
 
-    > [...] most Arabs, when they are dealing with printed material, do not maintain an awareness of the grammatical functions which would be necessary in order to read it out loud correctly.
+  > [...] most Arabs, when they are dealing with printed material, do not maintain an awareness of the grammatical functions which would be necessary in order to read it out loud correctly.
 
 - "In general, modern written Arabic accommodates to the dialects by the selection of forms that are not dependent on short vowels for their understanding, whereas 'classicazing' and the search for a loftier style take place in the lexical range". 85
 

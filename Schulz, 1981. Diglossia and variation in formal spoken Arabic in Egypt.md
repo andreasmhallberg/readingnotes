@@ -3,8 +3,8 @@
 - C[airene]A och MSA are "well-defined". C[airene]E[educated]A is not. 4-6
 
 - Data: 
-    - various radio broadcasts. 12
-    - 49 speakers, 1000 p. transcription. 14
+  - various radio broadcasts. 12
+  - 49 speakers, 1000 p. transcription. 14
 
 - Definition of level – "consists of a constellation of linguistic features that occur together". 17
 
@@ -41,7 +41,7 @@
 - Case:
   - "17 of 49 [speakers] used no iʿraab on nouns. [...] 11 of 49 used used iʿraab more than 5% of the time". 137
   - Nom and Gen – No difference in marking between definite and indefinite. 
-  - Acc - Much more marking in definite. Explained by orthography. 138
+  - Acc - Much more marking in in definite. Explained by orthography. 138
   - Ambiguous *i*: 139
     
     > The genitive marker /i/, and in CEA [i or schwa] is often used as a transitional vowel between words. It could be that the genitive figures are slightly inflated, since I may have counted some transitional vowels as genitive endings.
@@ -77,3 +77,4 @@
 @syntax
 @Arabic:Standard
 @corpus-linguistics
+@dissertation

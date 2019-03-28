@@ -9,21 +9,37 @@ Grammar and proficiency test (reading, writing, speaking, listening) in MSA.
 
 - "I will claim that the system of i’raab [...] is not a viable part of most Egyptians' MSA." 48
 
-- Egyptians generally claim to have poor command of MSA, but probably relate only to the prescriptive system. 50
+## Grammar test
+- distributed to 170 participants, balanced for  sex and education. 49-50
 
-- [Grammar test: Seem to learn case in phrases. Even HiAr [Higher education with Arabic specialization] fail other than most simplem school-book like sentence structures. 54, 58.]
+- Test items from 1st and 2nd year [Western] Arabic curriculum. 50
+
+- Even HiAr Higher education with Arabic specialization fail other than most simple school-book like sentence structures. [Seem to learn case in phrases.] 54, 58.
+
+- University studens hoover around 40-60% correct on case marking.
+
+- Description of case-less MSA on TV. Consisten *-iin*- forms etc. 59
+
+  > when the goal is merely to communicate, people do not fell at loss.
 
 - Icraab not practically useful: 60
 
   > It makes little difference to most of these people weather they can accurately identify some obscure grammatical structure [...] but it makes immense difference to them weather they can read the newspaper easily enough to do it constantly.
 
-- [Artificial and  awkward test situation:] "In the speaking test, each subject was told that they were to pretend to be in a country where only MSA was spoken." 63
+## Proficiency test
 
-- Proficiency test: HiAr gets 3 of 5 overall: 65 
+- Tests the four skills.
+  - [Artificial and  awkward test situation for oral production:] 63
+
+  > In the speaking test, each subject was told that they were to pretend to be in a country where only MSA was spoken.
+
+- Total test time 2.5 h. 64
+
+- HiAr gets 3 of 5 overall: 65 
 
   > 3 in productive skills no longer makes constant grammatical errors, and produces text that would be taken by most to be example of MSA, although usually without significant vowelling.
 
-- Education most important predictor of test scores . 67
+- Education most important predictor of test scores. 67
 
 - Accept texts without icraab as MSA. 71
 

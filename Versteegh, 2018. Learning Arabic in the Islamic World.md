@@ -2,7 +2,7 @@
 
 - Universal use of traditional grammars *Alfiyya* and *Ājurrūmiyya* in all of the Islamic world. 246
 
-- Memorization of texts is the main goal. Understanding and individual search for the truth not the main aim. Body of knowledge is fixed. Reference to Eickelman (1978). 252-2
+- Memorization of texts is the main goal. Understanding and individual search for the truth not the main aim. Body of knowledge is fixed. Reference to Eickelman (1978). 252
 
   > As a result of the general reluctance to introduce new texts in the curriculum and the fact that most language teaching was text-based, it became hard to change anything at all, either in the subjects taught, or in the didactics of language teaching.  
 

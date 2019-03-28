@@ -23,7 +23,7 @@
 
 - Icraab not reproduced in read speech: 70
 
-    > The participants in this study did not attempt to reproduce case marking when the short vowels were missing, and they ignored them when they were present regardless of whether they were accurate or misleading. 
+  > The participants in this study did not attempt to reproduce case marking when the short vowels were missing, and they ignored them when they were present regardless of whether they were accurate or misleading. 
 
 @reading
 @orthography

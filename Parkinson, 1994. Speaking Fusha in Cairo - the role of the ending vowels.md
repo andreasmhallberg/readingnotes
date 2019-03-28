@@ -15,11 +15,11 @@ Detailed description of a few speakers use of vowel/case endings.
 
 - Words with enclitic pronoun often case vowel. 191
 
-- Indite more often marked than construct state in iDaafa. 191, 200
+- Indefinite more often marked than construct state in iDaafa. 191, 200
 
 - Numbers not inflected as nouns. 192
 
-- Longer analysis of speaker with prescriptively correct speech. ”utterly unique”, 207
+- Longer analysis of speaker with prescriptively correct speech. ”utterly unique”. Spoke with complete use of case markers "with a fluency and ease that his nothing short of breathtaking.a". Annoying to the interviewer. 207
 
 - Conclusion: 
   - Icraab necessary marker of SA but difficult: 207

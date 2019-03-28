@@ -11,7 +11,10 @@
 - Small differences between pause and context forms (i.e case) in ERA and CA. 37
   -But: "What was mechanical variation [paus/context] in Classical has become partially a stylistic variation in ERA." 37
 
-- Operationalization of pause. "A word followed by a perceptible silence is said to be in pause. Likewise a word separated from a following word by one of the junctures /,/, /./, or /?/ [...] is on pause, regardless of whether or not these junctures are accompanied by an interval of silence."  38
+- Operationalization of pause. 38
+
+> A word followed by a perceptible silence is said to be in pause. Likewise a word separated from a following word by one of the junctures /,/, /./, or /?/ [...] is on pause, regardless of whether or not these junctures are accompanied by an interval of silence.  
+
   - Problems with definition noted by author. 39
 
 - 103 of 593 context positions in pausal form. 40

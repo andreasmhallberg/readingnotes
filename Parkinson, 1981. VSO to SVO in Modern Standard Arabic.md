@@ -1,5 +1,11 @@
 # Parkinson, D.B., 1981. VSO to SVO in Modern Standard Arabic: A study in diglossia syntax.  Arabiyya, 14(1), ss.24–37.
 
+- OSV, VOS frequent. [!] 24
+
+- no *N*
+
+- MSA defined as "the 'high' variety of the diglossia situation" 26
+ 
 - Interprets variation SVO/VSO as difference in "warmth" and/or "emphatic". 29. [Does not consider fore-/backgrounding.]
 
 - List of genres and degree of SVO. Relatively low in all.
