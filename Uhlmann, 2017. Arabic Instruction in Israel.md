@@ -10,7 +10,7 @@
   - Students and teachers unaware of the problem of incommensurable systems. Students cannot pinpoint difficulty and teachers ascribe Arab students difficulty to "complete lack of elementary background knowledge of grammar, itself the result of supposedly inferior schooling in the Arab sector." 8 
 
 - Personal background of author in relation to subject. 4-9
-  - "Lévi-Bruhlian moment" - personal experience of non-translateability, incomprehension of system of knowledge. [This personal experience may be a prerequisite to understand the significance of the probelm.]
+  - "Lévi-Bruhlian moment" - personal experience of non-translateability, incomprehension of system of knowledge. [This personal experience may be a prerequisite to understand the significance of the problem.]
 
   > the moment when one realists that one understands, the words, the sentences and the syntax, but fails to apprehend the progression of ideas and the underlying logic of a given augment or narrative.
 
@@ -30,7 +30,7 @@
   - Pre-modern mode of pedagogy with pre-modern educational aims transferred by the inertia of tradition to modern setting with modern aims of mass education.
   - Doing *iʿrāb* trumps understanding: 55
 
-    > Correct conventionalized recitation of grammatical analysis is the measure of educational success in this approach. Comprehension of concepts of grammar is relegated to secondary importance as is the understanding of the given text or of the semantic effects of grammatical manipulation.
+  > Correct conventionalized recitation of grammatical analysis is the measure of educational success in this approach. Comprehension of concepts of grammar is relegated to secondary importance as is the understanding of the given text or of the semantic effects of grammatical manipulation.
 
   - Connection with Islam makes new modes of grammar instruction appear as threatening or as introducing as "slippery slope" of rendering traditional knowledge obsolete. 57
   - Aim of modern language instruction is to still generation of correct language forms. Aim of pre-modern language instruction (as in the Arabic tradition) is to interpret and decode fixed text.
