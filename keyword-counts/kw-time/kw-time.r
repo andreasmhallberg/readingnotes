@@ -1,7 +1,7 @@
 # load filenames
 notefiles <- dir("../../")
 # exclude non-notes
-notefiles <- notefiles[grepl('.md$', notefiles)]
+notefiles <- notefiles[grepl('\\.md$', notefiles)]
 # exclude Keywords.md and README.md
 notefiles <- notefiles[!grepl('Keywords\\.md|README\\.md', notefiles)]
 
@@ -18,44 +18,88 @@ for (note in notefiles.e) {
   fn <- c(fn,note)
   dates <- c(dates, d)
 }
+print("done")
 
-notefiles[1:50]
-notefiles[51:100]
-notefiles[100:151]
-notefiles[150:200]
-notefiles[200:250]
-notefiles[250:303]
-length(notefiles.e)
-length(notefiles)
-length(dates)
-length(fn)
-
-
-# dates <- gsub(' .*$','', dates)
 
 # convert to data frame
 kwtime <- as.data.frame(dates)
 
+
+
 # Convert 'Time' to time data type 
-kwtime$time <- strptime(kwtime$dates,"%Y-%m-%d")
+kwtime$time.lt <- as.POSIXlt(kwtime$dates)
+kwtime$time.ct <- as.POSIXct(kwtime$dates)
 
 kwtime$filename <- notefiles
 
 
+# remove notes added on first commit
+kwtime <- kwtime[kwtime$time.ct!=min(kwtime$time.ct),]
+
+# Make vector with keywords
+for (n in notefiles.e){
+ kwraw <- system(paste0("grep -E '^@[a-zA-Z:]+' ../../*.md"), intern=T)
+}
+print("done")
+
+kwraw <- !grepl('Keywords.md', kwraw)
+
+kwfn <- gsub('^\\.\\./\\.\\./(.+\\.md).+','\\1',kwraw)
+kwkw <- gsub('^.+\\.md:@(.+)$','\\1',kwraw)
+kwkw <- gsub('\\r','',kwkw)
+
+kw <- as.data.frame(kwkw)
+kw$filename <- kwfn
+# remove Keywords.md
+kw <- kw[kw$filename!='Keywords.md',]
+
+kw$filename.e <- gsub('(\\)|\\(|\\.| )','\\\\\\1',kw$filename)
+
+# Import time variable from kwtime to kw
+kw <- merge(kwtime, kw, by='filename')
+
+
+# Separate dataset with means times and length of timespan for keywords an number
+# one line per keyword
+kw.meantime <- as.data.frame(unique(kw$kwkw))
+names(kw.meantime) <- c('kw')
+
+## mean time
+for(k in kw.meantime$kw) {
+  kw.meantime$kw.meantime.ct[kw.meantime$kw==k] <- mean(kw$time.ct[kw$kwkw==k])
+}
+
+kw.meantime$kw.meantime.ct <- as.POSIXct(kw.meantime$kw.meantime.ct, origin='1970-01-01')
+
+## timespan
+for(k in kw.meantime$kw) {
+  kw.meantime$kw.last.time[kw.meantime$kw==k] <- max(kw$time.ct[kw$kwkw==k])
+  kw.meantime$kw.first.time[kw.meantime$kw==k] <- min(kw$time.ct[kw$kwkw==k])
+}
+
+kw.meantime$timespan <- kw.meantime$kw.last.time-kw.meantime$kw.first.time
+
+## number
+kw.meantime$nr <- NA
+for(k in kw.meantime$kw) {
+  kw.meantime$nr[kw.meantime$kw==k] <- length(kw$kwkw[kw$kwkw==k])  
+}
+
+# Data frame with all occurances as
+
+groups <- kw[,c('kwkw','filename')]
+names(groups) <- c("kw","filename")
+groups <- merge(groups, kw.meantime, by='kw')
+groups <- merge(groups, kwtime, by='filename')
+
+names(groups)
+
 library(ggplot2)
 library(scales)
 
-ggplot(kwtime, aes(x=dates, y=0)) +
-  geom_point()
-
-+
-
-  geom_line(aes(y=Temperature_C), color='red') +
-  geom_line(aes(y=Relative_Humidity/5), color='blue') +
-  xlab('Time') +
-  ylab('red = °C      blue = Hum./5') +
-  scale_y_continuous(breaks=seq(0,25,5), limits=c(0,25)) +
-  scale_x_datetime(date_breaks = "6 hour", labels = date_format("%H:%M\n%b %d")) +
-
-
-
+ggplot(data=kwtime, aes(x=time.ct, y=0, label=filename)) +
+  geom_segment(data=groups, aes(x=time.ct, xend= kw.meantime.ct, y=0, yend=timespan+10000000), color='gray', size=.2) +
+  geom_text(data=kw.meantime, aes(label=kw, x=kw.meantime.ct, y=timespan+10000000, size=log(nr)), color='red') +
+  geom_text(angle=-90, hjust=0) +
+  theme(axis.text.x = element_text(angle = -90, hjust = 1)) 
+ggsave(width=50, height=10, file='test.pdf', limitsize=F)

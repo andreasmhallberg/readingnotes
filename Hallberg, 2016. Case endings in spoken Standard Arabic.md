@@ -32,6 +32,6 @@
 @icraab
 @syntax
 @morphology
-@korpus-linguistics
+@corpus-linguistics
 @standard-language
 @dissertation
