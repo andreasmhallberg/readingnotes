@@ -12,7 +12,9 @@
   - only used on first encounter
   - some degree of formality (e.g. not used between students)
 
-- Competent user apply these rules "without concious rule-application" and can normally not relate these rules. 142
+- Competent user apply these rules "without conscious rule-application" and can normally not relate these rules. Example with *good morning*: 142
+
+> The appropriate time of day for good morning varies regionally (although not as much as for good evening which differs sharply in different parts of the United States) but generally is between waking up in the morning and the midday meal. It is said only on the first encounter of two people in the morning and is not repeated at subsequent encounters (as *hi* or *hello* can be, sometimes with the addition of again or a comment). Its use implies a certain degree of formality in the occasion, and hence it is not normally appropriate for two university students seeing each other for the first time that morning, walking from one class to another.
 
 - *naʿīman* used for situations related to the public bath. 142
 

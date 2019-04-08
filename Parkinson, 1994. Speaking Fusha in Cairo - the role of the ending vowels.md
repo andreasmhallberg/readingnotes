@@ -8,6 +8,8 @@ Detailed description of a few speakers use of vowel/case endings.
 
 - Strong preference with all to produce *a* in perf3m.s. Cannot be incorrect. 183
 
+- Large variation of rate of case marking among the four speakers. Given as average counts per page. 184
+
 - Uneducated speakers use occasional vowels without relation to syntax in order to mark their speech as SA. 185 
   - One speaker: "'if you want to vowel something, use /a/'". 192 
 

@@ -6,7 +6,9 @@
 
 - Arab schools follow traditional Arabic grammar. Discontinuation at university level that Jewish students do not experience. Jews study according to the Westernized model of the university. Must then teach by traditional method as teachers. No use of university schooling. 107--8
 
-- Icraab analysis. Educations "seeks to incalculate not only the facts of grammar, but also a formulaic, stylized, declamatory method of analysis." Focus on surface forms of grammar, not underlying principles. 103
+- Formulaic icraab analysis in education. Educations 103
+
+  > seeks to incalculate not only the facts of grammar, but also a formulaic, stylized, declamatory method of analysis." Focus on surface forms of grammar, not underlying principles.
 
 - Icraab has several meanings: 114
   - inflection system

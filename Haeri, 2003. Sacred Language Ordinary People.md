@@ -2,7 +2,9 @@
 
 - Does not use the term MSA since it implies that the language is modern. It is not modern since it does not live and change with its speakers. xi 
 
-- "The nonarbitrary relation between the forms and meanings of the Qur'an is articulated in strikingly similar ways by educated and uneducated people from widely different social and generational backgrounds." 13
+- Mystical form-meaning relations in the Quran: 14
+
+> The nonarbitrary relation between the forms and meanings of the Qur'an is articulated in strikingly similar ways by educated and uneducated people from widely different social and generational backgrounds.
 
 - Arabs are 'costodians', not 'owners' av SA [her CA]. 14
 
@@ -21,7 +23,7 @@
 
   > To have to avoid using the language they have most master over [vernacular], whether for answering exam questions or writing composition, discourages most students from reading and writing beyond what is required in school.
 
-- Correctors (*musiḥḥiḥūn*) consult grammars from the 1400th century. Ex. *Qaṭr an-nadā.* 67
+- Correctors (*musiḥḥiḥūn*) consult grammars from the 14th century. Ex. *Qaṭr an-nadā.* 67
 
 @Arabic
 @diglossia

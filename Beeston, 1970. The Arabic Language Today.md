@@ -14,8 +14,7 @@ Below from chap. 7, "Syntactic Markers on Nouns"
 
 - Only practical function of icraab is to mark the agent. In some cases unclear also with icraab. Gives example  *ra’a akhi musa*. [Doesn't hold up. This would always be SO according to traditional grammar. Cf. Bayṭār.]
 
-
-- In discussion in beginning of 20th century about using dialect as standard middle way was proposed: so away with icraab. Beeston argues against this. 54-55
+- In discussion in beginning of 20th century about using dialect as standard middle way was proposed: do away with icraab. Beeston argues against this. 54-55
 
 @icraab
 @Arabic
