@@ -10,7 +10,7 @@ Case endings in speech marking 'saliency' and 'individuation'.
 
 - *Mā ibhāmiyya* "may also be considered a type of specificity marker" [!] and is thus often marked for case. 78
 
-- *Basmala* with incomplete case marking by al-Qaraḍāwi 89
+- *Basmala* with incomplete case marking by al-Qaraḍāwi: 89
 
   > bism-i llāh ʾar-raḥmān ʾar-raḥīm al-ḥamdi lillāh wa-ṣalāt wa-salām ʿalā rasūl-i llāh wa-ʿalā ʾāl-i-hi wa-ṣaḥb-i-hi wa-man ʾittabaʿ hudā-h
 
