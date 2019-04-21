@@ -6,7 +6,6 @@
 
 - In traditional statistics one cannot provide evidence for the null hypothesis by increasing sample size.
 
-
 - *Marginal likelihood*: *p* of likelihood. Totals to 1 for all hypothesis.
 
 - *Bayes factor*: ratio of marginal likelihoods. M0/M1

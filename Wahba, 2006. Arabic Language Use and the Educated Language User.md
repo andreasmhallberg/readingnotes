@@ -6,6 +6,8 @@
 
 - "One of the aim of Arabic programs is to prepare the learners to face this mixing of varieties in the speech of native speakers." 144
 
+- Competence in the four skills require two varieties. 144
+
 - "These communicative strategies used by diglossic users of Arabic either in conversations  or in monologues need to be investigated still more in the diglossic speech communities." 144
 
 - Large variation in competence in MSA amongst educated speakers. (Refs to Ibrahim 1983:505-515, 146, Abu Absi 1990:33-64, Van Mol 2003:97-103.) 146

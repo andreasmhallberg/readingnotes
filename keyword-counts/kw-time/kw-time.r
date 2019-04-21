@@ -5,32 +5,31 @@ notefiles <- notefiles[grepl('\\.md$', notefiles)]
 # exclude Keywords.md and README.md
 notefiles <- notefiles[!grepl('Keywords\\.md|README\\.md', notefiles)]
 
-# escape spaces and brackets
-notefiles.e <- gsub(' ','\\\\ ',notefiles)
+
+  # escape spaces and brackets
+notefiles.e <- notefiles
+notefiles.e <- gsub(' ','\\\\ ',notefiles.e)
 notefiles.e <- gsub('\\(','\\\\(',notefiles.e)
 notefiles.e <- gsub('\\)','\\\\)',notefiles.e)
 
-
 dates <- c()
 fn <- c()
-for (note in notefiles.e) {
-  d <- system(paste0('git log --follow --format=%ai -- ../../',note,' | tail -1'), intern=T)
-  fn <- c(fn,note)
+for (n in notefiles.e) {
+  d <- system(paste0('git log --follow --format=%ai -- ../../',n,' | tail -1'), intern=T)
+  fn <- c(fn,n)
   dates <- c(dates, d)
 }
-print("done")
 
+print("File names loaded")
 
 # convert to data frame
 kwtime <- as.data.frame(dates)
-
-
 
 # Convert 'Time' to time data type 
 kwtime$time.lt <- as.POSIXlt(kwtime$dates)
 kwtime$time.ct <- as.POSIXct(kwtime$dates)
 
-kwtime$filename <- notefiles
+kwtime$filename <- fn
 
 
 # remove notes added on first commit

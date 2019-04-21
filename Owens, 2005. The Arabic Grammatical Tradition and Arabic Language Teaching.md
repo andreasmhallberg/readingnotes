@@ -2,20 +2,24 @@
 
 The tradition went from descriptivism in Sībawayh and al-Farrāʾ to prescriptivism with the development of pedagogical grammars.
 
-- Sīband and al-Farrāʾ describes variation (e.g. *-tši/-ki* 3fs enclitic pronoun) and offers explanations to the alternative forms: "explicatory descriptivism". 104-105
-  - From this follows prescriptivism. 109
+- Sībawayh and al-Farrāʾ describes variation (e.g. *-tši/-ki* 3fs enclitic pronoun) and offers explanations to the alternative forms: "explicatory descriptivism". 104-105
+  - Thereafter came prescriptivism. 109
 
 - 9th century - explicit move towards simplification of grammatical description. Variation in linguistic material is pushed aside. 106
 
 - 10th century. Meta-theoretical speculation. Linguistic sciences becomes theoretical discipline of its own. 107
 
-- "the development of the language sciences in the Arabic-Islamic tradition is perhaps the most remarkable example of corpus planning in the history of linguistic." 108 
+- Arabic linguistic tradition ans corpus planning: 108
+
+  > the development of the language sciences in the Arabic-Islamic tradition is perhaps the most remarkable example of corpus planning in the history of linguistic.
 
 - Tradition goes from dealing with oral "living, variable, oral language" in Sībawayh and al-Farrāʾ to dealing with written language in later tradition. 108
 
 - "The grammatical norm becomes identified with an ideal end, but looking backwards, towards a lost ideal." 109
 
-- "Weil's conception of the Basran and Kufan linguistic schools as resulting from later grammarians' efforts to put order into the diverse [descriptive] practices of earlier grammarians is essentially correct." 109
+- Basran and Kufan schools: 109
+
+  > Weil's conception of the Basran and Kufan linguistic schools as resulting from later grammarians' efforts to put order into the diverse [descriptive] practices of earlier grammarians is essentially correct.
 
 - The development of grammar after the theoretical maturity in the 10th century shows "the power of entrenched professional and bureaucratic interests". Not "academic and pedagogical needs." 110
 

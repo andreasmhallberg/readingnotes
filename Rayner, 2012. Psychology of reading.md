@@ -4,14 +4,14 @@
 
 - Reading is a highly complex skill an breakthroughs in research will only come in sub-components of the reading skill. 7
 
-# Anatomy of the eye. 9
+## Anatomy of the eye. 9
 - Retina is composed of
   - *rods* - distinguish detail and hue.
   - *cones* - distinguish movements, brightness.
 - Fovea consists almost entirely of cones and gives most acute vision..
 - *feature detection theory* best in accounting for identifications of letters and text. 11
 
-# Word perception
+## Word perception
 - Summary of current knowledge: 50
   1. Skilled readers identify a word in about 250 ms.
   2. Not only converting letters -> sound -> meaning. But sounds do play a role. Converting to sound helps short term memory.
@@ -35,13 +35,13 @@
     - Majority view that  both routes are employed (duel route). Quickest one for a given word is used. Model. 79
     - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
 
-# Eye movements in reading
+## Eye movements in reading
 - Basic characteristics of eye movements in reading. 93-100
 - Perceptual span is fixated word plus two words to the right. Holds across writing systems. 109
 - word skipping 114
 - parafoveal benefit is primarily from the first two or three letters. 121
 
-# Word identification in reading (continuous text)
+## Word identification in reading (continuous text)
 - Gaze duration as measure of lexical access: 136
 
   > we are not claiming that any single measure that one can extract from the eye movement data can be viewed as "the time to access the lexicon" or the "time to access the meaning of a word [due to spillover effects. But] spillover effects are fairly minor and in many cases it isn't unreasonable to think of gaze duration as a pretty good approximation of initial word encoding time" 
@@ -55,7 +55,7 @@
   - Saccade programming is initiated when there is a reasonably good (but not finished) identification of the fixated word. This saves time. 169
   - Average saccade length is 7-8 characters. Saccades regress to this values so that they undershoot longer saccades and undershoot shorter saccades. Similar to other motor movements. 171
 
-# Inner speech (in silent reading)
+## Inner speech (in silent reading)
 - *subvocalization* (activation of articular motor system) vs. *phonological coding* (hearing inner voice)
 - subvocalization: 190
   - increases with more difficult text
@@ -69,7 +69,7 @@
   - storing words in short term memory (which is better at handling audial than visual information)
   - Provides prosody information that helps to parse sentence.
 
-# Words and sentences (sentence comprehension)
+## Words and sentences (sentence comprehension)
 - Useful measures: 221
   - First pass reading time (multi-word analog of gaze duration)
   - Go-passed time (regression past duration)
