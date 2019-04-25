@@ -1,8 +1,10 @@
+ ### COMMIT FIRST TO GET SYNX dir AND COMMIT DATES
+
 # load filenames
 notefiles <- dir("../../")
-# exclude non-notes
+  # exclude non-notes
 notefiles <- notefiles[grepl('\\.md$', notefiles)]
-# exclude Keywords.md and README.md
+  # exclude Keywords.md and README.md
 notefiles <- notefiles[!grepl('Keywords\\.md|README\\.md', notefiles)]
 
 
@@ -29,7 +31,8 @@ kwtime <- as.data.frame(dates)
 kwtime$time.lt <- as.POSIXlt(kwtime$dates)
 kwtime$time.ct <- as.POSIXct(kwtime$dates)
 
-kwtime$filename <- fn
+kwtime$filename <- notefiles
+kwtime$filename.e <- notefiles.e
 
 
 # remove notes added on first commit
