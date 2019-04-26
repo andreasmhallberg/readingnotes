@@ -13,12 +13,12 @@
   - Spoken varieties lack *wa-/fa-* for forgrounding/backgrounding [!].
   - In Eastern dialects VS/SV marks fg/bg. Deviations due to focusing/topicalization. 729
 
-- Example of OV in Quran (17-20). 731
-
-- Example of VOS in Quran (20-76). 732
+- Odd word order in the Quran
+  - OV (17:20). 731
+  - VOS (20:76). 732
 
 - SV more common with imperfect than perfect verbs. 733
-  -VS almost 100% with punctual perfect verbs, definite subjects in foreground. 
+  - VS almost 100% with punctual perfect verbs, definite subjects in foreground. 
 
 @Arabic
 @syntax

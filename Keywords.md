@@ -55,13 +55,13 @@
 @sociolinguistics
 @syntax
 @typography
-@pause
+@pause (implies prosody)
 @heritage-speakers
-@speech * (specifics of spoken language production)
+@speech * remove
 @writing-systems (comparisons between writing systems)
 
 # Modality
-@writing
+@writing * remove
 
 # Linguistic methods
 @corpus-linguistics
@@ -74,6 +74,8 @@
 @pedagogy (not language)
 @islam
 @popular-culture
+
+@none (no suitable keyword)
 
 # Notes
 iʿrāb often spelled icraab
