@@ -71,7 +71,7 @@ for(k in kw.meantime$kw) {
   kw.meantime$kw.meantime.ct[kw.meantime$kw==k] <- mean(kw$time.ct[kw$kwkw==k])
 }
 
-kw.meantime$kw.meantime.ct <- as.POSIXct(kw.meantime$kw.meantime.ct, origin='1970-01-01')
+# kw.meantime$kw.meantime.ct <- as.POSIXct(kw.meantime$kw.meantime.ct, origin='1970-01-01')
 
 ## timespan
 for(k in kw.meantime$kw) {
