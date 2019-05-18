@@ -24,5 +24,4 @@
 
 @ALT
 @Arabic:Standard
-@writing
 @historical-linguistics

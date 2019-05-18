@@ -13,7 +13,7 @@
 	
 - Speakers switch between levels in the same speech event. 93
 
-- One speaker van use several (but usually not all) levels. Intellectuals can use 2-3. 93
+- One speaker can use several (but usually not all) levels. Intellectuals can use 2-3. 93
 
 - Levels are like colors of the rainbow, with middle areas defined by mixtures of the two neighboring levels. 94
 

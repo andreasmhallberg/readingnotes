@@ -32,7 +32,7 @@ Teaching Arabic at the university level in the Arab world is burdened by problem
 
 - Grammatical description as unquestionable fact with high symbolic value: 98
 
-> The sacredness with which some view the tradition, and the linguistic tradition in particular, precludes any criticism an presupposes that any attempt at change is inspired by enmity and targets the whole culture.
+  > The sacredness with which some view the tradition, and the linguistic tradition in particular, precludes any criticism an presupposes that any attempt at change is inspired by enmity and targets the whole culture.
 
 @Arabic
 @ALT

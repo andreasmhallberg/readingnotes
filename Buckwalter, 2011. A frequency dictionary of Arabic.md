@@ -9,7 +9,7 @@
 
 - Frequency ratings are adjusted by distribution in the corpus. 5
 
-- Thematic frequency lists (non-complete. All are listed on p. ii):
+- Thematic frequency lists [non-complete. All are listed on p. ii]:
   - Form I strong/weak. 198
   - Forms II-X strong/weak. 208
   - Politics. 226 
@@ -21,3 +21,4 @@
 
 @Arabic
 @dictionary
+@SLA

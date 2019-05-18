@@ -55,7 +55,7 @@
   - Saccade programming is initiated when there is a reasonably good (but not finished) identification of the fixated word. This saves time. 169
   - Average saccade length is 7-8 characters. Saccades regress to this values so that they undershoot longer saccades and undershoot shorter saccades. Similar to other motor movements. 171
 
-## Inner speech (in silent reading)
+## Inner speech (in silent reading) [chap. 7]
 - *subvocalization* (activation of articular motor system) vs. *phonological coding* (hearing inner voice)
 - subvocalization: 190
   - increases with more difficult text

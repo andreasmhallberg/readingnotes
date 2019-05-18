@@ -34,34 +34,31 @@
 
 # Area of linguistics
 
-@standard-language (theoretically on standard varieties and standardization)
-@CMC (Computer Mediated Communication)
+@FLA (second language acquisition)
+@SLA (first language acquisition) 
 @code-switching
 @diglossia (theoretical discussion on diglossia)
+@heritage-speakers
 @historical-linguistics
 @language-ideology (includes language attitudes)
 @language-instruction (Typically combined with `SLA` or `FLA`)
-@SLA (first language acquisition) 
-@FLA (second language acquisition)
 @language-planning
 @lexicon
+@literacy
 @morphology
 @orthography (spelling in a particular language)
+@pause (implies prosody)
 @phonology
+@phonotactics
 @pragmatics
 @prosody
-@phonotactics
-@reading
+@reading (cognitive aspects of)
 @sociolinguistics
+@speech * remove
+@standard-language (theoretically on standard varieties and standardization)
 @syntax
 @typography
-@pause (implies prosody)
-@heritage-speakers
-@speech * remove
-@writing-systems (comparisons between writing systems)
-
-# Modality
-@writing * remove
+@writing-systems (comparisons between writing systems, writing systems across languages)
 
 # Linguistic methods
 @corpus-linguistics

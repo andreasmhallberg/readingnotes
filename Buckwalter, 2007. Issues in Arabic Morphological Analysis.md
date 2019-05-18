@@ -31,5 +31,4 @@
 
 @Arabic
 @orthography
-@CMC
 @corpus-linguistics

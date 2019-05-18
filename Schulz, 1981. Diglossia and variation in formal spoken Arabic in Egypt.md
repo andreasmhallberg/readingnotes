@@ -5,6 +5,7 @@
 - Data: 
   - various radio broadcasts. 12
   - 49 speakers, 1000 p. transcription. 14
+  - [Date of recordings not given.]
 
 - Definition of level – "consists of a constellation of linguistic features that occur together". 17
 

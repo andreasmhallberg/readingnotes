@@ -50,7 +50,11 @@
 
 - Not pronouncing icraab rated as 'smarter'. 59
 
-- "middle’ solution, with partial vowelling but correct (Egyptian) phonology, a clear preference over other styles." 61
+- case-less Standard Arabic often preferred over Standard Arabic with case: 61
+
+> there is a wide range of acceptable oral performances of styles of a text whose written form would be accepted as fuṣḥā, and tha that while increasing "authenticity" or "classicizaiont" of phonological variables increase acceptance of the text, completely full vowelling and proper observation of pause forms, and the like, can actually decrease it, making a "middle" solution, with partial volwelling but correct (Egyptiian) phonology, a clear preference over other varieties. This indicates that the grammar vowels are probably not being used much to disambiguate the text, but rather to mark them stylistically.
+
+
 
 @Arabic:Standard
 @standard-language

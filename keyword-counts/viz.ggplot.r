@@ -1,5 +1,4 @@
 source('keywordcounts.r')
-
 library(GGally)
 library(network)
 
@@ -33,6 +32,7 @@ edges.ar <- edges.ar[edges.ar$kw!='icraab',]
 edges.ar <- edges.ar[edges.ar$kw!='Arabic',]
 edges.ar <- edges.ar[edges.ar$kw!='Standard',]
 # edges.ar <- edges.ar[edges.ar$kw!='phonotactics',] # remove for aesthetic reasons
+edges.ar <- edges.ar[edges.ar$kw!='dictionary',]
 edges.ar <- edges.ar[edges.ar$kw!='textbook',] # remove for aesthetic reasons
 edges.ar <- edges.ar[edges.ar$kw!='language-ideology:primary-source',]
 

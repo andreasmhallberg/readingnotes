@@ -1,8 +1,7 @@
 # Staub, Adrian, and Keith Rayner. “Eye Movements and On-Line Comprehension Processes.” The Oxford Handbook of Psycholinguistics, 2007.
 
 - In studies where the critical region is one word, results are reported on: 329
-  - first fixation duration
-  - single fixation duration
+  - first fixation duration single fixation duration
   - gaze duration (all fixations before leaving word)
   - total time (all fixations) 
   - go past time a.k.a regression path duration

@@ -10,7 +10,7 @@
   - Sibawayhi seems not to have fist-hand experience with Beduin speaking with icraab. All second hand accounts. 226
   - Unclear in the sources whether any information ever from everyday speech or only from poetry. 227 
 
-- Grammarians came up with rules to account for dialectal variation in *qirāʾāt* that is unrelated to icraab: 332-
+- Grammarians came up with rules to account for dialectal variation in *qirāʾāt* that is unrelated to icraab: 232-
   1. *mā ḥijāziyya*
   1. *accusative of praise*
   1. *accusative of condemnation*

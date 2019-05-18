@@ -23,7 +23,7 @@
 
 - Discussion of therm *azma* with regards to Arabic. 67
 
-- Language explicitly tied to moral. 69
+- Language explicitly tied to moral values. 69
 
 - Similar phenomenon in English and French. 72-3
 

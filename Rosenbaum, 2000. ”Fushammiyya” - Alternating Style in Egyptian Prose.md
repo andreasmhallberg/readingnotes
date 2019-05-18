@@ -8,13 +8,13 @@ Style in prose writing where *fuṣḥā* and *ʿāmmiyyā* are mixed.
 
 - Concluding description of Fushaamiyya:
   1. Written
-  1. No hypercorrection
-  1. International
-  1. In narrative text (not only in dialog)
-  1. Complete phrases in *ʿāmmiyya*
-  1. Abrupt alternation
-  1. Ascribes equal status to both codes
-  1. Becomes respectable. Found in respectable printed media. 
+  2. No hypercorrection
+  3. International
+  4. In narrative text (not only in dialog)
+  5. Complete phrases in *ʿāmmiyya*
+  6. Abrupt alternation
+  7. Ascribes equal status to both codes
+  8. Becomes respectable. Found in respectable printed media. 
 
 @Arabic
-@writing
+@diglossia

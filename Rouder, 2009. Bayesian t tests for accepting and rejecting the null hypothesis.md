@@ -11,7 +11,7 @@
 - *Bayes factor*: ratio of marginal likelihoods. M0/M1
 
 - Priors
-  -In practice often good to set Bayesian prior to 1. 228
+  - In practice often good to set Bayesian prior to 1. 228
   - Two schools in setting priors: 229
     - Subjective: researcher set priors in accordance with their own beliefs and available data.
     - Objective: priors reflecting as few assumptions as possible.
