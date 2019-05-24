@@ -10,5 +10,7 @@
 
 - Cites Sibawayh to show that *maʿa* is not a true preposition: "*dhahab-a min maʿ-i-hi*" 393
 
+- Eight nominal declensions. 184-
+
 @Arabic:Standard
 @grammar
