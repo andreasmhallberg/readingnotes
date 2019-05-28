@@ -1,7 +1,7 @@
 # Woidich, M. A. 2007. “Everything You Always Wanted to Know about ‘Aal, Yi’uul in Egyptian Arabic,” no. 49: 675–700.
 
 - Discourse level
-  - Reported duologue, withoyt *wi-*, 677
+  - Reported dialogue, without *wi-*, 677
   - Representing inner monologue 678
   - Requesting positive surprise, turn giving. *qulti ēh?* "How about that?" 680
   - *ūl* (grammaticalized), introduces summary/conclusion before switch to next topic. 681
