@@ -28,9 +28,9 @@
 
 - CA is an ideal form that is never completely realized. Shown in phonetic variation. 119
 
-- Icraab in proper names a characteristic of  level 1. 125
-
-- Decision by academy to allow for omission of icraab in proper names. 126
+- Case marking on proper nouns:
+  - a characteristic of  level 1. 125 
+  - Decision by academy to allow for omission of icraab in proper nouns. 126
 
 - It is less difficult to extemporize in  level 1 than in level 2 since its topics are limited to religion. 128
 

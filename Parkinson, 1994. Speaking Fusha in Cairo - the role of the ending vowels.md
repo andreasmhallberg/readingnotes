@@ -28,6 +28,7 @@ Subjects' education: 182
 - Numbers not inflected as nouns. 192
 
 - Longer analysis of speaker with prescriptively correct speech. ”utterly unique”. Spoke with complete use of case markers "with a fluency and ease that his nothing short of breathtaking.a". Annoying to the interviewer. 207
+  - Compliance with pause rules. 201
 
 - Conclusion: 
   - Icraab necessary marker of SA but difficult: 207
