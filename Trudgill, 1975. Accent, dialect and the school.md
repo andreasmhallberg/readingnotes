@@ -10,7 +10,7 @@
 
 - Standard language ideology, real language, moral judgments: 27
 
-  > In fact there is a very widely held---although erroneous--- view that standard English is *the* English language. This inevitably leads to the belief that all other dialects are deviations from the norm, and, often, that these deviations represent 'corruptions' due to ignorance, carelessness, laziness or stupidity.
+  > In fact there is a very widely held---although erroneous---view that standard English is *the* English language. This inevitably leads to the belief that all other dialects are deviations from the norm, and, often, that these deviations represent 'corruptions' due to ignorance, carelessness, laziness or stupidity.
 
 - View that dialects have no grammar. Their grammar is not in accordance with grammar books. 40
 
@@ -18,7 +18,7 @@
   1. Form part of standard variety but there is an idea that it is erroneous (e.g. stranded preposition, "It is me"). Often rules derived from Latin. 42-43 [See Curzan 2015]
   2. Form not part of standard. Dialectal form. Stigmatized. 44
 
-- Pedagogical/educational problems related to standard-dialect variation :63-64
+- Pedagogical/educational problems related to standard-dialect variation: 63-64
   1. Accent: reading and spelling difficulty, if the teacher is not familiar with the child's accent.
   2. Accent: alienation from school, if attempts are made to change the child’s accent.
   3. Dialect: interference from the native dialect in standard English, if standard English is required or rewarded.

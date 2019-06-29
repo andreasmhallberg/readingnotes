@@ -71,6 +71,7 @@
 @pedagogy (not language)
 @islam
 @popular-culture
+@literature
 
 @none (no suitable keyword)
 

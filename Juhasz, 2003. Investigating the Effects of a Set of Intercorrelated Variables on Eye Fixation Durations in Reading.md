@@ -1,8 +1,8 @@
 # Juhasz, Barbara J., and Keith Rayner. 2003. “Investigating the Effects of a Set of Intercorrelated Variables on Eye Fixation Durations in Reading.” Journal of Experimental Psychology: Learning, Memory, and Cognition 29 (6): 1312–18. https://doi.org/10.1037/0278-7393.29.6.1312.
 
-[Followup in Juhasz & Rayner (2006).]
+[Followed up in Juhasz & Rayner (2006).]
 
-- Inverstigate effect on fixation measures of
+- Investigate effect on fixation measures of
   - word frequency
   - subjective familiarity - subjective ratings
   - word length - nr of characters

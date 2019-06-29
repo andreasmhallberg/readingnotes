@@ -27,7 +27,9 @@
   - generic he
   - split infinitives
 
-- "The number of grammars skyrocketed over the course of the late eighteenth century throughout the nineteenth century, and grammarians during this period changed the tone of grammatical admonishments: the discourse was no longer just about improving style and rhetoric but also about identifying and eliminating error." 69
+- Explosion of grammar writing at the end of the 17 hundreds: 69
+
+  > The number of grammars skyrocketed over the course of the late eighteenth century throughout the nineteenth century, and grammarians during this period changed the tone of grammatical admonishments: the discourse was no longer just about improving style and rhetoric but also about identifying and eliminating error.
 
 @English
 @standard-language
