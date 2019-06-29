@@ -8,4 +8,4 @@
 
 - "The situation is purely impromptu only if the speaker has not at all been able to predict the speech situation nor the subject of the speech or discussion." 40
 
-@speech
+@none

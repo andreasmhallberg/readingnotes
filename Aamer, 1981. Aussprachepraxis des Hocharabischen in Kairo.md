@@ -26,3 +26,4 @@
 @Arabic:Standard
 @pause
 @Egypt
+@dissertation

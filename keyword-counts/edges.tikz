@@ -1,760 +1,872 @@
-\edge{1}{Arabic}
-\edge{1}{pause}
-\edge{1}{Egypt}
-\edge{2}{orthography}
-\edge{2}{Arabic}
-\edge{2}{CMC}
-\edge{3}{diglossia}
-\edge{3}{language-planning}
-\edge{3}{Arabic}
-\edge{4}{language-planning}
-\edge{4}{Arabic}
-\edge{5}{Arabic}
-\edge{5}{diglossia}
-\edge{6}{reading}
-\edge{6}{orthography}
-\edge{6}{Arabic}
-\edge{7}{Arabic}
-\edge{7}{reading}
-\edge{7}{orthography}
-\edge{8}{Arabic}
-\edge{8}{syntax}
-\edge{22}{Arabic}
-\edge{22}{language-ideology}
-\edge{9}{diglossia}
-\edge{9}{code-switching}
-\edge{9}{Arabic}
-\edge{274}{Arabic}
-\edge{274}{ALT}
-\edge{274}{icraab}
-\edge{10}{sociolinguistics}
-\edge{10}{language-ideology}
-\edge{10}{Arabic}
-\edge{11}{Arabic}
-\edge{11}{heritage-speakers}
-\edge{11}{syntax}
-\edge{11}{morphology}
-\edge{11}{code-switching}
-\edge{11}{diglossia}
-\edge{11}{Arabic}
-\edge{12}{Arabic}
-\edge{12}{heritage-speakers}
-\edge{12}{syntax}
-\edge{13}{heritage-speakers}
-\edge{13}{Arabic}
-\edge{13}{syntax}
-\edge{13}{Arabic}
-\edge{13}{heritage-speakers}
-\edge{14}{language-instruction}
-\edge{14}{FLA}
-\edge{14}{diglossia}
-\edge{14}{Arabic}
-\edge{15}{language-ideology}
-\edge{15}{language-planning}
-\edge{15}{Arabic}
-\edge{15}{language-instruction}
-\edge{15}{FLA}
-\edge{16}{Arabic}
-\edge{16}{language-instruction}
-\edge{16}{FLA}
-\edge{17}{standard-language}
-\edge{18}{Arabic}
-\edge{18}{corpus-linguistics}
-\edge{19}{formality}
-\edge{19}{anthropology}
-\edge{20}{literacy}
-\edge{20}{diglossia}
-\edge{20}{Arabic}
-\edge{21}{icraab}
-\edge{21}{language-ideology}
-\edge{21}{Arabic}
-\edge{25}{diglossia}
-\edge{25}{Arabic}
-\edge{25}{code-switching}
-\edge{23}{diglossia}
-\edge{23}{icraab}
-\edge{23}{Arabic}
-\edge{24}{Arabic}
-\edge{24}{language-instruction}
-\edge{24}{SLA}
-\edge{26}{standard-language}
-\edge{26}{language-ideology}
-\edge{26}{English}
-\edge{27}{statistics}
-\edge{28}{standard-language}
-\edge{28}{German}
-\edge{29}{standard-language}
-\edge{29}{German}
-\edge{30}{code-switching}
-\edge{30}{diglossia}
-\edge{30}{Arabic}
-\edge{31}{diglossia}
-\edge{31}{code-switching}
-\edge{31}{Arabic}
-\edge{32}{code-switching}
-\edge{32}{Arabic}
-\edge{33}{language-ideology}
-\edge{33}{Arabic}
-\edge{34}{Arabic}
-\edge{34}{icraab}
-\edge{35}{icraab}
-\edge{35}{Arabic}
-\edge{36}{Arabic}
-\edge{36}{diglossia}
-\edge{37}{Arabic}
-\edge{37}{language-ideology}
-\edge{38}{Arabic}
-\edge{38}{typography}
-\edge{39}{Arabic}
-\edge{39}{language-planning}
-\edge{39}{language-instruction}
-\edge{40}{Arabic}
-\edge{40}{standard-language}
-\edge{41}{Arabic}
-\edge{41}{ALT}
-\edge{41}{pause}
-\edge{42}{syntax}
-\edge{42}{morphology}
-\edge{42}{textbook}
-\edge{43}{diglossia}
-\edge{43}{Arabic}
-\edge{43}{speech}
-\edge{44}{ALT}
-\edge{44}{Arabic}
-\edge{45}{Arabic}
-\edge{45}{icraab}
-\edge{46}{Arabic}
-\edge{47}{language-ideology}
-\edge{48}{ALT}
-\edge{48}{Arabic}
-\edge{49}{Arabic}
-\edge{49}{lexicon}
-\edge{49}{corpus-linguistics}
-\edge{50}{eye-tracking}
-\edge{50}{reading}
-\edge{50}{syntax}
-\edge{51}{standard-language}
-\edge{51}{English}
-\edge{52}{Arabic}
-\edge{52}{orthography}
-\edge{52}{CMC}
-\edge{52}{corpus-linguistics}
-\edge{53}{heritage-speakers}
-\edge{54}{ALT}
-\edge{54}{Arabic}
-\edge{55}{standard-language}
-\edge{55}{English}
-\edge{56}{ALT}
-\edge{56}{Arabic}
-\edge{57}{eye-tracking}
-\edge{57}{reading}
-\edge{57}{typography}
-\edge{57}{orthography}
-\edge{57}{Arabic}
-\edge{58}{speech}
-\edge{58}{prosody}
-\edge{58}{pause}
-\edge{59}{icraab}
-\edge{59}{Arabic}
-\edge{59}{language-planning}
-\edge{60}{eye-tracking}
-\edge{60}{reading}
-\edge{60}{syntax}
-\edge{60}{review-article}
-\edge{61}{heritage-speakers}
-\edge{62}{Arabic}
-\edge{62}{case}
-\edge{62}{icraab}
-\edge{63}{Arabic}
-\edge{63}{case}
-\edge{63}{icraab}
-\edge{64}{reading}
-\edge{64}{textbook}
-\edge{65}{prosody}
-\edge{65}{Arabic}
-\edge{66}{English}
-\edge{66}{standard-language}
-\edge{66}{language-ideology}
-\edge{66}{language-planning}
-\edge{67}{sociolinguistics}
-\edge{67}{Arabic}
-\edge{67}{Arabic}
-\edge{68}{literacy}
-\edge{68}{language-instruction}
-\edge{68}{FLA}
-\edge{68}{diglossia}
-\edge{68}{Arabic}
-\edge{69}{eye-tracking}
-\edge{69}{reading}
-\edge{69}{syntax}
-\edge{70}{Arabic}
-\edge{70}{pragmatics}
-\edge{70}{language-instruction}
-\edge{70}{SLA}
-\edge{71}{code-switching}
-\edge{71}{Arabic}
-\edge{71}{diglossia}
-\edge{72}{Arabic}
-\edge{72}{morphology}
-\edge{276}{Arabic}
-\edge{276}{diglossia}
-\edge{276}{language-ideology}
-\edge{73}{eye-tracking}
-\edge{73}{reading}
-\edge{73}{syntax}
-\edge{75}{Arabic}
-\edge{75}{ALT}
-\edge{75}{icraab}
-\edge{74}{diglossia}
-\edge{74}{Arabic}
-\edge{74}{language-planning}
-\edge{74}{language-ideology}
-\edge{76}{reading}
-\edge{76}{FLA}
-\edge{77}{anthropology}
-\edge{77}{islamology}
-\edge{78}{code-switching}
-\edge{78}{diglossia}
-\edge{78}{Arabic}
-\edge{79}{diglossia}
-\edge{79}{Arabic}
-\edge{80}{language-ideology}
-\edge{80}{Arabic}
-\edge{81}{Arabic}
-\edge{81}{language-ideology}
-\edge{82}{diglossia}
-\edge{82}{TAFL}
-\edge{82}{Arabic}
-\edge{83}{Arabic}
-\edge{83}{language-ideology}
-\edge{84}{diglossia}
-\edge{84}{Arabic}
-\edge{85}{Arabic}
-\edge{85}{diglossia}
-\edge{85}{sociolinguistics}
-\edge{86}{diglossia}
-\edge{86}{Arabic}
-\edge{87}{diglossia}
-\edge{87}{Arabic}
-\edge{87}{Arabic}
-\edge{87}{language-ideology}
-\edge{87}{Arabic}
-\edge{87}{historical-linguistics}
-\edge{88}{pragmatics}
-\edge{89}{diglossia}
-\edge{90}{Arabic}
-\edge{90}{pragmatics}
-\edge{90}{Arabic}
-\edge{90}{pragmatics}
-\edge{90}{standard-language}
-\edge{90}{historical-linguistics}
-\edge{91}{standard-language}
-\edge{91}{historical-linguistics}
-\edge{91}{English}
-\edge{92}{icraab}
-\edge{92}{Arabic}
-\edge{93}{diglossia}
-\edge{93}{Arabic}
-\edge{93}{language-ideology}
-\edge{93}{Morocco}
-\edge{94}{eye-tracking}
-\edge{94}{reading}
-\edge{94}{syntax}
-\edge{95}{reading}
-\edge{95}{lexicon}
-\edge{96}{diglossia}
-\edge{96}{language-planning}
-\edge{96}{language-ideology}
-\edge{96}{Arabic}
-\edge{97}{Arabic}
-\edge{97}{sociolinguistics}
-\edge{98}{statistics}
-\edge{99}{pragmatics}
-\edge{100}{Arabic}
-\edge{101}{Arabic}
-\edge{101}{language-ideology}
-\edge{102}{standard-language}
-\edge{103}{language-ideology}
-\edge{103}{Arabic}
-\edge{104}{Arabic}
-\edge{104}{diglossia}
-\edge{105}{language-ideology}
-\edge{105}{Arabic}
-\edge{105}{Egypt}
-\edge{105}{sociolinguistics}
-\edge{105}{diglossia}
-\edge{105}{Arabic}
-\edge{105}{Egypt}
-\edge{106}{Arabic}
-\edge{106}{sociolinguistics}
-\edge{106}{diglossia}
-\edge{106}{review-article}
-\edge{107}{Arabic}
-\edge{107}{diglossia}
-\edge{107}{language-ideology}
-\edge{107}{icraab}
-\edge{107}{Egypt}
-\edge{108}{Arabic}
-\edge{108}{prosody}
-\edge{109}{standard-language}
-\edge{110}{Aljazeera}
-\edge{110}{media}
-\edge{110}{popular-culture}
-\edge{111}{Arabic}
-\edge{111}{icraab}
-\edge{111}{pause}
-\edge{112}{Arabic}
-\edge{112}{diglossia}
-\edge{113}{standard-language}
-\edge{114}{standard-language}
-\edge{115}{diglossia}
-\edge{116}{Arabic}
-\edge{117}{media}
-\edge{118}{eye-tracking}
-\edge{118}{Arabic}
-\edge{118}{reading}
-\edge{118}{syntax}
-\edge{118}{orthography}
-\edge{119}{Arabic}
-\edge{119}{Swedish}
-\edge{119}{quran}
-\edge{120}{Arabic}
-\edge{120}{diglossia}
-\edge{120}{code-switching}
-\edge{121}{Arabic}
-\edge{121}{icraab}
-\edge{122}{Arabic}
-\edge{122}{diglossia}
-\edge{122}{popular-culture}
-\edge{123}{diglossia}
-\edge{124}{diglossia}
-\edge{125}{language-planning}
-\edge{125}{standard-language}
-\edge{126}{Arabic}
-\edge{126}{diglossia}
-\edge{126}{language-ideology}
-\edge{126}{popular-culture}
-\edge{127}{diglossia}
-\edge{127}{Arabic}
-\edge{127}{literacy}
-\edge{128}{diglossia}
-\edge{128}{Arabic}
-\edge{128}{sociolinguistics}
-\edge{129}{Arabic}
-\edge{129}{diglossia}
-\edge{129}{language-planning}
-\edge{130}{reading}
-\edge{130}{Arabic}
-\edge{131}{reading}
-\edge{131}{Arabic}
-\edge{132}{reading}
-\edge{132}{eye-tracking}
-\edge{132}{German}
-\edge{132}{syntax}
-\edge{133}{formality}
-\edge{133}{anthropology}
-\edge{133}{language-ideology}
-\edge{134}{Arabic}
-\edge{134}{sociolinguistics}
-\edge{135}{statistics}
-\edge{136}{standard-language}
-\edge{137}{eye-tracking}
-\edge{137}{reading}
-\edge{138}{Arabic}
-\edge{138}{icraab}
-\edge{139}{Arabic}
-\edge{139}{phonology}
-\edge{140}{Arabic}
-\edge{140}{diglossia}
-\edge{141}{icraab}
-\edge{141}{language-instruction}
-\edge{141}{SLA}
-\edge{141}{Arabic}
-\edge{142}{ALT}
-\edge{142}{Arabic}
-\edge{143}{Arabic}
-\edge{144}{Arabic}
-\edge{144}{FLA}
-\edge{145}{Arabic}
-\edge{145}{prosody}
-\edge{146}{prosody}
-\edge{146}{SLA}
-\edge{147}{Swedish}
-\edge{148}{eye-tracking}
-\edge{148}{reading}
-\edge{149}{sociolinguistics}
-\edge{150}{speech}
-\edge{151}{orthography}
-\edge{151}{reading}
-\edge{151}{FLA}
-\edge{152}{standard-language}
-\edge{152}{English}
-\edge{152}{language-ideology}
-\edge{153}{Aljazeera}
-\edge{153}{media}
-\edge{154}{diglossia}
-\edge{154}{Arabic}
-\edge{154}{language-instruction}
-\edge{154}{FLA}
-\edge{154}{literacy}
-\edge{155}{Arabic}
-\edge{155}{FLA}
-\edge{155}{diglossia}
-\edge{155}{orthography}
-\edge{155}{literacy}
-\edge{156}{Arabic}
-\edge{156}{icraab}
-\edge{157}{Arabic}
-\edge{157}{ALT}
-\edge{157}{icraab}
-\edge{157}{language-ideology}
-\edge{158}{code-switching}
-\edge{158}{diglossia}
-\edge{158}{Arabic}
-\edge{159}{speech}
-\edge{159}{syntax}
-\edge{160}{icraab}
-\edge{160}{Arabic}
-\edge{160}{speech}
-\edge{161}{Arabic}
-\edge{161}{writing}
-\edge{162}{Arabic}
-\edge{162}{diglossia}
-\edge{162}{icraab}
-\edge{162}{speech}
-\edge{163}{Arabic}
-\edge{163}{diglossia}
-\edge{163}{Egypt}
-\edge{163}{speech}
-\edge{164}{Arabic}
-\edge{164}{standard-language}
-\edge{164}{Arabic}
-\edge{164}{language-ideology}
-\edge{165}{Arabic}
-\edge{165}{language-ideology}
-\edge{165}{language-planning}
-\edge{166}{Arabic}
-\edge{166}{review-article}
-\edge{166}{sociolinguistics}
-\edge{167}{Arabic}
-\edge{167}{typography}
-\edge{168}{English}
-\edge{168}{language-ideology}
-\edge{168}{standard-language}
-\edge{169}{standard-language}
-\edge{169}{language-ideology}
-\edge{170}{standard-language}
-\edge{170}{language-ideology}
-\edge{171}{Arabic}
-\edge{171}{diglossia}
-\edge{171}{speech}
-\edge{172}{diglossia}
-\edge{172}{icraab}
-\edge{172}{Arabic}
-\edge{172}{speech}
-\edge{173}{media}
-\edge{174}{heritage-speakers}
-\edge{175}{reading}
-\edge{175}{orthography}
-\edge{175}{icraab}
-\edge{175}{Arabic}
-\edge{176}{Arabic}
-\edge{176}{diglossia}
-\edge{176}{FLA}
-\edge{176}{literacy}
-\edge{177}{Arabic}
-\edge{177}{reading}
-\edge{177}{quran}
-\edge{177}{pause}
-\edge{178}{ALT}
-\edge{178}{Arabic}
-\edge{178}{writing}
-\edge{178}{historical-linguistics}
-\edge{179}{syntax}
-\edge{179}{reading}
-\edge{179}{eye-tracking}
-\edge{180}{language-instruction}
-\edge{180}{SLA}
-\edge{180}{diglossia}
-\edge{180}{Arabic}
-\edge{181}{Arabic}
-\edge{181}{FLA}
-\edge{182}{Arabic}
-\edge{182}{diglossia}
-\edge{182}{speech}
-\edge{183}{Arabic}
-\edge{183}{ALT}
-\edge{184}{code-switching}
-\edge{184}{Arabic}
-\edge{184}{speech}
-\edge{185}{Arabic}
-\edge{185}{icraab}
-\edge{185}{case}
-\edge{185}{historical-linguistics}
-\edge{186}{Arabic}
-\edge{186}{diglossia}
-\edge{186}{sociolinguistics}
-\edge{186}{code-switching}
-\edge{186}{review-article}
-\edge{186}{speech}
-\edge{187}{Arabic}
-\edge{187}{ALT}
-\edge{187}{language-ideology}
-\edge{188}{Arabic}
-\edge{188}{lexicon}
-\edge{188}{pragmatics}
-\edge{189}{CMC}
-\edge{189}{Arabic}
-\edge{189}{writing}
-\edge{190}{Arabic}
-\edge{190}{diglossia}
-\edge{190}{speech}
-\edge{191}{Arabic}
-\edge{191}{syntax}
-\edge{192}{Arabic}
-\edge{192}{language-ideology}
-\edge{192}{orthography}
-\edge{193}{Arabic}
-\edge{193}{standard-language}
-\edge{194}{language-ideology}
-\edge{194}{Arabic}
-\edge{195}{Arabic}
-\edge{195}{icraab}
-\edge{195}{speech}
-\edge{196}{Arabic}
-\edge{196}{icraab}
-\edge{196}{speech}
-\edge{196}{Arabic}
-\edge{196}{icraab}
-\edge{196}{language-instruction}
-\edge{196}{SLA}
-\edge{197}{icraab}
-\edge{197}{Arabic}
-\edge{198}{Arabic}
-\edge{198}{corpus-linguistics}
-\edge{198}{lexicon}
-\edge{199}{Arabic}
-\edge{199}{speech}
-\edge{200}{English}
-\edge{200}{eye-tracking}
-\edge{200}{reading}
-\edge{200}{syntax}
-\edge{201}{reading}
-\edge{201}{Arabic}
-\edge{201}{eye-tracking}
-\edge{202}{speech}
-\edge{202}{prosody}
-\edge{203}{pedagogy}
-\edge{203}{review-article}
-\edge{204}{reading}
-\edge{204}{eye-tracking}
-\edge{205}{Arabic}
-\edge{205}{ALT}
-\edge{205}{syntax}
-\edge{206}{eye-tracking}
-\edge{206}{reading}
-\edge{207}{eye-tracking}
-\edge{207}{syntax}
-\edge{207}{reading}
-\edge{208}{eye-tracking}
-\edge{208}{reading}
-\edge{208}{review-article}
-\edge{209}{eye-tracking}
-\edge{209}{reading}
-\edge{210}{eye-tracking}
-\edge{210}{reading}
-\edge{210}{review-article}
-\edge{211}{reading}
-\edge{211}{textbook}
-\edge{211}{eye-tracking}
-\edge{212}{language-ideology}
-\edge{213}{reading}
-\edge{213}{textbook}
-\edge{214}{reading}
-\edge{214}{Arabic}
-\edge{214}{orthography}
-\edge{214}{eye-tracking}
-\edge{215}{Arabic}
-\edge{215}{writing}
-\edge{216}{Arabic}
-\edge{216}{code-switching}
-\edge{216}{speech}
-\edge{217}{statistics}
-\edge{218}{case}
-\edge{218}{syntax}
-\edge{218}{SLA}
-\edge{219}{Arabic}
-\edge{219}{diglossia}
-\edge{219}{language-instruction}
-\edge{219}{SLA}
-\edge{220}{icraab}
-\edge{220}{Arabic}
-\edge{220}{historical-linguistics}
-\edge{221}{Arabic}
-\edge{221}{syntax}
-\edge{222}{Arabic}
-\edge{222}{ALT}
-\edge{223}{SLA}
-\edge{223}{literacy}
-\edge{223}{diglossia}
-\edge{223}{Arabic}
-\edge{224}{Arabic}
-\edge{224}{diglossia}
-\edge{224}{SLA}
-\edge{224}{reading}
-\edge{224}{orthography}
-\edge{224}{icraab}
-\edge{225}{Arabic}
-\edge{225}{speech}
-\edge{226}{standard-language}
-\edge{227}{English}
-\edge{227}{standard-language}
-\edge{227}{syntax}
-\edge{228}{language-ideology}
-\edge{228}{Arabic}
-\edge{229}{phonology}
-\edge{229}{icraab}
-\edge{229}{syntax}
-\edge{229}{Arabic}
-\edge{229}{speech}
-\edge{229}{corpus-linguistics}
-\edge{230}{Arabic}
-\edge{230}{diglossia}
-\edge{230}{language-planning}
-\edge{230}{FLA}
-\edge{231}{Arabic}
-\edge{231}{English}
-\edge{231}{Egypt}
-\edge{232}{Arabic}
-\edge{232}{language-ideology}
-\edge{233}{eye-tracking}
-\edge{233}{reading}
-\edge{233}{typography}
-\edge{234}{diglossia}
-\edge{235}{eye-tracking}
-\edge{235}{reading}
-\edge{235}{review-article}
-\edge{236}{Arabic}
-\edge{236}{icraab}
-\edge{236}{language-planning}
-\edge{237}{Arabic}
-\edge{237}{pragmatics}
-\edge{238}{pragmatics}
-\edge{238}{Arabic}
-\edge{239}{eye-tracking}
-\edge{239}{reading}
-\edge{240}{Arabic}
-\edge{240}{ALT}
-\edge{241}{Arabic}
-\edge{241}{ALT}
-\edge{241}{language-ideology}
-\edge{241}{language-planning}
-\edge{242}{Arabic}
-\edge{242}{language-planning}
-\edge{243}{Arabic}
-\edge{243}{language-ideology}
-\edge{244}{Arabic}
-\edge{244}{language-ideology}
-\edge{245}{Arabic}
-\edge{245}{ALT}
-\edge{245}{language-ideology}
-\edge{245}{standard-language}
-\edge{246}{Arabic}
-\edge{246}{language-ideology}
-\edge{247}{Arabic}
-\edge{247}{diglossia}
-\edge{247}{language-ideology}
-\edge{248}{Arabic}
-\edge{248}{language-ideology}
-\edge{249}{language-ideology}
-\edge{249}{Swedish}
-\edge{250}{Swedish}
-\edge{250}{quran}
-\edge{251}{standard-language}
-\edge{251}{English}
-\edge{251}{language-ideology}
-\edge{251}{language-instruction}
-\edge{251}{FLA}
-\edge{252}{standard-language}
-\edge{252}{language-instruction}
-\edge{252}{FLA}
-\edge{252}{English}
-\edge{253}{standard-language}
-\edge{253}{English}
-\edge{254}{language-instruction}
-\edge{254}{FLA}
-\edge{254}{Israel}
-\edge{254}{icraab}
-\edge{254}{ALT}
-\edge{254}{Arabic}
-\edge{255}{Israel}
-\edge{255}{Arabic}
-\edge{255}{ALT}
-\edge{255}{language-instruction}
-\edge{255}{FLA}
-\edge{255}{SLA}
-\edge{255}{language-ideology}
-\edge{256}{Arabic}
-\edge{256}{lexicon}
-\edge{256}{corpus-linguistics}
-\edge{257}{pedagogy}
-\edge{258}{Arabic}
-\edge{258}{ALT}
-\edge{258}{icraab}
-\edge{259}{Arabic}
-\edge{259}{textbook}
-\edge{260}{Arabic}
-\edge{260}{morphology}
-\edge{261}{historical-linguistics}
-\edge{261}{language-instruction}
-\edge{261}{SLA}
-\edge{261}{FLA}
-\edge{261}{Arabic}
-\edge{262}{Arabic}
-\edge{262}{historical-linguistics}
-\edge{263}{language-instruction}
-\edge{263}{SLA}
-\edge{263}{FLA}
-\edge{263}{ALT}
-\edge{263}{Arabic}
-\edge{264}{quran}
-\edge{264}{Arabic}
-\edge{264}{language-instruction}
-\edge{264}{FLA}
-\edge{264}{islamology}
-\edge{265}{Arabic}
-\edge{265}{diglossia}
-\edge{265}{language-instruction}
-\edge{265}{SLA}
-\edge{265}{Arabic}
-\edge{265}{diglossia}
-\edge{265}{language-instruction}
-\edge{265}{FLA}
-\edge{266}{diglossia}
-\edge{266}{Arabic}
-\edge{266}{Tunisia}
-\edge{267}{Arabic}
-\edge{267}{ALT}
-\edge{267}{standard-language}
-\edge{267}{language-ideology}
-\edge{268}{Arabic}
-\edge{268}{ALT}
-\edge{268}{icraab}
-\edge{269}{Arabic}
-\edge{269}{pragmatics}
-\edge{270}{Arabic}
-\edge{270}{diglossia}
-\edge{270}{language-ideology}
-\edge{271}{icraab}
-\edge{271}{diglossia}
-\edge{271}{Arabic}
-\edge{271}{language-instruction}
-\edge{271}{SLA}
-\edge{272}{corpus-linguistics}
-\edge{272}{Arabic}
-\edge{272}{language-instruction}
-\edge{273}{Arabic}
-\edge{273}{diglossia}
-\edge{273}{language-planning}
-\edge{275}{Arabic}
-\edge{275}{language-ideology}
+\putedge{Aamer (1981)}{Arabic}
+\putedge{Aamer (1981)}{pause}
+\putedge{Aamer (1981)}{Egypt}
+\putedge{Abdel-Jawad (2000)}{Arabic}
+\putedge{Abdel-Jawad (2000)}{pragmatics}
+\putedge{Abdulrahman (2017)}{Arabic}
+\putedge{Abdulrahman (2017)}{corpus-linguistics}
+\putedge{Abdulrahman (2017)}{syntax}
+\putedge{Abu Elhija (2014)}{writing-systems}
+\putedge{Abu Elhija (2014)}{orthography}
+\putedge{Abu Elhija (2014)}{Arabic}
+\putedge{Abu-Absi (1984)}{diglossia}
+\putedge{Abu-Absi (1984)}{language-planning}
+\putedge{Abu-Absi (1984)}{Arabic}
+\putedge{Abu-Absi (1986)}{language-planning}
+\putedge{Abu-Absi (1986)}{Arabic}
+\putedge{Abu-Absi (1990)}{Arabic}
+\putedge{Abu-Absi (1990)}{diglossia}
+\putedge{Abu-Leil (2014)}{reading}
+\putedge{Abu-Leil (2014)}{Arabic}
+\putedge{Abu-Rabia (1998)}{reading}
+\putedge{Abu-Rabia (1998)}{orthography}
+\putedge{Abu-Rabia (1998)}{Arabic}
+\putedge{Abu-Rabia (2001)}{Arabic}
+\putedge{Abu-Rabia (2001)}{reading}
+\putedge{Abu-Rabia (2001)}{orthography}
+\putedge{Abu-Rabia (2010)}{Arabic}
+\putedge{Abu-Rabia (2010)}{reading}
+\putedge{Abu-Rabia (2010)}{review-article}
+\putedge{Agius (1991)}{Arabic}
+\putedge{Agius (1991)}{syntax}
+\putedge{Al Batal (2002)}{diglossia}
+\putedge{Al Batal (2002)}{code-switching}
+\putedge{Al Batal (2002)}{Arabic}
+\putedge{Al-Wer (1997)}{sociolinguistics}
+\putedge{Al-Wer (1997)}{language-ideology}
+\putedge{Al-Wer (1997)}{Arabic}
+\putedge{Albirini (2011)}{Arabic}
+\putedge{Albirini (2011)}{heritage-speakers}
+\putedge{Albirini (2011)}{syntax}
+\putedge{Albirini (2011)}{morphology}
+\putedge{Albirini (2011)}{code-switching}
+\putedge{Albirini (2011)}{diglossia}
+\putedge{Albirini (2011)}{Arabic}
+\putedge{Albirini (2013)}{Arabic}
+\putedge{Albirini (2013)}{heritage-speakers}
+\putedge{Albirini (2013)}{syntax}
+\putedge{Albirini (2014)}{heritage-speakers}
+\putedge{Albirini (2014)}{Arabic}
+\putedge{Albirini (2014)}{syntax}
+\putedge{Albirini (2014)}{Arabic}
+\putedge{Albirini (2014)}{heritage-speakers}
+\putedge{Alrabaa (1986)}{language-instruction}
+\putedge{Alrabaa (1986)}{FLA}
+\putedge{Alrabaa (1986)}{diglossia}
+\putedge{Alrabaa (1986)}{Arabic}
+\putedge{Altoma (1974)}{language-ideology}
+\putedge{Altoma (1974)}{language-planning}
+\putedge{Altoma (1974)}{Arabic}
+\putedge{Altoma (1974)}{language-instruction}
+\putedge{Altoma (1974)}{FLA}
+\putedge{Amara (1995)}{Arabic}
+\putedge{Amara (1995)}{language-instruction}
+\putedge{Amara (1995)}{FLA}
+\putedge{Ammon (1986)}{standard-language}
+\putedge{Arts (2014)}{Arabic}
+\putedge{Arts (2014)}{corpus-linguistics}
+\putedge{Atkinson (1982)}{news-media}
+\putedge{Atkinson (1982)}{anthropology}
+\putedge{Ayari (1996)}{literacy}
+\putedge{Ayari (1996)}{diglossia}
+\putedge{Ayari (1996)}{Arabic}
+\putedge{Ayoub (2006)}{icraab}
+\putedge{Ayoub (2006)}{language-ideology}
+\putedge{Ayoub (2006)}{Arabic}
+\putedge{Aḥmad (2015)}{Arabic}
+\putedge{Aḥmad (2015)}{language-ideology}
+\putedge{Baalbaki (1994)}{Arabic}
+\putedge{Baalbaki (1994)}{ALT}
+\putedge{Baalbaki (1994)}{language-instruction}
+\putedge{Baalbaki (1994)}{FLA}
+\putedge{Badawi (1985)}{diglossia}
+\putedge{Badawi (1985)}{icraab}
+\putedge{Badawi (1985)}{Arabic}
+\putedge{Badawi (2004)}{Arabic}
+\putedge{Badawi (2004)}{grammar}
+\putedge{Badawi (2004)}{icraab}
+\putedge{Badawi (2006)}{Arabic}
+\putedge{Badawi (2006)}{language-instruction}
+\putedge{Badawi (2006)}{SLA}
+\putedge{Badawī (1973)}{diglossia}
+\putedge{Badawī (1973)}{Arabic}
+\putedge{Badawī (1973)}{code-switching}
+\putedge{Bailey (1991)}{standard-language}
+\putedge{Bailey (1991)}{language-ideology}
+\putedge{Bailey (1991)}{English}
+\putedge{Bardovi-Harlig (2012)}{pragmatics}
+\putedge{Bardovi-Harlig (2012)}{review-article}
+\putedge{Barr (2013)}{statistics}
+\putedge{Bartsch (1987)}{standard-language}
+\putedge{Bartsch (1987)}{German}
+\putedge{Bartsch (1989)}{standard-language}
+\putedge{Bartsch (1989)}{German}
+\putedge{Bassiouney (2003)}{code-switching}
+\putedge{Bassiouney (2003)}{diglossia}
+\putedge{Bassiouney (2003)}{Arabic}
+\putedge{Bassiouney (2006)}{diglossia}
+\putedge{Bassiouney (2006)}{code-switching}
+\putedge{Bassiouney (2006)}{Arabic}
+\putedge{Bassiouney (2010)}{code-switching}
+\putedge{Bassiouney (2010)}{Arabic}
+\putedge{Bassiouney (2013)}{language-ideology}
+\putedge{Bassiouney (2013)}{Arabic}
+\putedge{Bateson (1967)}{Arabic}
+\putedge{Bateson (1967)}{icraab}
+\putedge{Beeston (1970)}{icraab}
+\putedge{Beeston (1970)}{Arabic}
+\putedge{Belnap (2003)}{Arabic}
+\putedge{Belnap (2003)}{diglossia}
+\putedge{Belnap (2008)}{Arabic}
+\putedge{Belnap (2008)}{language-ideology}
+\putedge{Benatia (2006)}{Arabic}
+\putedge{Benatia (2006)}{typography}
+\putedge{Bennani (2003)}{Arabic}
+\putedge{Bennani (2003)}{language-planning}
+\putedge{Bennani (2003)}{language-instruction}
+\putedge{Bentahila (1991)}{Arabic}
+\putedge{Bentahila (1991)}{standard-language}
+\putedge{Birkeland (1940)}{Arabic}
+\putedge{Birkeland (1940)}{ALT}
+\putedge{Birkeland (1940)}{pause}
+\putedge{Blake (1994)}{case}
+\putedge{Blake (1994)}{syntax}
+\putedge{Blake (1994)}{morphology}
+\putedge{Blake (1994)}{textbook}
+\putedge{Blanc (1964)}{diglossia}
+\putedge{Blanc (1964)}{Arabic}
+\putedge{Blau (1973)}{ALT}
+\putedge{Blau (1973)}{Arabic}
+\putedge{Blau (1981)}{Arabic}
+\putedge{Blau (1981)}{case}
+\putedge{Blau (1999)}{Arabic}
+\putedge{Blommert (2006)}{language-ideology}
+\putedge{Bohas (1990)}{ALT}
+\putedge{Bohas (1990)}{Arabic}
+\putedge{Boudelaa (2010)}{Arabic}
+\putedge{Boudelaa (2010)}{lexicon}
+\putedge{Boudelaa (2010)}{corpus-linguistics}
+\putedge{Braze (2002)}{eye-tracking}
+\putedge{Braze (2002)}{reading}
+\putedge{Braze (2002)}{syntax}
+\putedge{Brown (1985)}{pragmatics}
+\putedge{Brustad (2017)}{Arabic}
+\putedge{Brustad (2017)}{diglossia}
+\putedge{Brustad (2017)}{language-ideology}
+\putedge{Brustad (2017)}{standard-language}
+\putedge{Bucholz (2001)}{standard-language}
+\putedge{Bucholz (2001)}{English}
+\putedge{Buckwalter (2007)}{Arabic}
+\putedge{Buckwalter (2007)}{orthography}
+\putedge{Buckwalter (2007)}{corpus-linguistics}
+\putedge{Buckwalter (2011)}{Arabic}
+\putedge{Buckwalter (2011)}{dictionary}
+\putedge{Buckwalter (2011)}{SLA}
+\putedge{Cabo (2012)}{heritage-speakers}
+\putedge{Carter (1981)}{icraab}
+\putedge{Carter (1981)}{grammar}
+\putedge{Carter (1981)}{Arabic}
+\putedge{Carter (1985)}{ALT}
+\putedge{Carter (1985)}{Arabic}
+\putedge{Carter (1999)}{standard-language}
+\putedge{Carter (1999)}{English}
+\putedge{Carter (2006)}{ALT}
+\putedge{Carter (2006)}{Arabic}
+\putedge{Chafe (1987)}{review-article}
+\putedge{Chahine (2012)}{eye-tracking}
+\putedge{Chahine (2012)}{reading}
+\putedge{Chahine (2012)}{typography}
+\putedge{Chahine (2012)}{orthography}
+\putedge{Chahine (2012)}{Arabic}
+\putedge{Chambers (1997)}{SLA}
+\putedge{Chambers (1997)}{prosody}
+\putedge{Chambers (1997)}{pause}
+\putedge{Chejne (1969)}{icraab}
+\putedge{Chejne (1969)}{Arabic}
+\putedge{Chejne (1969)}{language-planning}
+\putedge{Clifton (2007)}{eye-tracking}
+\putedge{Clifton (2007)}{reading}
+\putedge{Clifton (2007)}{syntax}
+\putedge{Clifton (2007)}{review-article}
+\putedge{Corriente (1971)}{Arabic}
+\putedge{Corriente (1971)}{case}
+\putedge{Corriente (1971)}{icraab}
+\putedge{Corriente (1975)}{Arabic}
+\putedge{Corriente (1975)}{case}
+\putedge{Corriente (1975)}{icraab}
+\putedge{Coulmas (1989)}{reading}
+\putedge{Coulmas (1989)}{textbook}
+\putedge{Coulmas (1989)}{writing-systems}
+\putedge{Cowell (2005)}{phonotactics}
+\putedge{Cowell (2005)}{grammar}
+\putedge{Cowell (2005)}{Arabic}
+\putedge{Curzan (2014)}{English}
+\putedge{Curzan (2014)}{standard-language}
+\putedge{Curzan (2014)}{language-ideology}
+\putedge{Curzan (2014)}{language-planning}
+\putedge{Daher (1999)}{sociolinguistics}
+\putedge{Daher (1999)}{Arabic}
+\putedge{Daher (1999)}{Arabic}
+\putedge{Dahlgren (2009)}{Arabic}
+\putedge{Dahlgren (2009)}{syntax}
+\putedge{Dakwar (2005)}{literacy}
+\putedge{Dakwar (2005)}{language-instruction}
+\putedge{Dakwar (2005)}{FLA}
+\putedge{Dakwar (2005)}{diglossia}
+\putedge{Dakwar (2005)}{Arabic}
+\putedge{Dank (2015)}{eye-tracking}
+\putedge{Dank (2015)}{reading}
+\putedge{Dank (2015)}{syntax}
+\putedge{Davies (1987)}{Arabic}
+\putedge{Davies (1987)}{pragmatics}
+\putedge{Davies (1987)}{language-instruction}
+\putedge{Davies (1987)}{SLA}
+\putedge{Davies (2013)}{code-switching}
+\putedge{Davies (2013)}{Arabic}
+\putedge{Davies (2013)}{diglossia}
+\putedge{Davis (2001)}{Arabic}
+\putedge{Davis (2001)}{morphology}
+\putedge{Deutsch (2001)}{eye-tracking}
+\putedge{Deutsch (2001)}{reading}
+\putedge{Deutsch (2001)}{syntax}
+\putedge{Deutsch (2001)}{Hebrew}
+\putedge{Diem (1974)}{diglossia}
+\putedge{Diem (1974)}{Arabic}
+\putedge{Diem (1974)}{language-planning}
+\putedge{Diem (1974)}{language-ideology}
+\putedge{Dévényi (2006)}{Arabic}
+\putedge{Dévényi (2006)}{ALT}
+\putedge{Dévényi (2006)}{icraab}
+\putedge{Eckert (2012)}{review-article}
+\putedge{Eckert (2012)}{sociolinguistics}
+\putedge{Ehri (2014)}{reading}
+\putedge{Ehri (2014)}{FLA}
+\putedge{Eickelman (1978)}{anthropology}
+\putedge{Eickelman (1978)}{islam}
+\putedge{Eid (1988)}{code-switching}
+\putedge{Eid (1988)}{diglossia}
+\putedge{Eid (1988)}{Arabic}
+\putedge{Eid (2007)}{diglossia}
+\putedge{Eid (2007)}{Arabic}
+\putedge{Eisele (2002)}{language-ideology}
+\putedge{Eisele (2002)}{Arabic}
+\putedge{Eisele (2003)}{Arabic}
+\putedge{Eisele (2003)}{language-ideology}
+\putedge{Eisele (2018)}{diglossia}
+\putedge{Eisele (2018)}{SLA}
+\putedge{Eisele (2018)}{language-instruction}
+\putedge{Eisele (2018)}{Arabic}
+\putedge{El-Dash (1975)}{Arabic}
+\putedge{El-Dash (1975)}{language-ideology}
+\putedge{El-Hassan (1977)}{diglossia}
+\putedge{El-Hassan (1977)}{Arabic}
+\putedge{El-Wer (2013)}{Arabic}
+\putedge{El-Wer (2013)}{diglossia}
+\putedge{El-Wer (2013)}{sociolinguistics}
+\putedge{Elgibali (1985)}{diglossia}
+\putedge{Elgibali (1985)}{Arabic}
+\putedge{Elgibali (1985)}{dissertation}
+\putedge{Ferguson (1959)}{diglossia}
+\putedge{Ferguson (1959)}{Arabic}
+\putedge{Ferguson (1959)}{Arabic}
+\putedge{Ferguson (1959)}{language-ideology}
+\putedge{Ferguson (1959)}{Arabic}
+\putedge{Ferguson (1959)}{historical-linguistics}
+\putedge{Ferguson (1976)}{pragmatics}
+\putedge{Ferguson (1996)}{diglossia}
+\putedge{Ferguson (1997)}{Arabic}
+\putedge{Ferguson (1997)}{pragmatics}
+\putedge{Ferguson (1997)}{Arabic}
+\putedge{Ferguson (1997)}{pragmatics}
+\putedge{Ferguson (1997)}{standard-language}
+\putedge{Ferguson (1997)}{historical-linguistics}
+\putedge{Fisher (1996)}{standard-language}
+\putedge{Fisher (1996)}{historical-linguistics}
+\putedge{Fisher (1996)}{English}
+\putedge{Fleisch (2006)}{icraab}
+\putedge{Fleisch (2006)}{Arabic}
+\putedge{Forkel (1980)}{diglossia}
+\putedge{Forkel (1980)}{Arabic}
+\putedge{Forkel (1980)}{language-ideology}
+\putedge{Forkel (1980)}{Morocco}
+\putedge{Forkel (1980)}{dissertation}
+\putedge{Frasier (1982)}{eye-tracking}
+\putedge{Frasier (1982)}{reading}
+\putedge{Frasier (1982)}{syntax}
+\putedge{Frost (2008)}{reading}
+\putedge{Frost (2008)}{lexicon}
+\putedge{Furayḥa (1955)}{diglossia}
+\putedge{Furayḥa (1955)}{language-planning}
+\putedge{Furayḥa (1955)}{language-ideology}
+\putedge{Furayḥa (1955)}{Arabic}
+\putedge{Geramanos (2015)}{Arabic}
+\putedge{Geramanos (2015)}{sociolinguistics}
+\putedge{Greis (2015)}{statistics}
+\putedge{Grief (1980)}{pragmatics}
+\putedge{Gully (1993)}{Arabic}
+\putedge{Gully (1997)}{Arabic}
+\putedge{Gully (1997)}{language-ideology}
+\putedge{Gumperz (2001)}{standard-language}
+\putedge{Hachemi (2013)}{language-ideology}
+\putedge{Hachemi (2013)}{Arabic}
+\putedge{Haeri (1996)}{Arabic}
+\putedge{Haeri (1996)}{diglossia}
+\putedge{Haeri (1997)}{language-ideology}
+\putedge{Haeri (1997)}{Arabic}
+\putedge{Haeri (1997)}{Egypt}
+\putedge{Haeri (1997)}{sociolinguistics}
+\putedge{Haeri (1997)}{diglossia}
+\putedge{Haeri (1997)}{Arabic}
+\putedge{Haeri (1997)}{Egypt}
+\putedge{Haeri (2000)}{Arabic}
+\putedge{Haeri (2000)}{sociolinguistics}
+\putedge{Haeri (2000)}{diglossia}
+\putedge{Haeri (2000)}{review-article}
+\putedge{Haeri (2003)}{Arabic}
+\putedge{Haeri (2003)}{diglossia}
+\putedge{Haeri (2003)}{language-ideology}
+\putedge{Haeri (2003)}{icraab}
+\putedge{Haeri (2003)}{Egypt}
+\putedge{Hall (2013)}{Arabic}
+\putedge{Hall (2013)}{phonotactics}
+\putedge{Hallberg (2016)}{Arabic}
+\putedge{Hallberg (2016)}{case}
+\putedge{Hallberg (2016)}{icraab}
+\putedge{Hallberg (2016)}{syntax}
+\putedge{Hallberg (2016)}{morphology}
+\putedge{Hallberg (2016)}{corpus-linguistics}
+\putedge{Hallberg (2016)}{standard-language}
+\putedge{Hallberg (2016)}{dissertation}
+\putedge{Halliday (1994)}{standard-language}
+\putedge{Hammond (2007)}{news-media}
+\putedge{Hammond (2007)}{popular-culture}
+\putedge{Harrell (1964)}{Arabic}
+\putedge{Harrell (1964)}{icraab}
+\putedge{Harrell (1964)}{pause}
+\putedge{Hary (1996)}{Arabic}
+\putedge{Hary (1996)}{diglossia}
+\putedge{Haugen (1966)}{standard-language}
+\putedge{Havránek (1982)}{standard-language}
+\putedge{Hawkins (1983)}{diglossia}
+\putedge{Heath (1990)}{Arabic}
+\putedge{Heath (1990)}{SLA}
+\putedge{Heath (1990)}{language-instruction}
+\putedge{Hedden (2007)}{Arabic}
+\putedge{Heritage (1985)}{news-media}
+\putedge{Heritage (1985)}{anthropology}
+\putedge{Hermena (2014)}{eye-tracking}
+\putedge{Hermena (2014)}{Arabic}
+\putedge{Hermena (2014)}{reading}
+\putedge{Hermena (2014)}{syntax}
+\putedge{Hermena (2014)}{orthography}
+\putedge{Hjärpe (2013)}{Arabic}
+\putedge{Hjärpe (2013)}{Swedish}
+\putedge{Hjärpe (2013)}{quran}
+\putedge{Holes (1993)}{Arabic}
+\putedge{Holes (1993)}{diglossia}
+\putedge{Holes (1993)}{code-switching}
+\putedge{Holes (2004)}{textbook}
+\putedge{Holes (2004)}{Arabic}
+\putedge{Holes (2004)}{icraab}
+\putedge{Holes (2004)}{pause}
+\putedge{Holes (2004)}{case}
+\putedge{Holes (2011)}{sociolinguistics}
+\putedge{Holes (2014)}{Arabic}
+\putedge{Holes (2014)}{diglossia}
+\putedge{Holes (2014)}{popular-culture}
+\putedge{Hudson (1992)}{diglossia}
+\putedge{Hudson (2002)}{diglossia}
+\putedge{Håkon Jar (2012)}{language-planning}
+\putedge{Håkon Jar (2012)}{standard-language}
+\putedge{Håkon Jar (2012)}{Norwegian}
+\putedge{Håland (2017)}{Arabic}
+\putedge{Håland (2017)}{Egypt}
+\putedge{Håland (2017)}{literature}
+\putedge{Høigilt (2018)}{Arabic}
+\putedge{Høigilt (2018)}{diglossia}
+\putedge{Høigilt (2018)}{language-ideology}
+\putedge{Høigilt (2018)}{popular-culture}
+\putedge{Ibn Hišām (1990)}{Arabic}
+\putedge{Ibn Hišām (1990)}{grammar}
+\putedge{Ibn Hišām (1990)}{ALT}
+\putedge{Ibrahim (1983)}{diglossia}
+\putedge{Ibrahim (1983)}{Arabic}
+\putedge{Ibrahim (1983)}{literacy}
+\putedge{Ibrahim (1986)}{diglossia}
+\putedge{Ibrahim (1986)}{Arabic}
+\putedge{Ibrahim (1986)}{sociolinguistics}
+\putedge{Ibrahim (1989)}{Arabic}
+\putedge{Ibrahim (1989)}{diglossia}
+\putedge{Ibrahim (1989)}{language-planning}
+\putedge{Ibrahim (2002)}{reading}
+\putedge{Ibrahim (2002)}{Arabic}
+\putedge{Ibrahim (2007)}{reading}
+\putedge{Ibrahim (2007)}{Arabic}
+\putedge{Irmen (2011)}{reading}
+\putedge{Irmen (2011)}{eye-tracking}
+\putedge{Irmen (2011)}{German}
+\putedge{Irmen (2011)}{syntax}
+\putedge{Irvine (2001)}{anthropology}
+\putedge{Irvine (2001)}{language-ideology}
+\putedge{Irvine (2001)}{sociolinguistics}
+\putedge{Ismail (2012)}{Arabic}
+\putedge{Ismail (2012)}{sociolinguistics}
+\putedge{Jackoson (2007)}{German}
+\putedge{Jackoson (2007)}{syntax}
+\putedge{Jackoson (2007)}{case}
+\putedge{Jackoson (2007)}{SLA}
+\putedge{Jaeger (2008)}{statistics}
+\putedge{Janda (2010)}{morphology}
+\putedge{Jedlička (1982)}{standard-language}
+\putedge{Jordan (2010)}{Arabic}
+\putedge{Jordan (2010)}{reading}
+\putedge{Jordan (2014)}{eye-tracking}
+\putedge{Jordan (2014)}{reading}
+\putedge{Juhasz (2003)}{eye-tracking}
+\putedge{Juhasz (2003)}{reading}
+\putedge{Juhasz (2003)}{lexicon}
+\putedge{Juhasz (2006)}{eye-tracking}
+\putedge{Juhasz (2006)}{reading}
+\putedge{Juhasz (2006)}{lexicon}
+\putedge{Kass (1995)}{statistics}
+\putedge{Kaye (1972)}{Arabic}
+\putedge{Kaye (1991)}{Arabic}
+\putedge{Kaye (1991)}{phonology}
+\putedge{Kaye (1994)}{Arabic}
+\putedge{Kaye (1994)}{diglossia}
+\putedge{Kessler (2015)}{reading}
+\putedge{Kessler (2015)}{writing-systems}
+\putedge{Kessler (2015)}{orthography}
+\putedge{Khaldieh (2001)}{icraab}
+\putedge{Khaldieh (2001)}{case}
+\putedge{Khaldieh (2001)}{language-instruction}
+\putedge{Khaldieh (2001)}{SLA}
+\putedge{Khaldieh (2001)}{Arabic}
+\putedge{Killean (1970)}{ALT}
+\putedge{Killean (1970)}{Arabic}
+\putedge{Killean (1984)}{Arabic}
+\putedge{Kindt (2016)}{Arabic}
+\putedge{Kindt (2016)}{Egypt}
+\putedge{Kindt (2016)}{diglossia}
+\putedge{Kindt (2016)}{sociolinguistics}
+\putedge{Kissine (2018)}{Arabic}
+\putedge{Kissine (2018)}{FLA}
+\putedge{Klimiuk (2013)}{Arabic}
+\putedge{Klimiuk (2013)}{phonotactics}
+\putedge{Kormos (2004)}{prosody}
+\putedge{Kormos (2004)}{SLA}
+\putedge{Kotsisnas (1988)}{Swedish}
+\putedge{Kyle (2016)}{eye-tracking}
+\putedge{Kyle (2016)}{reading}
+\putedge{Labov (1972)}{sociolinguistics}
+\putedge{Lehtonen (1982)}{speech}
+\putedge{Lieberman (1980)}{orthography}
+\putedge{Lieberman (1980)}{reading}
+\putedge{Lieberman (1980)}{FLA}
+\putedge{Lippi-Green (1997)}{standard-language}
+\putedge{Lippi-Green (1997)}{English}
+\putedge{Lippi-Green (1997)}{language-ideology}
+\putedge{Lynch (2006)}{news-media}
+\putedge{Maamouri (1998)}{diglossia}
+\putedge{Maamouri (1998)}{Arabic}
+\putedge{Maamouri (1998)}{language-instruction}
+\putedge{Maamouri (1998)}{FLA}
+\putedge{Maamouri (1998)}{literacy}
+\putedge{Maamouri (2006)}{Arabic}
+\putedge{Maamouri (2006)}{FLA}
+\putedge{Maamouri (2006)}{diglossia}
+\putedge{Maamouri (2006)}{orthography}
+\putedge{Maamouri (2006)}{literacy}
+\putedge{Magidow (2012)}{Arabic}
+\putedge{Magidow (2012)}{case}
+\putedge{Magidow (2012)}{icraab}
+\putedge{Matar (1966)}{Arabic}
+\putedge{Matar (1966)}{ALT}
+\putedge{Matar (1966)}{case}
+\putedge{Matar (1966)}{icraab}
+\putedge{Matar (1966)}{language-ideology}
+\putedge{Mazraani (1997)}{code-switching}
+\putedge{Mazraani (1997)}{diglossia}
+\putedge{Mazraani (1997)}{Arabic}
+\putedge{McKelvie (2004)}{speech}
+\putedge{McKelvie (2004)}{syntax}
+\putedge{Meiseles (1977)}{icraab}
+\putedge{Meiseles (1977)}{Arabic}
+\putedge{Meiseles (1977)}{case}
+\putedge{Meiseles (1979)}{Arabic}
+\putedge{Meiseles (1980)}{Arabic}
+\putedge{Meiseles (1980)}{diglossia}
+\putedge{Meiseles (1980)}{icraab}
+\putedge{Mejdell (2006)}{Arabic}
+\putedge{Mejdell (2006)}{diglossia}
+\putedge{Mejdell (2006)}{Egypt}
+\putedge{Mejdell (2008)}{Arabic}
+\putedge{Mejdell (2008)}{standard-language}
+\putedge{Mejdell (2008)}{Arabic}
+\putedge{Mejdell (2008)}{language-ideology}
+\putedge{Mejdell (2017)}{Arabic}
+\putedge{Mejdell (2017)}{language-ideology}
+\putedge{Mejdell (2017)}{language-planning}
+\putedge{Miller (2010)}{Arabic}
+\putedge{Miller (2010)}{review-article}
+\putedge{Miller (2010)}{sociolinguistics}
+\putedge{Milo (2002)}{Arabic}
+\putedge{Milo (2002)}{typography}
+\putedge{Milroy (1991)}{English}
+\putedge{Milroy (1991)}{language-ideology}
+\putedge{Milroy (1991)}{standard-language}
+\putedge{Milroy (1999)}{standard-language}
+\putedge{Milroy (1999)}{language-ideology}
+\putedge{Milroy (2007)}{standard-language}
+\putedge{Milroy (2007)}{language-ideology}
+\putedge{Mitchell (1980)}{Arabic}
+\putedge{Mitchell (1980)}{diglossia}
+\putedge{Mitchell (1986)}{diglossia}
+\putedge{Mitchell (1986)}{icraab}
+\putedge{Mitchell (1986)}{Arabic}
+\putedge{Montrgomery (2008)}{news-media}
+\putedge{Montrgomery (2008)}{anthropology}
+\putedge{Montrul (2010)}{heritage-speakers}
+\putedge{Mughazy (2005)}{reading}
+\putedge{Mughazy (2005)}{orthography}
+\putedge{Mughazy (2005)}{icraab}
+\putedge{Mughazy (2005)}{Arabic}
+\putedge{Mumin (2014)}{Arabic}
+\putedge{Mumin (2014)}{writing-systems}
+\putedge{Myhill (2014)}{Arabic}
+\putedge{Myhill (2014)}{diglossia}
+\putedge{Myhill (2014)}{FLA}
+\putedge{Myhill (2014)}{literacy}
+\putedge{Nelson (1985)}{Arabic}
+\putedge{Nelson (1985)}{quran}
+\putedge{Nelson (1985)}{pause}
+\putedge{Nelson (1985)}{islam}
+\putedge{Newman (2013)}{ALT}
+\putedge{Newman (2013)}{Arabic}
+\putedge{Newman (2013)}{historical-linguistics}
+\putedge{Ni (1998)}{syntax}
+\putedge{Ni (1998)}{reading}
+\putedge{Ni (1998)}{eye-tracking}
+\putedge{Nielsen (2009)}{language-instruction}
+\putedge{Nielsen (2009)}{SLA}
+\putedge{Nielsen (2009)}{diglossia}
+\putedge{Nielsen (2009)}{Arabic}
+\putedge{Omar (1973)}{Arabic}
+\putedge{Omar (1973)}{FLA}
+\putedge{Owens (1987)}{Arabic}
+\putedge{Owens (1987)}{diglossia}
+\putedge{Owens (1988)}{Arabic}
+\putedge{Owens (1988)}{ALT}
+\putedge{Owens (1991)}{code-switching}
+\putedge{Owens (1991)}{Arabic}
+\putedge{Owens (1997)}{Arabic}
+\putedge{Owens (1997)}{ALT}
+\putedge{Owens (1998)}{Arabic}
+\putedge{Owens (1998)}{icraab}
+\putedge{Owens (1998)}{case}
+\putedge{Owens (1998)}{historical-linguistics}
+\putedge{Owens (2001)}{Arabic}
+\putedge{Owens (2001)}{diglossia}
+\putedge{Owens (2001)}{sociolinguistics}
+\putedge{Owens (2001)}{code-switching}
+\putedge{Owens (2001)}{review-article}
+\putedge{Owens (2005)}{Arabic}
+\putedge{Owens (2005)}{ALT}
+\putedge{Owens (2005)}{language-ideology}
+\putedge{Owens (2007)}{Arabic}
+\putedge{Owens (2007)}{lexicon}
+\putedge{Owens (2007)}{pragmatics}
+\putedge{Palfreyman (2003)}{writing-systems}
+\putedge{Palfreyman (2003)}{orthography}
+\putedge{Palfreyman (2003)}{Arabic}
+\putedge{Palva (1969)}{Arabic}
+\putedge{Palva (1969)}{diglossia}
+\putedge{Parkinson (1981)}{Arabic}
+\putedge{Parkinson (1981)}{syntax}
+\putedge{Parkinson (1990)}{Arabic}
+\putedge{Parkinson (1990)}{language-ideology}
+\putedge{Parkinson (1990)}{orthography}
+\putedge{Parkinson (1991)}{Arabic}
+\putedge{Parkinson (1991)}{standard-language}
+\putedge{Parkinson (1992)}{language-ideology}
+\putedge{Parkinson (1992)}{Arabic}
+\putedge{Parkinson (1993)}{Arabic}
+\putedge{Parkinson (1993)}{icraab}
+\putedge{Parkinson (1994)}{Arabic}
+\putedge{Parkinson (1994)}{icraab}
+\putedge{Parkinson (1994)}{Arabic}
+\putedge{Parkinson (1994)}{icraab}
+\putedge{Parkinson (1994)}{language-instruction}
+\putedge{Parkinson (1994)}{SLA}
+\putedge{Parkinson (1996)}{icraab}
+\putedge{Parkinson (1996)}{Arabic}
+\putedge{Parkinson (1999)}{Arabic}
+\putedge{Parkinson (1999)}{corpus-linguistics}
+\putedge{Parkinson (1999)}{lexicon}
+\putedge{Parkinson (2003)}{Arabic}
+\putedge{Paterson (2015)}{eye-tracking}
+\putedge{Paterson (2015)}{reading}
+\putedge{Paterson (2015)}{Arabic}
+\putedge{Pearlmutter (1999)}{English}
+\putedge{Pearlmutter (1999)}{eye-tracking}
+\putedge{Pearlmutter (1999)}{reading}
+\putedge{Pearlmutter (1999)}{syntax}
+\putedge{Pepe (2014)}{Egypt}
+\putedge{Pepe (2014)}{Arabic}
+\putedge{Perea (2010)}{reading}
+\putedge{Perea (2010)}{Arabic}
+\putedge{Perea (2010)}{eye-tracking}
+\putedge{Peter (1985)}{prosody}
+\putedge{Pickering (2006)}{none}
+\putedge{Pintrich (2007)}{pedagogy}
+\putedge{Pintrich (2007)}{review-article}
+\putedge{Pollatsek (1981)}{reading}
+\putedge{Pollatsek (1981)}{eye-tracking}
+\putedge{Pollatsek (2015)}{reading}
+\putedge{Pollatsek (2015)}{phonology}
+\putedge{Pollatsek (2015)}{review-article}
+\putedge{Procházka (2006)}{Arabic}
+\putedge{Procházka (2006)}{ALT}
+\putedge{Procházka (2006)}{syntax}
+\putedge{Raney (2014)}{eye-tracking}
+\putedge{Raney (2014)}{reading}
+\putedge{Rayner (1994)}{eye-tracking}
+\putedge{Rayner (1994)}{syntax}
+\putedge{Rayner (1994)}{reading}
+\putedge{Rayner (1998)}{eye-tracking}
+\putedge{Rayner (1998)}{reading}
+\putedge{Rayner (1998)}{review-article}
+\putedge{Rayner (2004)}{eye-tracking}
+\putedge{Rayner (2004)}{reading}
+\putedge{Rayner (2009)}{eye-tracking}
+\putedge{Rayner (2009)}{reading}
+\putedge{Rayner (2009)}{review-article}
+\putedge{Rayner (2012)}{reading}
+\putedge{Rayner (2012)}{textbook}
+\putedge{Rayner (2012)}{eye-tracking}
+\putedge{Retsö (1993)}{icraab}
+\putedge{Retsö (1993)}{Arabic}
+\putedge{Retsö (1993)}{historical-linguistics}
+\putedge{Retsö (2010)}{Arabic}
+\putedge{Retsö (2010)}{syntax}
+\putedge{Ricento (2006)}{language-ideology}
+\putedge{Rogers (2015)}{reading}
+\putedge{Rogers (2015)}{textbook}
+\putedge{Rogers (2015)}{writing-systems}
+\putedge{Roman (1987)}{reading}
+\putedge{Roman (1987)}{Arabic}
+\putedge{Roman (1987)}{orthography}
+\putedge{Roman (1987)}{eye-tracking}
+\putedge{Rosenbaum (2000)}{Arabic}
+\putedge{Rosenbaum (2000)}{diglossia}
+\putedge{Rouchdy (2002)}{Arabic}
+\putedge{Rouchdy (2002)}{code-switching}
+\putedge{Rouder (2009)}{statistics}
+\putedge{Rubenstein (1995)}{case}
+\putedge{Rubenstein (1995)}{syntax}
+\putedge{Rubenstein (1995)}{SLA}
+\putedge{Ryding (1991)}{Arabic}
+\putedge{Ryding (1991)}{diglossia}
+\putedge{Ryding (1991)}{language-instruction}
+\putedge{Ryding (1991)}{SLA}
+\putedge{Ryding (2005)}{Arabic}
+\putedge{Ryding (2005)}{grammar}
+\putedge{Ryding (2014)}{textbook}
+\putedge{Ryding (2014)}{Arabic}
+\putedge{Sadan (2015)}{Arabic}
+\putedge{Sadan (2015)}{ALT}
+\putedge{Saiegh-Haddad (2014)}{SLA}
+\putedge{Saiegh-Haddad (2014)}{literacy}
+\putedge{Saiegh-Haddad (2014)}{diglossia}
+\putedge{Saiegh-Haddad (2014)}{Arabic}
+\putedge{Saiegh-Haddad (2016)}{Arabic}
+\putedge{Saiegh-Haddad (2016)}{diglossia}
+\putedge{Saiegh-Haddad (2016)}{SLA}
+\putedge{Saiegh-Haddad (2016)}{reading}
+\putedge{Saiegh-Haddad (2016)}{orthography}
+\putedge{Saiegh-Haddad (2016)}{icraab}
+\putedge{Salib (1979)}{Arabic}
+\putedge{Salib (1979)}{dissertation}
+\putedge{Scherre (2006)}{standard-language}
+\putedge{Schlund (2014)}{pragmatics}
+\putedge{Schmidth (1977)}{English}
+\putedge{Schmidth (1977)}{standard-language}
+\putedge{Schmidth (1977)}{syntax}
+\putedge{Schulthies (2014)}{language-ideology}
+\putedge{Schulthies (2014)}{Arabic}
+\putedge{Schulz (1981)}{phonology}
+\putedge{Schulz (1981)}{icraab}
+\putedge{Schulz (1981)}{syntax}
+\putedge{Schulz (1981)}{Arabic}
+\putedge{Schulz (1981)}{corpus-linguistics}
+\putedge{Schulz (1981)}{dissertation}
+\putedge{Shaaban (2006)}{Arabic}
+\putedge{Shaaban (2006)}{diglossia}
+\putedge{Shaaban (2006)}{language-planning}
+\putedge{Shaaban (2006)}{FLA}
+\putedge{Shaub (2000)}{English}
+\putedge{Shaub (2000)}{Egypt}
+\putedge{Shohat (2017)}{Arabic}
+\putedge{Shohat (2017)}{language-ideology}
+\putedge{Shraybom Shivtel (1999)}{Arabic}
+\putedge{Shraybom Shivtel (1999)}{Egypt}
+\putedge{Shraybom Shivtel (1999)}{langauge-ideology}
+\putedge{Slattery (2013)}{eye-tracking}
+\putedge{Slattery (2013)}{reading}
+\putedge{Slattery (2013)}{typography}
+\putedge{Snow (2013)}{diglossia}
+\putedge{Staub (2007)}{eye-tracking}
+\putedge{Staub (2007)}{reading}
+\putedge{Staub (2007)}{review-article}
+\putedge{Stetkevych (2006)}{Arabic}
+\putedge{Stetkevych (2006)}{icraab}
+\putedge{Stetkevych (2006)}{language-planning}
+\putedge{Stewart (1996)}{Arabic}
+\putedge{Stewart (1996)}{pragmatics}
+\putedge{Stewart (1997)}{pragmatics}
+\putedge{Stewart (1997)}{Arabic}
+\putedge{Strukelj (2018)}{eye-tracking}
+\putedge{Strukelj (2018)}{reading}
+\putedge{Suleiman (1989)}{Arabic}
+\putedge{Suleiman (1989)}{ALT}
+\putedge{Suleiman (1996)}{Arabic}
+\putedge{Suleiman (1996)}{ALT}
+\putedge{Suleiman (1996)}{language-ideology}
+\putedge{Suleiman (1996)}{language-planning}
+\putedge{Suleiman (1999)}{Arabic}
+\putedge{Suleiman (1999)}{language-planning}
+\putedge{Suleiman (2003)}{Arabic}
+\putedge{Suleiman (2003)}{language-ideology}
+\putedge{Suleiman (2006)}{Arabic}
+\putedge{Suleiman (2006)}{language-ideology}
+\putedge{Suleiman (2011)}{Arabic}
+\putedge{Suleiman (2011)}{ALT}
+\putedge{Suleiman (2011)}{language-ideology}
+\putedge{Suleiman (2011)}{standard-language}
+\putedge{Suleiman (2012)}{Arabic}
+\putedge{Suleiman (2012)}{language-ideology}
+\putedge{Suleiman (2013)}{Arabic}
+\putedge{Suleiman (2013)}{diglossia}
+\putedge{Suleiman (2013)}{language-ideology}
+\putedge{Suleiman (2014)}{Arabic}
+\putedge{Suleiman (2014)}{language-ideology}
+\putedge{Taouk (2004)}{Arabic}
+\putedge{Taouk (2004)}{reading}
+\putedge{Taouk (2004)}{FLA}
+\putedge{Teleman (1979)}{language-ideology}
+\putedge{Teleman (1979)}{Swedish}
+\putedge{Terkourafi (2004)}{pragmatics}
+\putedge{Toll (2005)}{Swedish}
+\putedge{Toll (2005)}{quran}
+\putedge{Toll (2005)}{literature}
+\putedge{Traxler (1996)}{reading}
+\putedge{Traxler (1996)}{eye-tracking}
+\putedge{Traxler (1996)}{syntax}
+\putedge{Traxler (1996)}{case}
+\putedge{Trudgill (1975)}{standard-language}
+\putedge{Trudgill (1975)}{English}
+\putedge{Trudgill (1975)}{language-ideology}
+\putedge{Trudgill (1975)}{language-instruction}
+\putedge{Trudgill (1975)}{FLA}
+\putedge{Trudgill (1979)}{standard-language}
+\putedge{Trudgill (1979)}{language-instruction}
+\putedge{Trudgill (1979)}{FLA}
+\putedge{Trudgill (1979)}{English}
+\putedge{Trudgill (1999)}{standard-language}
+\putedge{Trudgill (1999)}{English}
+\putedge{Uhlmann (2012)}{language-instruction}
+\putedge{Uhlmann (2012)}{FLA}
+\putedge{Uhlmann (2012)}{Israel}
+\putedge{Uhlmann (2012)}{icraab}
+\putedge{Uhlmann (2012)}{ALT}
+\putedge{Uhlmann (2012)}{Arabic}
+\putedge{Uhlmann (2017)}{Israel}
+\putedge{Uhlmann (2017)}{Arabic}
+\putedge{Uhlmann (2017)}{ALT}
+\putedge{Uhlmann (2017)}{language-instruction}
+\putedge{Uhlmann (2017)}{FLA}
+\putedge{Uhlmann (2017)}{SLA}
+\putedge{Uhlmann (2017)}{language-ideology}
+\putedge{Van Mol (2003)}{Arabic}
+\putedge{Van Mol (2003)}{lexicon}
+\putedge{Van Mol (2003)}{corpus-linguistics}
+\putedge{Vermunt (1988)}{pedagogy}
+\putedge{Versteegh (1983)}{Arabic}
+\putedge{Versteegh (1983)}{ALT}
+\putedge{Versteegh (1983)}{icraab}
+\putedge{Versteegh (2001)}{Arabic}
+\putedge{Versteegh (2001)}{textbook}
+\putedge{Versteegh (2004)}{Arabic}
+\putedge{Versteegh (2004)}{morphology}
+\putedge{Versteegh (2006)}{historical-linguistics}
+\putedge{Versteegh (2006)}{language-instruction}
+\putedge{Versteegh (2006)}{SLA}
+\putedge{Versteegh (2006)}{FLA}
+\putedge{Versteegh (2006)}{Arabic}
+\putedge{Versteegh (2011)}{Arabic}
+\putedge{Versteegh (2011)}{historical-linguistics}
+\putedge{Versteegh (2015)}{Arabic}
+\putedge{Versteegh (2015)}{islam}
+\putedge{Versteegh (2018)}{language-instruction}
+\putedge{Versteegh (2018)}{SLA}
+\putedge{Versteegh (2018)}{FLA}
+\putedge{Versteegh (2018)}{ALT}
+\putedge{Versteegh (2018)}{Arabic}
+\putedge{Wagner (1983)}{quran}
+\putedge{Wagner (1983)}{Arabic}
+\putedge{Wagner (1983)}{language-instruction}
+\putedge{Wagner (1983)}{FLA}
+\putedge{Wagner (1983)}{islam}
+\putedge{Wahba (2006)}{Arabic}
+\putedge{Wahba (2006)}{diglossia}
+\putedge{Wahba (2006)}{language-instruction}
+\putedge{Wahba (2006)}{SLA}
+\putedge{Wahba (2006)}{Arabic}
+\putedge{Wahba (2006)}{diglossia}
+\putedge{Wahba (2006)}{language-instruction}
+\putedge{Wahba (2006)}{FLA}
+\putedge{Walters (2003)}{diglossia}
+\putedge{Walters (2003)}{Arabic}
+\putedge{Walters (2003)}{Tunisia}
+\putedge{Wehr (1943)}{Arabic}
+\putedge{Wehr (1943)}{ALT}
+\putedge{Wehr (1943)}{standard-language}
+\putedge{Wehr (1943)}{language-ideology}
+\putedge{Weigelt (2017)}{Arabic}
+\putedge{Weigelt (2017)}{ALT}
+\putedge{Weigelt (2017)}{icraab}
+\putedge{Wilmsen (2006)}{Arabic}
+\putedge{Wilmsen (2006)}{diglossia}
+\putedge{Wilmsen (2006)}{language-instrucion}
+\putedge{Wilmsen (2006)}{SLA}
+\putedge{Woidich (2007)}{Arabic}
+\putedge{Woidich (2007)}{pragmatics}
+\putedge{Xalīfa (2000)}{Arabic}
+\putedge{Xalīfa (2000)}{diglossia}
+\putedge{Xalīfa (2000)}{language-ideology}
+\putedge{Younes (2007)}{ALT}
+\putedge{Younes (2007)}{language-instruction}
+\putedge{Younes (2007)}{language-reform}
+\putedge{Younes (2007)}{Arabic}
+\putedge{Younes (2014)}{icraab}
+\putedge{Younes (2014)}{diglossia}
+\putedge{Younes (2014)}{Arabic}
+\putedge{Younes (2014)}{language-instruction}
+\putedge{Younes (2014)}{SLA}
+\putedge{Zaghouani (2014)}{Arabic}
+\putedge{Zaghouani (2014)}{corpus-linguistics}
+\putedge{Zaki (2017)}{corpus-linguistics}
+\putedge{Zaki (2017)}{Arabic}
+\putedge{Zaki (2017)}{language-instruction}
+\putedge{Zughoul (1980)}{Arabic}
+\putedge{Zughoul (1980)}{diglossia}
+\putedge{Zughoul (1980)}{language-planning}
+\putedge{al-Sharkawi (2016)}{Arabic}
+\putedge{al-Sharkawi (2016)}{ALT}
+\putedge{al-Sharkawi (2016)}{icraab}
+\putedge{al-Sharkawi (2016)}{case}
+\putedge{ʿAwda (2015)}{Arabic}
+\putedge{ʿAwda (2015)}{language-ideology}
+\putedge{Ḍayf (2000)}{Arabic}
+\putedge{Ḍayf (2000)}{diglossia}
+\putedge{Ḍayf (2000)}{language-ideology}

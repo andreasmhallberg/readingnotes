@@ -54,7 +54,6 @@
 @prosody
 @reading (cognitive aspects of)
 @sociolinguistics
-@speech * remove
 @standard-language (theoretically on standard varieties and standardization)
 @syntax
 @typography
