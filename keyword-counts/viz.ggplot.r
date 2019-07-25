@@ -2,10 +2,11 @@ source('keywordcounts.r')
 library(GGally)
 library(network)
 
-# remove statistics
+# remove islands
 edges <- edges[edges$kw!='statistics',]
 edges <- edges[edges$kw!='pedagogy',]
 edges <- edges[edges$kw!='icraab',]
+edges <- edges[edges$kw!='none',]
 edges.net <- network(edges)
 
 # make vertex attributes with type (ref,kw)
