@@ -3,6 +3,7 @@
 - Spoken Standard Arabic defined as: 6
 
 > the most formal register of Arabic extemporaneous speech by proficient, highly educated native speakers of Arabic
+- 10% of tokens would take a case marker in undiacritized writing. 6% if adverbs and pl/dual *-īn/-ayn* are excluded. 76n6
 
 ## Material
   - 
@@ -22,6 +23,8 @@
  
 - Definiteness 208-
   - Hierarchically structured. Words with enclitic pronoun at 43.9%. 
+
+- Accusative adverbs 424-244
 
 - Very few [43] instances of hyper correct case marking. 245
 

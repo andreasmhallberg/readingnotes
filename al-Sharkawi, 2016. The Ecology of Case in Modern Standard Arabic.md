@@ -7,7 +7,10 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 - "the case system is given a status in the theoretical grammatical works that is different from its use in real linguistic performance" 232
 
 - Modern Arabic grammars (specialized and pedagogical) follow the pattern of classical grammars 232-46
-  - focus on use of case. The purpose of grammar seems to be to explain use of case markers.
+  - focus on use of case. The purpose of grammar seems to be to explain use of case markers. 237
+
+  > a general trend among modern Arabic scholars of Arabic who regard the case system as an integral aspect of the structure of Modern Arabic and that it is the sigh that shows the general users' linguistic capacities and skills.
+
   - grammars are organized by case, not by function. (e.g. *anna* next to absolute negation)
   - Several summaries of grammatical works
 

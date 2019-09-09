@@ -1,7 +1,7 @@
 # Younes, Munther. 2007. “On ”I‘rāb“, Power, And Language Reform in the Arab World.” Al-’Arabiyya 40/41: 221–41.
 
 - Two views of historical development of icraab
-  1. *Traditional:* Present in everyday speech in early Islamic era, then corrupted after exapnsion.
+  1. *Traditional:* Present in everyday speech in early Islamic era, then corrupted after expansion.
   2. Not present in everyday speech 
      a. Invented by grammarians
      b. Only in poetic koiné
@@ -23,7 +23,7 @@
 
 - Icraab-ideology today: 235
 
-  > [the student] is constantly bombarded with it and made to believ that it is the key to the mastery of the language. His or her failure to master the system is considered a reflectoin of defective intelligence or lack of effort, and not due to the complexity and arbitraryness of the *I‘rāb* rules.
+  > [the student] is constantly bombarded with it and made to believe that it is the key to the mastery of the language. His or her failure to master the system is considered a reflection of defective intelligence or lack of effort, and not due to the complexity and arbitrariness of the *I‘rāb* rules.
 
 - Reform of icraab blocked by
   1. Artificial nature of the system

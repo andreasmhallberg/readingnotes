@@ -4,15 +4,11 @@
 
   > The educational structures of the Arab countries are currently characterized by their growing inadequacy and deterioration, the questionable relevance of their curricula, and the unacceptably low quality of their output."
 
-- Lanuage planning consits of: 11
-  1. status planning - förända språkets relation till andra språk
-  2. corpus planning - förändra spåkets inre strukur, codification and elaboration.
-
 - Status planning in Mashreq, corpus planning in Magreb. 23
 
 - "an important political and cultural battle raged for more than half a century in Egypt and Syria, between the Classisists and those who opposed them." 24 Classisists best represented by language academies. 24
 
-- Tunisia and Marocco have chosen to accept French for the time being. 25
+- Tunisia and Morocco have chosen to accept French for the time being. 25
 
 - Arabization used for political point taking. 27
 

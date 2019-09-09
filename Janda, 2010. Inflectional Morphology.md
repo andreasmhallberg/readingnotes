@@ -1,6 +1,6 @@
 # Janda, Laura. 2010. “Inflectional Morphology.” In The Oxford Handbook of Cognitive Linguistics, edited by Dirk Geeraerts and Hubert Cuyckens, 632–49. 
 
-## What is inflectional morphology
+## What is inflectional morphology?
 
 - "In most languages inflectional morphology marks relations such as" 632
   - person
@@ -10,7 +10,7 @@
   - possession
   - tense
   - aspect
-  - modd
+  - mood
 
 - "essential grammatical glue holding the relationships in constructions together"
 
@@ -26,7 +26,7 @@
     - "by far the smallest class of morphemes in a language"
 
   - Obligatory: 636
-    - applied to now words that enter the language
+    - applied to new words that enter the language
     - [Orthographically marked case in Arabic is odd:]
 
   > every (or nearly every) member of a paradigm is instantiated for every (or nearly every) word in a given class. [...] If, for example, a language inflects its nouns for number and case, all nouns will obligatorily express these categories.
@@ -66,7 +66,7 @@
 
 - Citation forms: [Arabic case is very odd.]
 
-  > In an inflected language, inflected words do not occur without their inflectional morphemes. Even if a speaker is merely listing vocabulary items, each word will instantiate a value in its paradigm. The citation form represents a privileged value in the paradigm [...]. Usually the citation form also performs the role of a base form, serving both as the formal prototype for the remainder of the paradigm (starting from the base form it is easiest to describe all the other inflectional forms of a word) and as the semantic prototype, since it is the most autonomous form
+  > In an inflected language, inflected words do not occur without their inflectional morphemes. Even if a speaker is merely listing vocabulary items, each word will instantiate a value in its paradigm. The citation form represents a privileged value in the paradigm [...]. Usually the citation form also performs the role of a base form, serving both as the formal prototype for the remainder of the paradigm (starting from the base form it is easiest to describe all the other inflectional forms of a word) and as the semantic prototype, since it is the most autonomous form.
 
 - "syncretism [...] is merely a case of homophony" 644
 
@@ -75,6 +75,5 @@
   - Typically borrowed words with inappropriate shape. Often given derivational morphemes in order to be inflected.
 
 - Some forms may be missing for certain words. Often on logical grounds. 
-
 
 @morphology

@@ -19,7 +19,8 @@
 
 - *ʿilal* tradition, meta-explanations for grammatical rules. Lifts Arabic from other languages: Arabic becomes uniquely rational. 12
 
-- 10-13th century conserves tradition. Common forms are *talxīṣ* och *šarḥ*. Authors writing comments on their own works (Hišām). 14 List of words from this period that have become classics and that are used today as textbooks in higher education.. Ibn Yaʿīš, Ibn Hišām, as-Suyūṭiy. 16
+- 10-13th century conserves tradition. Common forms are *talxīṣ* och *šarḥ*. Authors writing comments on their own works (Hišām). 14
+  - Works from this period have become classics and that are used today as textbooks in higher education. Ibn Yaʿīš, Ibn Hišām, as-Suyūṭiy. 16
 
 - "One of the characteristics of the theory evolved by the Arabic tradition is its extreme coherence and systematicity." 16
 

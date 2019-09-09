@@ -1,4 +1,4 @@
-# Salib, Maurice Boulos, 1979. Spoken Literary Arabic: oral approximation of literary Arabic in Egyptian formal discourse. Phd. Dissertation. University of Calefornia
+# Salib, Maurice Boulos, 1979. Spoken Literary Arabic: oral approximation of literary Arabic in Egyptian formal discourse. Phd. Dissertation. University of California.
 
 [Spoken Literary Arabic - equated with Badsawī's 'muṯaqqafīn'. 86. Yet compares it with Harrel's Egyptian Radio Arabic.]
 
@@ -20,5 +20,6 @@
   2. substitution of functional item
   3. L2+
 
+@icraab
 @Arabic:Standard
 @dissertation

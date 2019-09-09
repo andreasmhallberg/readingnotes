@@ -13,7 +13,7 @@
 
 - Dialect continuum. 14
 
-- Definitions: variety, register. 14, 15
+- Definitions: variety, register. 14-15
 
 - Discusses (and dismisses) alternative definitions of standard variety: 
   1. super-regional,  
@@ -24,7 +24,7 @@
       - No concensus of definition of class. 23
   3. Invariant
      - Similar to standardization of measurements, tools. 27
-     - Dismisses this def. since there is variatino within standard varieties. 28. [The argument has however been that standardvarieties have **less** variation.]
+     - Dismisses this def. since there is variation within standard varieties. 28. [The argument has however been that standardvarieties have **less** variation.]
   4. Extended function ('Ausgebaut')
   5. Written language
      - phonetics part of standard but is not written. 36
@@ -44,6 +44,8 @@
   5. (Stylistics)
 
 - Codification + prescription (authority) = standard. "im Bezug auf sie sind Gebote ofizeill gültig". 51
+
+- Only those parts of the variety that are codified are "standardspruchlisch". 51
 
 - Norm ≠ codification [Bartsch, Milroy etc.]. 51
 

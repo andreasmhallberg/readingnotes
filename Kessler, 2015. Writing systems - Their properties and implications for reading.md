@@ -50,7 +50,7 @@
 - Implication for learning to read:
   - In most cultures, children start to learn to read at age of six, when they have good mastery of the language. 23
     - More difficult if written language differs from vernacular.
-  - Underrepresentation means that a large part of reading is excluding non-existental words (e.g. <give>, /gaiv/). [Very difficult for adult L2 learner.]
+  - Underrepresentation means that a large part of reading is excluding non-existential words (e.g. <give>, /gaiv/). [Very difficult for adult L2 learner.]
   - Learning to read is an "optional accessory that must be painstakingly boltered on" (Pinker 1997).
   - The ease at which adults read is misleading for the difficulties in learning to read.
 

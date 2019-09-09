@@ -12,15 +12,15 @@
 - Personal background of author in relation to subject. 4-9
   - "Lévi-Bruhlian moment" - personal experience of non-translateability, incomprehension of system of knowledge. [This personal experience may be a prerequisite to understand the significance of the problem.]
 
-  > the moment when one realists that one understands, the words, the sentences and the syntax, but fails to apprehend the progression of ideas and the underlying logic of a given augment or narrative.
+    > the moment when one realists that one understands, the words, the sentences and the syntax, but fails to apprehend the progression of ideas and the underlying logic of a given augment or narrative.
 
   - May lead either to an experience of personal failure or to a development of metacognitive analysis of systems of knowlded.
 
 - Attraction of Arabic for non-Arabs (Jews in Israel): 5
 
-  > The attraction of Arabic included the gratification of mastering a code, along with the seduction of courting danger.
+    > The attraction of Arabic included the gratification of mastering a code, along with the seduction of courting danger.
 
-- Oreintalis-pholologist cycle of non-proficiency in Arabic. 37
+- Orientalist-philologist cycle of non-proficiency in Arabic. 37
 
 - Jewish experience grammar as a coherent system applicable to a variety of languages. Arab students experience grammar as "incoherent and discontinuous across languages". 48
 

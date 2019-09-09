@@ -3,7 +3,7 @@
 - Language norm and language codification must be kept apart. The latter often confused with norm. 290
 
 - Standard/written language characterized by: 290-1
-  1. larget functional and stylistic differentiation.
+  1. larger functional and stylistic differentiation.
   2. higher degree of norm awareness, related to stability requirement (no change)
 
 - Opposing trends in norm of written language: specialization and intelligibility. Will therefore be in perpetual change. 293

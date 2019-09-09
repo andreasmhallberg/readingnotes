@@ -24,7 +24,7 @@ Naive realism in linguistic sciences makes reform unfeasible.
 
 - Majority view in reform attempts is that language must remain intact. 111
 
-- Naive-realis:
+- Naive-realist:
 
   > It is hardly possible in the Arabic grammatical tradition to distinguish epistemologically  between the grammar of Arabic and Arabic in its pre-descriptive state.
     

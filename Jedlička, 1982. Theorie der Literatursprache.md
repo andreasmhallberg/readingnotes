@@ -11,7 +11,10 @@
 - Many languages have a metalinguistic term for the standard language. 40-1
 
 - Norm vs. codification. Differences: 57-8
-  1. Dialects and standard both have norms. Only standard has codification. "Die Kodifikation der Literatursprache wird in Regeln und Vorschriften niedergelegt, die in Handbüchern enthalten sind; iht Ziel ist es, der Gebrauch der Literatursprache in der Kommunakationspraxis su steuern." 58
+  1. Dialects and standard both have norms. Only standard has codification. 58
+
+  > Die Kodifikation der Literatursprache wird in Regeln und Vorschriften niedergelegt, die in Handbüchern enthalten sind; iht Ziel ist es, der Gebrauch der Literatursprache in der Kommunakationspraxis su steuern.
+
   2. Norm has objective existence. Codification only exist as a complex of rules. 58
   3. Norm in perpetual change. Codification is in itself not changing. 58
   4. Codification is historically dependent on a norm, but norm then affected by codification. 59

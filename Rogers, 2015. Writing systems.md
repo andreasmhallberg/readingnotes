@@ -1,6 +1,6 @@
 # Rogers, Henry. 2005. Writing Systems: A Linguistic Approach. Blackwell Textbooks in Linguistics 18. Malden, MA: Blackwell Pub.
 
-[On chapter of in terminology. Other chapters are on different writing systems.]
+[Only chapter on terminology. Other chapters are on different writing systems.]
 
 - *Diacritics:* graphemes that cannot occur alone, only in connection with other (free) graphemes. 11
 

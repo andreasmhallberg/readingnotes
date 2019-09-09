@@ -9,8 +9,7 @@
 - ' for dotted letters (e.g., '7) [13]
 
 - Variation in representation of x ('7 or 5) but individuals are consistent. [13]
-
-- Arabizi used to signal intimacy outside of CMC (computer mediated communication) [15]
+CMC (computer mediated communication) [15]
 
 - "short vowels are also represented in many cases" [16]
 

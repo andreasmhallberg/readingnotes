@@ -12,7 +12,7 @@
 
 - "run-on" words. No space after non-connecting letters. Common in semi-koenized expressions (*la šakk*) and idafa proper names (*ʿabd allāh*). 33
 
-- "Approximately seven percent of the entries in the [Buckwalter] lexicon contain no discernible pattern morpheme." i.e. lonewords etc. 36
+- "Approximately seven percent of the entries in the [Buckwalter] lexicon contain no discernible pattern morpheme." i.e. loanwords, etc. 36
 
 - Regional variation in orthographical conventions in dialectal words. 37
 

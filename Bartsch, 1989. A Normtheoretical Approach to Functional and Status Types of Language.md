@@ -6,7 +6,7 @@ Description of "levels" in German.
 
 - There is no essential language X that delimits a set of varieties. 198
 
-- Umnganssprache, common everyday language (CEL): 199
+- Umganssprache, common everyday language (CEL): 199
 
   > Varieties of the respective regional Umgangssprachemehich are to some degree neutralized with respect to local or even regional features and are thus directed towards the standard language, form a cluster of varieties, the common *Umgangssprache*, or the 'common everyday language', which serves as a means of communication in the whole domain of validity of a standard language and is superregionally accepted as spoken *Hochdeutsch*, which is is considered to be sufficiently conform to the standard to be accepted as a measure of correctness in schools and in other official situations.
 

@@ -12,18 +12,18 @@
 
 - Icraab is highly valued in the education system. "condition sine qua non of CA" 176
 
-- Word endings are proffered: 177 
+- Word endings are preferred: 177 
   1. preceding *waṣla*
   2. before enclitic pronoun
   3. in construct state
 
 - Dialects have one connecting rules (epenthesis). Two systems interacting in spoken SA. 177
 
-- Pause forms thoroughly described but positions unclear. 177. Fot 21
+- Pause forms thoroughly described but positions unclear. 177n21
 
 - Free use of endings in pause. So widespread it cannot be considered a mistake, part of the new system. 178-9
 
-- "Regenereation" of case system. Stylistic and not syntactic. 179
+- "Regeneration" of case system. Stylistic and not syntactic. 179
 
 - Arabs cannot use icraab in fluent speech. 180
 
