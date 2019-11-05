@@ -51,7 +51,7 @@
 - concatenative (affixes) or nonconcatenative (prosodic) or both
 - zero morphemes
 - syncretism is common
-- suppletion (changes of stem within paradigm )is common
+- suppletion (changes of stem within paradigm) is common
   - paradigms generally only associated with subset of syntactic class. Same inflection often radically different in form between words.
 
 ## Meaning of inflection

@@ -10,7 +10,7 @@
 
   - Reading accuracy and reading comprehension do not correlate, and reading accuracy (including correct case and mood markers) is most important: 336
 
-  > It is essential to differentiate between reading accuracy and reading comprehension. These are different processes that demand different resources. Research reveals that *reading accuracy* in Arabic orthography does to correlate well with reading comprehension. To locate reading problems, testing should focus on *reading accuracy* in read-aloud tasks.
+  > It is essential to differentiate between reading accuracy and reading comprehension. These are different processes that demand different resources. Research reveals that *reading accuracy* in Arabic orthography does not correlate well with reading comprehension. To locate reading problems, testing should focus on *reading accuracy* in read-aloud tasks.
 
 
 @Arabic

@@ -8,7 +8,10 @@
 
 - Two views of the history of Arabic diglossia: development or original. 424
 
-- Critique of levels.
+- Critique of level apporaches. 426
+  - Methodologically difficult to encompassing features across entire languate (phonological, morphological, syntactic, etc.)
+  - Unequal status of poles in the scale, on native, one imperfectly learned.
+  - Unclear what the target form is.
 
 - El-Hassan (1979) tests levels but gets mixed results. 428
 

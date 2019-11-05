@@ -21,13 +21,18 @@ Subjects' education: 182
 
 - Possible memorized frozen expression with icraab. 187
 
+- Use of *a* as connecting vowel preceding article to give flavor of *fuṣḥā*. 189
+
 - Words with enclitic pronoun often case vowel. 191
 
 - Indefinite more often marked than construct state in iDaafa. 191, 200
 
 - Numbers not inflected as nouns. 192
 
-- Longer analysis of speaker with prescriptively correct speech. ”utterly unique”. Spoke with complete use of case markers "with a fluency and ease that his nothing short of breathtaking.a". Annoying to the interviewer. 207
+- Longer analysis of speaker with prescriptively correct speech.
+  - "utterly unique". 207
+  - "with a fluency and ease that his nothing short of breathtaking". Annoying to the interviewer. 207
+  - "This performance could only com from someone who is somewhat withdrawn from an engaged role in the more dau to day society around him". 209
   - Compliance with pause rules. 201
 
 - Conclusion: 

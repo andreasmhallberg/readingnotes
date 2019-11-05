@@ -13,7 +13,7 @@ MSA is not the prestige variety. The assumption that it is has led to misinterpr
 
 - H option for persons who do not which to use stigmatized forms but for whom prestige-L is posh or not accessible. 124
 
-- "Standard Arabic H is socially neutral and unmarked with respect to the speaker's class.’‘ 124
+- "Standard Arabic H is socially neutral and unmarked with respect to the speaker's class." 124
 
 @diglossia
 @Arabic

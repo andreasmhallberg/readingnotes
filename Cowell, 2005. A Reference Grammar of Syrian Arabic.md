@@ -44,6 +44,7 @@
   - *farʿaʿ* 'to set of (fireworks)'
   - *kafrat* 'to curse'
   - *taʿarbaṭ* 'to cling to'
+
 - an-suffix *faʿlan* (denominative) 115
   - *ḥalwan* 'to sweeten'
   - *tēsan* 'to be stubborn'
@@ -98,7 +99,7 @@
 
 - Plural of identification indefinite quantification with *-āt* 370
 
-  > Some nouns which in the singular designate substance ingeneral, or as a sample of its kind, have plurals (in *-āt*) designating a certain batch or indefinite quantaty of that substance
+> Some nouns which in the singular designate substance in general, or as a sample of its kind, have plurals (in *-āt*) designating a certain batch or indefinite quantity of that substance
 
   - This quantification is indefinite as it is not quantification in numerical sense.
     - *ḥalīd l-meʿze* 'goats milk' -- *ḥalīd l-meʿze* 'the (particular) goats milk'
@@ -145,6 +146,52 @@
 - Adverbal complements 441
 
 - Absolute object. For "emphasis" or manner. 442
+
+- Idafa
+  - Annex may be classificatory (what kind?) or identificatory (which?). 458
+  - In identificatory idafa the annexed term can be pronominalized and may take demonstrative pronoun.
+    - *walad jārī, walad hal-jār*
+  - Partitives (*kull, baʿḍ*, etc. [full list]) form idafa with second term. Agreement is with annexed noun. 466
+  - False idafa mostly in set phrases
+
+- Elative 474
+  - always in construct state with annexed indefinite.
+  - pronominalization of annexed noun requires reformulation (*ʾaḥsan bayt ʾilna*)
+
+- Prepositions
+  - *bi-* and *fī* complementary distribution, *bi-* for nouns and *fī* for pronouns 479
+    - Exception: *šu bak?*
+  - *la-* has two forms
+    1. Disjunctive (*ʾelo*)
+    2. Conjunctive (on verbs, *katbat-lo*)
+  - *men* and *la-* combines with other prepositions for direction (*min ʿind il-bēt*). 486
+  - Some prepositions cannot be used with pronouns (*ka, ḥasab, badel, ʿawad, ʾerb, ʾarīb*). 488
+  - *bēn* with pronouns, *bēnāt* with pronouns. 488
+
+
+## Pronouns
+
+- Pronouns added to person inflected verb to give emphasis to prediction as such (*ana mā bdaen*). 549
+- Demonstrative pronoun variants 552
+  - Proximal
+    - ms: *hāda*
+    - fs: *hādi, hayy*
+    - pl: *hadōl*
+  - Distal
+    - ms: *hadāk*
+    - fs: *hadīk*
+    - pl: *hadōlīk, hadōk, hadenk*
+  - Forms ending in consonant have stylistic variant with *-e* (*hadīke*)
+  - Shortened form *hād* used in end of phrases.
+
+## Misc
+
+- 'Yes' 436
+  - *ēh*
+  - *naʿm* more polite and deferential, response to call or command
+  - *mbala* affirmative answer to negative question or statement
+
+- Question words. 566
 
 @Arabic:Syrian
 @grammar

@@ -1,5 +1,9 @@
 # Mejdell, G., 2006. Mixed styles in spoken Arabic in Egypt: somewhere between order and chaos.  Boston: Brill
 
+- Level models tend to be: 47 
+
+> flawed by lack of, or only minimal, empirical support, and turn out to be difficult to apply to natural data.
+
 - Data: academic panel discussion and seminar. 68
 
 - Not considering case since dropping them does not make dialect. 75

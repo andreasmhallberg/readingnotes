@@ -1,6 +1,6 @@
 # Badawi, El-Said M., Michael G. Carter, and Adrian Gully. 2004. Modern Written Arabic: A Comprehensive Grammar. Comprehensive Grammars. London: Routledge.
 
-- Case markers mostly absent in writing. 22
+- Case markers mostly absent in writing. 20-21
 
 - Most case markers have no presence in writing, and most often not in reading aloud: 33
 

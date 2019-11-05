@@ -39,6 +39,11 @@
 
 - /q/ unique positions as level raiser. 133
 
+- Verb forms
+  - Classical [Standard] verbs used most of the time by most speakers. 135
+  - Use of *b-* nearly universal. No clear correlation with use of classical verbs. 143
+  - 26 of 49 speakers never used iʿraab on verbs. 137
+
 - Case:
   - "17 of 49 [speakers] used no iʿraab on nouns. [...] 11 of 49 used used iʿraab more than 5% of the time". 137
   - Nom and Gen – No difference in marking between definite and indefinite. 
