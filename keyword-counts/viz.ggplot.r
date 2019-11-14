@@ -32,7 +32,8 @@ ggsave('kamadakawai.pdf',width=420,heigh=594, unit='mm', limitsize=F)
 edges.ar <- edges.ar[edges.ar$kw!='icraab',]
 edges.ar <- edges.ar[edges.ar$kw!='Arabic',]
 edges.ar <- edges.ar[edges.ar$kw!='Standard',]
-# edges.ar <- edges.ar[edges.ar$kw!='phonotactics',] # remove for aesthetic reasons
+edges.ar <- edges.ar[edges.ar$kw!='phonotactics',] # remove for aesthetic reasons
+edges.ar <- edges.ar[edges.ar$kw!='Lebanese',] # remove for aesthetic reasons
 edges.ar <- edges.ar[edges.ar$kw!='dictionary',]
 edges.ar <- edges.ar[edges.ar$kw!='textbook',] # remove for aesthetic reasons
 edges.ar <- edges.ar[edges.ar$kw!='language-ideology:primary-source',]

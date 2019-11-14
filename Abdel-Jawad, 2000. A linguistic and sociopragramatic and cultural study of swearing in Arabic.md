@@ -36,5 +36,5 @@
   - Competition, eg. for paying in restaurant. 238
   - i.e. all kinds of speech acts. 237
 
-@Arabic
+@Arabic:Jordainan
 @pragmatics

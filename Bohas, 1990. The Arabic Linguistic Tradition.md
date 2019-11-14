@@ -1,5 +1,7 @@
 # Bohas, G., Guillaume, J.-P. & Kouloughli, D.E., 1990. The Arabic Linguistic Tradition, London: Routledge.
 
+## Historical survey
+
 - Early grammar associated with *qirāʾāt*: 2
 
   > Most of the figures associated with the early developments of grammar and philology ware mention in connection with the branch of knowledge technically called *qirāʾāt* ('reading' or 'recitations', i.e. of the Quran), the purpose of which is was to sift the many variant readings which were compatible with the ancient Arabic script in which the oldest copies of the holy text were written.
@@ -28,7 +30,11 @@
 
   > After him [as-Suyūṭiy (d. 1505)], grammatical theory gradually degenerated to into a set of prescriptive recipes, to which some dry strips of dead theory still adhered. The ninteenth-century *Nahḍa*, in the name of simplification and 'common sense', only kept the recipes, cutting the completely from the theoretical roots. This degenerated version of the tradition is, to this day, the basis for teaching grammars used in most Arabic countries today.
 
-- *Ḥadiṯ* not valid data for grammar writing. 18. [See Owens, Arik.]
+## Facts, rules, and arguments
+
+- *Ḥadiṯ* not valid data for grammar writing. [See Owens, Arik.] 18
+
+## Canonical theory of syntax
 
 - Grammar, both applied in speech and theoretically was fundamental to the educational ideal in classical Islam. Distinguishes the elites from the masses. Pedagogical tradition therefore therefore focus on differences between CA and dialects. "In so far as syntax was concerned, the most important of these features was incontestably the use of case and mood markers." 50
 
@@ -40,7 +46,13 @@
   3. Governing element cannot govern word of its own class (*ḥarf, ism, fiʿl*).
   4. Governing only on phrase head. Then followed by *tawābiʿ*.
 
+## Canonical theory of morphology, phonology and phonetics
+
 - Diachronic explanations are explicitly rejected (in morphology). 78
+
+## Sībawayhis *Kitāb*
+
+
 
 @ALT
 @Arabic
