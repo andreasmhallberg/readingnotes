@@ -294,8 +294,6 @@
     - Inimitable due to contents.
   - al-Jurjānī (d.1078) final conclusion 116
     - Quran inimitable due to eloquence that can be studied by linguistic analysis. 116
-    
-
 
 @ALT
 @Arabic
