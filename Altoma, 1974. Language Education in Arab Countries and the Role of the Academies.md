@@ -6,12 +6,12 @@
 
 - Arab countries in different stages of Arabization. North Africa slow.
 
-- The attempt at grammatical reform  ''has been constantly rejected primarily for extra-linguistic factors: political, religious, and cultural.'' 282
+- The attempt at grammatical reform  "has been constantly rejected primarily for extra-linguistic factors: political, religious, and cultural." 282
 
-- Three trend in discussions on grammar teaching, ordered by relative dominance: 296
+- Three trends in discussions on grammar teaching, ordered by relative dominance: 296
   1. classicism/conservatism. Argues that increasing literacy leads to wider use of MSA. Builds on faulty assumptions: 282
-     1. introduction  MSA words in the dialect does not change its grammatical stucture. 
-     2. Uncientific to call dialects corrupt. (Taha Hyssayn). 
+     1. introduction  MSA words in the dialect does not change its grammatical structure. 
+     2. Unscientific to call dialects corrupt.
      3. Contradicted by actual trend of dialect being used for practical reasons in education and aesthetic reasons in literature.
   2. Simplification of grammar teaching. Simplification of terminology, better arrangement of material in grammar book, better pedagogy, etc. Egyptian academy.
   3. Change grammatical rules/radical reform.
@@ -21,7 +21,7 @@
 
 - Academies, Syrian, Egyptian, Iraqi. Publishes lists of new terms. Too slow, sidelined by individual initiates. Unorganized. Lack of coordination between academies and between academies and state institutions. 304
 
-- Lixace ordered by rood are difficult to use. Growing awareness about advantages of alphabetical ordering. 305
+- Lixaca ordered by rood are difficult to use. Growing awareness about advantages of alphabetical ordering. 305
 
 @language-ideology
 @language-planning
