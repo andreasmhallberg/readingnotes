@@ -6,8 +6,8 @@
 
  - First pedagogic grammars.
  
-- 9th. Evolution of theory: 
-  - Basra (closed corpus. cf. *bāb al-ijtihad*)  vs. Kufa (open corpus)
+- 9th century: evolution of theory: 
+  - Basra (closed corpus. cf. *bāb al-ijtihad*) vs. Kufa (open corpus)
   - Becomes scientific. Concerned with scientific methodology.
   - Filling in Sibawayh's terminological gaps. 186
   - *Jumla* replaces *kalām* as term.
@@ -16,14 +16,16 @@
     - *ʿilla qyāsiyya*
     - *ʿilla jadāliyya naẓariyya*
 
-- 10th onward. Elaboration of scholastic grammar.
-- structured grammars. 188
+- 10th century onward. Elaboration of scholastic grammar.
+
+- Structured grammars 188
   - *miʾat ʿāmil*, al-Jurjānī
   - *Muqaddima*, Ibn Bābashād - exactly 10 categories
-  - *Mufaṣṣal*, aš-ãSamaxšarī
+  - *Mufaṣṣal*, aš-Šamaxšarī
+
 - Apogee of pedagogical grammars in 13th. 
   - *al-kāfiya* (syntax) and *aš-Šāfiya* (morphology), Ibn al-Hājib.
-  - Ibn Mālik & Ibn Aqāl
+  - Ibn Mālik and Ibn Aqāl
   - *Muqaddima al-Ājurrumiyya,* Ibn al-Ājurrum (d. 1327)
 
 @ALT

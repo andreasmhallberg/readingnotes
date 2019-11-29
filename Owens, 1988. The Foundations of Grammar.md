@@ -2,7 +2,7 @@
 
 - After 11th century no significant development in theory, using same data. Quotes Carter (1985): after 1077 preoccupations "was to find ever new ways of saying the same thing." 6 
 
-- "with Jurjânî (d. 1078) Arabic theory had reached its most sophisticated level". 15
+- "with Jurjānī (d. 1078) Arabic theory had reached its most sophisticated level". 15
 
 - Sources of linguistic data: 20
   - By end of 9th century (with Mubarrad) native speakers (Beduins) were no linger legitimate source. 

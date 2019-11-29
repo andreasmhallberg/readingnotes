@@ -100,6 +100,8 @@
 
 ## Facts, rules, and arguments
 
+[See also Guillaume, 2006 EALL]
+
 - Following are 17
 
   > some basic attitudes common to the whole tradition, even if they are perhaps more self-concious and explicit in the classic periods.
@@ -148,6 +150,7 @@
   - Complex terms of judgments of constructions to related to how well they express the speaker's intention. 41
 
 ## Canonical syntax (*naḥw*)
+
 
 - Grammar (*naḥw* and *ṣarf*) was considered prerequisite for any intellectual pursuit. 49
   - "the social function of grammar" as a gate keeper. *Iʿrāb* most important: 50
