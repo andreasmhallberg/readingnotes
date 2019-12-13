@@ -11,8 +11,8 @@
 - Data is more than 1000 instances of swearing in Jordan. 222
 
 - Swear by [with lists and examples]
-  - Got (various names) 223
-  - Holy books. 224
+  - God (various names) 223
+  - Holy books 224
   - Prophets
   - Important people
   - Family members
@@ -36,5 +36,5 @@
   - Competition, eg. for paying in restaurant. 238
   - i.e. all kinds of speech acts. 237
 
-@Arabic:Jordainan
+@Arabic:Jordainian
 @pragmatics

@@ -10,6 +10,12 @@
 
 - Must consider differences between dialects in analysis of formal language. Is often not done. Interaction between specific dialect and SA. 252 
 
+- Serious misconceptions brought about by a interpreting all variation through "diglossia":
+  - dimensions of variations are uniform. Variation in one Arabic speaking community are transferable to others. 251
+  - standard features have high prestige
+  - linguistic change is toward Standard Arabic
+  - data from Arabic contradict general sociolinguistic patters (women use less standard forms) 
+
 @Arabic
 @diglossia
 @sociolinguistics

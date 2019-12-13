@@ -1,10 +1,13 @@
 # README
 
-**Important:**
+**TODO:**
 
-1. **Only some of these notes are complete summaries of the respective reference. Often they only contain notes on what I found interesting in the particular reference.**
-3. **The headers with the complete bibliographical reference have yet to be properly formatted.**
-
+- Format bibliographical reference in title to English.
+- Add keywords for publication type:
+  - `@monograph{:textbook|:dissertation}`
+    - `@article{:review}`
+    - `@report`
+    - `@chapter`
 
 ## General description
 

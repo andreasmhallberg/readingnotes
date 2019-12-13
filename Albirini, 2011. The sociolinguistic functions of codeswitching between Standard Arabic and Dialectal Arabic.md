@@ -4,7 +4,7 @@
 
 - [Typology of CS function poorly defined. Lots of types can also be other types.]
  
-- CS does not mean that the status of/attitude towards variates are changing or that L takes the place of H. 
+- CS does not mean that the status of/attitude towards varieties are changing or that L takes the place of H. 
 
 - Switches to SA
   1. Formulaic expression 541

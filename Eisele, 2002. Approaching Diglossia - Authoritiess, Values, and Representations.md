@@ -30,7 +30,7 @@ Analysis of view on diglossia through Western/moder vs. Arabic/traditional disco
 
      > However, in using ’vitality'  'variation' as the basis for his arguments, Parkonson is also DEFINING HIMSELF AWAY FROM Arab traditionalists. What he terms 'variation' (and hence 'vitality') is another man's 'ill-defined' (hence 'artificial' as in Kay) is still another’s 'mistake' (hence in need of prescriptive rules), as in the Arab-traditionalist viewpoint.
 
-  2. "traditionalist and classical bias" 19 since he evaluates proficiency by classical norm. [But he is clear that this is only one form of benchmark. Talks of "mistakes" with clear quotation marks.]
+  2. "traditionalist and classical bias" since he evaluates proficiency by classical norm. [But he is clear that this is only one form of benchmark. Talks of "mistakes" with clear quotation marks.] 19
   3. Regards dialect and SA as parts of the same system with fits with the traditionalist value of UNITY.
 
 @language-ideology

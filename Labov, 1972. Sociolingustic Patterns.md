@@ -20,7 +20,7 @@
 
 - "'vernacular'---the style in which the minimum attention is given to the monitoring of speech." 208
 
-- Eliciting intuition of non-standard: 214
+- Eliciting intuition of non-standard is hard: 214
 
   > But it is almost impossible to obtain interpretable results on the reverse type of *vernacular correction tests,* in which the subject as asked to correct standard prestige forms to the nonstandard vernacular.
 

@@ -9,7 +9,7 @@
 - 3 factors forming ALT: 2-
   1. the study of *qirāʾāt*
 
-     > Most of the figures associated with the early developments of grammar and philology ware mention in connection with the branch of knowledge technically called *qirāʾāt* ('reading' or 'recitations', i.e. of the Quran), the purpose of which is was to sift the many variant readings which were compatible with the ancient Arabic script in which the oldest copies of the holy text were written.
+   > Most of the figures associated with the early developments of grammar and philology ware mention in connection with the branch of knowledge technically called *qirāʾāt* ('reading' or 'recitations', i.e. of the Quran), the purpose of which is was to sift the many variant readings which were compatible with the ancient Arabic script in which the oldest copies of the holy text were written.
 
   2. the study of poetry
   3. the decree of ʿAbd al-Maliks to make Arabic the administrative language
@@ -35,14 +35,11 @@
 
 - Baṣran and Kufan schools
   - The two main centers of learning in the empire, overtaken by Bagdad in the middle of the 9th century. 6
-  - School (*maḏhab*) used for place of oral transmission of knowledge, which may or may not contain theoretical
-    differences: 7
+  - School (*maḏhab*) used for place of oral transmission of knowledge, which may or may not contain theoretical differences: 7
 
     > In fact, the divergencies between grammarians of Baṣra and Kūfa in the pre-canonical period were simply a particular aspect of the general situation of grammar, where the implcit and informal character of the theory made for the coexistance of several potntially conflicting solutions or analyses for the same problem.
 
-- Hypothesis (by Fleisch) that the conflict was constructed by later generations of grammarians "as a kind of
-  historical justification" on the rivalry between al-Mubarrad (Baṣran) and Ṯaʿlab (Kūfan), in which al-Mubarrad
-  was triumphant. 7
+- Hypothesis (by Fleisch) that the conflict was constructed by later generations of grammarians "as a kind of historical justification" on the rivalry between al-Mubarrad (Baṣran) and Ṯaʿlab (Kūfan), in which al-Mubarrad was triumphant. 7
 
 - The Kufa school not representative of one method (*samāʿ*) but of diverging opinions ascribed to them retrospectively. Gives the impression of focus on "usage". 7
 
