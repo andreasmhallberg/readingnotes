@@ -5,9 +5,11 @@
 - Format bibliographical reference in title to English.
 - Add keywords for publication type:
   - `@monograph{:textbook|:dissertation}`
-    - `@article{:review}`
-    - `@report`
-    - `@chapter`
+  - `@article{:review}`
+  - `@report`
+  - `@chapter`
+  - `@grammar`
+  - `@dictionary`
 
 ## General description
 
