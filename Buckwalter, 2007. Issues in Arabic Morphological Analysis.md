@@ -32,3 +32,4 @@
 @Arabic
 @orthography
 @corpus-linguistics
+@article

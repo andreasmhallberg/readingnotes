@@ -297,3 +297,4 @@
 
 @ALT
 @Arabic
+@monograph

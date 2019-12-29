@@ -16,3 +16,4 @@
 @Arabic
 @reading
 @review-article
+@article

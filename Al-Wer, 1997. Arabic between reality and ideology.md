@@ -17,3 +17,4 @@
 @sociolinguistics
 @language-ideology
 @Arabic:Standard
+@article

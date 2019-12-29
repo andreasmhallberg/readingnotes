@@ -67,3 +67,4 @@
 @diglossia
 @Arabic
 @code-switching
+@monograph

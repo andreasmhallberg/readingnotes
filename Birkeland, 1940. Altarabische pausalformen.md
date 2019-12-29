@@ -23,3 +23,5 @@
 @Arabic:Classical
 @ALT
 @pause
+
+@monograph

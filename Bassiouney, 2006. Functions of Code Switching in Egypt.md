@@ -17,3 +17,4 @@
 @diglossia
 @code-switching
 @Arabic
+@monograph

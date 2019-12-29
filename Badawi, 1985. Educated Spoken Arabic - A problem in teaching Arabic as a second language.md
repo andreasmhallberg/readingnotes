@@ -23,3 +23,4 @@
 @diglossia
 @icraab
 @Arabic
+@chapter

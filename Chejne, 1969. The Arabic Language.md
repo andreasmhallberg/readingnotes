@@ -8,7 +8,9 @@
 
 - "The Ummayad court considered good speech a mark of nobility, and insisted on correct Arabic at the court and in other high places." 61
 
-- "There is nearly unanimous agreement that permanent vowels ought to be incorporated as an integral part of the [written] language [...] But paradoxically nothing has been done." 160
+- Unanimous agreement to adopt diacritization for all texts: 160
+
+  > There is nearly unanimous agreement that permanent vowels ought to be incorporated as an integral part of the [written] language [...] But paradoxically nothing has been done.
 
 - Summarized Furayḥa's *Naḥw ʿarabiyya muyassara*. 167-168
 

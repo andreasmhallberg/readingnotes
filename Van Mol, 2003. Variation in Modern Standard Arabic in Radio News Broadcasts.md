@@ -16,7 +16,7 @@
 
 - Critique of diglossia: all standard languages are second languages taught in school. 48
 
-- 11 page critique of ESA: 59-70.
+- 11 page critique of ESA: 59-70
   1. Contradictory definitions. 59
   2. Unclear delimitation from dialects. 61
   3. Unclear what is investigated (speakers, situations). 63

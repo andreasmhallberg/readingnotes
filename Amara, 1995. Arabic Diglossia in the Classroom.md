@@ -13,3 +13,4 @@
 @Arabic:Standard
 @language-instruction
 @FLA
+@article

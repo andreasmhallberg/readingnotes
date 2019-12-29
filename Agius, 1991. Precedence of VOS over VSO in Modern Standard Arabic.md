@@ -4,3 +4,4 @@ Examples on naturally occurring VOS in Standard Arabic. 5 different situation.
 
 @Arabic:Standard
 @syntax
+@article

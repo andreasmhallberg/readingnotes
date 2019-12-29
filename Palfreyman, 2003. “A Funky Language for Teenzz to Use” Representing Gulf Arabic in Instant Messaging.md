@@ -24,3 +24,4 @@ CMC (computer mediated communication) [15]
 @writing-systems
 @orthography
 @Arabic:Emirati
+@CMC

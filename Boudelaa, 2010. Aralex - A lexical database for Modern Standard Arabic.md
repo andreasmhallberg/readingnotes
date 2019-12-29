@@ -25,3 +25,4 @@
 @Arabic:Standard
 @lexicon
 @corpus-linguistics
+@article

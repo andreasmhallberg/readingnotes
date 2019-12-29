@@ -20,3 +20,4 @@
 @Arabic
 @corpus-linguistics
 @syntax
+@article

@@ -17,7 +17,7 @@
   - Humiliated by al-Kasāʾī in Bagdad, *Masʾalat al-zunbar* 13
     - was shown by four Bedouin informants to be wrong on grammatical point. Retreated to hometown.
 
-- [List of cited person] 17-24
+- [List of cited persons] 17-24
   - Possible instances of references in the text being incorporated glosses. 22
 
 - al-Xalīl bin Ahmad 27-
@@ -95,4 +95,62 @@
     - Gradable. A sentence can be more or less structurally good (*aḥsan*), often depending on context.
     - several synonyms: *jamīl, jayyid, ḍaʿīf*
 
+## Syntax
+
+- Word classes 75
+
+- Long list of speech acts (*mawḍiʿ*)
+  - Language is in essence seen as action with intent
+
+- Operation (*ʿamal*) 87
+  - each operator associated with speech act
+  - *ḥarf* has only syntacts meaning. Named after the speech act in which it is used (*ḥarf istifhām, nidāʾ, etc.*) 88
+
+- Grammatical phenomenon disussed in many different parts from different perspectives. 69
+
+## Morphology
+
+## Phonology
+
+- 29 consonantal phonemes listed. 125
+  - + 5 found in Quranic recitation
+  - + 7 deemed as incorrect
+
+- 16 points of articulation, beginning from back of throat.
+
+- Manner of articualtion 126
+  - Voiced/unvoiced (*majhūra/mahmūsa*).
+    - [q] and [ṭ] are voiced, possible representing articulation at the time 
+  - Plosive/fricative (*šadīda/rixwa*)
+    - [ḍ] as fricative
+  - Nasal (*ġunna*) [m], [n]
+  - Trilled (*mukarrar*) [r]
+  - Velaraised (*muṭbaqa*) emphatic
+  - Semi-vowels (*ḥarf layyin/madd*) [w] [y] [ā]
+
+- Assimiliation. 128
+  - Partial or complete
+  - Caused by similarity in manner or point of articulation
+
+- Other phonological phenomenon
+  - *rawn*: inflectional vowel disappears or is only implied
+  - *išmām*: vowel quality affected by consonant
+  - *imāla*: fronting of [ā]
+  - *naṣ*: antonym of *imāla*. Non-fronted [ā]
+  - *tafxīm*: backing if [ā] after emphatic consonant
+
+- Only marginal development of phonology after Sibawayhi. 131
+
+
+## Legacy
+
+- Terminological developments. 139
+
+## Conclusion
+
+- Difficult: 143
+
+> Cirtainly the *Kitāb* is an extraordinarily book to understand.
+
 @ALT
+@monograph

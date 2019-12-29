@@ -14,3 +14,4 @@
 @syntax
 @morphology
 @textbook
+@monograph

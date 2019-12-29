@@ -14,3 +14,4 @@
 
 @ALT
 @Arabic
+@article

@@ -28,3 +28,4 @@ Survey of Arab student and analysis of personal correspondence (letters).
 
 @Arabic:Standard
 @diglossia
+@article

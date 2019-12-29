@@ -20,3 +20,4 @@
 
 @news-media
 @anthropology
+@article

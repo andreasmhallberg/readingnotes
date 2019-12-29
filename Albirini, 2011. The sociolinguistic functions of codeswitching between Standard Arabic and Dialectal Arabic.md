@@ -34,3 +34,4 @@
 @code-switching
 @diglossia
 @Arabic
+@article

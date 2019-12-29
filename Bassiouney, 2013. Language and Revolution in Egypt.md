@@ -13,3 +13,4 @@
 
 @language-ideology
 @Arabic:Standard
+@article

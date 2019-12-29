@@ -18,3 +18,4 @@ Below from chap. 7, "Syntactic Markers on Nouns"
 
 @icraab
 @Arabic
+@textbook

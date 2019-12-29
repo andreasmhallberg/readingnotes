@@ -61,3 +61,4 @@ Compares eye-movement patterns in syntactic and pragmatic anomalies.
 @eye-tracking
 @reading
 @syntax
+@article

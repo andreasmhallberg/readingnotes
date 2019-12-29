@@ -30,3 +30,4 @@
 @Arabic
 @heritage-speakers
 @syntax
+@article

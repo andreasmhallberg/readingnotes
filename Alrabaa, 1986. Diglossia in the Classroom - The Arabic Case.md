@@ -18,3 +18,4 @@
 @FLA
 @diglossia
 @Arabic:Standard
+@article

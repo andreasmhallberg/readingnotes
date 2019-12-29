@@ -20,3 +20,4 @@ Discusses CA, MSA and ESA as candidates for standard.
 
 @Arabic:Standard
 @standard-language
+@article

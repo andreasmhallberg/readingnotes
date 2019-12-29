@@ -18,6 +18,11 @@
 @dictionary
 @grammar (reference grammar)
 @dissertation
+@article
+@chapter
+@monograph
+@encyclopedia-entry
+@proceedings
 
 # Language
 @Arabic
@@ -34,10 +39,11 @@
 
 # Area of linguistics
 
+@CMC (Computer Mediated Communication)
 @FLA (second language acquisition)
 @SLA (first language acquisition) 
 @code-switching
-@diglossia (theoretical discussion on diglossia)
+@diglossia (dealing with diglossia as a theoretical concept)
 @heritage-speakers
 @historical-linguistics
 @language-ideology (includes language attitudes)

@@ -15,3 +15,4 @@ Describes suggestions on language reform; orthography, lexicon, grammar.
 
 @language-planning
 @Arabic:Standard
+@article

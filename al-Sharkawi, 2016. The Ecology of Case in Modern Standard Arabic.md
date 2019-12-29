@@ -23,3 +23,4 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
 @ALT
 @icraab
 @case
+@article

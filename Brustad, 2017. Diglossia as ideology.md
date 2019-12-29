@@ -22,3 +22,4 @@ Diglossia is a language ideology that associates writing with standard langauge 
 @diglossia
 @language-ideology
 @standard-language
+@chapter

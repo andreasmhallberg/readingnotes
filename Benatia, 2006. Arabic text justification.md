@@ -23,3 +23,4 @@
 
 @Arabic
 @typography
+@article

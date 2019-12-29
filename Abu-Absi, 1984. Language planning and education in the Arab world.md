@@ -9,3 +9,4 @@
 @diglossia
 @language-planning
 @Arabic
+@article

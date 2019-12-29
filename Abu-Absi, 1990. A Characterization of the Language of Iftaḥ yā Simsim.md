@@ -10,3 +10,4 @@
 
 @Arabic:Standard
 @diglossia
+@article

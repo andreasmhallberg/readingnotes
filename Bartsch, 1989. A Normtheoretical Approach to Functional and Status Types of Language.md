@@ -44,3 +44,4 @@ Description of "levels" in German.
 
 @standard-language
 @German
+@chapter

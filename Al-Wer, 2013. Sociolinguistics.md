@@ -19,3 +19,5 @@
 @Arabic
 @diglossia
 @sociolinguistics
+@chapter
+@article

@@ -25,3 +25,4 @@
 
 @pragmatics
 @review-article
+@article

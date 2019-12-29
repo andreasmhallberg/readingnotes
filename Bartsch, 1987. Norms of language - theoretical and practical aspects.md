@@ -18,3 +18,4 @@
 
 @standard-language
 @German
+@monograph

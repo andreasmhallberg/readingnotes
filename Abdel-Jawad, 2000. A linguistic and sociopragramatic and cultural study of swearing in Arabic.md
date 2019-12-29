@@ -38,3 +38,4 @@
 
 @Arabic:Jordainian
 @pragmatics
+@article

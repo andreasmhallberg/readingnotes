@@ -13,3 +13,4 @@
 @literacy
 @diglossia
 @Arabic
+@article
