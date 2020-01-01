@@ -18,7 +18,6 @@
 - No correlation between reading accuracy and silent reading comprehension. 50
   - [This can be explained by *iʿrāb* highly affecting accuracy scores but not comprehension.] 
   - Author's explanation: 53
-
   > The lack of a match is due to the possibility that reading in the silent reading comprehension process with unvowelized tests the reader's cognitive effort is focused on morphological aspects of words: the *triliteral/quadriliteral-root* model of words for lexical access."
 
 @Arabic
