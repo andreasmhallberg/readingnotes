@@ -1,6 +1,6 @@
 # Aamer, M., 1981. Aussprachepraxis des Hocharabischen in Kairo: Phonetik, Phonologie, Behandlung des irāb, Einfluss des Dialekts auf die Morphologie. Erlangen-Nürnberg.
 
-- Raises the presetige of MSA: (?) 8-10
+- Raises the prestige of MSA: (?) 8-10
   1. Symbolizes the heritage
   2. Arab nationalism
   3. Education

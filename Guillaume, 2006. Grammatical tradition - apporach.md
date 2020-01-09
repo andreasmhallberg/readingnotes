@@ -7,7 +7,7 @@
   - Specify the nature of its eject of study
 
 
-## Object of styd
+## Object of study
 
 - Grammars most often refer to their object of study *kalām al-ʿarab* 176
   - specifically:

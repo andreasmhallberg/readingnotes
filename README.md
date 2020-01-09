@@ -31,10 +31,6 @@ See also [Keywords](#keywords) below.
 For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/dotfile/mylatexstuff/blob/master/bibliotek.bib) in the [`dotfiles` repo](https://github.com/andreasmhallberg/dotfiles). This is my general bibtex database where I dump all references without any particular order. The format of the citation key here is 
 `<first author>_<first word in title>_<year>`
 
-## Searching
-
-To search for a term in the notes online on the GitHub-page, type in the search term at the top of [the repo page](https://github.com/andreasmhallberg/readingnotes) and choose "In this repository".
-
 
 ## Structure and format
 

@@ -31,7 +31,7 @@
 
 > it emerges as a complete work in a period when there was hardly any other books to compare with or model itself on. Indeed it is one of the earlyes books in Islam at all
 
-- No features characteristics of later tratises
+- No features characteristics of later treatises
   - no blessing
   - no introduction
   - conclusion
