@@ -27,7 +27,8 @@
 
 - Terminology. 32
   - Uses terms that deviate from later standardized usage.
-  Words used both in technical and pre-technical sense.
+  - Words used both in technical and pre-technical sense (*ḥāl, ẓarf, fiʿl*)
+    - Talks against foreign influence. Rather natural development or native terminology and concepts. 33
   - Later terms not found in *Al-Kitāb*: 34-5
     - *ism āla*
     - *ištiġāl*

@@ -13,7 +13,7 @@ Mostly concerned with classical literature.
 
 - "what is at stake in the language [in the classical era] is social dignity and rank" 632
 
-- After the codification of the language and its stylistic norms 632
+- Not "our" language 632
 
   > the language was perceived as an unattainable ideal. It enjoyed extraordinary fortune and was the noble language of the empire, the language of tremendous poets and great minds, but was never referred to as 'our language' in classical works, but rather as 'their language', the language of the Beduin of Central Arabia, from whom the grammarians of the 8th century collected their data. Throughout its history, it was 'the language of the absent one'
 

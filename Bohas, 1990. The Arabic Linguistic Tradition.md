@@ -127,7 +127,7 @@
       - learner had do memorize irregular words
       - "grammarians devoted considerable energy" to show that irregularities fitted with underlying principles. 21-22
 
-- *Qiyās*      
+- *Qiyās*
   - Way of reasoning by which observations are fitted into system of categories. 23
   - Not deductive because it is not clearly procedural  24
 
