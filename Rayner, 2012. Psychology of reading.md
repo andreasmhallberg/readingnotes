@@ -36,12 +36,14 @@
     - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
 
 ## Eye movements in reading
+
 - Basic characteristics of eye movements in reading. 93-100
 - Perceptual span is fixated word plus two words to the right. Holds across writing systems. 109
 - word skipping 114
 - parafoveal benefit is primarily from the first two or three letters. 121
 
 ## Word identification in reading (continuous text)
+
 - Gaze duration as measure of lexical access: 136
 
   > we are not claiming that any single measure that one can extract from the eye movement data can be viewed as "the time to access the lexicon" or the "time to access the meaning of a word [due to spillover effects. But] spillover effects are fairly minor and in many cases it isn't unreasonable to think of gaze duration as a pretty good approximation of initial word encoding time" 
