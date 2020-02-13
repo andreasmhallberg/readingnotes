@@ -11,7 +11,7 @@
   - Little know from his biography.
   - Different accounts of his name.
   - Name is Persian diminutive of apple, "scent of apple" as a wrong translation. 9
-  - Attacks by Kufan scholars. Part of *šuʿūbiyya* movement (drive from Arab cultural hegemony).
+  - Attacks by Kufan scholars. Part of *šuʿūbiyya* movement (drive from Arab cultural hegemony). 11
   - Moved to Basra.
     - Contact with al-Xalīl. Many accounts of deep affection between the two.
   - Humiliated by al-Kasāʾī in Bagdad, *Masʾalat al-zunbar* 13
@@ -104,9 +104,9 @@
 
 - Operation (*ʿamal*) 87
   - each operator associated with speech act
-  - *ḥarf* has only syntacts meaning. Named after the speech act in which it is used (*ḥarf istifhām, nidāʾ, etc.*) 88
+  - *ḥarf* has only syntactic meaning. Named after the speech act in which it is used (*ḥarf istifhām, nidāʾ, etc.*) 88
 
-- Grammatical phenomenon disussed in many different parts from different perspectives. 69
+- Grammatical phenomenon discussed in many different parts from different perspectives. 69
 
 ## Morphology
 

@@ -77,6 +77,7 @@
 @islam
 @popular-culture
 @literature
+@history
 
 @none (no suitable keyword)
 

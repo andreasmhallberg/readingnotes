@@ -15,7 +15,7 @@ Discusses the retention of case in Modern Standard Arabic despite it not having 
   - Several summaries of grammatical works
 
 - Different degrees of marking case with vowel signs, "not a trend" and primarily found in books in Arabic-related fields such as literature, grammar, or traditional rhetorical studies." 249
-  - Example of grammar book where final vowels are marked on nouns and on verbs in the imperative but nowhere else.
+  - Example of grammar book where final vowels are marked on nouns and on verbs in the imperfective but nowhere else.
 
 - Examples of inconsistent and incorrect use of case markers in writing and speech. [Uses "recitation" as synonym to read speech.] 247-57 
 

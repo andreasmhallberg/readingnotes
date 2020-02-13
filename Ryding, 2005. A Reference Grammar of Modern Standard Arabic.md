@@ -1,5 +1,9 @@
 # Ryding, Karin C. 2005. A Reference Grammar of Modern Standard Arabic. Cambridge, UK; New York: Cambridge University Press.
  
+- Aim: xviii
+
+> [This gramamr] centers on the essential of modern written Arabic likely to be encountered in contemporary Arabic expisitory prose.
+
 ## Case
 
 - Arabic as normally inflected for case: 54
@@ -19,6 +23,8 @@
 ## Misc
 
 - Cites Sibawayh to show that *maʿa* is not a true preposition: "*dhahab-a min maʿ-i-hi*" 393
+
+- *-an* ending on defective nouns. 29
 
 @Arabic:Standard
 @grammar

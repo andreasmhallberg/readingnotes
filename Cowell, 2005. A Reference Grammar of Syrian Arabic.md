@@ -5,7 +5,13 @@
 ## Phonotactics
 
 - CCC consonant clusters. Epenthesis inserted CvC-C. 25
-- Forms of attached pronouns. 589
+
+## Numerals
+
+[informatin speard out on different places.]
+
+- Ordinals 316
+  - Two on page 510
 
 ## Verb formation
 
@@ -183,6 +189,7 @@
     - pl: *hadōlīk, hadōk, hadenk*
   - Forms ending in consonant have stylistic variant with *-e* (*hadīke*)
   - Shortened form *hād* used in end of phrases.
+- Forms of attached pronouns. 589
 
 ## Misc
 

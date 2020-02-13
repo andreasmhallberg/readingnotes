@@ -10,7 +10,7 @@
 
 - Unanimous agreement to adopt diacritization for all texts: 160
 
-  > There is nearly unanimous agreement that permanent vowels ought to be incorporated as an integral part of the [written] language [...] But paradoxically nothing has been done.
+  > There is nearly unanimous agreement that permanent vowels ought to be incorporated as an integral part of the language
 
 - Summarized Furayḥa's *Naḥw ʿarabiyya muyassara*. 167-168
 

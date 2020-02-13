@@ -32,7 +32,7 @@
   - The role of phonological computation:
     - Consensus that sound plays some role. No consensus in how big a role or how to conceptualize it. 72
     - Two routes for accessing phonological shape of word: *address phonology* ("looked up" in lexicon) and *assembled phonology* (contracted from written word) 72
-    - Majority view that  both routes are employed (duel route). Quickest one for a given word is used. Model. 79
+    - Majority view that  both routes are employed (dual route). Quickest one for a given word is used. Model. 79
     - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
 
 ## Eye movements in reading
@@ -82,17 +82,17 @@
   3. No parafoveal preview
   4. Prevents or cannot analyze regressions
 - Serial/garden-path theory of processing. 222
- - Sentences are processed incrementally, word by word, not at the end of a clause.
-   - Shown in that semantic anomalies that require processing of thematic roles are recognized early. 223
-   - Only one structure is built immediately. If false has to be reanalyzed
- - Two governing principles:
-   - *Minimal Attachment*: "build the simplest structure", i.e. as few nodes as possible in syntactic tree.
-   - *Late Closure*: attach new word to current phrase or clause if possible.
- - Makes clear predictions on eye-movements that has been shown to be correct. 225
- - Readers account for transitivity of verb for parsing. 227
+  - Sentences are processed incrementally, word by word, not at the end of a clause.
+    - Shown in that semantic anomalies that require processing of thematic roles are recognized early. 223
+    - Only one structure is built immediately. If false has to be reanalyzed
+  - Two governing principles:
+    - *Minimal Attachment*: "build the simplest structure", i.e. as few nodes as possible in syntactic tree.
+    - *Late Closure*: attach new word to current phrase or clause if possible.
+  - Makes clear predictions on eye-movements that has been shown to be correct. 225
+  - Readers account for transitivity of verb for parsing. 227
 - Interactive, constraint-based theories. 229
- - Assume the frequency of structure, of word in the structure, and that world knowledge guides parsing. 
- - Impossible to falsify. 229
+  - Assume the frequency of structure, of word in the structure, and that world knowledge guides parsing. 
+  - Impossible to falsify. 229
 
    > The claim itself says little more than various things might matter in comprehending a sentence; it does not by itself make any clear predictions about which things actually matter, or how and when they have influence.
 

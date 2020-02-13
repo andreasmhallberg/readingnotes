@@ -155,7 +155,6 @@
 
 ## Canonical syntax (*naḥw*)
 
-
 - Grammar (*naḥw* and *ṣarf*) was considered prerequisite for any intellectual pursuit. 49
   - "the social function of grammar" as a gate keeper. *Iʿrāb* most important: 50
 
@@ -274,7 +273,7 @@
     - Established term *naqd*
   - Matured in debate with *šuʿūbiyya* 102
     - Elites of conquered cultures fought to maintain cultural dominance. Attacked value Arabic literature.
-    - al-Jāḥoẓ (d.868), *Bayān wa-tabyīn* 103
+    - al-Jāioẓ (d.868), *Bayān wa-tabyīn* 103
 
       > nothing less than an encyclopedia of all contemporary knowledge concerning the evaluation of textes
 

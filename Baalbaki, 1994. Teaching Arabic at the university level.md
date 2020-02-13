@@ -2,7 +2,7 @@
 
 Teaching Arabic at the university level in the Arab world is burdened by problems of tradition grammatical descriptor.
 
-- Emphases on explanations of grammar, rather than only description of grammatical phenomenon, leading to questionable lines of reasoning. Leads to teaching/students relying in recitation of formulae rather then explaining structres. 86-
+- Emphases on explanations of grammar, rather than only description of grammatical phenomenon, leading to questionable lines of reasoning. Leads to teaching/students relying in recitation of formulae rather then explaining structures. 86-
   - Problem in all levels of education:
 
   > From the level of the elementary school up to the most specialized university courses, the teahing of grammar hardly departs from what we know from Sībawayhi's *Kitāb*.

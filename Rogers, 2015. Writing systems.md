@@ -2,7 +2,9 @@
 
 [Only chapter on terminology represented here. Other chapters are on different writing systems.]
 
-- *Diacritics:* graphemes that cannot occur alone, only in connection with other (free) graphemes. 11
+- Definition of diacritic (bound grapheme): 11
+
+  > **Diacritics** are **bound graphemes** which occur only in combination with other graphemes.
 
 - *Ligatures:* two graphemes written as one unit. 12
   - *Quasi-ligature:* pair of grapheme regarded as one letter. Spanish ll/cc, Old Danish aa.
