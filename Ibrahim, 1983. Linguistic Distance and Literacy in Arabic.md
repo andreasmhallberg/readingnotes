@@ -6,7 +6,13 @@ Discusses negative effects of diglossia on literacy. 507
 
 - Diglossia is a continuum (El-Hassan 1977) for the highly educated, but for not highly educated it is a dichotomy [i.e. Ferguson's classical diglossia]. 509
 
-- Icraab: "teaching/learning Arabic is often equated with teaching/learning grammar, which in turn is equated with teaching/learning the system of grammatical inflection." 512
+- Arabs have difficulties in learning case/mood inflectoin: 511
+
+  > the vastly simplified inflectional system of spoken Arabic means that learners of the standard language will and do have considerable difficulty in learning the rich and fairly complicated system of grammatical inflections of written Arabic.
+
+- Grammar equated with *iʿraab*: 512
+
+  > teaching/learning Arabic is often equated with teaching/learning grammar, which in turn is equated with teaching/learning the system of grammatical inflection.
 
 - "spoken Arabic is considered to be unworthy of the label 'language' but rather a nameless verbal corruption." 512
   - The study of spoken Arabic is suspect. 513

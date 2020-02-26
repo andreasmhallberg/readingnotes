@@ -1,5 +1,7 @@
 # Owens, Jonathan. 1990. Early Arabic Grammatical Theory: Heterogeneity and Standardization. Amsterdam Studies in the Theory and History of Linguistic Science, v. 53. Amsterdam; Philadelphia: J. Benjamins Pub. Co.
 
+[Chap 4--11 not read.]
+
 - The schools
   - Traditional historiography, classical description by Anbārī (d. 1181). 1
     - Basra and Kufan schools during Ummayad dynasty
@@ -20,7 +22,7 @@
   - *aʿjabtu min ḍarbi  (fī) l-yawmi zaydan*
   - *yadu (li-) zaydin*
 
-- List of different on particulars reveals heterogeneity in 8th century in forms of explanation and terminology
+- List of differences on particulars reveals heterogeneity in 8th century in forms of explanation and terminology
   - Becomes standardized in 9th century.
 
 @ALT

@@ -2,9 +2,9 @@
  
 - Aim: xviii
 
-> [This gramamr] centers on the essential of modern written Arabic likely to be encountered in contemporary Arabic expisitory prose.
+> [This grammr] centers on the essential of modern written Arabic likely to be encountered in contemporary Arabic expisitory prose.
 
-## Case
+## [Pracitices of case inflection]
 
 - Arabic as normally inflected for case: 54
 
@@ -16,7 +16,13 @@
 
 - None use of case markers in reading aloud described as "pause form". 167n51
 
-- Reading aloud with case endings is a specialist skill. The degree to which learners need to learn it depends on goal. 167
+- Case inflection in language learning 167
+
+  > The degree to which they [learners] need knowledge of explicit case marking rules depend on the structure  and goals of particular academic programs, and on the goals of individual learners.
+
+- Often not used in reading aloud: 167n51
+
+  > In reading written Arabic aloud, some narrators read most of the words in pause form, omitting desinential infelctions.
 
 - Eight nominal declensions. 184-
 

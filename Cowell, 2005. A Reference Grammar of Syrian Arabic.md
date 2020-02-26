@@ -6,6 +6,10 @@
 
 - CCC consonant clusters. Epenthesis inserted CvC-C. 25
 
+## Verbs
+
+- Inflection of *katab*. 55
+
 ## Numerals
 
 [informatin speard out on different places.]
@@ -14,7 +18,6 @@
   - Two on page 510
 
 ## Verb formation
-
 
 - IX used for colors "byəbyaḍḍ" [?]. 101
 

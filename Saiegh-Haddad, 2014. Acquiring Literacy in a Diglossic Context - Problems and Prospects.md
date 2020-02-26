@@ -5,7 +5,9 @@
   2. resilience against using vernacular in H functions
   3. religious-political ideology to have language as unifying factor
 
-- Case is complicated. "Given the linguistic complexity of Standard Arabic (especially the case the linguistic mood and case-marking system)" 232
+- Case is complicated: 232
+
+  > Given the linguistic complexity of Standard Arabic (especially the case the linguistic mood and case-marking system)
 
 - Statistics on diglossic words with 96 Israeli-Arabic five-year-olds, two hours each in school: 237
   1. 40.6% of lexical types forms that are predictibly phonetically different in dialect and SA (*dhahab/dahab 'gold*).

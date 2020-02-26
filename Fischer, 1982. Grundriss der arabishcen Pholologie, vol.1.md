@@ -3,6 +3,7 @@
 
 [Notes in Swedish]
 [No page refs. See numbered sections.]
+[Should be separate entries for chapters.]
 
 ## 1. Introduktion
 

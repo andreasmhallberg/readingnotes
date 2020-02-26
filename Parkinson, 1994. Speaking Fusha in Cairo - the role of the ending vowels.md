@@ -25,7 +25,7 @@ Subjects' education: 182
 
 - Words with enclitic pronoun often case vowel. 191
 
-- Indefinite more often marked than construct state in idea fa. 191, 200
+- Indefinite more often marked than construct state in idea fa. 191,200
 
 - Numbers not inflected as nouns. 192
 
