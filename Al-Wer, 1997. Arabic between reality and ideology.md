@@ -10,6 +10,10 @@
 
   > Many hours of school time are spent on teaching archaic linguistic features which are mostly only encountered and exemplified through ancient texts in the classroom. Outside the school, the pupils are most unlikely to use or encounter examples of these grammatical forms.
 
+- The form of prestige of the standard variety in Arabic is qualitatively different from the standard varieties of Europe languages: 255
+
+  > The status and utility of CA is quite different from, and should not be confused with, the social evaluation and function of the standard varieties of modern European languages.
+
 - SA (CA) has no part in sociolinguistic change:
   1. Direction of change often away from CA of that means towards prestige. Several examples. 256-
   2. CA features decrease by education if that means towards prestige. Several examples. 258-

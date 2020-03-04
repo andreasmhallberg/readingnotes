@@ -32,7 +32,7 @@
   - Later terms not found in *Al-Kitāb*: 34-5
     - *ism āla*
     - *ištiġāl*
-    - *ism maʿna* (abstract noun)
+    - *ism maʿnā* (abstract noun)
     - *ism ʿayn* (concrete noun)
     - *nāʾib fāʿil*
     - *tanāzuʿ* (conflict in governance)

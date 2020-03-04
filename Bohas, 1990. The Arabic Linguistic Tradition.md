@@ -55,8 +55,7 @@
 - All important grammarians of 10th century disciples (or disciples' disciples) of al-Mubaddar, leading to
   homogenization of theory and feeling of community. 8
 
-- Challenge by *falsafa* (Hellenistic philosophical tradition) with its focus on language independent universals,
-  degrading the unique status of Arabic, and by association the grammarians. 8
+- Challenge by *falsafa* (Hellenistic philosophical tradition) with its focus on language independent universals, degrading the unique status of Arabic, and by association the grammarians. 8
   - Grammarians respond in two ways: 9
     1. Codify grammar into a coherent system of principles and categories (*uṣūl*)
     2. Subject grammar to higher levels of speculation (*ʿilal*, reasons behind grammatical rules)
@@ -179,7 +178,7 @@
     - related to noun: imperfect verb (because of *iʿrāb* endings)
     - related to particle:
       - uninflected *biʾsa, niʿma*
-      - auxiliary verbs (*fiʿl nāqis* because does not signify an event)
+      - auxiliary verbs (*fiʿl nāqiṣ* because does not signify an event)
   - *ḥarf*: residual category, defined as not *ism* nor *fiʿl*
     - related to verb: *inna* and sisters because governs accusative
     - related to noun: none
@@ -197,7 +196,7 @@
 
 - "lack of interest in the semantics of the verbal system, which was never approached in a systematic way" 55
 
-- Term *snād* (predicative relationship) only later in the tradition distinguished form *mubtadaʾ* and *xabar* 56
+- Term *isnād* (predicative relationship) only later in the tradition distinguished form *mubtadaʾ* and *xabar* 56
 
 - *kalam* used when semantics are concerned, *jumla* when formal aspects are concerned. 56 
 
@@ -221,7 +220,7 @@
     - typically does not govern
     - can govern nouns and verbs
 
-- *ʿāmil maʿnawī* 'abstract operator' phonetically void governed. Most importantly *ibtisāʾ* 60
+- *ʿāmil maʿnawī* 'abstract operator' phonetically void governed. Most importantly *ibtidāʾ* 60
 
 - Formulaicity and few categories requires abstract concepts to incorporate non-prototypical structures: 60-
   - *iʿrāb maḥallī*: words that do not inflect and sub-clauses 

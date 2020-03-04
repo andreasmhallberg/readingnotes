@@ -19,7 +19,6 @@
   - morphophonology (described in great detail)
   - phonology
 
-
 - Morphophonological rules behave differently according to 70
   - word class
   - position in word

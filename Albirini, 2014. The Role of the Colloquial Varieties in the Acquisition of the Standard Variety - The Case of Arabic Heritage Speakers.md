@@ -35,9 +35,9 @@
 
 - Mixing with colloquial regarded as errors. 457  
 
-    > the advanced heratage speakers produced a substantioal number of errors through borrowings from, or swithces to, colloquial Arabic.
+  > the advanced heratage speakers produced a substantioal number of errors through borrowings from, or swithces to, colloquial Arabic.
 
-    - [Target language is a fictious "pure" standard arabic. Control group produced near 100% "correct" Standard Arabic, but this is likely due to test condition promoting "school language" percieved as correct, not real-life Standard. Were transfer from colloquial regarded as correct EH overall mean accuracy would be around 70% and HE 77%.]
+  - [Target language is a fictitous "pure" standard Arabic. Control group produced near 100% "correct" Standard Arabic, but this is likely due to test condition promoting "school language" percieved as correct, not real-life Standard. Were transfer from colloquial regarded as correct EH overall mean accuracy would be around 70% and HE 77%.]
 
 - Conclusion: convergence of proficiencies in higher levels means that heritage speakers have not had opportunity to advance. 460
 

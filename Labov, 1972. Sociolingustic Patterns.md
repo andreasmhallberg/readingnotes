@@ -22,7 +22,7 @@
 
 - Eliciting intuition of non-standard is hard: 214
 
-  > But it is almost impossible to obtain interpretable results on the reverse type of *vernacular correction tests,* in which the subject as asked to correct standard prestige forms to the nonstandard vernacular.
+  > But it is almost impossible to obtain interpretable results on the reverse type of *vernacular correction tests,* in which the subject is asked to correct standard prestige forms to the nonstandard vernacular.
 
 - "In careful speech, women use fewer stigmatized forms than men [...] and they are more sensitive to the prestige pattern." 243
 
