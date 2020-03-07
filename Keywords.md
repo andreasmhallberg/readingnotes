@@ -40,8 +40,8 @@
 # Area of linguistics
 
 @CMC (Computer Mediated Communication)
-@FLA (second language acquisition)
-@SLA (first language acquisition) 
+@FLA (first language acquisition. Acquisition of SA by native Arabic speakers is considered FLA.)
+@SLA (second language acquisition) 
 @code-switching
 @diglossia (dealing with diglossia as a theoretical concept)
 @heritage-speakers
@@ -50,7 +50,6 @@
 @language-instruction (Typically combined with `SLA` or `FLA`)
 @language-planning
 @lexicon
-@literacy
 @morphology
 @orthography (spelling in a particular language)
 @pause (implies prosody)

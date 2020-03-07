@@ -15,7 +15,7 @@
      [30.9% in the text, which is a typo. (Saiegh-Haddad, personal communication, 2018-03-30)]
   3. 21.2% types overlapping/shared (*janūb, daftar*)
 
-@SLA
-@literacy
+@FLA
+@reading
 @diglossia
 @Arabic

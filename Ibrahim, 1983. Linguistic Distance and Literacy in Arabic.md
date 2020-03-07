@@ -27,4 +27,5 @@ Discusses negative effects of diglossia on literacy. 507
 
 @diglossia
 @Arabic
-@literacy
+@reading
+@FLA

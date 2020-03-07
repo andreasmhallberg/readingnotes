@@ -33,7 +33,7 @@
   6. Negations
   7. *-uh* object
 
-- Numbers pronounced dialectally by everyone. 132
+- Numbers pronounced in dialectal form by everyone. 132
 
 - No correlation between uses of MSA phonemes. [individual strategies]. 132
 

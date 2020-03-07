@@ -10,7 +10,8 @@
 
 - Use of English and French for sciences gives impression that Arabic is unfit for sciences and upward mobility. 249
 
-@literacy
 @diglossia
 @Arabic
 @article
+@reading
+@FLA

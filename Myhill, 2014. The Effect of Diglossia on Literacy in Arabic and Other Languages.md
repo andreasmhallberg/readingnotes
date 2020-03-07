@@ -4,7 +4,7 @@
 
 - Arab spending on education in % of GDP above average. 200
 
-- Sovjet language policy: all dialects have written language - resulting in high literacy rates. 207
+- Soviet language policy: all dialects have written language - resulting in high literacy rates. 207
 
 - Diglossia as scale. 209
 
@@ -20,4 +20,4 @@
 @Arabic
 @diglossia
 @FLA
-@literacy
+@reading

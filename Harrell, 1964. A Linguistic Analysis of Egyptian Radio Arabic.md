@@ -24,7 +24,7 @@
   2. Proper names unmarked. 43
   3. Article preserves case. 43
      - (*ra’iisu al-gumhuriyya/ra’iis Mubarak*)
-  4. Borrowings no case. 44
+  4. Borrowings no case (eg. names of months). 44
   5. Numerals: 1-10 CA, >10 dialect. 49
 
 @Arabic:Standard

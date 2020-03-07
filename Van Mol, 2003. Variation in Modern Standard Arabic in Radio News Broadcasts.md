@@ -42,18 +42,18 @@
 - Empirical investigations
   - *wa-/fa-/ʾin*
     - In MSA *wa-* often used for functions reserved for *fa-* according to Arabic grammars. 230
-  - *idha/law*
+  - *iḏa/law*
     - Arabic grammars and all Western grammars specify that *law* is used for conditions that cannot be realized. 138
     - Mentions in literature of these particles used for indirect questions in MSA. 240
     - Table of occurrences of the particles in different functions. 242
     - *in* in conditions overtaken by *iḏa*. 257
     - *law* is used for impossible conditions or conditions regarded by speaker as impossible. 257
-  - *maa/lam*
-    - *maa* to negate past verb 20.5% [racalculated]. 264
-    - *maa* negates present only with *zaal*. 272
-  - *sawfa/sa*
+  - *mā/lam*
+    - *mā* to negate past verb 20.5% [racalculated]. 264
+    - *mā* negates present only with *zaal*. 272
+  - *sawfa/sa-*
     - No distinction on meaning. 281
-    - *sawfa laa* does not occur in corpus. *lan* used instead.
+    - *sawfa lā* does not occur in corpus. *lan* used instead.
   - *aw/am*
     - *am* is marginal. 290
   - *hal/am*

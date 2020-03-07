@@ -215,11 +215,11 @@ Med nyarabiskans framväxt CA hög status.
 Vpl Spl
 
 - Direkt objekt med *li*-.
-- *baʿd*, *kull*, *ġayr*, behåller CA *iḍāfa*.
+- *baʿḍ*, *kull*, *ġayr*, behåller CA *iḍāfa*.
 - *kān* för tempora
-- självständigt pron för subjekt.
-- dualis bara i subst. och räkneord
-- *maa* generell negation
+- självständigt pronomen för subjekt.
+- dualis bara i substantiv och räkneord
+- *mā* generell negation
 
 - Hyperkorrekt - CA form på fel plats
 - Hypokorrekt - felaktigt försök att skriva CA form
@@ -227,7 +227,7 @@ Vpl Spl
 
 #### 3.3.2 Eine arabische Koine in früislamischer Zeit
 
-”kan inte betvivlas” att diglossia från början
+”kan inte betvivlas” att diglossi från början
 
 - H påverkar L mycket mer i städer och bara indirekt på landet. Beduiner i stort oberörda.
 - Land och stad uppdelat i hela språkområdet. Undantag modernt grundade städer (ex. Tripoli) där även beduininslag.
@@ -240,7 +240,7 @@ Vpl Spl
 
 Lingvistiska gemensamheter som gör det möjligt att tala om en språklig enhet.
 
-- Frånvaro av *iʿrāb* anses av araber vattendelare. Men ändå anses *iʿrāb*löst tal *fuṣḥa*.
+- Frånvaro av *iʿrāb* anses av araber vattendelare. Men ändå anses *iʿrāb*-löst tal *fuṣḥā*.
 
 
 

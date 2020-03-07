@@ -18,7 +18,9 @@
 
 - Arabs cannot use their linguistic intuition, as speaker of other languages can. 76
 
-- "The absence of vowels in the fuṣḥā Arabic text is an unnecessary and costly idiosyncrasy of the Arabic writing system." 77
+- Absence of vowels in orthography is a problem: 77
+
+  > The absence of vowels in the fuṣḥā Arabic text is an unnecessary and costly idiosyncrasy of the Arabic writing system. 
 
 - Garden-path sentences. *ktb ´l-kt´b.* 77
 
@@ -28,4 +30,4 @@
 @FLA
 @diglossia
 @orthography
-@literacy
+@reading

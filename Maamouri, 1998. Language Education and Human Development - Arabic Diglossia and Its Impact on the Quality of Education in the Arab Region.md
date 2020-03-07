@@ -35,4 +35,4 @@
 @Arabic
 @language-instruction
 @FLA
-@literacy
+@reading
