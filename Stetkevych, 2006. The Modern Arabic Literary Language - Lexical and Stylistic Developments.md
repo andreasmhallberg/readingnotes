@@ -1,12 +1,12 @@
 # Stetkevych, J., 2006. The Modern Arabic Literary Language: Lexical and Stylistic Developments, Washington D. C: Georgetown University Press.
 
-- Icraab is not mentally present in reading. 84
+- *iʿrāb* is not mentally present in reading. 84
 
-- "main part" of Arabic grammar teaching focuses on icraab. 84
+- "main part" of Arabic grammar teaching focuses on *iʿrāb*. 84
 
-- Ahmad Amin proposes language closer to dialect and without icraab. Proposes rule of SO. 86-87. [De facto complete.]
+- Ahmad Amin proposes language closer to dialect and without *iʿrāb*. Proposes rule of SO. 86-87. [De facto complete.]
 
-- Traditionalists want to revive icraab through full vowelling of printed texts. 88
+- Traditionalists want to revive *iʿrāb* through full vowelling of printed texts. 88
 
 - Developments in MSA: 91
   - generalization of gender inflection in *ayy*. 

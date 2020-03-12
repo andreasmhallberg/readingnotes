@@ -17,7 +17,7 @@
 
 - Speakers of level one rarely knows other languages. 28
 
-- 2 speakers try to use correct icraab. If they cant they do not pronounce icraab. 73
+- 2 speakers try to use correct *iʿrāb*. If they cant they do not pronounce *iʿrāb*. 73
 
 - Traditional grammar does not specify where pausal forms are used: 83  
 

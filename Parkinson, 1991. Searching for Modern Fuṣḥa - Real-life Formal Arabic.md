@@ -23,9 +23,9 @@
 
 - Four ways of reading SA aloud 38:
   1. prescriptively correct
-  2. partly but correct icraab
-  3. icraab only on some verbs and before enclitic pronoun. [Same as 2?]
-  4. No icraab.
+  2. partly but correct *iʿrāb*
+  3. *iʿrāb* only on some verbs and before enclitic pronoun. [Same as 2?]
+  4. No *iʿrāb*.
 
   > it is possible to orally perform a written modern fuṣḥa text (1) with full vowelling and fully correct use of pause form (including even such archaisms as changing the *-an* of *giddan* to *-a* before a pause, as is currently done by a single news reader on Egyptian television), (2) with only partial vowelling and some incorrect use of pause form (putting pause forms when there is no pause putting vowels before a pause), and note that there is a wide range of partial vowelling here, from most to only a little with clear hierarchy of contexts where vowels are more likely to be retained, (3) with *iʿraab* vowels only on some verbal forms and before pronouns suffixes and nowhere else, or (4) with no *iʿraab* vowels at all, but with otherwise correct syntax; in each of these cases, most Egyptians would still consider the performance an example of modern fuṣḥa (whatever they happen to call it).   
 
@@ -44,11 +44,11 @@
   2. Anti-narrow-*fuṣḥā*
   3. Expanded-*fuṣḥā*
 
-- Matched guise test: phonology more important than icraab for impressions of *fuṣḥā*-ness. 57
+- Matched guise test: phonology more important than *iʿrāb* for impressions of *fuṣḥā*-ness. 57
 
 - Broad spectrum of what is accepted as *fuṣḥā*. 58
 
-- Not pronouncing icraab rated as 'smarter'. 59
+- Not pronouncing *iʿrāb* rated as 'smarter'. 59
 
 - case-less Standard Arabic often preferred over Standard Arabic with case: 61
 

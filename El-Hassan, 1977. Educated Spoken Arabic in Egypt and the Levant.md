@@ -4,7 +4,7 @@
 
 - Critique of Kay. [Similar to Parkinson (1990).] 116-
 
-- Critique of Blanc (1960): conclusion (numbers, no icraab, etc.) not confirmed by Leeds data. [Leed data however very diverse. Difficult to see how conclusion can be drawn from examples.]
+- Critique of Blanc (1960): conclusion (numbers, no *iʿrāb*, etc.) not confirmed by Leeds data. [Leed data however very diverse. Difficult to see how conclusion can be drawn from examples.]
 
 - Description of Leeds-corpus. [Only criteria seems to be that speakers be educated.] 120 
 

@@ -4,13 +4,13 @@
 
 - MLA (i.e. MSA) has become a medium of oral communication the last 15 years. 175
 
-- Icraab is grammatically superfluous. 174 "OLA, as in general MLA, has produced and produces analytical devices which enable it to dispense with the residential endings." 180
+- *iʿrāb* is grammatically superfluous. 174 "OLA, as in general MLA, has produced and produces analytical devices which enable it to dispense with the residential endings." 180
 
 - Speakers are keen to restore endings to raise their speech from the dialect. 175
 
 - "the rather complicated system of these CA endings." 175
 
-- Icraab is highly valued in the education system. "condition sine qua non of CA" 176
+- *iʿrāb* is highly valued in the education system. "condition sine qua non of CA" 176
 
 - Word endings are preferred: 177 
   1. preceding *waṣla*
@@ -25,9 +25,9 @@
 
 - "Regeneration" of case system. Stylistic and not syntactic. 179
 
-- Arabs cannot use icraab in fluent speech. 180
+- Arabs cannot use *iʿrāb* in fluent speech. 180
 
-- Correct icraab first minutes of speech. Then more mixed ways of speaking. 180
+- Correct *iʿrāb* first minutes of speech. Then more mixed ways of speaking. 180
 
 - Two possible situations: 
   1. speaker knows the ending and then he pronounces it. 
@@ -39,7 +39,7 @@
   3. overuse of lexicalized *-an* adverbs. 182-184
   4. overuse of indicative. 184
 
-- Impossible to know if icraab vowel: 184-185
+- Impossible to know if *iʿrāb* vowel: 184-185
   1. with enclitic pronoun –*ak*/*-ik*
   2. Vowel in word boundaries, e.g. preceding article
 

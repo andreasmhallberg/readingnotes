@@ -16,7 +16,7 @@
   > According to Badawi's model, the speech in my sample should form a 'level' in which the same linguistic features are used by every speaker (those features of the third level); but to the contrary I have found that we get a very broad spectrum of speech, ranging form what is almost 'pure' colloquial, to what is almost 'pure' classical.
 
 - Dialects affixes on SA stem, but not vise versa. 87. 
-  - Three instances of icraab on dialectal stem, one of which is unclear. 167
+  - Three instances of *iʿrāb* on dialectal stem, one of which is unclear. 167
 
 - Counts case markers. Excludes pause position [how?] and adverbs. 103
 
@@ -27,7 +27,7 @@
 - Features investigated:
   1. Verb usage (dialect/MSA stems)
   2. /ṯ/, /ḏ/, /ẓ/, /j/, /q/
-  3. Icraab
+  3. *iʿrāb*
   4. Relative pronouns (*allaḏī/illi*)
   5. Complementizers
   6. Negations
@@ -68,7 +68,7 @@
   3. MSA negations, *inna*, *mabni*, Acc on indefinites.
   4. *Anna*, *allaḏī*, *jīm*
   5. MSA suffix (3.ms), *hāḏa* (pronoun)
-  6. Icraab, [ṯ], VS
+  6. *iʿrāb*, [ṯ], VS
   7. [ẓ]
   8. classical numbers
 

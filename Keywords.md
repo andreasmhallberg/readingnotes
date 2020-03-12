@@ -79,6 +79,3 @@
 @history
 
 @none (no suitable keyword)
-
-# Notes
-iʿrāb often spelled icraab

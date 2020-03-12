@@ -7,7 +7,7 @@ Teaching Arabic at the university level in the Arab world is burdened by problem
 
   > From the level of the elementary school up to the most specialized university courses, the teahing of grammar hardly departs from what we know from Sībawayhi's *Kitāb*.
 
-  - Especially with regards to icraab:
+  - Especially with regards to *iʿrāb*
 
   > students [and teachers?] treat grammar, and especially *i‘rāb*, as standard formulas which they readily produce but hardly comprehend since they were trained mainly to consider the formal aspects of structure with very little concern for the different meanings which different structures express.
 

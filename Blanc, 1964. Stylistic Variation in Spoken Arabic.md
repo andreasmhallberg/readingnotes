@@ -13,7 +13,7 @@
 
 - Analysis.
     1. Baghdadi speakers use dialectal voweling pattern on classical root. 103
-    2. No icraab. 92
+    2. No *iʿrāb*. 92
     3. Bagdadi speakers more adaptations than Levantine speakers. 93 [Difference in status between dialects?]
     4. No Analytical genitive 
 

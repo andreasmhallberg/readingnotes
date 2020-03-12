@@ -6,7 +6,7 @@
 
 - Discussion on meaning of *laḥn* in early literature. 19-28
 
-- On icraab in *laḥn* litterature. 30
+- On *iʿrāb* in *laḥn* litterature. 30
 
 - Different opinions on *ḥadīṯ* as linguistic data. 44
 

@@ -22,7 +22,7 @@ Grammar and proficiency test (reading, writing, speaking, listening) in MSA.
 
   > when the goal is merely to communicate, people do not fell at loss.
 
-- Icraab not practically useful: 60
+- *iʿrāb* not practically useful: 60
 
   > It makes little difference to most of these people weather they can accurately identify some obscure grammatical structure [...] but it makes immense difference to them weather they can read the newspaper easily enough to do it constantly.
 
@@ -41,7 +41,7 @@ Grammar and proficiency test (reading, writing, speaking, listening) in MSA.
 
 - Education most important predictor of test scores. 67
 
-- Accept texts without icraab as MSA. 71
+- Accept texts without *iʿrāb* as MSA. 71
 
 - MSA integrated part of Arabic: 71
 

@@ -21,7 +21,7 @@
       - Stemform I more likely than II
   - Speakers did less mistakes at the end of sentences, since the there have more contextual knowledge. 65
 
-- Icraab not reproduced in read speech: 70
+- *iʿrāb* not reproduced in read speech: 70
 
   > The participants in this study did not attempt to reproduce case marking when the short vowels were missing, and they ignored them when they were present regardless of whether they were accurate or misleading. 
 

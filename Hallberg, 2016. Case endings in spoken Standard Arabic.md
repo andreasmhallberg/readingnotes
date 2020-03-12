@@ -5,7 +5,10 @@
 > the most formal register of Arabic extemporaneous speech by proficient, highly educated native speakers of Arabic
 - 10% of tokens would take a case marker in undiacritized writing. 6% if adverbs and pl/dual *-īn/-ayn* are excluded. 76n6
 
-- Teaching of the case system using formulaic analysis. 67-71
+- Teaching of the case system using formulaic analysis. "Doing" *iʿrāb*. 67-71
+
+
+
 
 ## Material
   - 
@@ -34,7 +37,6 @@
 
 @Arabic:Standard
 @case
-@icraab
 @syntax
 @morphology
 @corpus-linguistics

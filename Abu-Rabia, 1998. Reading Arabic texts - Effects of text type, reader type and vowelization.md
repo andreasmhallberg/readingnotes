@@ -4,7 +4,7 @@
   1. difficult because of binding rules. 106
   2. homographs
   3. difficult that some vowels are under the line
-  4. icraab carries contents
+  4. *iʿrāb* carries contents
 
 - "/الله/ /'God'/ can be very confusing, even with vowels, for advanced readers." [!] 107
 
@@ -16,7 +16,7 @@
 
 - Small difference between poor and skilled readers. 111
 
-- [Does not measure reading comprehension *per se*, as claimed, but ability to sound out correctly, incl. icraab vowels. 111 Finds that vowelling helps reading comprehension, but given how the study is designed, this may just mean that it is easier to read out icraab when it is marked in the text. 116]
+- [Does not measure reading comprehension *per se*, as claimed, but ability to sound out correctly, incl. *iʿrāb* vowels. 111 Finds that vowelling helps reading comprehension, but given how the study is designed, this may just mean that it is easier to read out icraab when it is marked in the text. 116]
 
 - "if vowels and context are not available, then reading every second or third word correctly is impossible." [!] 116
 

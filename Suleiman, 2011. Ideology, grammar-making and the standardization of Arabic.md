@@ -4,11 +4,11 @@
 
   > explore the ideological content of standardization of grammar-making in the Arabic linguistic tradition during the first four centuries of Islam.
 
-- Plenty of traditions about importance of reading Quran with correct icraab, ergo erroneous plentyful. 8,25
+- Plenty of traditions about importance of reading Quran with correct *iʿrāb*, ergo erroneous readings plentiful. 8,25
 
 - *Ḥadīṯ* first not data grammar. Became so later. 9 [See Sadan 2015]
 
-- Speech is a part of human behavior and as such subject to moral evaluation. 
+- Speech is a part of human behavior and as such subject to moral evaluation.
 
 - Grammatical rules are the essence of language and cannot be questioned without questioning language itself [naive-realist]. 13
 

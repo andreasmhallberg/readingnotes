@@ -6,11 +6,11 @@
 
 - Arab schools follow traditional Arabic grammar. Discontinuation at university level that Jewish students do not experience. Jews study according to the Westernized model of the university. Must then teach by traditional method as teachers. No use of university schooling. 107--8
 
-- Formulaic icraab analysis in education. Educations 103
+- Formulaic *iʿrāb* analysis in education. Educations 103
 
   > seeks to incalculate not only the facts of grammar, but also a formulaic, stylized, declamatory method of analysis." Focus on surface forms of grammar, not underlying principles.
 
-- Icraab has several meanings: 114
+- *iʿrāb* has several meanings: 114
   - inflection system
   - "the act of inflection", i.e. adding vowels
   - formulaic analysis
@@ -18,7 +18,7 @@
 - Stakes higher in Arabic language instruction:
   - foreign languages higher valued on the labor market. Seen as threat. Gives moral dimension. 103
 
-- Icraab "has come in the Arab tradition to symbolize grammatical mastery on the whole and consequently is emphasized greatly in grammar instructions." 104
+- *iʿrāb* "has come in the Arab tradition to symbolize grammatical mastery on the whole and consequently is emphasized greatly in grammar instructions." 104
 
 - "alienation of Arabs from Arabic grammar" 105
 

@@ -12,13 +12,13 @@
 
 - List of references on the term *laḥn*. n107
 
-- Centrality of icraab: 156
+- Centrality of *iʿrāb* 156
 
   > Most accusations of *laḥn* concern the wrong use of case-endings, and no doubt these mistakes constituted---in the eyes of the Arabs at least---the most flagrant errors, although not the only ones.
 
   > almost all Arabic accounts of the origin of Arabic grammar concentrate on the wrong use of the declensional endings, as if there were no other types of mistakes against the rules of the Classical standard.
 
-  - This focus in icraab because of its status as shibbolet. Correct us of icraab "requirement for intellectual carrier." 156
+  - This focus in *iʿrāb* because of its status as shibbolet. Correct us of icraab "requirement for intellectual carrier." 156
 
 @Arabic
 @ALT

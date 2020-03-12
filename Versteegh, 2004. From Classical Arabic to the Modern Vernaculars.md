@@ -2,7 +2,7 @@
 
 [Good overview of the history and forms of variation in Arabic vernaculars. Several useful tables comparing features.]
 
-- Majority view among Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no icraab. 1741 
+- Majority view among Arabists that Classical Arabic was supratribal variety/poetic koine. Tribal vernaculars had no *iʿrāb*. 1741 
 
 - Arabic view that there was only one language in Arab peninsula. Recorded variation (*luġāt*) only in lexicon and phonology. 1741
 

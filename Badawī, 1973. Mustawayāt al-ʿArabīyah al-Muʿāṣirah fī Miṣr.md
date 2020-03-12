@@ -30,7 +30,7 @@
 
 - Case marking on proper nouns:
   - a characteristic of  level 1. 125 
-  - Decision by academy to allow for omission of icraab in proper nouns. 126
+  - Decision by academy to allow for omission of *iʿrāb* in proper nouns. 126
 
 - It is less difficult to extemporize in  level 1 than in level 2 since its topics are limited to religion. 128
 
@@ -38,11 +38,11 @@
 
 - Numbers are pronounced dialectally in level 2. 135
 
-- Level 2 differs from level 1 in that icraab is retained.  143
+- Level 2 differs from level 1 in that *iʿrāb* is retained.  143
 
-- Degree of icraab usage varies between speakers in level 2. 143
+- Degree of *iʿrāb* usage varies between speakers in level 2. 143
 
-- Most speakers of level 2 drop icraab in: 143-144
+- Most speakers of level 2 drop *iʿrāb* in: 143-144
   1. proper names
   2. numbers
 
@@ -54,7 +54,7 @@
 
 - Level 3 raise from from the inability of intellectual to speak in level 2 and the unsuitability of level 2 to express advanced thought. 150
 
-- Level 3 is decorated with icraab. [Difference from  2?] 170
+- Level 3 is decorated with *iʿrāb*. [Difference from  2?] 170
 
 - Level 1 cannot deal with contemporary culture since its speakers are not interested in it. 171 [sociolect]
 

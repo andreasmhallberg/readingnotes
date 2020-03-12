@@ -20,7 +20,7 @@
   - If dialect is close to MSA (mashreq) more interference, less compartmentalization. Speakers rely on their linguistic intuitions.  
   - If dialect is far from MSA (magreb) less interference, more compartmentalization, SA more like proper L2. (Strongly deviant vowel system in Morocco. 54)
 
-- Icraab most important distinction between H and L. 52
+- *iʿrāb* most important distinction between H and L. 52
 
 - *iʿrāb bil-ḥaraka* vs. *iʿrāb bil-ḥarf*. 53
 

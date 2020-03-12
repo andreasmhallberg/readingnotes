@@ -2,7 +2,7 @@
 
 - Experiments:
   - word naming in lists of voweled/unvoweled Arabic words.
-  - Reading accuracy in voweled/unvoweled text. Two scores per participant: counting/not-counting icraab mistakes. Mean score take. 48
+  - Reading accuracy in voweled/unvoweled text. Two scores per participant: counting/not-counting *iʿrāb* mistakes. Mean score take. 48
   - Reading comprehension in silent reading in voweled/unvoweled  texts.
 
 - [Contradictory statements about within/between participant methods. 47]
@@ -16,7 +16,7 @@
 - Negligible difference in reading comprehension in between voweling conditions. 49 [Results of this are presented differently form the word naming experiment. p-value presented for Arabic and Hebrew data together.]
 
 - No correlation between reading accuracy and silent reading comprehension. 50
-  - [This can be explained by icraab highly affecting accuracy scores but not comprehension.] 
+  - [This can be explained by *iʿrāb* highly affecting accuracy scores but not comprehension.] 
   - Author's explanation: 53
 
   > The lack of a match is due to the possibility that reading in the silent reading comprehension process with unvowelized tests the reader's cognitive effort is focused on morphological aspects of words: the *triliteral/quadriliteral-root* model of words for lexical access."
