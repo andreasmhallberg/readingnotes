@@ -1,5 +1,12 @@
 # Badawi, El-Said M., Michael G. Carter, and Adrian Gully. 2004. Modern Written Arabic: A Comprehensive Grammar. Comprehensive Grammars. London: Routledge.
 
+- Punctuation 21-
+  - Full stop an colon used by and large as in Latinate orthographies.
+  - Invention of two dots, signifying "significant pauses of various kinds" 22
+    - "Sometimes larger numbers of dots are used for the same effect" 23
+  - Em-dash to introduce dialogue. [Wrong..? Kashida]
+
+
 - Case markers mostly absent in writing: 20-21
 
   > Case and mood markers, begin mostly vocalic, seldom appear in MWA [Modern Written Arabic]
