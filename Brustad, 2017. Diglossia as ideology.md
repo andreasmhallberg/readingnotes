@@ -1,6 +1,6 @@
 # Brustad, Kristen. 2017. “Diglossia as Ideology.” In The Politics of Written Language in the Arab World, edited by Jacob Høigilt and Gunvor Mejdell, 41–67. Leiden; Boston: Brill. https://doi.org/10.1163/9789004346178.
 
-Diglossia is a language ideology that associates writing with standard langauge (*fuṣḥā*). This ideology is now contested.
+Diglossia is a language ideology that associates writing with standard language (*fuṣḥā*). This ideology is now contested.
 
 - Non-standard writing has a long history but has tended to be erased/corrected. 43-
 

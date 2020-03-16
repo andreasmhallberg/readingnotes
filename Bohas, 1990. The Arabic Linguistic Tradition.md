@@ -99,7 +99,7 @@
 
 - ALT degenerates to prescriptive recopies detached from theoretical context: 16
 
-  > After him [as-Suyūṭiy (d. 1505)], grammatical theory gradually degenerated to into a set of prescriptive recipes, to which some dry strips of dead theory still adhered. The ninteenth-century *Nahḍa*, in the name of simplification and 'common sense', only kept the recipes, cutting the completely from the theoretical roots. This degenerated version of the tradition is, to this day, the basis for teaching grammars used in most Arabic countries today.
+> After him [as-Suyūṭiy (d. 1505)], grammatical theory gradually degenerated to into a set of prescriptive recipes, to which some dry strips of dead theory still adhered. The nineteenth-century *Nahḍa*, in the name of simplification and 'common sense', only kept the recipes, cutting the completely from the theoretical roots. This degenerated version of the tradition is, to this day, the basis for teaching grammars used in most Arabic countries.
 
 ## Facts, rules, and arguments
 

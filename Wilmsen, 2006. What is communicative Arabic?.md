@@ -18,5 +18,5 @@ Argues for focus on vernacular Arabic in Arabic programs and to start with verna
 
 @Arabic
 @diglossia
-@language-instrucion
+@language-instruction
 @SLA

@@ -29,4 +29,4 @@
 
 @Arabic
 @Egypt
-@langauge-ideology
+@language-ideology
