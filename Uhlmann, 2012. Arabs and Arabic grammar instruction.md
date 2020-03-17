@@ -26,9 +26,13 @@
 
 - Proponents of pedagogical reform of Arabic instruction are hampered by suspicion. 109
 
+- Jews see a continuation of grammar between languages, Arabs don't. 108
+
 - Incommnesurability of Western and Arabic systems of grammatical description:
   - Arab categorization of verbs as augmented by one, two or three letters; Western categorization in stemforms. 111
   - Western method rely on systems of paradigms explaining isolated grammatical phenomena; Arabic method on principles explaining similar phenomenon over a range of categories. 112-113
+  - Western syntax see a sentences as pre-given structures into which words are placed. Arabic syntax see it as individual words operating on one another.
+  - Western see grammar as rules that generate language. Arabic see grammar as rules derived to describe a corpus. 112
 
 - Incommnesurability of hidden in misleading translations of terms. 114
 
