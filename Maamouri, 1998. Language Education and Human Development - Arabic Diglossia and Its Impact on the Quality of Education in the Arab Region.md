@@ -27,7 +27,7 @@
 - "The exercise of guessing the correct *iʿraab* has become a central activity in the classroom" 53
 
 - Recommendations: 
-  1. "[Pedagogy] needs to incorporate the norms and behaviours of the language community in the classroom in oder to increase immediate relevance of the learning process by connecting it to the learner’s personal experience, familiar topics and concrete real-world concerns." 61
+  1. "[Pedagogy] needs to incorporate the norms and behaviors of the language community in the classroom in order to increase immediate relevance of the learning process by connecting it to the learner’s personal experience, familiar topics and concrete real-world concerns." 61
   2. Early colloquial Arabic reading. 63
   3. total script visibility 65
 

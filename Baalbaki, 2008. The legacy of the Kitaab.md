@@ -79,7 +79,7 @@
 
 - Most frequent use of the therm *ʿilla* in *Al-Kitāb* is in *xiffa* being the *ʿilla* (cause) for various phonological processes. 59
 
-- Farfetched *ʿilal* used to establish the wisdom of the Arabs. 66
+- Far fetched *ʿilal* used to establish the wisdom of the Arabs. 66
 
 ## *Taqdīr* (suppletive insertion)
 

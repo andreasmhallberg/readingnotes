@@ -18,7 +18,7 @@
 
 - Attraction of Arabic for non-Arabs (Jews in Israel): 5
 
-    > The attraction of Arabic included the gratification of mastering a code, along with the seduction of courting danger.
+  > The attraction of Arabic included the gratification of mastering a code, along with the seduction of courting danger.
 
 - Orientalist-philologist cycle of non-proficiency in Arabic. 37
 
@@ -30,7 +30,7 @@
   - Pre-modern mode of pedagogy with pre-modern educational aims transferred by the inertia of tradition to modern setting with modern aims of mass education.
   - Doing *iʿrāb* trumps understanding: 55
 
-  > Correct conventionalized recitation of grammatical analysis is the measure of educational success in this approach. Comprehension of concepts of grammar is relegated to secondary importance as is the understanding of the given text or of the semantic effects of grammatical manipulation.
+    > Correct conventionalized recitation of grammatical analysis is the measure of educational success in this approach. Comprehension of concepts of grammar is relegated to secondary importance as is the understanding of the given text or of the semantic effects of grammatical manipulation.
 
   - Connection with Islam makes new modes of grammar instruction appear as threatening or as introducing as "slippery slope" of rendering traditional knowledge obsolete. 57
   - Aim of modern language instruction is to still generation of correct language forms. Aim of pre-modern language instruction (as in the Arabic tradition) is to interpret and decode fixed text.

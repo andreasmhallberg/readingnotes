@@ -34,8 +34,7 @@
   - The problem will grow more the longer arabization takes.
 
 - Standardization of terminology:
-  - Standardization of terminology non existent. Huge problem. Exempls 52
-  - Listor på termer hjälper inte eftersom de inte därmed kommer i användning.
+  - Standardization of terminology non existent. Huge problem. Examples 52
   - Lists of terms not helpful since they do not thereby come into use.
     - Syrian academy an exception since new terms are used in higher education. 53
 

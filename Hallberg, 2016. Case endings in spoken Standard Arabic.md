@@ -7,7 +7,8 @@
 
 - Teaching of the case system using formulaic analysis. "Doing" *iʿrāb*. 67-71
 
-
+- Redundancy of case inflection. 71-
+  - Case in the Quran. 74
 
 
 ## Material

@@ -13,16 +13,16 @@
 
 ## Second wave
 
-- Incorporated categories derived ethnographic observations. Categories based on local cultural dynamics. 90
+- Incorporated categories derived from ethnographic observations. Categories based on local cultural dynamics. 90
 - Started by Milroy (1980)
 - Vernaculars that are stigmatized on macrolevel may have prestige on the local level.
-- Teenage culture in Detroit, "Jocks" and "burn-outs" marked by linguistic variables. Correlates with local group memebership rather than parents' socio-economic status. Implies individual agency. 92 
+- Teenage culture in Detroit, "Jocks" and "burn-outs" marked by linguistic variables. Correlates with local group membership rather than parents' socio-economic status. Implies individual agency. 92 
 
 ## Third wave
 
 - Views variation as innate feature of language, a means of creative expression, rather than as effect of social category. 94
 
-- Generall process
+- General process
   1. Population becomes salient
   2. Feature in their speech "attracts attention"
   3. Feature is "extracted from its linguistic surroundings and come, on its own, to index membership to the population."
@@ -31,7 +31,7 @@
      - lay claims to admired qualities of the population (white youth using black slang)
      - distinctions within population (more authentic, etc.)
   5. Indexical acts make the sign more conventionalized, makes further acts possible.
-- Changing index cal landscape "indexical field"
+- Changing indexical landscape "indexical field"
 - Speakers active uses of variation rather than passive recipients: 98
 
   > tailoring linguistic styles in ongoing and lifelong projects of self-construction and differentiation 

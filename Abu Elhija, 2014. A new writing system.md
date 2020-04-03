@@ -42,3 +42,4 @@
 @Arabic
 @CMC
 @article
+@written-nonstandard

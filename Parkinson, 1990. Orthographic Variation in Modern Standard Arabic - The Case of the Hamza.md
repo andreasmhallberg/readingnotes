@@ -6,13 +6,13 @@
 
 - Critique of Kaye: Kay makes two claims:  287-290
   1. SA is noones mother-tongue = ill-defined and difficult to learn. Parkinson: "Very few native-speaking English students write coherent English either." 288. 
-  2. Dialects are uniform while MSA has "rampant variation". Parkinson: Big variation in dialect. "If a language must be uniform to be well-defined, the no language is well-defined" 289.
+  2. Dialects are uniform while MSA has "rampant variation". Parkinson: Big variation in dialect. "If a language must be uniform to be well-defined, then no language is well-defined" 289.
 
 - Two paradigms:
   1. SA is not a real language.
   2. SA is defined by grammar books. Deviations are mistakes.
 
-- "The author strongly believes that Standard Arabic is a full-fledged language" 292.
+- "The author strongly believes that Standard Arabic is a full-fledged language" 292
 
 - "Only a few people speak literary English at home [...] but this does not mean no one is a native user of literary English." 292
 

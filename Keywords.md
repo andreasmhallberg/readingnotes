@@ -3,6 +3,7 @@
 @icraab (utility key for finding discussions practical use icraab. More appropriataley `syntax`, `case` or mood)
 @language-ideology:primary-source
 @quran
+@written-nonstandard
 
 # Country
 @Israel
@@ -36,6 +37,7 @@
 @Swedish
 @German
 @Norwegian
+@Chinese
 
 # Area of linguistics
 

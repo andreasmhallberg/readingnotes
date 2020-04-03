@@ -12,11 +12,13 @@
 - *feature detection theory* best in accounting for identifications of letters and text. 11
 
 ## Word perception
+
 - Summary of current knowledge: 50
   1. Skilled readers identify a word in about 250 ms.
   2. Not only converting letters -> sound -> meaning. But sounds do play a role. Converting to sound helps short term memory.
   3. Not processed serially letter by letter. Longer words processed as letter chunks.
-  4. Larger similar in isolation and in text. A bit quicker in text.
+  4. Largely similar in isolation and in text. A bit quicker in text.
+
 - Word identification tasks:
   - Naming: skilled readers take 400-500 ms. which is clearly much slower than actual identification. (Not identical to lexical identification.) 52
   - Semantic categorization: 700 ms.
@@ -48,7 +50,7 @@
 
   > we are not claiming that any single measure that one can extract from the eye movement data can be viewed as "the time to access the lexicon" or the "time to access the meaning of a word [due to spillover effects. But] spillover effects are fairly minor and in many cases it isn't unreasonable to think of gaze duration as a pretty good approximation of initial word encoding time" 
 
-- Eye movement data shows central role of phonological coding in reading, e.g. with preview benefit of phonetically similar but orthographically different word in n+1. 137
+- Eye movement data shows central role of phonological coding in reading, e.g., with preview benefit of phonetically similar but orthographically different word in n+1. 137
 - Word is visually identified after 60 ms., rest is processing time. 145
 - Little is understood about how letter position is encoded. Transposition effect. 149
 - Morphemic decomposition part of normal word identification, not only as a fall-back strategy. 150

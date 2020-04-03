@@ -1,4 +1,4 @@
-# Hudson, A., 1992. Diglossia: A Bibliographic Review. Language in Society, 21(4), ss.611–674.
+# Hudson, Alan. 2002. “Outline of a Theory of Diglossia.” International Journal of the Sociology of Language, 1–48.
 
 Overviews of theoretical difficulties of diglossia as a concept.
 

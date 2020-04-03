@@ -4,7 +4,7 @@
 
 - Sibawahi: 8th. First systematic grammar. Ethico-legal view on language. 184
 
- - First pedagogic grammars.
+  - First pedagogic grammars.
  
 - 9th century: evolution of theory: 
   - Basra (closed corpus. cf. *bāb al-ijtihad*) vs. Kufa (open corpus)
@@ -24,8 +24,8 @@
   - *Mufaṣṣal*, aš-Šamaxšarī
 
 - Apogee of pedagogical grammars in 13th. 
-  - *al-kāfiya* (syntax) and *aš-Šāfiya* (morphology), Ibn al-Hājib.
-  - Ibn Mālik and Ibn Aqāl
+  - *al-Kāfiya* (syntax) and *aš-Šāfiya* (morphology), Ibn al-Hājib.
+  - Ibn Mālik and Ibn ʿAqīl
   - *Muqaddima al-Ājurrumiyya,* Ibn al-Ājurrum (d. 1327)
 
 @ALT

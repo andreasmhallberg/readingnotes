@@ -19,7 +19,7 @@ Teaching Arabic at the university level in the Arab world is burdened by problem
 
 - Problems with only have three parts of speech (*ism, fiʿl, ḥarf*): 89
   - resort to expressions like *ism fiʿl* for poorly fitting cases.
-  - many wards arbitrarily classified
+  - many words arbitrarily classified
   - practically impossible to find definitions for parts of speech.
 
 - Discussions of meanings of structures, e.g., in variations in word order, taken over by *balāġa*. 90-

@@ -20,14 +20,14 @@ Argues against prevailing dual-acces theory (parallel visual and phonological ac
 
 - Various experimental paradigms indicate automatic phonological computation of orthography:
 
-  - *the backward masking paradigm:* target word is presented for 15-30 ms and is then overwritten with a phonitically or orhtographically similar or control pseudoword for 15-60 ms. Perceived as one event by participants. Phonetically similar pseudowords help identification of target word. 77  
-  - *stroop paradigm:* color name printed in other color. Phonetically similar nonwords (*grean* printed in green color) help identify color. 77  
+  - *the backward masking paradigm:* target word is presented for 15-30 ms and is then overwritten with a phonetically or orthographically similar or control pseudo-word for 15-60 ms. Perceived as one event by participants. Phonetically similar pseudowords help identification of target word. 77  
+  - *Stroop paradigm:* color name printed in other color. Phonetically similar non-words (*grean* printed in green color) help identify color. 77  
   - *speech detection paradigm* 78
   - *letter-search task:* After brief exposure to orthographic form (*brane*), participants indicate the word contain a letter *i*. 78
 
     > results from these paradigms consistently tend to suggest that phonological representations are computed following the presentation of printed words, as a rule not as the exception, even in tasks that do not require an explicit phonological output or where phonological recoding hinders performance.
 
-- Consistent evidence form lexical decision task (indicate weather word or non word) that reading in shallow orthographies involves prelexical phonological computation. Mixed results for deep orthographies. 80  
+- Consistent evidence from lexical decision task (indicate weather word or non word) that reading in shallow orthographies involves pre-lexical phonological computation. Mixed results for deep orthographies. 80  
 
 - Lexical phonological code is not detailed. Can be identified with lacking input, only sufficiently specified to identify word. 81 More phonologically specified in shallow orthographies. 82
 
