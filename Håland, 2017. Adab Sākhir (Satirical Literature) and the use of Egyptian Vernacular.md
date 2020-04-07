@@ -20,4 +20,5 @@
 
 @Arabic
 @Egypt
+@diglossia
 @literature
