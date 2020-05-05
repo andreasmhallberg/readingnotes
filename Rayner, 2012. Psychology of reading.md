@@ -34,7 +34,8 @@
   - The role of phonological computation:
     - Consensus that sound plays some role. No consensus in how big a role or how to conceptualize it. 72
     - Two routes for accessing phonological shape of word: *address phonology* ("looked up" in lexicon) and *assembled phonology* (contracted from written word) 72
-    - Majority view that  both routes are employed (dual route). Quickest one for a given word is used. Model. 79
+    - Majority view that  both routes are employed (dual route). Quickest one for a given word is used. 79
+    - Graphically presented model of dual route. 79
     - Characteristics of orthography (writing system) in different language may alter the relative importance of either route. 85
 
 ## Eye movements in reading

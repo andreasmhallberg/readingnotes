@@ -18,6 +18,8 @@
 
 - Graphemic representation important for notions of correctness. Ref till Trudgill 1986. 
 
+- Hierarchy of usage of standard variant, different for all speakers. 382
+
 - Dominant language vs. matrix language. 390
 
 - No fatigue effect on diglossic variables, discourse drift. 395

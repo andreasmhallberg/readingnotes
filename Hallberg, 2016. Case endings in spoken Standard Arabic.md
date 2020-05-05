@@ -27,6 +27,8 @@
     - Indefinite triptote accusatives w/o ta marbuta: 41.2%
   - Sound m. plural and dual nom: 42.2%. 205
  
+- Defective nouns by most speakers pronounced with invariable -ī. 207-8
+
 - Definiteness 208-
   - Hierarchically structured. Words with enclitic pronoun at 43.9%. 
 
