@@ -17,7 +17,7 @@
 
 - "the bulk of Arabic script is unvocalized" 18
 
-- "partially localized script" with only word-internal vowels. Used in texts for native speakers learning to read.
+- "partially vocalized script" with only word-internal vowels. Used in texts for native speakers learning to read.
 
 - Six letters that not attach forward called *ḥurūf ar-rafs* 18
 

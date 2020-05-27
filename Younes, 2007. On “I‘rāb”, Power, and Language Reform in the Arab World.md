@@ -37,5 +37,5 @@
 
 @ALT
 @language-instruction
-@language-planning
+@language-ideology
 @Arabic

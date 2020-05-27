@@ -10,3 +10,4 @@ Survey on text messaging practices among university students.
 
 @Arabic
 @CMC
+@Kuwait

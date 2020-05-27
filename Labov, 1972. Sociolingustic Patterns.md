@@ -24,6 +24,10 @@
 
   > But it is almost impossible to obtain interpretable results on the reverse type of *vernacular correction tests,* in which the subject is asked to correct standard prestige forms to the nonstandard vernacular.
 
+ - The sociolinguistic variable: 237
+  - *indicator*: variable that correlates with social parameters but not style
+  - *marker*: variable that correlates with social parameters and style
+
 - "In careful speech, women use fewer stigmatized forms than men [...] and they are more sensitive to the prestige pattern." 243
 
 - "*social attitudes towards language are extremely uniform throughout a speech community.*" Suggests this grounds for definition of speech community. 149

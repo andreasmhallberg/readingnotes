@@ -67,6 +67,7 @@
 
 
 ## Korean hangul 120
+
 - systematic syllabic script constructed 1446.
 - Sign consist of consonant and vowel part.
 - Replaces convoluted adaption of Chinese script.

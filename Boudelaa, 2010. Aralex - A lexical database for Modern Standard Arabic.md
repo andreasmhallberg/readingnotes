@@ -15,7 +15,7 @@
 - Automatic vocalization process with 77.9% accuracy. 483
 
 - Provided frequency measures:
-  - *orthographic for*: characters (without diacritics) surrounded by whitespace.
+  - *orthographic form*: characters (without diacritics) surrounded by whitespace.
     - bigram and trigram frequency provided
   - *unpointed stem*: word without clitics (including person inflection) and diacritics
   - *pointed stem*: word without clitics (including person inflection) and diacritics added by automatic process.

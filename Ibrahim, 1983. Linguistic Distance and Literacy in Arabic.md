@@ -6,7 +6,7 @@ Discusses negative effects of diglossia on literacy. 507
 
 - Diglossia is a continuum (El-Hassan 1977) for the highly educated, but for not highly educated it is a dichotomy [i.e. Ferguson's classical diglossia]. 509
 
-- Arabs have difficulties in learning case/mood inflectoin: 511
+- Arabs have difficulties in learning case/mood inflection: 511
 
   > the vastly simplified inflectional system of spoken Arabic means that learners of the standard language will and do have considerable difficulty in learning the rich and fairly complicated system of grammatical inflections of written Arabic.
 
