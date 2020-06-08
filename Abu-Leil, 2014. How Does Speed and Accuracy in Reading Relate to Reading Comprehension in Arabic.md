@@ -6,8 +6,7 @@
 
 - [Example of terminological mixing of morphemes and graphemses]: 254
 
-  > Usually these are considered as short vowels, but become lengthened by the addition of the long vowels ( A, O, E)
- which are considered part of the set of consonants (ي, و, ا).
+  > Usually these are considered as short vowels, but become lengthened by the addition of the long vowels ( A, O, E) which are considered part of the set of consonants (ي, و, ا).
 
 - "the complexity of Arabic orthography slows the word identification process." [Highly questionable. In the cited studies compare readers of Arabic with readers of other languages. Difference is assuemded to be caused by script/writing systems/orthography. Might just as well be because of general lower reading skills amongs Arabic speakers.] 254 
 - Method
