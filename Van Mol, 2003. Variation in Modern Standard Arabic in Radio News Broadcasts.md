@@ -52,7 +52,7 @@
     - *mā* to negate past verb 20.5% [racalculated]. 264
     - *mā* negates present only with *zaal*. 272
   - *sawfa/sa-*
-    - No distinction on meaning. 281
+    - No distinction in meaning. 281
     - *sawfa lā* does not occur in corpus. *lan* used instead.
   - *aw/am*
     - *am* is marginal. 290

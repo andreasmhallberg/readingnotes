@@ -1,4 +1,4 @@
-# Davies, E.E., Bentahila, A. & Owens, J., 2013. Codeswitching and Related Issues Invlolving Arabic. I J. Owens, red The Oxford handbook of Arabic linguistics. Oxford: Oxford University Press, ss 326–348.
+# Davies, E.E., Bentahila, A. & Owens, J., 2013. Codeswitching and Related Issues Involving Arabic. I J. Owens, red The Oxford handbook of Arabic linguistics. Oxford: Oxford University Press, ss 326–348.
 
 - Contrast lists of extralinguistic factors that lead to bilingual code-switching (private, equal, group solidarity) and diglossic code-switching (public, unequal). 337-8
 
@@ -8,6 +8,7 @@
   1. structural similarities between SA dialect gives few "hard and fast barriers"
   2. "given that SA is not itself a variety normally used for spontaneous conversation, speakers who do use it do so selectively."
 
+@review-article
 @code-switching
 @Arabic
 @diglossia

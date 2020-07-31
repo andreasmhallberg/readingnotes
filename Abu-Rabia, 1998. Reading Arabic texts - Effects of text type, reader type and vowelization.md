@@ -10,7 +10,7 @@
 
 - "almost every third word (noun, verb, conjugation) can be a homograph and give two, three, or more meanings; different readings of the missing vowels over the last letter of the word change its structural function in the sentence and give it a different meaning." 109
 
-- Production of case and mood endings are seen as a crucial part of reading proficiency: 110
+- [Production of case and mood endings are seen as a crucial part of reading proficiency]: 110
 
   > ends of words are vocalized differently according to their position and function in the sentence. Namely, the same word in four different sentences can be vowelized and/or written and pronounced differently because it function differently in the sentence. Thus, the mastery of fluent reading in Arabic demands holistic simultaneous automatic processing of many variables.  
 
@@ -25,4 +25,3 @@
 @reading
 @orthography
 @Arabic
-@article

@@ -5,7 +5,7 @@
 - Four strands of prescriptivism: 24
 
   > - Standardizing prescriptivism: rules/judgements that aim to promote and enforce standardization and 'standard' usage [as against non-standard usage].
-  > - Stylistic prescriptivism: rules/judgments that aim to differentiate among (often fine) points of style within  standard usage.
+  > - Stylistic prescriptivism: rules/judgments that aim to differentiate among (often fine) points of style within standard usage.
   > - Restorative prescriptivism: rules/judgments that aim to restore earlier, but now relatively obsolete, usage and/or turn to older forms to purify usage.
   > - Politically responsive prescriptivism: rules/judgments that aim to promote inclusive, nondiscriminatory, politically correct, and/or politically expedient usage.
 

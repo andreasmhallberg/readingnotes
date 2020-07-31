@@ -16,6 +16,8 @@
   - morphographic
     - e.g. Chinese
 
-@reading
+- Arabic abjad
+  - "The three sort vowels [...] are optionally written with the consonant they follow" 135
+
 @textbook
 @writing-systems

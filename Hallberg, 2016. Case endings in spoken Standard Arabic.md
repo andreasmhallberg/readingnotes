@@ -2,7 +2,8 @@
 
 - Spoken Standard Arabic defined as: 6
 
-> the most formal register of Arabic extemporaneous speech by proficient, highly educated native speakers of Arabic
+  > the most formal register of Arabic extemporaneous speech by proficient, highly educated native speakers of Arabic
+
 - 10% of tokens would take a case marker in undiacritized writing. 6% if adverbs and pl/dual *-īn/-ayn* are excluded. 76n6
 
 - Teaching of the case system using formulaic analysis. "Doing" *iʿrāb*. 67-71
@@ -10,6 +11,7 @@
 - Redundancy of case inflection. 71-
   - Case in the Quran. 74
 
+- Causal and informal style of reading aloud. 79
 
 ## Material
   - 

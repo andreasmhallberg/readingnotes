@@ -24,7 +24,9 @@
 
   > The intermingling of *fushas* and colloquials in the Arab region and the lack of clear-cut linguistic marking barriers aggravate the insecurity of the young learners who seem confused by what constitutes *fusha* in the Arabic forms which surround them and what does not.
 
-- "The exercise of guessing the correct *iʿraab* has become a central activity in the classroom" 53
+- Centrality of case and mood in language instruction: 53
+
+  > The exercise of guessing the correct *iʿraab* has become a central activity in the classroom
 
 - Recommendations: 
   1. "[Pedagogy] needs to incorporate the norms and behaviors of the language community in the classroom in order to increase immediate relevance of the learning process by connecting it to the learner’s personal experience, familiar topics and concrete real-world concerns." 61

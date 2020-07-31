@@ -8,7 +8,7 @@
 
 - Writing systems emphasize the level of the lexeme: 12
   - *lexical consistency:* one word always spelled the same way 13
-  - *lexical differentiation:* homophones spelled differently
+  - lexical differentiation:* homophones spelled differently
   - *lexical demarcation:* boundaries of word is marked. Most writing systems have at least one:
     - Spaces
     - Colon (Amharic)

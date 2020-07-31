@@ -36,7 +36,6 @@ Introduction of second dimension in (modern) diglissic variation: planned - unpl
 
 - Arabs "now accept as part of the high variety syntactic patterns that are not part of that variety as defined prescriptively but which occur in dialectal Arabic provided the lexical items in the utterance come from the *fuṣḥa*." 96
 
-- Modell över former av arabiska och deras inflytande över varandra. Här är CA inte talat (”unplanned”) 97
 - Model mapping varieties and patterns of influences by planning and diglossia. 97
 
 - "[Quranic recitation] becomes a ready resource in interaction for speakers to index Islam, the Quran, recitation, or religion, whether in a serious or jocular manner." 99

@@ -1,5 +1,9 @@
 # Badawi, El-Said M., Michael G. Carter, and Adrian Gully. 2004. Modern Written Arabic: A Comprehensive Grammar. Comprehensive Grammars. London: Routledge.
 
+
+
+- Foreign words written with short vowels represented by letters. 18
+
 - Punctuation 21-
   - Full stop an colon used by and large as in Latinate orthographies.
   - Invention of two dots, signifying "significant pauses of various kinds" 22

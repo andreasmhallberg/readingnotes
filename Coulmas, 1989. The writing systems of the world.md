@@ -66,7 +66,7 @@
 - One script used for several different writing systems. 88
 
 
-## Korean hangul 120
+## Korean *hangul* 120
 
 - systematic syllabic script constructed 1446.
 - Sign consist of consonant and vowel part.
@@ -74,10 +74,11 @@
 - Used in conjunction with Chinese letters in South Korea. Used exclusively in North.
 
 ## Japanese
+
 - Large influx of Chinese words through writing (no land border) 124-
   - Can be pronounced both in Japanese and in Sino-Japanese (Chinese with Japanese phonology). One sign can have several Sino-Japanese pronunciations from different periods of borrowing. Certain readings more appropriate in certain contexts.
-  - Katakana/haragana: isomorphic syllabic scripts. 132
-    - Katakana used for
+  - *Katakana*/*haragana:* isomorphic syllabic scripts. 132
+    - *Katakana* used for
       - Non-Chinese loanwords
       - onomatopetics
       - emphasis
@@ -85,6 +86,7 @@
 - 50% of Japanese vocab is Chinese loans. 133
 
 ## Semitic
+
 - Phonecian first phonetic script (no logographs or determiners). 139
 - Script tree: North Semitic [Phonecian [Greek] Canannite Aramaic [Syriac] [Hebre] [Nabatean [Arabic]]] 142
 - Aramaic *lingua franca* in Middel Eeast with late Assyrians (1000--600 BC)
@@ -93,10 +95,14 @@
   - *abija* -> *abij*
   - Waw and yaa comes to designate long vowels at end of words
   - Later used also word internally
+- Diacritics in Arabic
+  - "Vowels are consistently marked, however, only in the Qur’ān and in poetry." [!] 150  
+  - [no binare drscription]
 - Old Ethiopic [Geez] 153
   - vowel diacritic fuzed with letters to create systematic syllabic script
 
 ## The alphabet
+
 - Greek adaption of Phoenician to indicate phonemes and to indicate vowels systematically. Semitic alphabet + vowel letters. First alphabet. 162
 
  > Systematic vowel indication by signs as the same type as the consonant letters was the real achievement of the Greeks. It made the alphabet more efficient not only for the representation of one language, but also for the transfer to other languages. 
@@ -113,6 +119,7 @@
   > The alphabet is simple, but many alphabetic orthographies are not.
 
 ## Orthographic reforms
+
 - Philosophical stances in discussions on social norms: 241-
   - *norm-positivistic:* more important that there is a norm than that there is a good norm
   - *rationale-normative:* norms should be  motivated
@@ -135,6 +142,7 @@
 - Spelling "constitute the most obvious part of language to which loyalty can be tied." 260
 
 ## Programmatic on writing system studies in linguistics 267-
+
 - all linguistics is based on a written representation of language and has historically only payed lip-service to the prominence of speech.
 - writing is an expression of language, although governed by other mechanisms than speech, and should therefore be studied by linguists.
 

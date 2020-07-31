@@ -4,6 +4,10 @@
 
 > [This grammr] centers on the essential of modern written Arabic likely to be encountered in contemporary Arabic expisitory prose.
 
+- Final *yāʾ* written without dots in Egypt. 15n5 
+
+- Binary description of diacritization. 30
+
 ## [Pracitices of case inflection]
 
 - Arabic as normally inflected for case: 54

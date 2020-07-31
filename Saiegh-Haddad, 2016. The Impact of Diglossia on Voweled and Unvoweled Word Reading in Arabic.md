@@ -13,7 +13,8 @@
 
 - Independent role of two types of diacritics: 3-4
 
-  > A true understanding of the role of novelization on reading accuracy and speed in Arabic, as well as in lexical access and comprehension, requires, an understanding of the independent role of the two systems of Arabic diacritics: phonemic and morpho-syntactic.
+> A true understanding of the role of vowelization in reading accuracy and speed in Arabic, as well as in lexical access and comprehension, requires an understanding of the independent role of the two systems of Arabic diacritics: phonemic and morpho-syntactic.
+
 
 - Sublexical (phonemic/syllabic) word processing in inexperienced readers, lexical processing in experienced readers. 4
 
@@ -35,7 +36,10 @@
 
 - Results and discussion:
   - Accuracy and fluency higher for SpA words in all conditions, all ages. 8
-  - Vowelled texts is not shallow orthography: "the assambled phonological form of the words does no, in many cases, align with the SpA form that speakers harbor in their lexicons" 9
+  - Vowelled texts is not shallow orthography: 9
+
+    >  the assembled phonological form of the words does not, in many cases, align with the SpA form that speakers harbor in their lexicons
+
   - Fluency higher in unvowelled text. Vocalization "summons undue phonological recording of diacritics" and hinders "morpho-orthographic mechanisms" used in reading normal, unvowelled text.
   - Reading proficiency develops earlier for SpA - reading instruction should start in SpA. 11 
 

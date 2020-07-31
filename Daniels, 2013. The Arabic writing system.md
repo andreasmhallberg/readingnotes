@@ -2,7 +2,7 @@
 
 - The term *abjad* should be used for Semitic-type writing systems. *Alphabet* only for writing systems where vowels and consonants are represented on an equal footing. 415
 
-- The term *diacritics* should not be used for dots differentiating letters in syncronic description.
+- The term *diacritics* should not be used for dots differentiating letters in syncronic description. 415
 
 @Arabic
 @writing-systems

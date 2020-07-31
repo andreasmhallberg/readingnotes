@@ -4,7 +4,9 @@
 
 - Characters ك (KAF) and ک (KEHE) both used. Similar surface forms in medial position. 27
 
-- Stem-initial *hamza* regarded as optional diacritic. "challages one's definition of typographical error". 29
+- Stem-initial *hamza* regarded as optional diacritic. "challenges one's definition of typographical error". 29
+
+- Dots on *tāʾ marbūṭa* often omitted in informal writing. 30
 
 - *alif maqṣūra* surfaces with dots in medial position in Mac Arabic. Both attested on Google. Medial (unconnected) *alif maqṣūra* when transferred to Unicode. 31
 

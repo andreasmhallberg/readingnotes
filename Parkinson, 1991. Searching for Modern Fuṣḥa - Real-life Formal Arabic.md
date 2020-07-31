@@ -21,7 +21,7 @@
 
 - On levels: data is extremely confusing. Easy to find exceptions to all proposed definitions. Risks of circular reasoning if features define a level. 37. 
 
-- Four ways of reading SA aloud 38:
+- Four ways of reading SA aloud: 38
   1. prescriptively correct
   2. partly but correct *iʿrāb*
   3. *iʿrāb* only on some verbs and before enclitic pronoun. [Same as 2?]

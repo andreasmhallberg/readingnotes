@@ -24,7 +24,7 @@
   - Real words with incorrect letter positions (List 5). Same accuracy for children and adults but adults were slower, 105 vs. 174s. Indicates that children use phonological recording where letter connection form is not relevant. 47-8
   - Children much more likely to read undiacritized non-words (List 3) with final *-a*. Linear effect over age. Indicates that skilled readers skip final short vowels. [Only for verbs since the non-words were interpreted as verbs with fianl -a. Can it be generalized to nominals?] 50-1 
 
-  > Typically, in high skilled reading, one observes that fluent readers do not place emphasis on the vowels on the ends of words but tend to ignore and not pronounce them, replacing the with a 'skoon' diacritic [well...].
+  > Typically, in high skilled reading, one observes that fluent readers do not place emphasis on the vowels on the ends of words but tend to ignore and not pronounce them, replacing them with a 'skoon' diacritic [well...].
 
 @Arabic
 @reading
