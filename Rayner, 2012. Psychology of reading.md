@@ -1,7 +1,5 @@
 # Rayner, Keith, Alexander Pollatsek, Jane Ashby, and Charles Clifton Jr. Psychology of Reading. 2nd ed. New York and London: Psychology Press, 2012.
 
-[Level one points are chapter headings.]
-
 - Reading is a highly complex skill an breakthroughs in research will only come in sub-components of the reading skill. 7
 
 ## Anatomy of the eye. 9
