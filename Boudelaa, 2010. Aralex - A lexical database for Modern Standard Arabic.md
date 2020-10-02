@@ -21,7 +21,6 @@
   - *pointed stem*: word without clitics (including person inflection) and diacritics added by automatic process.
     - word patterns and root frequency are for pointed stem
 
-
 @Arabic:Standard
 @lexicon
 @corpus-linguistics

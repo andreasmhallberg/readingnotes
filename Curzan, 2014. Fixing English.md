@@ -1,6 +1,6 @@
 # Curzan, A., 2014. Fixing English: prescriptivism and language history, New York: Cambridge University Press.
 
-- Example of prescriptive work: The Grammatically Corrects Handbook by Ellie Grossman. In radio show callers call in with worries of their own faulty usage. Author advices repeating correct forms while in the shower and using PostIt notes on fridge.
+- Example of prescriptive work: The Grammatically Corrects Handbook by Ellie Grossman. In radio show callers call in with worries of their own faulty usage. Author advises repeating correct forms while in the shower and using PostIt notes on fridge.
 
 - Four strands of prescriptivism: 24
 
