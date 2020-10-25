@@ -1,6 +1,8 @@
 # Maamouri, M., 2006. Literacy.  C. H. M. Versteegh, red. Encyclopedia of Arabic language and linguistics, 3, ss.74–80.
 
-- 38.5% analphabetism 2001. 74 Number may be bigger. 75.
+- Mass literacy in the second half of the 20th century. Educational enrollment increased by 85% from 1975 to 1991. 12
+
+- 38.5% analphabetism 2001. 74 Number may be bigger. 75
 
 - "the educational system is failing." 75
 

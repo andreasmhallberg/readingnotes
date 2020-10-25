@@ -35,24 +35,23 @@
 
   > Many overtly state that the purpose of teaching formal Arabic to children in school is not so much to make them literate members of a modern society but to keep them in touch with their classical literary and religious heritage. Thus the emphasis on memorizing long passages of classical Arabic poetry, and the consistent testing of obscure and archaic vocabulary in the national educational exams [in Egypt]. 
 
-- Native 'users,' not 'speakers'. 39.
+- Native 'users,' not 'speakers'. 39
 
 - As answer to direct question on *fuṣḥā*, answers do not reflect actual behavior. 52
 
-- Three normative views of *fuṣḥā* 53:
+- Three normative views of *fuṣḥā*: 53
   1. Pro-narrow-*fuṣḥā*
   2. Anti-narrow-*fuṣḥā*
   3. Expanded-*fuṣḥā*
 
-- Matched guise test: phonology more important than *iʿrāb* for impressions of *fuṣḥā*-ness. 57
-
-- Broad spectrum of what is accepted as *fuṣḥā*. 58
-
-- Not pronouncing *iʿrāb* rated as 'smarter'. 59
+- Matched guise test with text manipulated for standard/non-standard phonology
+  - Phonology more important than *iʿrāb* for impressions of *fuṣḥā*-ness. 57
+  - Half of participants accepted all texts as *fuṣḥā*. 58
+  - Not pronouncing *iʿrāb* rated as 'smarter'. 59
 
 - case-less Standard Arabic often preferred over Standard Arabic with case: 61
 
-> there is a wide range of acceptable oral performances of styles of a text whose written form would be accepted as fuṣḥā, and tha that while increasing "authenticity" or "classicizaiont" of phonological variables increase acceptance of the text, completely full vowelling and proper observation of pause forms, and the like, can actually decrease it, making a "middle" solution, with partial volwelling but correct (Egyptiian) phonology, a clear preference over other varieties. This indicates that the grammar vowels are probably not being used much to disambiguate the text, but rather to mark them stylistically.
+  > there is a wide range of acceptable oral performances of styles of a text whose written form would be accepted as fuṣḥā, and tha that while increasing "authenticity" or "classicizaiont" of phonological variables increase acceptance of the text, completely full vowelling and proper observation of pause forms, and the like, can actually decrease it, making a "middle" solution, with partial volwelling but correct (Egyptiian) phonology, a clear preference over other varieties. This indicates that the grammar vowels are probably not being used much to disambiguate the text, but rather to mark them stylistically.
 
 
 

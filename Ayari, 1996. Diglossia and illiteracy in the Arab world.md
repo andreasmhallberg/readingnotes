@@ -12,6 +12,4 @@
 
 @diglossia
 @Arabic
-@article
-@reading
 @FLA

@@ -5,7 +5,7 @@
 - List of 14 book titles that indicate prevailing language anxiety. 60-1
 
 - Second International Conference on Arabic Language (2013). 62
-  - organized by Internation Council for the Arabic Language
+  - organized by International Council for the Arabic Language
   - plays on language anxiety. Conference title: *al-luġa al-ʿarabiyya fī xaṭar: al-jamīʿ šurakāʾ fī ḥimāyatihā*
   - Regional and international sponsorship suggest support for ideas
 
