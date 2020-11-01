@@ -2,13 +2,13 @@
 
 Detailed description of a few speakers use of vowel/case endings. 
 
-Subjects' education: 182
-  1. One-year High School
-  2. 4-year Technical Collage
-  3. High School
-  4. University
+- Subjects' education: 182
+   1. One-year High School
+   2. 4-year Technical Collage
+   3. High School
+   4. University
 
-[Why study the SA of speakers who never use it and make no claim of knowing it.]
+- [Why study the SA of speakers who never use it and make no claim of knowing it.]
 
 - Ambiguous case vowel in 'elision sites' is ignored unless it is obvious [?] that it is meant to be *iʿrāb*. 181
 

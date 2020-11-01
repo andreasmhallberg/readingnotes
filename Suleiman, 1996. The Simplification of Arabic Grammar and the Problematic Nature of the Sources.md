@@ -28,7 +28,7 @@ Naive realism in linguistic sciences makes reform unfeasible.
 
   > It is hardly possible in the Arabic grammatical tradition to distinguish epistemologically between the grammar of Arabic and Arabic in its pre-descriptive state.
     
-  - Arabic grammatical tradition is "naïve-realist", 114. No differnce between the language in and of itself and the description of language. Change in description therefore change in language itself. 115
+  - Arabic grammatical tradition is "naïve-realist". No differnce between the language in and of itself and the description of language. Change in description therefore change in language itself. 114,115
 
 @Arabic:Standard
 @ALT

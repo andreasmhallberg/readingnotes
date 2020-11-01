@@ -3,13 +3,6 @@
 **TODO:**
 
 - Format bibliographical reference in title to English.
-- Add keywords for publication type:
-  - `@monograph{:textbook|:dissertation}`
-  - `@article{:review}`
-  - `@report`
-  - `@chapter`
-  - `@grammar`
-  - `@dictionary`
 
 ## General description
 
@@ -50,11 +43,11 @@ For example:
 
 If there are several authors, the file name only contains the first author, without "et\ al.".
 
-Subtitles are separated from main title with ` - ` rather than the more common `: ` for compatibility reasons. There is some inconsistencies as to whether the subtitle is kept in the file name or not.
+Subtitles are separated from main title with ` - ` rather than the more common `: ` for compatibility reasons. Subtitles are kept in the file name if they are informative and not too long.
 
 ### Header
 
-Each file begins with the complete biographical reference in Chicago author-date format as header (i.e. marked with initial `#` in markdown). In some notes the header is followed by some general information or comments about the reference.
+Each file begins with the complete biographical reference in Chicago author-date format as header (i.e., marked with initial `#` in markdown). In some notes the header is followed by some general information or comments about the reference.
 
 ### Contents
 
