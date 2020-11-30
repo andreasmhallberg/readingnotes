@@ -43,7 +43,7 @@
 
 @CMC (Computer Mediated Communication)
 @FLA (first language acquisition. Acquisition of SA by native Arabic speakers is considered FLA.)
-@SLA (second language acquisition) 
+@SLA (second language acquisition)
 @code-switching
 @diglossia (dealing with diglossia as a theoretical concept)
 @heritage-speakers

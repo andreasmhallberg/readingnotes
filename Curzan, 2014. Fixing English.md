@@ -15,7 +15,7 @@
 
   > The effect of codification and prescription has been to legitimise the norms of formal registers of standard English rather than the norms of everyday spoken English. Codifiers have legislated and prescribers have tried to put the legislation into effect. One result of this is that there is a general belief that there is only one form of correct, i.e. legitimate, English, and a feeling that colloquial and non-standard forms are perverse and deliberate deviations from what is approved by 'law' i.e. they 'illegitimate'.
 
-- The effect of prescriptive book selling millions may be limited on actual speech, but as a discourse effects ideology and linguistic insecurity. 41ff
+- The effect of prescriptive book selling millions may be limited on actual speech, but as a discourse effects ideology and linguistic insecurity. 41-
 
 - Verbal hygiene in the workplace accepted by the Wallsteet Journal. 49
 

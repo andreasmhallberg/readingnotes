@@ -15,4 +15,4 @@ Tests 4 code-switching theories on Egyption diglossia data. Myers-Scotton’s (1
 @code-switching
 @diglossia
 @Arabic
-@proceedingso
+@proceedings

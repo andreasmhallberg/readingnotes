@@ -1,6 +1,6 @@
 # Bailey, R.W., 1991. Images of English: a cultural history of the language, Ann Arbor: University of Michigan Press. 
 
-Description of views on English through modern history. Thematic chapters. Lots of quotes.
+[Description of views on English through modern history. Thematic chapters. Lots of quotes.]
 
 - In common consciousness three types of English: 4
   1. dialects: "'a distinct specific character'"

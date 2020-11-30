@@ -4,7 +4,7 @@
 
 - *Nahḍa* as the "neo-classical" era. 75
 
-- Linguistic issues promoted in newly established Egytian and Lebanese journals. 76
+- Linguistic issues promoted in newly established Egyptian and Lebanese journals. 76
 
 - Most of the debate conducted by Christian Arabs. 77
 
@@ -12,9 +12,9 @@
 
 - View of language nationalistic; Explicit equation of "the state of the Arabic language with the success of the Arab nation." 79
 
-- Prescriptive works, attempts to "purify" language similar to classical *laḥn* litterature. 79
+- Prescriptive works, attempts to "purify" language similar to classical *laḥn* literature. 79
 
-- two main debates: 82
+- Two main debates: 82
   1. status of Classical Arabic in relating to dialects.
   2. Purification of literal and press-language
 

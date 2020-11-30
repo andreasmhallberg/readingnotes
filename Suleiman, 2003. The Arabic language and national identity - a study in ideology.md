@@ -12,7 +12,7 @@ Limitations:
   2. In Europe widening gap between (vernacular) writing and Latin and the role of vernacular ascends. In Arab people ascend to MSA with mass-education.
   3. The Quran God's word verbatim, not translatable. Cannot take the role of Bible translations in Europe in lending legitimacy to vernaculars.
   4. --- [CHECK].
-  5. In Europa printing press gave vernaculars "image of antiquity". In Arab world gave image of modernity to SA. 
+  5. In Europe printing press gave vernaculars "image of antiquity". In Arab world gave image of modernity to SA. 
 
 - Knowing SA collective duty in *šarīʿa*. 44
 

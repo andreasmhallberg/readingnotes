@@ -3,6 +3,7 @@
 **TODO:**
 
 - Format bibliographical reference in title to English.
+- add reference type to keywords
 
 ## General description
 
@@ -21,8 +22,6 @@ Since these notes are related to my research there is a focus on:
 
 See also [Keywords](#keywords) below.
 
-For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/dotfile/mylatexstuff/blob/master/bibliotek.bib) in the [`dotfiles` repo](https://github.com/andreasmhallberg/dotfiles). This is my general bibtex database where I dump all references without any particular order. The format of the citation key here is 
-`<first author>_<first word in title>_<year>`
 
 
 ## Structure and format
@@ -45,6 +44,20 @@ If there are several authors, the file name only contains the first author, with
 
 Subtitles are separated from main title with ` - ` rather than the more common `: ` for compatibility reasons. Subtitles are kept in the file name if they are informative and not too long.
 
+For bibtex references, see the file [`bibliotek.bib`](https://github.com/andreasmhallberg/dotfile/mylatexstuff/blob/master/bibliotek.bib) in the [`dotfiles` repo](https://github.com/andreasmhallberg/dotfiles). This is my general bibtex database where I dump all references without any particular order. The format of the citation key here is 
+
+```
+@<first author>_<first content word in title>_<year>
+```
+
+For example:
+
+for example
+
+```
+@ferguson_diglossia_1959
+```
+
 ### Header
 
 Each file begins with the complete biographical reference in Chicago author-date format as header (i.e., marked with initial `#` in markdown). In some notes the header is followed by some general information or comments about the reference.
@@ -59,7 +72,7 @@ When the original wording is important (and also when I have been lazy) it is qu
 
 Material in square brackets are my comments.
 
-Lists and tables are sometimes quoted in markdown format.
+Lists and tables are sometimes quoted in markdown.
 
 Subheadings (`##` in markdown) are occasionally used on long notes to improve readability, typically reflecting chapters in book-length sources.
 
@@ -73,9 +86,5 @@ Keywords are added by me and are not those of the original author. There are som
 
 Keywords are used instead of sorting notes in directories for field/language/publication type/whatever. It makes it possible for a note to simultaneously belong to several categories. `grep -l @<keyword> *` and such is used to filter notes. `ack -l '@<key1>' | ack -xl '@<key2>'` to find files containing both keywords.
 
-The directory [`keyword-counts`](keyword-counts/) contains scrips to count and visualize keywords in the reading notes.
-[`keywordcounts.r`](keyword-counts/keywordcounts.r)
-is an R-script that extracts keywords from the reading notes and produces the file [`kw.ounts.txt`](keyword-counts/kw.counts.txt)
-with counts of all keywords in the reading notes. Useful for finding typos in keywords. The script [`viz.ggplot.r`](keyword-counts/viz.ggplot.r)
-sources `keywordcounts.r` draws a graph, [`kamadakawai.pdf`](keyword-counts/kamadakawai.pdf), that visualizes the network of keywords in the references.
-It also produces a second graph [`kamadakawai.ar.pdf`](keyword-counts/kamadakawai.ar.pdf), containing only notes relating to Arabic.
+
+For counts of keywords (useful for spell-checking), use `grep -oh -E "^@\S+" *.md | sort | uniq -c | less`
