@@ -7,7 +7,7 @@
 
 - Dots in letters best not called diacritics. 7
 
-- 1.6% of words have in "unvowelled" text have a diacritics (Penn Arabic Treebank). 11
+- 1.6% of words in "unvowelled" text have a diacritics (Penn Arabic Treebank). 11
 
 - Hamza is considered a letter, but is often omitted (treated as a diacritic). 13
 
